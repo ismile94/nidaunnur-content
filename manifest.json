@@ -1,0 +1,69 @@
+{
+  "version": "1",
+  "updatedAt": "2025-02-12",
+  "items": [
+    {
+      "id": "ramadan-1",
+      "imageUrl": "images/ramadan/ChatGPT Image Feb 12, 2026, 07_49_34 PM.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-2",
+      "imageUrl": "images/ramadan/ChatGPT Image Feb 12, 2026, 07_50_18 PM.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-3",
+      "imageUrl": "images/ramadan/ChatGPT Image Feb 12, 2026, 07_50_33 PM.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-4",
+      "imageUrl": "images/ramadan/ChatGPT Image Feb 12, 2026, 07_50_42 PM.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-5",
+      "imageUrl": "images/ramadan/ChatGPT Image Feb 12, 2026, 07_50_49 PM.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-6",
+      "imageUrl": "images/ramadan/Gemini_Generated_Image_26sd5x26sd5x26sd.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    },
+    {
+      "id": "ramadan-7",
+      "imageUrl": "images/ramadan/Gemini_Generated_Image_uzzhr4uzzhr4uzzh.png",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek"
+    }
+  ]
+}
