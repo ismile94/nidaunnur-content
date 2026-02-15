@@ -1,309 +1,626 @@
-/**
- * Uzaktan içerik servisi - GitHub + JSDelivr üzerinden manifest çeker.
- * Dil ve tarih aralığına göre filtreleyip uygun resimleri döndürür.
- */
-import { getCache, setCache, CACHE_KEYS, CACHE_EXPIRY } from './cache';
-
-const REMOTE_CONTENT_BASE = 'https://cdn.jsdelivr.net/gh/ismile94/nidaunnur-content@main';
-const REMOTE_CONTENT_FALLBACK_BASE = 'https://raw.githubusercontent.com/ismile94/nidaunnur-content/main';
-const PURGE_BASE = 'https://purge.jsdelivr.net/gh/ismile94/nidaunnur-content@main';
-const GITHUB_API_BASE = 'https://api.github.com/repos/ismile94/nidaunnur-content/contents';
-const IMAGE_EXTENSIONS = /\.(png|jpg|jpeg|gif|webp)$/i;
-const MANIFEST_URLS = [
-  `${REMOTE_CONTENT_BASE}/manifest.json`,
-  `${REMOTE_CONTENT_FALLBACK_BASE}/manifest.json`,
-];
-const LOCALE_FALLBACK_CHAIN = ['en', 'tr'];
-const DISABLE_REMOTE_CONTENT_CACHE = true;
-
-/**
- * Full image URL oluşturur (path'teki boşlukları encode eder)
- */
-function buildImageUrl(relativePath, baseUrl = REMOTE_CONTENT_BASE, cacheBustToken = null) {
-  if (!relativePath) return null;
-  if (/^https?:\/\//i.test(relativePath)) {
-    if (!cacheBustToken) return relativePath;
-    const sep = relativePath.includes('?') ? '&' : '?';
-    return `${relativePath}${sep}v=${encodeURIComponent(cacheBustToken)}`;
-  }
-  const encoded = relativePath
-    .split('/')
-    .map((segment) => encodeURIComponent(segment))
-    .join('/');
-  const url = `${baseUrl}/${encoded}`;
-  if (!cacheBustToken) return url;
-  return `${url}?v=${encodeURIComponent(cacheBustToken)}`;
-}
-
-/**
- * GitHub API ile klasördeki resim dosyalarını listeler (isimlere bakılmaksızın)
- */
-async function fetchFolderImages(folderPath) {
-  try {
-    const res = await fetch(`${GITHUB_API_BASE}/${folderPath}`, {
-      headers: { Accept: 'application/vnd.github.v3+json' },
-    });
-    if (!res.ok) return [];
-    const files = await res.json();
-    if (!Array.isArray(files)) return [];
-    return files
-      .filter((f) => f.type === 'file' && IMAGE_EXTENSIONS.test(f.name || ''))
-      .map((f) => ({ name: f.name, path: f.path || `${folderPath.replace(/\/$/, '')}/${f.name}` }))
-      .sort((a, b) => (a.name || '').localeCompare(b.name || ''));
-  } catch (_) {
-    return [];
-  }
-}
-
-/**
- * imageFolder içeren item'ları klasördeki resimlere göre genişletir
- */
-async function expandFolderItems(items, sourceBase, cacheBustToken) {
-  const expanded = [];
-  for (const item of items) {
-    const folderPath = item.imageFolder;
-    if (folderPath && typeof folderPath === 'string') {
-      const images = await fetchFolderImages(folderPath);
-      for (let i = 0; i < images.length; i++) {
-        const img = images[i];
-        expanded.push({
-          ...item,
-          id: `${item.id || 'folder'}-${i}`,
-          imageUrl: img.path,
-        });
+{
+  "version": "2",
+  "updatedAt": "2026-02-14",
+  "localizedTextByType": {
+    "ramadan": {
+      "tr": {
+        "shareText": "Ramazân Mübârek",
+        "quoteText": "Ramazan; rahmet, mağfiret ve Cehennem'den kurtuluşun mübarek mevsimi."
+      },
+      "en": {
+        "shareText": "Blessed Ramadan",
+        "quoteText": "Ramadan is the blessed season of mercy, forgiveness, and salvation from Hellfire."
+      },
+      "ar": {
+        "shareText": "رمضان مبارك",
+        "quoteText": "رمضان موسم الرحمة والمغفرة والعتق من النار."
+      },
+      "de": {
+        "shareText": "Gesegneter Ramadan",
+        "quoteText": "Ramadan ist die gesegnete Zeit der Barmherzigkeit, Vergebung und Errettung vom Feuer."
+      },
+      "es": {
+        "shareText": "Ramadan Mubarak",
+        "quoteText": "El Ramadan es la bendita temporada de misericordia, perdon y salvacion del Fuego."
+      },
+      "nl": {
+        "shareText": "Gezegende Ramadan",
+        "quoteText": "Ramadan is het gezegende seizoen van barmhartigheid, vergeving en redding van het Vuur."
+      },
+      "pt": {
+        "shareText": "Ramadan Mubarak",
+        "quoteText": "O Ramadan e a abencada estacao de misericordia, perdao e salvacao do Fogo."
       }
-    } else if (item.imageUrl) {
-      expanded.push(item);
     }
-  }
-  return expanded;
-}
-
-/**
- * JSDelivr CDN cache'ini temizler (GitHub'daki güncel dosyaların görünmesi için)
- * manifest.json + images/ramadan/ path'lerini purge eder
- */
-async function purgeJSDelivrCache() {
-  const pathsToPurge = ['/manifest.json', '/images/ramadan/'];
-  try {
-    await Promise.all(
-      pathsToPurge.map((p) =>
-        Promise.race([
-          fetch(`${PURGE_BASE}${p}`, { method: 'GET' }),
-          new Promise((_, rej) => setTimeout(() => rej(new Error('timeout')), 2000)),
-        ])
-      )
-    );
-  } catch (_) {
-    // Purge başarısız olsa da devam et
-  }
-}
-
-/**
- * Manifest'i fetch eder (önce cache'e bakar)
- */
-async function fetchManifest() {
-  const cacheKey = CACHE_KEYS.REMOTE_CONTENT;
-  const cached = DISABLE_REMOTE_CONTENT_CACHE ? { cached: false, data: null } : await getCache(cacheKey);
-  if (!DISABLE_REMOTE_CONTENT_CACHE && cached.cached && cached.data) return cached.data;
-
-  // JSDelivr cache'ini temizle - GitHub'da güncellenen resimlerin görünmesi için
-  await purgeJSDelivrCache();
-
-  try {
-    for (const manifestUrl of MANIFEST_URLS) {
-      try {
-        const cacheBust = Date.now();
-        const requestUrl = `${manifestUrl}?t=${cacheBust}`;
-        const res = await fetch(requestUrl, {
-          headers: {
-            'Cache-Control': 'no-store, no-cache, must-revalidate',
-            Pragma: 'no-cache',
-          },
-        });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-        if (data?.items) {
-          const sourceBase = requestUrl.replace(/\?t=.*$/i, '').replace(/\/manifest\.json$/i, '');
-          const normalized = {
-            ...data,
-            _sourceBase: sourceBase,
-            _cacheBustToken: data?.updatedAt || String(cacheBust),
-          };
-          if (!DISABLE_REMOTE_CONTENT_CACHE) {
-            await setCache(cacheKey, normalized, CACHE_EXPIRY.REMOTE_CONTENT);
-          }
-          return normalized;
+  },
+  "specialDays": [
+    {
+      "id": "ramazan-arefe",
+      "type": "ramadan",
+      "startDate": "2026-02-18",
+      "endDate": "2026-02-18",
+      "locales": {
+        "tr": {
+          "shareText": "Yâ Ramazân, Merhaba!",
+          "quoteText": "Rahmet-i İlâhiyye'nin coşkun denizi, Şehr-i Ramazân ile kapılarımıza geliyor. Rabbimiz buyurur: \"Ramazan ayı, insanlığa hidâyet rehberi ve Kur'ân'ın indirildiği mübârek aydır.\" (Bakara, 185) Yâ İlâhî, bu şehr-i şerîfi sağlık, safâ ve hâlis ibâdetle ihyâ etmeyi; onu hakkıyla yaşayıp tamamlamayı nasîb eyle!"
+        },
+        "en": {
+          "shareText": "Welcome, O Ramadan!",
+          "quoteText": "The ocean of Divine mercy arrives with the blessed month of Ramadan. Allah says: \"Ramadan is the month in which the Quran was revealed as guidance for humanity, with clear signs of guidance and criterion.\" (Al-Baqarah, 185) O Allah, grant us health and sincerity to honor this month fully!"
+        },
+        "ar": {
+          "shareText": "مرحباً يا رمضان!",
+          "quoteText": "بحر الرحمة الإلهية يطل علينا بقدوم شهر رمضان. قال الله تعالى: \"شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَانِ.\" (البقرة، 185) اللهم أعنا على إحياء هذا الشهر بصحة وإخلاص وعبادة كاملة!"
+        },
+        "de": {
+          "shareText": "Willkommen, O Ramadan!",
+          "quoteText": "Der Ozean der göttlichen Barmherzigkeit kommt mit dem gesegneten Monat Ramadan. Allah sagt: \"Der Monat Ramadan ist es, in dem der Quran als Rechtleitung für die Menschen herabgesandt wurde.\" (Al-Baqara, 185) O Allah, schenke uns Gesundheit und Aufrichtigkeit, diesen Monat vollständig zu ehren!"
+        },
+        "es": {
+          "shareText": "Bienvenido, O Ramadan!",
+          "quoteText": "El oceano de misericordia divina llega con el bendito mes de Ramadan. Allah dice: \"El mes de Ramadan en el que fue revelado el Coran como guia para la humanidad.\" (Al-Baqara, 185) O Allah, concedenos salud y sinceridad para honrar plenamente este mes!"
+        },
+        "nl": {
+          "shareText": "Welkom, O Ramadan!",
+          "quoteText": "De oceaan van goddelijke barmhartigheid komt met de gezegende maand Ramadan. Allah zegt: \"De maand Ramadan is het, waarin de Quran is geopenbaard als leidraad voor de mensen.\" (Al-Baqara, 185) O Allah, verleen ons gezondheid en oprechtheid om deze maand volledig te eren!"
+        },
+        "pt": {
+          "shareText": "Bem-vindo, O Ramadan!",
+          "quoteText": "O oceano da misericordia divina chega com o abencado mes do Ramadan. Allah diz: \"O mes de Ramadan em que o Alcorao foi revelado como guia para a humanidade.\" (Al-Baqara, 185) O Allah, concede-nos saude e sinceridade para honrar plenamente este mes!"
         }
-      } catch (_) {
-        // Bir sonraki repo endpoint'i denensin.
+      }
+    },
+    {
+      "id": "ramazan-ilk-uc-gun",
+      "type": "ramadan",
+      "startDate": "2026-02-19",
+      "endDate": "2026-02-21",
+      "locales": {
+        "tr": {
+          "shareText": "İlk Adım: Niyyet, Sabur, Şükür",
+          "quoteText": "Her hayırlı yolculuk, sağlam bir niyyet ile başlar. Resûl-i Ekrem ﷺ buyurmuştur: \"Kim Ramazan orucunu îmân ve ihtiSâbla tutarsa geçmiş günahları bağışlanır.\" (Buhârî, Müslim) Yâ Rabbî, sahura kalkmayı, Kur'ân okumayı ve bu mübârek ayın her gününü şükranla ihyâ etmeyi bizlere nasîb eyle!"
+        },
+        "en": {
+          "shareText": "First Steps: Intention, Patience, Gratitude",
+          "quoteText": "Every blessed journey begins with a firm intention. The Prophet ﷺ said: \"Whoever fasts Ramadan out of faith and seeking reward, his past sins are forgiven.\" (Bukhari, Muslim) O Allah, grant us the blessing of waking for suhoor, reading the Quran daily, and honoring every day of this month with gratitude!"
+        },
+        "ar": {
+          "shareText": "الخطوة الأولى: النية والصبر والشكر",
+          "quoteText": "كل رحلة مباركة تبدأ بنية راسخة. قال النبي ﷺ: \"من صام رمضان إيمانًا واحتسابًا غُفر له ما تقدم من ذنبه.\" (البخاري، مسلم) اللهم وفقنا للسحور وتلاوة القرآن وإحياء كل يوم من هذا الشهر بالشكر والطاعة!"
+        },
+        "de": {
+          "shareText": "Erste Schritte: Absicht, Geduld, Dankbarkeit",
+          "quoteText": "Jede gesegnete Reise beginnt mit einer festen Absicht. Der Prophet ﷺ sagte: \"Wer Ramadan aus Glauben fastet und Belohnung erwartet, dem werden seine vergangenen Sünden vergeben.\" (Bukhari, Muslim) O Allah, gewähre uns den Segen, zum Suhoor aufzustehen, täglich den Quran zu lesen und jeden Tag dieses Monats dankbar zu ehren!"
+        },
+        "es": {
+          "shareText": "Primeros Pasos: Intencion, Paciencia, Gratitud",
+          "quoteText": "Todo viaje bendito comienza con una intencion firme. El Profeta ﷺ dijo: \"Quien ayuna el Ramadan por fe y buscando recompensa, sus pecados pasados son perdonados.\" (Bujari, Muslim) O Allah, concedenos la bendicion de levantarnos para el suhur, leer el Coran diariamente y honrar cada dia de este mes con gratitud!"
+        },
+        "nl": {
+          "shareText": "Eerste Stappen: Intentie, Geduld, Dankbaarheid",
+          "quoteText": "Elke gezegende reis begint met een vaste intentie. De Profeet ﷺ zei: \"Wie Ramadan vast uit geloof en verlangend naar beloning, zijn vroegere zonden worden vergeven.\" (Bukhari, Muslim) O Allah, schenk ons de zegen om op te staan voor suhoor, dagelijks de Quran te lezen en elke dag van deze maand dankbaar te eren!"
+        },
+        "pt": {
+          "shareText": "Primeiros Passos: Intencao, Paciencia, Gratidao",
+          "quoteText": "Toda jornada abencada comeca com uma intencao firme. O Profeta ﷺ disse: \"Quem jejua o Ramadan por fe e buscando recompensa, seus pecados passados sao perdoados.\" (Bukhari, Muslim) O Allah, concede-nos a bencao de acordar para o suhur, ler o Alcorao diariamente e honrar cada dia deste mes com gratidao!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-rahmet-4-7",
+      "type": "ramadan",
+      "startDate": "2026-02-22",
+      "endDate": "2026-02-25",
+      "locales": {
+        "tr": {
+          "shareText": "Merhamet Sofraları Kur",
+          "quoteText": "Rahmet günlerinde en büyük sadaka, bir oruçlunun iftarını açmaktır. Resûl-i Ekrem ﷺ buyurmuştur: \"Her kim bir oruçluya iftar yedirirse, o oruçlunun sevâbının aynısını alır; oruçlunun sevâbından da hiçbir şey eksilmez.\" (Tirmizî) Yâ Rabbî, ikrâm edenlerimizi ve ikrâm ettiklerimizi hayırla mükâfatlandır; bu sofraları rızânın nişânesi eyle!"
+        },
+        "en": {
+          "shareText": "Set Tables of Mercy",
+          "quoteText": "In the days of mercy, giving iftar to a fasting person is a great charity. The Prophet ﷺ said: \"Whoever feeds a fasting person to break their fast, they will receive a reward equal to the fasting person's reward, without diminishing it.\" (Tirmidhi) O Allah, reward both the giver and the receiver; make these tables a sign of Your pleasure!"
+        },
+        "ar": {
+          "shareText": "أَعِدُّوا موائد الرحمة",
+          "quoteText": "في أيام الرحمة يكون أعظم الصدقات إفطار الصائم. قال النبي ﷺ: \"من فطَّر صائمًا كان له مثل أجره، غير أنه لا ينقص من أجر الصائم شيء.\" (الترمذي) اللهم اجزِ المُفطِّر والصائمَ خيرًا واجعل هذه الموائد آيةً من آيات رضاك!"
+        },
+        "de": {
+          "shareText": "Tische der Barmherzigkeit decken",
+          "quoteText": "In den Tagen der Barmherzigkeit ist das Geben von Iftar an Fastende eine große Wohlthat. Der Prophet ﷺ sagte: \"Wer einem Fastenden zu essen gibt, erhält eine ebenso große Belohnung, ohne dessen Belohnung zu mindern.\" (Tirmidhi) O Allah, belohne Gebende und Empfangende; mache diese Tische zu einem Zeichen Deines Wohlgefallens!"
+        },
+        "es": {
+          "shareText": "Prepara Mesas de Misericordia",
+          "quoteText": "En los dias de misericordia, dar iftar a quien ayuna es una gran caridad. El Profeta ﷺ dijo: \"Quien alimenta a un ayunante para romper su ayuno recibira una recompensa igual a la del ayunante, sin disminuirla en nada.\" (Tirmidi) O Allah, recompensa tanto al que da como al que recibe; haz de estas mesas un signo de Tu complacencia!"
+        },
+        "nl": {
+          "shareText": "Tafels van Barmhartigheid Dekken",
+          "quoteText": "In de dagen van barmhartigheid is het geven van iftar aan een vastende een grote liefdadigheid. De Profeet ﷺ zei: \"Wie een vastende voedt om zijn vasten te verbreken, ontvangt een beloning gelijk aan die van de vastende, zonder diens beloning te verminderen.\" (Tirmidhi) O Allah, beloon zowel de gever als de ontvanger; maak deze tafels een teken van Uw welbehagen!"
+        },
+        "pt": {
+          "shareText": "Prepare Mesas de Misericordia",
+          "quoteText": "Nos dias de misericordia, dar iftar a quem jejua e uma grande caridade. O Profeta ﷺ disse: \"Quem alimenta um jejuador para quebrar seu jejum recebera uma recompensa igual a do jejuador, sem diminui-la.\" (Tirmidhi) O Allah, recompensa tanto o doador quanto o receptor; torna essas mesas um sinal do Teu agrado!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-rahmet-8-10",
+      "type": "ramadan",
+      "startDate": "2026-02-26",
+      "endDate": "2026-02-28",
+      "locales": {
+        "tr": {
+          "shareText": "Rahmet On'unu Mühürlemek",
+          "quoteText": "İlk on günün bereketi sâlih amele devâm ile artar. Rabbimiz buyurur: \"Rabbinizden bağışlanmaya ve genişliği göklerle yer kadar olan cennete koşun; o cennet, takvâ sahipleri için hazırlanmıştır.\" (Âl-i İmrân, 133) Yâ Rabbî, bu rahmet günlerini şükr u hamd ile tamamlayanlardan; ikinci onun mağfiretine de gönül huzuruyla girmeyi nasîb eyle!"
+        },
+        "en": {
+          "shareText": "Sealing the Days of Mercy",
+          "quoteText": "The blessing of the first ten increases with continued righteous deeds. Allah says: \"Hasten toward forgiveness from your Lord and a Paradise as wide as the heavens and earth, prepared for the righteous.\" (Al-Imran, 133) O Allah, let us complete these mercy days with gratitude and enter the days of forgiveness with tranquility!"
+        },
+        "ar": {
+          "shareText": "ختم عشرة الرحمة",
+          "quoteText": "تتضاعف بركة العشرة الأولى بالمداومة على الأعمال الصالحة. قال الله تعالى: \"وَسَارِعُوا إِلَى مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.\" (آل عمران، 133) اللهم أعنا على إتمام هذه الأيام بشكر وحمد ودخول عشرة المغفرة بطمأنينة!"
+        },
+        "de": {
+          "shareText": "Die Tage der Barmherzigkeit versiegeln",
+          "quoteText": "Der Segen der ersten zehn Tage wächst durch fortgesetzte rechtschaffene Taten. Allah sagt: \"Beeilt euch zur Vergebung eures Herrn und zum Paradies, das so weit ist wie Himmel und Erde, vorbereitet für die Gottesfürchtigen.\" (Al-Imran, 133) O Allah, lass uns diese Gnadentage mit Dankbarkeit abschließen!"
+        },
+        "es": {
+          "shareText": "Sellando los Dias de Misericordia",
+          "quoteText": "La bendicion de los primeros diez dias aumenta con buenas obras continuas. Allah dice: \"Apresuraos hacia el perdon de vuestro Senor y un Paraiso tan ancho como los cielos y la tierra, preparado para los piadosos.\" (Al-Imran, 133) O Allah, dejanos completar estos dias de misericordia con gratitud!"
+        },
+        "nl": {
+          "shareText": "De Dagen van Barmhartigheid Afsluiten",
+          "quoteText": "De zegen van de eerste tien dagen groeit door voortdurende rechtvaardige daden. Allah zegt: \"Snelt naar vergeving van uw Heer en naar een Paradijs zo wijd als de hemelen en de aarde, voorbereid voor de godsvrezenden.\" (Al-Imran, 133) O Allah, laat ons deze genadedagen met dankbaarheid afsluiten!"
+        },
+        "pt": {
+          "shareText": "Selando os Dias de Misericordia",
+          "quoteText": "A bencao dos primeiros dez dias aumenta com boas acoes continuadas. Allah diz: \"Apressai-vos para o perdao do vosso Senhor e para um Paraiso tao vasto quanto os ceus e a terra, preparado para os piedosos.\" (Al-Imran, 133) O Allah, deixa-nos completar esses dias de misericordia com gratidao!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-magfiret-11-13",
+      "type": "ramadan",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-03",
+      "locales": {
+        "tr": {
+          "shareText": "Mağfiretin Kapısı Aralandı",
+          "quoteText": "Mağfiret günleri, Ramazan'ın en derin tövbe mevsimidir. Resûl-i Ekrem ﷺ buyurmuştur: \"Yazıklar olsun o kimseye ki Ramazan'a erer de günahları bağışlanmaz.\" (Tirmizî) Yâ Rabbî, günahlarımızın ağırlığından kurtulmak için Sana sığınıyoruz; hâlis bir tövbe ile bu mağfiret günlerini ihyâ etmemize yardım eyle!"
+        },
+        "en": {
+          "shareText": "The Door of Forgiveness Opens",
+          "quoteText": "The days of forgiveness are Ramadan's deepest season of repentance. The Prophet ﷺ said: \"Woe to one who reaches Ramadan and is not forgiven.\" (Tirmidhi) O Allah, we seek refuge in You from the weight of our sins; help us revive these forgiveness days with sincere repentance!"
+        },
+        "ar": {
+          "shareText": "انفتح باب المغفرة",
+          "quoteText": "أيام المغفرة هي أعمق موسم للتوبة في رمضان. قال النبي ﷺ: \"رَغِمَ أنفُ امرئٍ أدرك رمضان فانسلخ قبل أن يُغفر له.\" (الترمذي) اللهم إنا نلجأ إليك من ثقل ذنوبنا؛ أعنا على إحياء هذه الأيام بتوبة صادقة!"
+        },
+        "de": {
+          "shareText": "Die Tür der Vergebung öffnet sich",
+          "quoteText": "Die Vergebungstage sind Ramadans tiefste Zeit der Reue. Der Prophet ﷺ sagte: \"Wehe dem, der Ramadan erlebt und nicht vergeben wird.\" (Tirmidhi) O Allah, wir suchen Zuflucht in Dir vor der Last unserer Sünden; hilf uns, diese Tage mit aufrichtiger Reue zu beleben!"
+        },
+        "es": {
+          "shareText": "La Puerta del Perdon se Abre",
+          "quoteText": "Los dias de perdon son la temporada mas profunda de arrepentimiento del Ramadan. El Profeta ﷺ dijo: \"Desgracia para quien alcanza el Ramadan y no es perdonado.\" (Tirmidi) O Allah, nos refugiamos en Ti del peso de nuestros pecados; ayudanos a vivir estos dias con arrepentimiento sincero!"
+        },
+        "nl": {
+          "shareText": "De Deur van Vergeving Gaat Open",
+          "quoteText": "De vergiftingsdagen zijn Ramadans diepste seizoen van berouw. De Profeet ﷺ zei: \"Wee degene die Ramadan bereikt en niet vergeven wordt.\" (Tirmidhi) O Allah, wij zoeken toevlucht bij U van de last van onze zonden; help ons deze dagen te beleven met oprechte berouw!"
+        },
+        "pt": {
+          "shareText": "A Porta do Perdao se Abre",
+          "quoteText": "Os dias de perdao sao a estacao mais profunda de arrependimento do Ramadan. O Profeta ﷺ disse: \"Ai daquele que alcanca o Ramadan e nao e perdoado.\" (Tirmidhi) O Allah, buscamos refugio em Ti do peso de nossos pecados; ajuda-nos a viver esses dias com arrependimento sincero!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-magfiret-14-17",
+      "type": "ramadan",
+      "startDate": "2026-03-04",
+      "endDate": "2026-03-07",
+      "locales": {
+        "tr": {
+          "shareText": "Günahları Dökmek İçin",
+          "quoteText": "Mağfiret günlerinin ortasında kul hakkını da hesaba katmak gerektir: geç kalmış bir özür, yazılmamış bir mektup, verilmemiş bir selâm. Rabbimiz buyurur: \"De ki: Ey nefislerine karşı haddi aşan kullarım! Allah'ın rahmetinden ümidi kesmeyiniz; Allah dilediği kimsenin günahlarını tümüyle bağışlar.\" (Zümer, 53) Yâ Rabbî, kırdığımız gönülleri onarmayı, bize kırgın olanları affetmeyi nasîb eyle!"
+        },
+        "en": {
+          "shareText": "Shedding the Weight of Sins",
+          "quoteText": "In the middle of forgiveness days, account also for the rights of others: a delayed apology, an unwritten letter, a withheld greeting. Allah says: \"Say: O My servants who have transgressed against themselves — do not despair of Allah's mercy; He forgives all sins.\" (Az-Zumar, 53) O Allah, grant us the ability to mend broken hearts and seek forgiveness from those we have wronged!"
+        },
+        "ar": {
+          "shareText": "إزاحة ثقل الذنوب",
+          "quoteText": "في وسط أيام المغفرة لا تنسَ حقوق العباد: اعتذار متأخر، رسالة لم تُكتب، سلام لم يُرسَل. قال الله تعالى: \"قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا.\" (الزمر، 53) اللهم وفقنا لإصلاح القلوب المكسورة وطلب العفو ممن أسأنا إليهم!"
+        },
+        "de": {
+          "shareText": "Die Last der Sünden ablegen",
+          "quoteText": "In der Mitte der Vergibungstage denke auch an Rechte der anderen: eine verzögerte Entschuldigung, ein ungeschriebener Brief, ein zurückgehaltener Gruß. Allah sagt: \"Sprich: O Meine Diener, die ihr gegen euch selbst gesündigt habt — verzweifelt nicht an Allahs Barmherzigkeit; Er vergibt alle Sünden.\" (Az-Zumar, 53) O Allah, lass uns gebrochene Herzen heilen und um Vergebung bitten!"
+        },
+        "es": {
+          "shareText": "Despojarse del Peso de los Pecados",
+          "quoteText": "En medio de los dias de perdon, considera tambien los derechos de los demas: una disculpa postergada, una carta sin escribir, un saludo retenido. Allah dice: \"Di: Siervos Mios que habeis transgredido contra vosotros mismos, no desespereis de la misericordia de Allah; El perdona todos los pecados.\" (Az-Zumar, 53) O Allah, permitenos sanar corazones rotos!"
+        },
+        "nl": {
+          "shareText": "De Last van Zonden Afleggen",
+          "quoteText": "In het midden van de vergiftingsdagen, denk ook aan de rechten van anderen: een uitgestelde verontschuldiging, een niet-geschreven brief, een ingehouden groet. Allah zegt: \"Zeg: O Mijn dienaren die tegen zichzelf hebben gezondigd — wanhoop niet aan Allahs barmhartigheid; Hij vergeeft alle zonden.\" (Az-Zumar, 53) O Allah, laat ons gebroken harten helen!"
+        },
+        "pt": {
+          "shareText": "Abandonar o Peso dos Pecados",
+          "quoteText": "No meio dos dias de perdao, considera tambem os direitos dos outros: um pedido de desculpas atrasado, uma carta nao escrita, uma saudacao retida. Allah diz: \"Diz: O Meus servos que transgredistes contra vos mesmos — nao desespereis da misericordia de Allah; Ele perdoa todos os pecados.\" (Az-Zumar, 53) O Allah, permite-nos curar coracoes partidos!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-magfiret-18-20",
+      "type": "ramadan",
+      "startDate": "2026-03-08",
+      "endDate": "2026-03-10",
+      "locales": {
+        "tr": {
+          "shareText": "Mağfiret On'unu Mühürlemek",
+          "quoteText": "İkinci on günlerin kapanışında sadakayı artır, bir yoksula el uzat, gönül kırmışsan gönül yap. Resûl-i Ekrem ﷺ buyurmuştur: \"Sadaka, Rabb'in gazabını söndürür ve kötü ölümü önler.\" (Tirmizî) Yâ Rabbî, bu mağfiret günlerini temiz bir vicdan ve sâfî bir gönülle kapatmamıza; son on gecelere müstağrak bir kalple girmemize yardım eyle!"
+        },
+        "en": {
+          "shareText": "Sealing the Days of Forgiveness",
+          "quoteText": "As the second ten days close, increase your charity, extend a hand to those in need, and mend broken relationships. The Prophet ﷺ said: \"Charity extinguishes the Lord's wrath and prevents a bad death.\" (Tirmidhi) O Allah, let us close these days of forgiveness with a pure conscience and enter the last ten nights with an open heart!"
+        },
+        "ar": {
+          "shareText": "ختم عشرة المغفرة",
+          "quoteText": "مع انتهاء العشرة الثانية زِد من صدقاتك ومُدَّ يدًا للمحتاج وأصلح ما أفسدت. قال النبي ﷺ: \"الصدقة تُطفئ غضب الرب وتدفع ميتة السوء.\" (الترمذي) اللهم أعنا على ختم هذه الأيام بضمير نظيف وقلب صافٍ والدخول في العشر الأخيرة بقلب مُقبِل!"
+        },
+        "de": {
+          "shareText": "Die Vergibungstage versiegeln",
+          "quoteText": "Wenn die zweiten zehn Tage enden, erhöhe deine Spendenbereitschaft, hilf Bedürftigen und repariere zerbrochene Beziehungen. Der Prophet ﷺ sagte: \"Die Almosen löschen den Zorn des Herrn und bewahren vor einem schlechten Tod.\" (Tirmidhi) O Allah, lass uns diese Vergibungstage mit reinem Gewissen abschließen!"
+        },
+        "es": {
+          "shareText": "Sellando los Dias de Perdon",
+          "quoteText": "Al cerrarse los segundos diez dias, aumenta tu caridad, extiende una mano a los necesitados y repara relaciones rotas. El Profeta ﷺ dijo: \"La caridad apaga la ira del Senor y evita una mala muerte.\" (Tirmidi) O Allah, dejanos cerrar estos dias de perdon con una conciencia pura y entrar en las ultimas diez noches con el corazon abierto!"
+        },
+        "nl": {
+          "shareText": "De Vergiftingsdagen Afsluiten",
+          "quoteText": "Wanneer de tweede tien dagen eindigen, verhoog je liefdadigheid, reik een hand naar de behoeftigen en herstel verbroken relaties. De Profeet ﷺ zei: \"Liefdadigheid blust de toorn van de Heer en voorkomt een slechte dood.\" (Tirmidhi) O Allah, laat ons deze vergiftingsdagen afsluiten met een zuiver geweten!"
+        },
+        "pt": {
+          "shareText": "Selando os Dias de Perdao",
+          "quoteText": "Ao se encerrarem os segundos dez dias, aumenta tua caridade, estende a mao aos necessitados e repara relacoes quebradas. O Profeta ﷺ disse: \"A caridade apaga a ira do Senhor e evita uma ma morte.\" (Tirmidhi) O Allah, deixa-nos encerrar esses dias de perdao com uma consciencia pura e entrar nas ultimas dez noites com o coracao aberto!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-son-on-giris",
+      "type": "ramadan",
+      "startDate": "2026-03-11",
+      "endDate": "2026-03-12",
+      "locales": {
+        "tr": {
+          "shareText": "Kurtuluşun Eşiği — 21. Gece",
+          "quoteText": "Ramazan'ın son on gecesine girildiğinde Resûl-i Ekrem ﷺ belini sıkar, geceyi ihyâ eder, ev halkını uyandırırdı. (Buhârî, Müslim) Kadir Gecesi bu gece başlar. Yâ Rabbî, bu mübarek gecelerde uykuyu az tut, teheccüdü çok; istiğfâr ile seher vakitlerini tezyin eyle; bizi Kadir'e eriştir!"
+        },
+        "en": {
+          "shareText": "The Threshold of Salvation — 21st Night",
+          "quoteText": "When the last ten nights of Ramadan began, the Prophet ﷺ would tighten his belt, revive the nights, and wake his family. (Bukhari, Muslim) Laylat al-Qadr may fall on this night. O Allah, in these blessed nights, grant us little sleep and much night prayer; adorn our predawn hours with repentance!"
+        },
+        "ar": {
+          "shareText": "عتبة النجاة — ليلة إحدى وعشرين",
+          "quoteText": "كان النبي ﷺ إذا دخلت العشر الأواخر أحيا الليل وشد مئزره وأيقظ أهله. (البخاري، مسلم) وقد تكون ليلة القدر هذه الليلة. اللهم في هذه الليالي المباركة خفِّف نومنا وأكثر قيامنا وزيِّن أسحارنا بالاستغفار وأدركنا ليلة القدر!"
+        },
+        "de": {
+          "shareText": "Die Schwelle der Erlösung — 21. Nacht",
+          "quoteText": "Wenn die letzten zehn Nächte des Ramadan begannen, gürte der Prophet ﷺ sich, belebte die Nächte und weckte seine Familie. (Bukhari, Muslim) Laylat al-Qadr könnte in dieser Nacht sein. O Allah, in diesen gesegneten Nächten, gewähre uns wenig Schlaf und viel Nachtgebet!"
+        },
+        "es": {
+          "shareText": "El Umbral de la Salvacion — Noche 21",
+          "quoteText": "Cuando comenzaban las ultimas diez noches del Ramadan, el Profeta ﷺ ajustaba su cinto, revivificaba las noches y despertaba a su familia. (Bujari, Muslim) Laylat al-Qadr puede caer esta noche. O Allah, en estas noches benditas, concedenos poco sueno y mucha oracion nocturna!"
+        },
+        "nl": {
+          "shareText": "De Drempel van Verlossing — 21e Nacht",
+          "quoteText": "Wanneer de laatste tien nachten van Ramadan begonnen, gordde de Profeet ﷺ zich, belichtte de nachten en wekte zijn familie. (Bukhari, Muslim) Laylat al-Qadr kan deze nacht vallen. O Allah, in deze gezegende nachten, verleen ons weinig slaap en veel nachtgebed!"
+        },
+        "pt": {
+          "shareText": "O Limiar da Salvacao — Noite 21",
+          "quoteText": "Quando as ultimas dez noites do Ramadan comecavam, o Profeta ﷺ se preparava, revivia as noites e acordava sua familia. (Bukhari, Muslim) Laylat al-Qadr pode cair nesta noite. O Allah, nessas noites abencadas, concede-nos pouco sono e muita oracao noturna!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-gece-23",
+      "type": "ramadan",
+      "startDate": "2026-03-13",
+      "endDate": "2026-03-14",
+      "locales": {
+        "tr": {
+          "shareText": "23. Gece — Arayan Bulur",
+          "quoteText": "Kadir Gecesi'ni tek gecelerde arayan gönüller, yorgunluğa kapılmasın. Rabbimiz buyurur: \"Biz o Kur'ân'ı Kadir gecesinde indirdik. Kadir gecesi, bin aydan daha hayırlıdır. O gece melekler ve Ruh, Rabb'lerinin izniyle iner durur. O gece esenlik dolu; tâ fecrin doğuşuna kadar.\" (Kadr, 1–5) Yâ Rabbî, bu ve diğer tek geceleri bin ayı aşan bir feyz ile ihyâ etmemizi nasîb eyle!"
+        },
+        "en": {
+          "shareText": "23rd Night — Seekers Find",
+          "quoteText": "Let not weariness overtake hearts seeking Laylat al-Qadr in the odd nights. Allah says: \"Indeed, We sent it down on the Night of Decree. And what can make you know what is the Night of Decree? The Night of Decree is better than a thousand months.\" (Al-Qadr, 1–3) O Allah, grant us to revive this and every odd night with blessings surpassing a thousand months!"
+        },
+        "ar": {
+          "shareText": "ليلة الثالث والعشرين — الطالب يجد",
+          "quoteText": "لا يأسنَّ قلبٌ يطلب ليلة القدر في الليالي الوتر من التعب. قال الله تعالى: \"إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ * وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ * لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ.\" (القدر، 1–3) اللهم وفقنا لإحياء هذه الليلة وسائر الليالي الوتر بفيض يتجاوز ألف شهر!"
+        },
+        "de": {
+          "shareText": "23. Nacht — Suchende finden",
+          "quoteText": "Möge keine Müdigkeit die Herzen überwältigen, die Laylat al-Qadr in den ungeraden Nächten suchen. Allah sagt: \"Wahrlich, Wir sandten ihn in der Nacht der Bestimmung herab. Und was lässt dich wissen, was die Nacht der Bestimmung ist? Die Nacht der Bestimmung ist besser als tausend Monate.\" (Al-Qadr, 1–3)"
+        },
+        "es": {
+          "shareText": "Noche 23 — Los que buscan encuentran",
+          "quoteText": "Que el cansancio no se apodere de los corazones que buscan Laylat al-Qadr en las noches impares. Allah dice: \"Ciertamente lo revelamos en la Noche del Decreto. ¿Y que te hara saber lo que es la Noche del Decreto? La Noche del Decreto es mejor que mil meses.\" (Al-Qadr, 1–3)"
+        },
+        "nl": {
+          "shareText": "23e Nacht — Zoekers vinden",
+          "quoteText": "Laat vermoeidheid geen harten overweldigen die Laylat al-Qadr zoeken in de oneven nachten. Allah zegt: \"Voorwaar, Wij hebben hem geopenbaard op de Nacht van de Voorbeschikking. En wat doet u weten wat de Nacht van de Voorbeschikking is? De Nacht van de Voorbeschikking is beter dan duizend maanden.\" (Al-Qadr, 1–3)"
+        },
+        "pt": {
+          "shareText": "Noite 23 — Os que buscam encontram",
+          "quoteText": "Que o cansaco nao tome conta dos coracoes que buscam Laylat al-Qadr nas noites impares. Allah diz: \"Certamente O revelamos na Noite do Decreto. E o que te fara saber o que e a Noite do Decreto? A Noite do Decreto e melhor que mil meses.\" (Al-Qadr, 1–3)"
+        }
+      }
+    },
+    {
+      "id": "ramazan-gece-25",
+      "type": "ramadan",
+      "startDate": "2026-03-15",
+      "endDate": "2026-03-15",
+      "locales": {
+        "tr": {
+          "shareText": "25. Gece — Seher Vakti Duâ Et",
+          "quoteText": "Ramazan'ın yirmi beşinci gecesinde gönlünü Allah'a aç; hiçbir günahın rahmetinden büyük olmadığını unut. Resûl-i Ekrem ﷺ buyurmuştur: \"Rabbimiz her gece seher vaktinde dünya semasına iner ve: 'Benden isteyen yok mu ki vereyim? Benden af dileyen yok mu ki bağışlayayım?' diye nida eder.\" (Buhârî, Müslim) Yâ Rabbî, seherlerde Sana yönelen kullarının elini boş çevirme!"
+        },
+        "en": {
+          "shareText": "25th Night — Pray at Predawn",
+          "quoteText": "On the twenty-fifth night, open your heart to Allah; no sin is greater than His mercy. The Prophet ﷺ said: \"Every night in the last third, Allah descends to the lowest heaven and calls: 'Is there anyone asking so I may give? Anyone seeking forgiveness so I may forgive?'\" (Bukhari, Muslim) O Allah, do not turn away those who call upon You at predawn!"
+        },
+        "ar": {
+          "shareText": "ليلة الخامسة والعشرين — ادعُ في السحر",
+          "quoteText": "في الليلة الخامسة والعشرين افتح قلبك لله؛ فلا ذنب أكبر من رحمته. قال النبي ﷺ: \"ينزل ربنا تبارك وتعالى كل ليلة إلى السماء الدنيا حين يبقى ثلث الليل الآخر، يقول: من يدعوني فأستجيب له؟ من يسألني فأعطيه؟ من يستغفرني فأغفر له؟\" (البخاري، مسلم) اللهم لا تردَّ من يتوجه إليك في الأسحار!"
+        },
+        "de": {
+          "shareText": "25. Nacht — Im Morgengrauen beten",
+          "quoteText": "In der 25. Nacht öffne dein Herz für Allah; keine Sünde ist größer als Seine Barmherzigkeit. Der Prophet ﷺ sagte: \"Jede Nacht im letzten Drittel steigt Allah zum untersten Himmel herab und ruft: 'Gibt es jemanden der fragt, damit Ich gebe? Jemanden der Vergebung sucht, damit Ich vergebe?'\" (Bukhari, Muslim)"
+        },
+        "es": {
+          "shareText": "Noche 25 — Ora en el Amanecer",
+          "quoteText": "En la vigesimoquinta noche, abre tu corazon a Allah; ningun pecado es mayor que Su misericordia. El Profeta ﷺ dijo: \"Cada noche en el ultimo tercio, Allah desciende al cielo mas bajo y llama: '¿Hay alguien que pida para que Yo de? ¿Alguien que busque perdon para que Yo perdone?'\" (Bujari, Muslim)"
+        },
+        "nl": {
+          "shareText": "25e Nacht — Bid in de Vroege Ochtend",
+          "quoteText": "In de vijfentwintigste nacht open je hart voor Allah; geen zonde is groter dan Zijn barmhartigheid. De Profeet ﷺ zei: \"Elke nacht in het laatste derde daalt Allah neer naar de laagste hemel en roept: 'Is er iemand die vraagt zodat Ik kan geven? Iemand die vergeving zoekt zodat Ik kan vergeven?'\" (Bukhari, Muslim)"
+        },
+        "pt": {
+          "shareText": "Noite 25 — Ore no Amanhecer",
+          "quoteText": "Na vigesimaquinta noite, abre teu coracao para Allah; nenhum pecado e maior que Sua misericordia. O Profeta ﷺ disse: \"Toda noite no ultimo terco, Allah desce ao ceu mais baixo e chama: 'Ha alguem que peca para que Eu de? Alguem que busca perdao para que Eu perdoe?'\" (Bukhari, Muslim)"
+        }
+      }
+    },
+    {
+      "id": "ramazan-kadir-arefe",
+      "type": "ramadan",
+      "startDate": "2026-03-16",
+      "endDate": "2026-03-16",
+      "locales": {
+        "tr": {
+          "shareText": "Kadir'e Bir Adım",
+          "quoteText": "Bu gece, Kadir'e en yakın vakitlerden birinin öncülüdür; gaflet değil, huzur ve niyet zamanıdır. Resûl-i Ekrem ﷺ buyurmuştur: \"Kadir Gecesi'ni Ramazan'ın son on gününün tek gecelerinde arayınız.\" (Buhârî) Bu akşamdan niyyetini sağlamlaştır; teheccüdünü, istiğfârını ve sadakânı artır. Yâ Rabbî, bizi bu muazzam geceden mahrûm eyleme!"
+        },
+        "en": {
+          "shareText": "One Step to Qadr",
+          "quoteText": "Tonight is the eve of one of the most anticipated nights; it is a time of presence, not heedlessness. The Prophet ﷺ said: \"Seek Laylat al-Qadr in the odd nights of the last ten days of Ramadan.\" (Bukhari) From this evening, firm your intention; increase your night prayer, repentance, and charity. O Allah, do not deprive us of this magnificent night!"
+        },
+        "ar": {
+          "shareText": "خطوة واحدة إلى القدر",
+          "quoteText": "هذه الليلة مقدمة من أقرب الليالي إلى ليلة القدر؛ وقتٌ للحضور لا للغفلة. قال النبي ﷺ: \"التمسوا ليلة القدر في الوتر من العشر الأواخر من رمضان.\" (البخاري) ثبِّت نيتك من هذه الليلة وزِد قيامك واستغفارك وصدقتك. اللهم لا تحرمنا هذه الليلة العظيمة!"
+        },
+        "de": {
+          "shareText": "Einen Schritt zu Qadr",
+          "quoteText": "Heute Nacht ist der Vorabend einer der meisterwarteten Nächte; es ist eine Zeit der Gegenwärtigkeit, nicht der Achtlosigkeit. Der Prophet ﷺ sagte: \"Sucht Laylat al-Qadr in den ungeraden Nächten der letzten zehn Tage des Ramadan.\" (Bukhari) Ab heute Abend festige deine Absicht; erhöhe Nachtgebet, Reue und Spendenbereitschaft. O Allah, entziehe uns diese herrliche Nacht nicht!"
+        },
+        "es": {
+          "shareText": "Un Paso hacia el Qadr",
+          "quoteText": "Esta noche es la vispera de una de las noches mas esperadas; es un tiempo de presencia, no de descuido. El Profeta ﷺ dijo: \"Buscad Laylat al-Qadr en las noches impares de los ultimos diez dias del Ramadan.\" (Bujari) Desde esta tarde, afirma tu intencion; aumenta la oracion nocturna, el arrepentimiento y la caridad. O Allah, no nos prives de esta noche magnifica!"
+        },
+        "nl": {
+          "shareText": "Een Stap naar Qadr",
+          "quoteText": "Vanavond is de vooravond van een van de meest geanticipeerde nachten; het is een tijd van aanwezigheid, geen achteloosheid. De Profeet ﷺ zei: \"Zoek Laylat al-Qadr in de oneven nachten van de laatste tien dagen van Ramadan.\" (Bukhari) Bevestig vanaf vanavond je intentie; verhoog je nachtgebed, berouw en liefdadigheid. O Allah, beroof ons niet van deze magnifieke nacht!"
+        },
+        "pt": {
+          "shareText": "Um Passo para o Qadr",
+          "quoteText": "Esta noite e a vespera de uma das noites mais esperadas; e um tempo de presenca, nao de descuido. O Profeta ﷺ disse: \"Busquem Laylat al-Qadr nas noites impares dos ultimos dez dias do Ramadan.\" (Bukhari) A partir desta tarde, firme sua intencao; aumente a oracao noturna, o arrependimento e a caridade. O Allah, nao nos prive desta noite magnifica!"
+        }
+      }
+    },
+    {
+      "id": "ramazan-kadir-gecesi",
+      "type": "ramadan",
+      "startDate": "2026-03-17",
+      "endDate": "2026-03-17",
+      "locales": {
+        "tr": {
+          "shareText": "Kadir Gecesi Mübârek Olsun",
+          "quoteText": "Bu gece, bin aydan hayırlı Kadir Gecesi'nin en ziyâde umulan vaktidir. Şu duâyı çokça tekrar et: \"Allâhümme inneke afüvvün, tühibbül afve fa'fü annî.\" Rabbimiz buyurur: \"O gece melekler ve Rûh, Rabb'lerinin izniyle her iş için iner. O gece, tâ fecrin doğuşuna kadar esenlik içindedir.\" (Kadr, 4–5) Yâ Rabbî, bu geceyi bize kâmil bir ihyâ ile nasîb eyle!"
+        },
+        "en": {
+          "shareText": "Blessed Night of Decree",
+          "quoteText": "Tonight is the most hoped-for Night of Decree, better than a thousand months. Repeat this dua often: \"Allahumma innaka 'afuwwun tuhibbul 'afwa fa'fu 'anni.\" Allah says: \"The angels and the Spirit descend therein by permission of their Lord with every matter. Peace it is until the emergence of dawn.\" (Al-Qadr, 4–5) O Allah, grant us a perfect revival of this night!"
+        },
+        "ar": {
+          "shareText": "مبارك ليلة القدر",
+          "quoteText": "هذه الليلة هي الأكثر رجاءً لتكون ليلة القدر الخيرة من ألف شهر. أكثر من الدعاء: \"اللهم إنك عفو تحب العفو فاعف عني.\" قال الله تعالى: \"تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ * سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ.\" (القدر، 4–5) اللهم أعنا على إحياء هذه الليلة أحسن إحياء!"
+        },
+        "de": {
+          "shareText": "Gesegnete Nacht der Bestimmung",
+          "quoteText": "Heute Nacht ist die meisterhoffte Nacht der Bestimmung, besser als tausend Monate. Wiederhole oft dieses Bittgebet: \"Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.\" Allah sagt: \"Die Engel und der Geist steigen darin mit Erlaubnis ihres Herrn für jede Angelegenheit herab. Sie ist Frieden, bis das Morgengrauen erscheint.\" (Al-Qadr, 4–5)"
+        },
+        "es": {
+          "shareText": "Bendita Noche del Decreto",
+          "quoteText": "Esta noche es la Noche del Decreto mas esperada, mejor que mil meses. Repite a menudo esta dua: \"Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.\" Allah dice: \"Los angeles y el Espiritu descienden en ella por permiso de su Senor con todo asunto. Paz es hasta la aparicion del amanecer.\" (Al-Qadr, 4–5)"
+        },
+        "nl": {
+          "shareText": "Gezegende Nacht van de Voorbeschikking",
+          "quoteText": "Vanavond is de meest gehoopte Nacht van de Voorbeschikking, beter dan duizend maanden. Herhaal vaak dit gebed: \"Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.\" Allah zegt: \"De engelen en de Geest dalen daarin neer met toestemming van hun Heer voor elk zaak. Vrede is het tot de opkomst van de dageraad.\" (Al-Qadr, 4–5)"
+        },
+        "pt": {
+          "shareText": "Abencada Noite do Decreto",
+          "quoteText": "Esta noite e a Noite do Decreto mais esperada, melhor que mil meses. Repita frequentemente esta dua: \"Allahumma innaka afuwwun tuhibbul afwa fa'fu anni.\" Allah diz: \"Os anjos e o Espirito descem nela com permissao de seu Senhor para todo assunto. Paz e ate o surgimento da aurora.\" (Al-Qadr, 4–5)"
+        }
+      }
+    },
+    {
+      "id": "ramazan-bayram-arefe",
+      "type": "ramadan",
+      "startDate": "2026-03-18",
+      "endDate": "2026-03-19",
+      "locales": {
+        "tr": {
+          "shareText": "Son Damlaları Say — Bayram Arefesi",
+          "quoteText": "Ramazan'ın son günleri; hem vedâ hem de müjde zamanıdır. Resûl-i Ekrem ﷺ buyurmuştur: \"İki bayram gecesini ibâdetle geçiren kimsenin, kalplerin öldüğü günde kalbi ölmez.\" (İbn Mâce) Fıtranı yetiştir, kırık gönülleri onar, yakınlarını ara. Yâ Rabbî, Ramazan'ın hakkını verip bayramın huzuruyla karşımıza çıkmamıza nasîb eyle!"
+        },
+        "en": {
+          "shareText": "Count the Final Drops — Eid Eve",
+          "quoteText": "The last days of Ramadan are both a farewell and a herald of joy. The Prophet ﷺ said: \"Whoever revives the two Eid nights in worship, their heart will not die on the day hearts die.\" (Ibn Majah) Complete your fitrah, mend broken bonds, and reach out to loved ones. O Allah, let us honor Ramadan fully and meet the Eid with peace!"
+        },
+        "ar": {
+          "shareText": "أحصِ القطرات الأخيرة — ليلة العيد",
+          "quoteText": "أيام رمضان الأخيرة وداعٌ ومبشِّر في آنٍ واحد. قال النبي ﷺ: \"من أحيا ليلتي العيد محتسبًا لم يمت قلبه يوم تموت القلوب.\" (ابن ماجه) أخرج زكاة الفطر وأصلح ما بينك وبين الناس وتواصل مع أحبائك. اللهم وفقنا لإيفاء حق رمضان ولقاء العيد بطمأنينة ورضا!"
+        },
+        "de": {
+          "shareText": "Letzte Tropfen zählen — Vorabend von Eid",
+          "quoteText": "Die letzten Tage des Ramadan sind gleichzeitig Abschied und Vorfreude. Der Prophet ﷺ sagte: \"Wer die beiden Eid-Nächte im Gebet verbringt, dessen Herz wird nicht sterben an dem Tag, an dem Herzen sterben.\" (Ibn Majah) Vollende deine Fitra, heile zerbrochene Verbindungen und melde dich bei Lieben. O Allah, lass uns Ramadan vollständig ehren und Eid in Frieden empfangen!"
+        },
+        "es": {
+          "shareText": "Cuenta las Ultimas Gotas — Vispera del Eid",
+          "quoteText": "Los ultimos dias del Ramadan son a la vez una despedida y un heraldo de alegria. El Profeta ﷺ dijo: \"Quien revive las dos noches de Eid en adoracion, su corazon no morira el dia en que los corazones mueran.\" (Ibn Majah) Completa tu fitra, repara vinculos rotos y comunicate con tus seres queridos. O Allah, permitenos honrar el Ramadan plenamente y recibir el Eid en paz!"
+        },
+        "nl": {
+          "shareText": "Tel de Laatste Druppels — Eid-avond",
+          "quoteText": "De laatste dagen van Ramadan zijn zowel een afscheid als een aankondiging van vreugde. De Profeet ﷺ zei: \"Wie de twee Eid-nachten in aanbidding doorbrengt, zijn hart zal niet sterven op de dag dat harten sterven.\" (Ibn Majah) Voltooi je fitra, herstel verbroken banden en neem contact op met geliefden. O Allah, laat ons Ramadan volledig eren en Eid in vrede ontvangen!"
+        },
+        "pt": {
+          "shareText": "Conta as Ultimas Gotas — Vespera do Eid",
+          "quoteText": "Os ultimos dias do Ramadan sao ao mesmo tempo uma despedida e um prenuncio de alegria. O Profeta ﷺ disse: \"Quem revive as duas noites de Eid em adoracao, seu coracao nao morrera no dia em que coracoes morrem.\" (Ibn Majah) Conclua sua fitra, repare lacos quebrados e entre em contato com seus entes queridos. O Allah, deixa-nos honrar o Ramadan plenamente e receber o Eid em paz!"
+        }
+      }
+    },
+    {
+      "id": "bayram-1-gun",
+      "type": "eid",
+      "startDate": "2026-03-20",
+      "endDate": "2026-03-20",
+      "locales": {
+        "tr": {
+          "shareText": "Bayramın İlk Işığı — Allâhu Ekber!",
+          "quoteText": "Ramazan'ın sonsuz nimetlerine şükür olsun! Resûl-i Ekrem ﷺ her bayram sabahı tekbirler getirerek namaza çıkardı. (Buhârî) \"Allâhu Ekber, Allâhu Ekber, lâ ilâhe illallâhu vallâhu Ekber, Allâhu Ekber ve lillâhi'l-hamd.\" Yâ Rabbî, bu mübarek sabahı ümmet-i Muhammed için sağlık, neşe ve güzel haberlerle müzeyyen eyle; bayram namazını şükranla kılmamızı nasîb et!"
+        },
+        "en": {
+          "shareText": "First Light of Eid — Allahu Akbar!",
+          "quoteText": "All praise to Allah for the countless blessings of Ramadan! The Prophet ﷺ would go to Eid prayer with takbir on every Eid morning. (Bukhari) \"Allahu Akbar, Allahu Akbar, la ilaha illAllahu wallahu Akbar, Allahu Akbar wa lillahil hamd.\" O Allah, adorn this blessed morning with health and joy for the Ummah; grant us to perform Eid prayer with true gratitude!"
+        },
+        "ar": {
+          "shareText": "أول نور العيد — الله أكبر!",
+          "quoteText": "الحمد لله على النعم الجزيلة التي أتانا بها رمضان! كان النبي ﷺ يخرج إلى صلاة العيد مكبِّرًا. (البخاري) «الله أكبر الله أكبر، لا إله إلا الله، الله أكبر الله أكبر، ولله الحمد.» اللهم زيِّن هذا الصباح المبارك للأمة المحمدية بالصحة والسرور وأعنّا على أداء صلاة العيد بشكر حقيقي!"
+        },
+        "de": {
+          "shareText": "Erstes Licht des Eids — Allahu Akbar!",
+          "quoteText": "Alles Lob sei Allah für die zahllosen Segnungen des Ramadan! Der Prophet ﷺ pflegte am Eid-Morgen mit Takbir zum Gebet zu gehen. (Bukhari) \"Allahu Akbar, Allahu Akbar, la ilaha illAllahu wallahu Akbar, Allahu Akbar wa lillahil hamd.\" O Allah, schmücke diesen gesegneten Morgen mit Gesundheit und Freude für die Umma!"
+        },
+        "es": {
+          "shareText": "Primera Luz del Eid — Allahu Akbar!",
+          "quoteText": "Alabado sea Allah por las innumerables bendiciones del Ramadan! El Profeta ﷺ solia ir a la oracion del Eid con takbir cada manana de Eid. (Bujari) \"Allahu Akbar, Allahu Akbar, la ilaha illAllahu wallahu Akbar, Allahu Akbar wa lillahil hamd.\" O Allah, adorna esta bendita manana con salud y alegria para la Umma!"
+        },
+        "nl": {
+          "shareText": "Eerste Licht van Eid — Allahu Akbar!",
+          "quoteText": "Alle lof zij Allah voor de talloze zegeningen van Ramadan! De Profeet ﷺ placht elke Eid-ochtend met takbir naar het gebed te gaan. (Bukhari) \"Allahu Akbar, Allahu Akbar, la ilaha illAllahu wallahu Akbar, Allahu Akbar wa lillahil hamd.\" O Allah, versier deze gezegende ochtend met gezondheid en vreugde voor de Umma!"
+        },
+        "pt": {
+          "shareText": "Primeira Luz do Eid — Allahu Akbar!",
+          "quoteText": "Louvado seja Allah pelas inumeraveis bencaos do Ramadan! O Profeta ﷺ costumava ir a oracao do Eid com takbir em cada manha do Eid. (Bukhari) \"Allahu Akbar, Allahu Akbar, la ilaha illAllahu wallahu Akbar, Allahu Akbar wa lillahil hamd.\" O Allah, adornes esta manha abencada com saude e alegria para a Umma!"
+        }
+      }
+    },
+    {
+      "id": "bayram-2-gun",
+      "type": "eid",
+      "startDate": "2026-03-21",
+      "endDate": "2026-03-21",
+      "locales": {
+        "tr": {
+          "shareText": "Bayramın İkinci Gülü",
+          "quoteText": "Bayramın ikinci gününde yakınlarını ziyaret et; küçükleri sev, büyüklere hürmet et, kimsesizleri unutma. Rabbimiz buyurur: \"Ey oğulcuğum! Namazı kıl, iyiliği emret, kötülükten alıkoy ve başına gelene sabret; şüphesiz bunlar kesinlikle yapılması gereken işlerdendir.\" (Lokmân, 17) Yâ Rabbî, aile bağlarımızı pekiştir, bayram sevinciyle tüm gönülleri buluştur!"
+        },
+        "en": {
+          "shareText": "The Second Bloom of Eid",
+          "quoteText": "On the second day of Eid, visit your relatives; cherish the young, honor the elders, and remember the lonely. Allah says: \"O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you — indeed, all that is of the matters requiring determination.\" (Luqman, 17) O Allah, strengthen our family ties and unite all hearts in Eid's joy!"
+        },
+        "ar": {
+          "shareText": "الوردة الثانية للعيد",
+          "quoteText": "في اليوم الثاني من العيد زُر أهلك وذويك؛ أحبَّ الصغير وأكرم الكبير ولا تنسَ المحتاج. قال الله تعالى: \"يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَى مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ.\" (لقمان، 17) اللهم وطِّد أواصر أسرنا واجمع القلوب جميعها في فرحة العيد!"
+        },
+        "de": {
+          "shareText": "Die zweite Blüte des Eids",
+          "quoteText": "Am zweiten Tag des Eids besuche deine Verwandten; liebe die Jungen, ehre die Älteren und vergiss die Einsamen nicht. Allah sagt: \"O mein Söhnchen! Verrichte das Gebet, gebiete das Rechte, verbiete das Verwerfliche und sei geduldig über das, was dir widerfährt.\" (Luqman, 17) O Allah, stärke unsere Familienbande und vereinige alle Herzen in der Freude des Eids!"
+        },
+        "es": {
+          "shareText": "La Segunda Flor del Eid",
+          "quoteText": "En el segundo dia del Eid, visita a tus parientes; quiere a los pequenos, honra a los mayores y recuerda a los solitarios. Allah dice: \"O hijo mio, establece la oracion, ordena lo correcto, prohibe lo reprobable y ten paciencia ante lo que te sobrevenga.\" (Luqman, 17) O Allah, fortalece nuestros lazos familiares y une todos los corazones en la alegria del Eid!"
+        },
+        "nl": {
+          "shareText": "De Tweede Bloem van Eid",
+          "quoteText": "Op de tweede dag van Eid, bezoek je familieleden; koester de jongeren, eer de ouderen en vergeet de eenzamen niet. Allah zegt: \"O mijn zoontje, verricht het gebed, beveel het goede, verbied het kwade en wees geduldig over wat je overkomt.\" (Luqman, 17) O Allah, versterk onze familiebanden en verenig alle harten in de vreugde van Eid!"
+        },
+        "pt": {
+          "shareText": "A Segunda Flor do Eid",
+          "quoteText": "No segundo dia do Eid, visite seus parentes; ame os jovens, honre os mais velhos e lembre-se dos solitarios. Allah diz: \"O meu filho, estabelece a oracao, ordena o bem, proibe o mal e tem paciencia com o que te sobrevier.\" (Luqman, 17) O Allah, fortifica nossos lacos familiares e une todos os coracoes na alegria do Eid!"
+        }
+      }
+    },
+    {
+      "id": "bayram-3-gun",
+      "type": "eid",
+      "startDate": "2026-03-22",
+      "endDate": "2026-03-22",
+      "locales": {
+        "tr": {
+          "shareText": "Bayramın Son Günü",
+          "quoteText": "Bayramın son gününde içinden sor: Bu Ramazan'da ne kazandım? Hangi güzel huyumu yıl boyunca taşıyacağım? Resûl-i Ekrem ﷺ buyurmuştur: \"Allah'a en sevimli amel, az da olsa devâmlı olanıdır.\" (Buhârî, Müslim) Yâ Rabbî, bu mübarek günlerde öğrendiğimiz her güzel alışkanlığı yıl boyunca sürdürmemizi nasîb eyle; bizi nice Ramazanlara daha sağlık ve afiyet içinde eriştir!"
+        },
+        "en": {
+          "shareText": "The Final Day of Eid",
+          "quoteText": "On the last day of Eid, ask yourself: What did I gain this Ramadan? Which good habit will I carry through the year? The Prophet ﷺ said: \"The most beloved deed to Allah is the one done consistently, even if it is small.\" (Bukhari, Muslim) O Allah, help us maintain every beautiful habit gained in this month; and bring us to many more Ramadans in health and wellbeing!"
+        },
+        "ar": {
+          "shareText": "اليوم الأخير من العيد",
+          "quoteText": "في آخر يوم من العيد اسأل نفسك: ماذا اكتسبت في هذا الرمضان؟ وأيَّ عادة حسنة ستحملها طوال العام؟ قال النبي ﷺ: \"أحبُّ الأعمال إلى الله أدومها وإن قل.\" (البخاري، مسلم) اللهم أعنا على المحافظة على كل عادة حميدة اكتسبناها في هذا الشهر وأبلغنا رمضانات كثيرة بصحة وعافية!"
+        },
+        "de": {
+          "shareText": "Der letzte Tag des Eids",
+          "quoteText": "Am letzten Tag des Eids frage dich: Was habe ich in diesem Ramadan gewonnen? Welche gute Gewohnheit werde ich das ganze Jahr tragen? Der Prophet ﷺ sagte: \"Die Allah liebste Tat ist die beständige, auch wenn sie gering ist.\" (Bukhari, Muslim) O Allah, hilf uns, jede schöne Gewohnheit dieses Monats beizubehalten; bringe uns viele weitere Ramadane in Gesundheit!"
+        },
+        "es": {
+          "shareText": "El Ultimo Dia del Eid",
+          "quoteText": "En el ultimo dia del Eid, preguntate: ¿Que gane en este Ramadan? ¿Que buen habito llevare durante todo el ano? El Profeta ﷺ dijo: \"La obra mas amada por Allah es la constante, aunque sea pequena.\" (Bujari, Muslim) O Allah, ayudanos a mantener cada buen habito adquirido en este mes y llevanos a muchos Ramadanes mas en salud!"
+        },
+        "nl": {
+          "shareText": "De Laatste Dag van Eid",
+          "quoteText": "Op de laatste dag van Eid vraag jezelf: Wat heb ik gewonnen in deze Ramadan? Welke goede gewoonte zal ik het hele jaar dragen? De Profeet ﷺ zei: \"De daad die Allah het liefste is, is de consistente, ook al is ze gering.\" (Bukhari, Muslim) O Allah, help ons elke mooie gewoonte van deze maand bij te houden; breng ons naar vele Ramadans in gezondheid!"
+        },
+        "pt": {
+          "shareText": "O Ultimo Dia do Eid",
+          "quoteText": "No ultimo dia do Eid, pergunte a si mesmo: O que ganhei neste Ramadan? Qual bom habito vou carregar durante todo o ano? O Profeta ﷺ disse: \"A obra mais amada por Allah e a consistente, mesmo que seja pequena.\" (Bukhari, Muslim) O Allah, ajuda-nos a manter cada bom habito adquirido neste mes e leva-nos a muitos Ramadans em saude!"
+        }
       }
     }
-    throw new Error('All remote manifest endpoints failed');
-  } catch (err) {
-    if (cached.cached && cached.data) return cached.data;
-    return { items: [] };
-  }
-}
-
-function getLocalePriority(locale) {
-  const normalized = (locale || '').toLowerCase();
-  const chain = [normalized, ...LOCALE_FALLBACK_CHAIN];
-  return chain.filter((value, index) => value && chain.indexOf(value) === index);
-}
-
-function getTypedLocalizedValue(manifest, type, locale, field) {
-  const byType = manifest?.localizedTextByType?.[type];
-  if (!byType) return null;
-  const locales = getLocalePriority(locale);
-  for (const code of locales) {
-    const value = byType?.[code]?.[field];
-    if (typeof value === 'string' && value.trim() !== '') {
-      return value;
+  ],
+  "items": [
+    {
+      "id": "ramadan-gallery",
+      "imageFolder": "images/ramadan",
+      "lang": "tr",
+      "startDate": "2025-02-12",
+      "endDate": "2026-04-15",
+      "type": "ramadan",
+      "shareText": "Ramazan Mübarek",
+      "quoteKey": "remoteContentRamadanQuoteSample"
     }
-  }
-  return null;
-}
-
-function getItemLocalizedValue(item, locale, field) {
-  const locales = getLocalePriority(locale);
-  for (const code of locales) {
-    const value = item?.locales?.[code]?.[field];
-    if (typeof value === 'string' && value.trim() !== '') {
-      return value;
-    }
-  }
-  return null;
-}
-
-function getSpecialDayLocalizedValue(entry, locale, field) {
-  const locales = getLocalePriority(locale);
-  for (const code of locales) {
-    const value = entry?.locales?.[code]?.[field];
-    if (typeof value === 'string' && value.trim() !== '') {
-      return value;
-    }
-  }
-  return null;
-}
-
-function getSpecialDayEntry(manifest, type, today) {
-  const specialDays = manifest?.specialDays || [];
-  if (!Array.isArray(specialDays) || specialDays.length === 0) return null;
-  const matches = specialDays.filter(
-    (entry) =>
-      entry?.type === type &&
-      entry?.startDate <= today &&
-      entry?.endDate >= today
-  );
-  if (matches.length === 0) return null;
-  // Overlap varsa daha ozel (daha gec baslayan) araligi sec.
-  matches.sort((a, b) => (a.startDate < b.startDate ? 1 : a.startDate > b.startDate ? -1 : 0));
-  return matches[0];
-}
-
-function supportsLocale(item, locale, manifest) {
-  const locales = getLocalePriority(locale);
-  const hasItemLocale = locales.some((code) => !!item?.locales?.[code]);
-  if (hasItemLocale) return true;
-  const hasTypeLocale = locales.some(
-    (code) => !!manifest?.localizedTextByType?.[item?.type]?.[code]
-  );
-  if (hasTypeLocale) return true;
-  return item.lang === locale;
-}
-
-function getContentPool(items, locale, manifest, today) {
-  const inDateRange = items.filter(
-    (item) =>
-      item.startDate <= today &&
-      item.endDate >= today
-  );
-  const matching = inDateRange.filter((item) => supportsLocale(item, locale, manifest));
-
-  // Dil eşleşmezse fallback: en, sonra tr
-  let pool = matching;
-  if (pool.length === 0) {
-    pool = inDateRange.filter(
-      (item) =>
-        supportsLocale(item, 'en', manifest)
-    );
-  }
-  if (pool.length === 0) {
-    pool = inDateRange.filter(
-      (item) =>
-        supportsLocale(item, 'tr', manifest)
-    );
-  }
-  return pool;
-}
-
-function mapRemoteItem(chosen, manifest, locale, today, sourceBase, cacheBustToken) {
-  const specialDayEntry = getSpecialDayEntry(manifest, chosen.type, today);
-  const shareText =
-    getSpecialDayLocalizedValue(specialDayEntry, locale, 'shareText') ||
-    getItemLocalizedValue(chosen, locale, 'shareText') ||
-    getTypedLocalizedValue(manifest, chosen.type, locale, 'shareText') ||
-    chosen.shareText ||
-    null;
-  const quoteText =
-    getSpecialDayLocalizedValue(specialDayEntry, locale, 'quoteText') ||
-    getItemLocalizedValue(chosen, locale, 'quoteText') ||
-    getTypedLocalizedValue(manifest, chosen.type, locale, 'quoteText') ||
-    null;
-
-  return {
-    id: chosen.id,
-    imageUrl: buildImageUrl(chosen.imageUrl, sourceBase, cacheBustToken),
-    shareText,
-    quoteText,
-    type: chosen.type,
-    specialDayId: specialDayEntry?.id || null,
-    quoteKey: chosen.quoteKey || null,
-  };
-}
-
-/**
- * Kullanıcının diline ve bugünün tarihine uygun tek bir öğe döndürür.
- * @param {string} locale - tr, en, ar, pt, es, de, nl
- * @returns {Promise<{imageUrl: string, shareText?: string, quoteText?: string, id?: string, type?: string, quoteKey?: string} | null>}
- */
-export async function getRemoteContentItem(locale) {
-  const manifest = await fetchManifest();
-  const items = manifest?.items || [];
-  if (items.length === 0) return null;
-  const sourceBase = manifest?._sourceBase || REMOTE_CONTENT_BASE;
-  const cacheBustToken = DISABLE_REMOTE_CONTENT_CACHE
-    ? String(Date.now())
-    : manifest?._cacheBustToken || manifest?.updatedAt || null;
-
-  const today = new Date().toISOString().slice(0, 10);
-
-  const pool = getContentPool(items, locale, manifest, today);
-  if (pool.length === 0) return null;
-
-  const expandedPool = await expandFolderItems(pool, sourceBase, cacheBustToken);
-  if (expandedPool.length === 0) return null;
-
-  const chosen = expandedPool[Math.floor(Math.random() * expandedPool.length)];
-  return mapRemoteItem(chosen, manifest, locale, today, sourceBase, cacheBustToken);
-}
-
-export async function getRemoteContentItems(locale) {
-  const manifest = await fetchManifest();
-  const items = manifest?.items || [];
-  if (items.length === 0) return [];
-  const sourceBase = manifest?._sourceBase || REMOTE_CONTENT_BASE;
-  const today = new Date().toISOString().slice(0, 10);
-  const cacheBustToken = DISABLE_REMOTE_CONTENT_CACHE
-    ? String(Date.now())
-    : manifest?._cacheBustToken || manifest?.updatedAt || null;
-
-  const pool = getContentPool(items, locale, manifest, today);
-  if (pool.length === 0) return [];
-  const expandedPool = await expandFolderItems(pool, sourceBase, cacheBustToken);
-  if (expandedPool.length === 0) return [];
-  return expandedPool.map((entry) =>
-    mapRemoteItem(entry, manifest, locale, today, sourceBase, cacheBustToken)
-  );
+  ]
 }
