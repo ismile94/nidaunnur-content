@@ -1,0 +1,20 @@
+{
+  "announcements": [
+    {
+      "id": "welcome-2025",
+      "type": "system",
+      "title": "Hoş geldiniz",
+      "message": "Yeni özellikler hakkında bilgi almak için tıklayın.",
+      "requiresAction": true
+    },
+    {
+      "id": "date-range-example",
+      "type": "system",
+      "title": "Tarih aralıklı duyuru",
+      "message": "Sadece showFrom–showUntil aralığında görünür.",
+      "requiresAction": false,
+      "showFrom": "2025-02-01",
+      "showUntil": "2025-04-01"
+    }
+  ]
+}
