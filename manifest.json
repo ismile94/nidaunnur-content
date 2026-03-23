@@ -1,42 +1,6 @@
 {
   "version": "2",
-  "updatedAt": "2026-02-14",
-  "localizedTextByType": {
-    "ramadan": {
-      "tr": {
-        "shareText": "İlk Adım: Niyyet, Sabur, Şükür",
-        "quoteText": "Her hayırlı yolculuk, sağlam bir niyyet ile başlar.\n\nResûl-i Ekrem ﷺ buyurmuştur:\n\"Kim Ramazan orucunu îmân ve ihtisâbla tutarsa geçmiş günahları bağışlanır.\" (Buhârî, Müslim)\n\nYâ Rabbî,\nsahura kalkmayı,\nKur'ân okumayı\nve bu mübârek ayın her gününü şükranla ihyâ etmeyi bizlere nasîb eyle!"
-      },
-      "en": {
-        "shareText": "First Step: Intention, Patience, Gratitude",
-        "quoteText": "Every blessed journey begins with a sincere intention.\n\nThe Messenger of Allah ﷺ said:\n\"Whoever fasts Ramadan with faith and seeking reward, his past sins will be forgiven.\" (Bukhari, Muslim)\n\nO my Lord,\ngrant us the ability to wake for suhoor,\nto recite the Qur’an,\nand to revive every day of this blessed month with gratitude!"
-      },
-      "ar": {
-        "shareText": "الخطوة الأولى: النية، الصبر، الشكر",
-        "quoteText": "كل رحلة مباركة تبدأ بنية صادقة.\n\nقال رسول الله ﷺ:\n\"من صام رمضان إيمانًا واحتسابًا غُفر له ما تقدم من ذنبه.\" (البخاري، مسلم)\n\nيا رب،\nارزقنا القيام للسحور،\nوتلاوة القرآن،\nوإحياء كل يوم من هذا الشهر المبارك بالشكر!"
-      },
-      "de": {
-        "shareText": "Erster Schritt: Absicht, Geduld, Dankbarkeit",
-        "quoteText": "Jede gesegnete Reise beginnt mit einer aufrichtigen Absicht.\n\nDer Gesandte Allahs ﷺ sagte:\n\"Wer im Ramadan im Glauben und in Erwartung der Belohnung fastet, dem werden seine vergangenen Sünden vergeben.\" (Bukhari, Muslim)\n\nO mein Herr,\ngewähre uns, zum Suhoor aufzustehen,\nden Qur’an zu rezitieren,\nund jeden Tag dieses gesegneten Monats in Dankbarkeit zu beleben!"
-      },
-      "es": {
-        "shareText": "Primer Paso: Intención, Paciencia, Gratitud",
-        "quoteText": "Todo viaje bendecido comienza con una intención sincera.\n\nEl Mensajero de Allah ﷺ dijo:\n\"Quien ayune en Ramadán con fe y esperando la recompensa, sus pecados pasados le serán perdonados.\" (Bujari, Muslim)\n\nOh Señor mío,\nconcédenos levantarnos para el suhoor,\nrecitar el Corán,\ny vivir cada día de este mes bendito con gratitud."
-      },
-      "nl": {
-        "shareText": "Eerste Stap: Intentie, Geduld, Dankbaarheid",
-        "quoteText": "Elke gezegende reis begint met een oprechte intentie.\n\nDe Boodschapper van Allah ﷺ zei:\n\"Wie tijdens Ramadan vast met geloof en in de hoop op beloning, diens eerdere zonden worden vergeven.\" (Bukhari, Muslim)\n\nO mijn Heer,\nschenk ons het vermogen om op te staan voor suhoor,\nde Koran te reciteren,\nen elke dag van deze gezegende maand met dankbaarheid te beleven."
-      },
-      "pt": {
-        "shareText": "Primeiro Passo: Intenção, Paciência, Gratidão",
-        "quoteText": "Toda jornada abençoada começa com uma intenção sincera.\n\nO Mensageiro de Allah ﷺ disse:\n\"Quem jejua no Ramadã com fé e buscando recompensa, seus pecados passados serão perdoados.\" (Bukhari, Muslim)\n\nÓ meu Senhor,\nconcede-nos acordar para o suhoor,\nrecitar o Alcorão,\ne viver cada dia deste mês abençoado com gratidão."
-      },
-      "ku": {
-        "shareText": "Pêngava Yekem: Nîyet, Sabur, Şikir",
-        "quoteText": "Her rêwîtiyek xweş bi mebestek bihêz dest pê dike.\n\nPêxember ﷺ gotiye:\n\"Kî bi îman û ji dil rojiya Remezanê bigire, gunehên wî yên berê jê tê efûkirin.\" (Buxarî, Muslim)\n\nYa Xudan,\nji bo sahur rabûn,\nxwendina Quranê\nÛ firsendê bide me ku em her rojên vê meha pîroz bi şikirdarî kêf bikin!"
-      }
-    }
-  },
+  "updatedAt": "2026-03-23",
   "specialDays": [
     {
       "id": "ramazan-arefe",
@@ -76,7 +40,8 @@
           "shareText": "Bi xêr hatî Ey Remezan!",
           "quoteText": "Okyanûsa rehma Xwedê bi meha Remezanê re tê.\n\nXuda Teala dibêje:\n\"Remezan meha ku Qur'an ji mirovahiyê re rêber û delîlên eşkere û pîvana cudakirinê tê de hatiye şandin.\" (Beqere, 185)\n\nEy Xwedayê min,\nEw ê vê mehê ji bo me rast vejîne.\nTenduristî û dilpakî bidin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-ilk-uc-gun",
@@ -116,7 +81,8 @@
           "shareText": "Pêngava Yekem: Nîyet, Sabur, Şikir",
           "quoteText": "Her rêwîtiyek xweş bi mebestek bihêz dest pê dike.\n\nPêxember ﷺ gotiye:\n\"Kî bi îman û ji dil rojiya Remezanê bigire, gunehên wî yên berê jê tê efûkirin.\" (Buxarî, Muslim)\n\nYa Xudan,\nji bo sahur rabûn,\nxwendina Quranê\nÛ firsendê bide me ku em her rojên vê meha pîroz bi şikirdarî kêf bikin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-rahmet-4-7",
@@ -156,7 +122,8 @@
           "shareText": "Bi xêr hatî, Remezana pîroz!",
           "quoteText": "Okyanûsa fireh a rehma Xwedê di meha Remezanê de tê ser me.\n\nXuda Teala dibêje:\n\"Remezan meha ku Qur'an ji mirovahiyê re rêber û delîlên eşkere û pîvana cudakirinê tê de hatiye şandin.\" (Beqere, 185)\n\nEy Xwedayê min,\nEw ê vê mehê ji bo me rast vejîne.\ntendurustî, dilpakî û îbadet\nbihêle!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-rahmet-8-10",
@@ -196,7 +163,8 @@
           "shareText": "Mohrkirina Rojên Rehmetê",
           "quoteText": "Her ku hûn bi kirinên qenc berdewam bikin bereketa deh rojên pêşîn zêde dibin.\n\nRebbê me dibêje:\n“Ji bo lêborîna Xwedayê xwe û ber bi bihişteke ku firehiya wê bi qasî erd û esmanan be, bihişta ku ji bo teqwadaran hatiye amadekirin, birevin.” (Alî Îmran, 133)\n\nYa Xudan,\nme van rojên rehmetê\nji yên ku bi sipas û pesnê xwe temam dikin\nû ya diduyan efûkirina wî\nMe bike yek ji wan ên ku bi aramî digihîje hişê xwe!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-magfiret-11-13",
@@ -236,7 +204,8 @@
           "shareText": "Deriyê Lêborînê Hat Vekirin",
           "quoteText": "Rojên lêborînê di Remezanê de dewra herî kûr a tobeyê ye.\n\nPêxember ﷺ gotiye:\n“Wey li wî kesê ku bigihîje Remezanê û gunehên wî neyên efûkirin.” (Tirmizî)\n\nYa Xudan,\nEm ji giraniya gunehên xwe li Te digerin;\nbi poşmaniyeke jidil\nWerin em van rojên lêborînê vejînin\nalîkariya min bike!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-magfiret-14-17",
@@ -276,7 +245,8 @@
           "shareText": "Ji Barê Gunehê Rijandin",
           "quoteText": "Di nava rojên lêborînê de pêwîst e mafên gelan li ber çavan bê girtin:\nlêborînek derengmayî\nnameyek nenivîsandî\nsilavek ku nehat dayîn…\n\nRebbê me dibêje:\n\"Tu beje: Geli bendeyen min, ku li ser xwe zede kiribin! Hêviya xwe ji dilovaniya Xuda negirin, bêguman Xuda gunehan dibore.\" (Zumer, 53)\n\nYa Xudan,\nda ku dilên ku me şikandiye sererast bike,\nji wan kesên ku ji me aciz bûne lêborînê bixwazin\nû bibaxşîne\nWê çêbe!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-magfiret-18-20",
@@ -316,7 +286,8 @@
           "shareText": "Mohrkirina Rojên Bexşandinê",
           "quoteText": "Di dawiya deh rojên duyemîn de\nxêrxwaziyê zêde bike,\ndestê xwe bide feqîrekî;\nGer te dil şikand, dilê xwe bigire.\n\nPêxember ﷺ gotiye:\n\"Sedeqe xezeba Rebbê xwe ditemirîne û ji mirina xerab dûr dixe.\" (Tirmizî)\n\nYa Xudan,\nvan rojên lêborînê\nBi wijdanek pak û dilekî pak\nji bo edaletê bînin;\nheta deh şevên dawî\nbi dilekî fedakar bikevin hundir\nbextê me bide!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-son-on-giris",
@@ -356,7 +327,8 @@
           "shareText": "Berga Rizgariyê - Şeva 21",
           "quoteText": "Dema ketina deh şevên dawî yên Remezanê\nPêxember (s.a.a) pişta xwe teng dike,\nEw ê şevê vejîna û malê şiyar bike. (Buxarî, Muslim)\n\nŞeva Qedrê îşev dest pê dike.\n\nYa Xudan,\nDi van şevên pîroz de hindik razê,\nGelek tehdîd bikin;\nSaetên me yên sibê bi lêborînê xemilînin;\nMe bînin Kadirê!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-gece-23",
@@ -396,7 +368,8 @@
           "shareText": "23. Şev - Yê ku digere dibîne",
           "quoteText": "Kesên ku di şevên yekane de li Şeva Qedrê digerin bila westiya nebin.\n\nRebbê me dibêje:\n\"Me ew Qur'an di Şeva Qedrê da hinartiye. Şeva Qedrê ji hezar mehan çêtir e. Di wê şevê da milyaket û Ruh bi izna Rebbê xwe dadikevin xwarê. Ew şev heya serê sibê bi aramî ye.\" (Kadr, 1-5)\n\nYa Xudan,\nvê û şevên din ên tekane bidin me\nDerfetê bide min ku ez te bi bereketeke ku ji hezar mehan derbas dibe vejînim;\nDilê me bi tobeyê guncan bike,\nJi kerema xwe îbadeta me qebûl bikin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-gece-25",
@@ -436,7 +409,8 @@
           "shareText": "25. Şev - Di berbangê de dua bikin",
           "quoteText": "Di şeva bîst û pêncan a Remezanê de dilê xwe ji Xwedê re veke;\nBînin bîra xwe ku tu guneh ji dilovaniya Te mezintir nîne.\n\nPêxember ﷺ gotiye:\nRebbê me her şev serê sibê dadikeve ezmanê dinyayê û gazî dike: “Gelo kesê ku ji min efûyê bixwaze heye?\n\nYa Xudan,\nDestên xulamên xwe yên ku serê sibê dest vala vedigerin te, bernede;\nDuayên me qebûl bikin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-kadir-arefe",
@@ -476,7 +450,8 @@
           "shareText": "Yek gav ber bi Kadir ve",
           "quoteText": "Ev şev pêşgotina yek ji demên herî nêzî Kadir e;\nDem ne dema bêhişmendiyê ye, dema aştî û niyetê ye.\n\nPêxember ﷺ gotiye:\n\"Li Şeva Qedrê di şevên bêkêmasî yên deh rojên dawî yên Remezanê de bigerin.\" (Buxarî)\n\nJi vê êvarê niyeta xwe xurt bikin;\nTehecûd, efû û sedeqeya xwe zêde bike.\n\nYa Xudan,\nMe ji vê şeva bi heybet bêpar nehêlin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-kadir-gesi",
@@ -516,7 +491,8 @@
           "shareText": "Şeva Qedrê pîroz be",
           "quoteText": "Îşev dema herî hêvîdar a Şeva Qedrê ye ku ji hezar mehan çêtir e.\n\nVê duayê pir caran dubare bike:\n\"Allahumme inneke afüvvün, tühibbul afve fa'fu anni.\"\n\nRebbê me dibêje:\n\"Di wê şevê de milyaket û Ruh ji bo her tiştî bi destûra Rebbê xwe dadikevin, şev heta berbanga sibê di aramiyê de ye.\" (Kadr, 4-5)\n\nYa Xudan,\nVê şevê bi vejînek bêkêmasî bide me!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "ramazan-bayram-arefe",
@@ -556,7 +532,8 @@
           "shareText": "Dilopên Dawî Bijmêre - Şeva betlaneyê",
           "quoteText": "Rojên dawî yên Remezanê hem dema xatirxwestinê hem jî mizgîniyê ne.\n\nPêxember ﷺ gotiye:\n\"Dilê kesê ku du şevên eydê bi îbadetê derbas bike, wê rojê mirî namîne.\" (Îbnî Mace)\n\nXwezaya xwe temam bikin,\ndilên şikestî qenc bike,\ngazî xizmên xwe bike.\n\nYa Xudan,\nEdaletê ji Remezanê re dikin\nEm cejnê bi aştiyê pêşwazî bikin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "bayram-1-gun",
@@ -596,7 +573,8 @@
           "shareText": "Yekemîn Ronahiya Cejna Qurbanê - Allahu Ekber!",
           "quoteText": "Spas ji Xwedê re ji bo bereketên bêdawî yên Remezanê!\n\nResûlê Xuda [dirûd û silavên Xuda lê bin] her sibeya eydê derdiket nimêja xwe û tekbîr dixwend. (Buxarî)\n\n“Allahû Ekber, Ellahû Ekber, lâ ilahe illallahu wallâhu Ekber, Ellahû Ekber û lîllahî'l-hemd.”\n\nYa Xudan,\nEv sibeya bi bereket ji bo ummeta Muhammed bi sihetî, şahî û mizgînî be;\nJi me re kerem bike ku em nimêja Cejna Qurbanê bi şikir û bi heybet bikin!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "bayram-2-gun",
@@ -636,7 +614,8 @@
           "shareText": "Gula Duyemîn a Cejnê",
           "quoteText": "Di roja duyemîn a eydê de serdana xizmên xwe bikin;\nJi biçûkan hez bikin, ji mezinan re rêz bigirin, sêwiyan ji bîr nekin.\n\nRebbê me dibêje:\n\"Kurê min! Nimêjê bike, fermana bi qenciyê bide, ji xirabiyê heram bike û bi çi bi serê te hatibe sebir bike; bêguman ev ji wan tiştên ku divê bên kirin in.\" (Luqman, 17)\n\nYa Xudan,\ntêkiliyên me yên malbatî xurt bikin\nû hemû dilan bi şahiya cejnê re bikin yek!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     },
     {
       "id": "bayram-3-gun",
@@ -676,19 +655,9 @@
           "shareText": "Roja dawî ya eydê",
           "quoteText": "Di roja dawî ya eydê de ji xwe bipirsin:\nMin di vê Remezanê de çi qezenc kir?\nKîjan adeta baş ez ê li seranserê salê bi xwe re hilgirim?\n\nPêxember ﷺ gotiye:\n\"Xwedê herî hezkirî ew e ku domdar be, her çend hindik be.\" (Buxarî, Muslim)\n\nYa Xudan,\nBila em di tevahiya salê de her adetên baş ên ku me di van rojên pîroz de fêr bûne bidomînin;\nBila em bigihîjin gelek Remezanê bi tenduristî û xweşiyê!"
         }
-      }
+      },
+      "imageFolder": "images/ramadan"
     }
   ],
-  "items": [
-    {
-      "id": "ramadan-gallery",
-      "imageFolder": "images/ramadan",
-      "lang": "tr",
-      "startDate": "2025-02-12",
-      "endDate": "2026-04-15",
-      "type": "ramadan",
-      "shareText": "Ramazan Mübarek",
-      "quoteKey": "remoteContentRamadanQuoteSample"
-    }
-  ]
+  "items": []
 }
