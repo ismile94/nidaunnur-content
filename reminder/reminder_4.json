@@ -1,0 +1,344 @@
+{
+  "month": 1,
+  "day": 4,
+  "title": {
+    "tr": "İç Muhasebe (Muhasaba)",
+    "en": "Self-Accounting (Muhasaba)",
+    "es": "Examen Interior (Muhasaba)",
+    "pt": "Exame Interior (Muhasaba)",
+    "nl": "Zelfverantwoording (Muhasaba)",
+    "de": "Innere Rechenschaft (Muhasaba)",
+    "ku": "Hesabdana Hundurîn (Muhasebe)",
+    "ckb": "ژمارەکردنی ناوەوە (موحاسەبە)",
+    "ar": "المحاسبة الداخلية (المحاسبة)"
+  },
+  "content": {
+    "tr": "Kendinle ne zaman son kez dürüstçe hesaplaştın? Muhasebe, yalnızca tüccarların defterlerine yazdıkları şey değildir — kalbin defteridir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«Ey iman edenler! Allah'tan korkun ve her nefis yarın için ne hazırladığına baksın.»**\n*(Haşr 59:18)*\n\nHz. Ömer r.a. şu çarpıcı sözü söylemiştir:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Hesaba çekilmeden önce kendinizi hesaba çekin.»**\n*(İbn Hanbel, Zühd)*\n\nMuhasebe, kendini yargılamak değildir. Bugün neyin doğru, neyin eksik gittiğine dürüstçe bakmaktır — suçluluk değil, farkındalık. Akşam yatmadan önce üç soru sormak yeterlidir: Bugün ne iyi yaptım? Nerede geridim? Yarın ne farklı yapabilirim?",
+    "en": "When did you last honestly account for yourself? Muhasaba is not only what merchants write in their ledgers — it is the ledger of the heart.\n\nAllah the Most High says:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**\"O you who believe! Fear Allah, and let every soul look to what it has sent forward for tomorrow.\"**\n*(Al-Hashr 59:18)*\n\nUmar ibn al-Khattab said these striking words:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**\"Call yourselves to account before you are called to account.\"**\n*(Ibn Hanbal, Zuhd)*\n\nMuhasaba is not self-condemnation. It is looking honestly at what went right and what fell short today — not guilt, but awareness. Before sleeping, three questions are enough: What did I do well today? Where did I fall behind? What can I do differently tomorrow?",
+    "es": "¿Cuándo fue la última vez que te pediste cuentas a ti mismo honestamente? La muhasaba no es solo lo que los comerciantes escriben en sus libros contables — es el libro contable del corazón.\n\nAllah el Altísimo dice:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«¡Oh creyentes! Temed a Allah, y que cada alma observe lo que ha preparado para mañana.»**\n*(Al-Hashr 59:18)*\n\nUmar ibn al-Khattab dijo estas palabras reveladoras:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Pedíos cuentas a vosotros mismos antes de que se os pidan cuentas.»**\n*(Ibn Hanbal, Zuhd)*\n\nLa muhasaba no es autocondenación. Es mirar honestamente qué salió bien y qué faltó hoy — no culpa, sino conciencia. Antes de dormir, tres preguntas son suficientes: ¿Qué hice bien hoy? ¿Dónde me quedé corto? ¿Qué puedo hacer diferente mañana?",
+    "pt": "Quando foi a última vez que você prestou contas honestamente a si mesmo? Muhasaba não é apenas o que os comerciantes escrevem em seus livros contábeis — é o livro contábil do coração.\n\nAllah o Altíssimo diz:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«Ó crentes! Temei a Allah, e que cada alma veja o que preparou para amanhã.»**\n*(Al-Hashr 59:18)*\n\nUmar ibn al-Khattab disse estas palavras marcantes:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Prestai contas a vós mesmos antes de serdes chamados a prestá-las.»**\n*(Ibn Hanbal, Zuhd)*\n\nMuhasaba não é autocondenação. É olhar honestamente para o que correu bem e o que ficou a dever hoje — não culpa, mas consciência. Antes de dormir, três perguntas são suficientes: O que fiz bem hoje? Em que falhei? O que posso fazer diferente amanhã?",
+    "nl": "Wanneer heb je jezelf voor het laatst eerlijk verantwoord? Muhasaba is niet alleen wat kooplieden in hun kasboeken schrijven — het is het kasboek van het hart.\n\nAllah de Verhevene zegt:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«O jullie die geloven! Vrees Allah, en laat elke ziel zien wat zij voor morgen heeft voorbereid.»**\n*(Al-Hashr 59:18)*\n\nUmar ibn al-Khattab sprak deze treffende woorden:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Verantwoord jezelf voordat je verantwoord wordt.»**\n*(Ibn Hanbal, Zuhd)*\n\nMuhasaba is geen zelfveroordeling. Het is eerlijk kijken naar wat vandaag goed ging en wat tekortschoot — niet schuld, maar bewustzijn. Drie vragen voor het slapengaan zijn genoeg: Wat deed ik vandaag goed? Waar schoot ik tekort? Wat kan ik morgen anders doen?",
+    "de": "Wann hast du dich zuletzt ehrlich mit dir selbst abgerechnet? Muhasaba ist nicht nur das, was Kaufleute in ihre Bücher schreiben — es ist das Buch des Herzens.\n\nAllah der Erhabene sagt:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**„O ihr, die ihr glaubt! Fürchtet Allah, und jede Seele soll sehen, was sie für morgen vorausgerschickt hat."**\n*(Al-Hashr 59:18)*\n\nUmar ibn al-Khattab sprach diese eindrücklichen Worte:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**„Rechnet mit euch selbst ab, bevor ihr abgerechnet werdet."**\n*(Ibn Hanbal, Zuhd)*\n\nMuhasaba ist keine Selbstverurteilung. Es bedeutet, ehrlich hinzuschauen, was heute gut lief und was zu kurz kam — nicht Schuld, sondern Bewusstsein. Drei Fragen vor dem Schlafen genügen: Was habe ich heute gut gemacht? Wo bin ich hinter mir geblieben? Was kann ich morgen anders machen?",
+    "ku": "Kengê bû ku cara dawî bi dürüstî bi xwe re hesab kir? Muhasebe ne tenê tiştê ku bazirgan di deftêrên xwe de dinivîsin e — ew deftêra dilê ye.\n\nAllah ê Bilind wiha dibêje:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«Ey bawermendan! Ji Allahî bitirsin û bila her nefis mêze bike ku ji bo sibê çi şandiye pêş xwe.»**\n*(El-Haşr 59:18)*\n\nHz. Umer r.a. van gotinên balkêş wiha got:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Berî ku hûn bên hesabkirin, we bi xwe hesab bikin.»**\n*(İbn Henbel, Zühd)*\n\nMuhasebe xwe mehkumkirin nîye. Ew bi dürüstî li tiştên ku îro baş û kêm çûne mêzekirin e — ne guneh, belkî hişyarî. Berî razanê sê pirs bes in: Îro çi baş kir? Li ku paşde mam? Sibê çi cuda dikarim bikim?",
+    "ckb": "کەی بوو کە دوایین جار بە دروستی لەگەڵ خۆت ژمارەی کردووە؟ موحاسەبە تەنها ئەوەی نییە کە بازرگانەکان لە دەفتەرەکانیاندا دەنووسن — ئەو دەفتەری دڵە.\n\nاللەی بەرز دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**«ئەی ئەوانەی باوەڕتان هێناوە! لە اللە بترسن و با هەر نەفسێک سەیر بکات چی بۆ سبەینی ناردووە.»**\n*(ئەلحەشر: ١٨)*\n\nعومەر بن خەتاب ئەم قسانەی گرنگی فەرموو:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«پێش ئەوەی ژمارەتان لێبکرێتەوە، خۆتان ژمارە بکەن.»**\n*(ئیبن حەنبەل، زوهد)*\n\nموحاسەبە سەرزەنشتی خۆت نییە. ئەمەیە کە بە دروستی سەیر بکەیت ئەمڕۆ چی باش چووە و چی کەم چووە — نەک تاوانبارکردن، بەڵکو ئاگاداربوون. سێ پرسیار پێش خەوتن بەس دەکات: ئەمڕۆ چیم باش کرد؟ کوێم کەم هاتم؟ سبەی چیم دەتوانم جیاواز بکەم؟",
+    "ar": "متى كانت آخر مرة حاسبتَ فيها نفسَك بصدق؟ المحاسبة ليست ما يكتبه التجار في دفاترهم وحسب — إنها دفتر القلب.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n*(الحشر: ١٨)*\n\nوقال عمر بن الخطاب رضي الله عنه:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n*(ابن حنبل، الزهد)*\n\nالمحاسبةُ ليست إدانةً للنفس. هي النظر بصدق إلى ما سار حسناً وما قصَّر فيه يومك — لا ذنبٌ، بل وعي. ثلاثة أسئلة قبل النوم تكفي: ماذا أحسنتُ اليوم؟ وأين قصَّرت؟ وماذا أستطيع أن أفعل غداً بصورة مختلفة؟"
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "Haşr Suresi 18. ayete göre müminler neleri gözden geçirmelidir?",
+        "en": "According to Al-Hashr 59:18, what should believers review?",
+        "es": "Según Al-Hashr 59:18, ¿qué deben revisar los creyentes?",
+        "pt": "De acordo com Al-Hashr 59:18, o que os crentes devem revisar?",
+        "nl": "Wat moeten gelovigen volgens Al-Hashr 59:18 herzien?",
+        "de": "Was sollen die Gläubigen laut Al-Hashr 59:18 überprüfen?",
+        "ku": "Li gorî El-Haşr 59:18, bawermendan divê çi binirxînin?",
+        "ckb": "بەپێی ئەلحەشر ٥٩:١٨، باوەڕداران پێویستە چی پێداچوونەوە بکەن؟",
+        "ar": "ما الذي ينبغي للمؤمنين مراجعته وفق الآية ١٨ من سورة الحشر؟"
+      },
+      "options": [
+        {
+          "tr": "Sahip oldukları nimetleri",
+          "en": "The blessings they possess",
+          "es": "Las bendiciones que poseen",
+          "pt": "As bênçãos que possuem",
+          "nl": "De zegeningen die ze bezitten",
+          "de": "Die Segnungen, die sie besitzen",
+          "ku": "Nîmetên ku xwediyê wan in",
+          "ckb": "ئەو نیمەتانەی کە هەیانە",
+          "ar": "النعم التي يملكونها"
+        },
+        {
+          "tr": "Yarın için ne hazırladıklarını",
+          "en": "What they have sent forward for tomorrow",
+          "es": "Lo que han preparado para mañana",
+          "pt": "O que prepararam para amanhã",
+          "nl": "Wat zij voor morgen hebben voorbereid",
+          "de": "Was sie für morgen vorausgeschickt haben",
+          "ku": "Ji bo sibê çi şandine pêş xwe",
+          "ckb": "چیان بۆ سبەینی ناردووە",
+          "ar": "ما قدّموه لغد"
+        },
+        {
+          "tr": "Başkalarının hatalarını",
+          "en": "The mistakes of others",
+          "es": "Los errores de los demás",
+          "pt": "Os erros dos outros",
+          "nl": "De fouten van anderen",
+          "de": "Die Fehler anderer",
+          "ku": "Xeletiyên kesên din",
+          "ckb": "هەڵەکانی کەسانی تر",
+          "ar": "أخطاء الآخرين"
+        },
+        {
+          "tr": "Geçmiş ümmetlerin kıssalarını",
+          "en": "The stories of past nations",
+          "es": "Las historias de las naciones pasadas",
+          "pt": "As histórias das nações passadas",
+          "nl": "De verhalen van vroegere volken",
+          "de": "Die Geschichten vergangener Völker",
+          "ku": "Çîrokên gelên borî",
+          "ckb": "چیرۆکەکانی نەتەوەی ڕابردوو",
+          "ar": "قصص الأمم الماضية"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "\"Hesaba çekilmeden önce kendinizi hesaba çekin\" sözü kime aittir?",
+        "en": "Who said \"Call yourselves to account before you are called to account\"?",
+        "es": "¿Quién dijo «Pedíos cuentas a vosotros mismos antes de que se os pidan cuentas»?",
+        "pt": "Quem disse «Prestai contas a vós mesmos antes de serdes chamados a prestá-las»?",
+        "nl": "Wie zei «Verantwoord jezelf voordat je verantwoord wordt»?",
+        "de": "Wer sagte „Rechnet mit euch selbst ab, bevor ihr abgerechnet werdet"?",
+        "ku": "«Berî ku hûn bên hesabkirin, we bi xwe hesab bikin» gotina kê ye?",
+        "ckb": "«پێش ئەوەی ژمارەتان لێبکرێتەوە، خۆتان ژمارە بکەن» قسەی کێیە؟",
+        "ar": "مَن قال «حاسبوا أنفسكم قبل أن تُحاسبوا»؟"
+      },
+      "options": [
+        {
+          "tr": "Hz. Peygamber ﷺ",
+          "en": "The Prophet ﷺ",
+          "es": "El Profeta ﷺ",
+          "pt": "O Profeta ﷺ",
+          "nl": "De Profeet ﷺ",
+          "de": "Der Prophet ﷺ",
+          "ku": "Pêxember ﷺ",
+          "ckb": "پێغەمبەر ﷺ",
+          "ar": "النبي ﷺ"
+        },
+        {
+          "tr": "Hz. Ebû Bekir",
+          "en": "Abu Bakr",
+          "es": "Abu Bakr",
+          "pt": "Abu Bakr",
+          "nl": "Abu Bakr",
+          "de": "Abu Bakr",
+          "ku": "Ebû Bekir",
+          "ckb": "ئەبو بەکر",
+          "ar": "أبو بكر"
+        },
+        {
+          "tr": "Hz. Ömer ibn el-Hattâb",
+          "en": "Umar ibn al-Khattab",
+          "es": "Umar ibn al-Khattab",
+          "pt": "Umar ibn al-Khattab",
+          "nl": "Umar ibn al-Khattab",
+          "de": "Umar ibn al-Khattab",
+          "ku": "Umer b. el-Xettab",
+          "ckb": "عومەر بن خەتاب",
+          "ar": "عمر بن الخطاب"
+        },
+        {
+          "tr": "Hz. Osman ibn Affân",
+          "en": "Uthman ibn Affan",
+          "es": "Uthman ibn Affan",
+          "pt": "Uthman ibn Affan",
+          "nl": "Uthman ibn Affan",
+          "de": "Uthman ibn Affan",
+          "ku": "Osman b. Affan",
+          "ckb": "عوسمان بن عەففان",
+          "ar": "عثمان بن عفان"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "İslami anlamda muhasebe (muhasaba) ne demektir?",
+        "en": "What does muhasaba mean in the Islamic sense?",
+        "es": "¿Qué significa muhasaba en el sentido islámico?",
+        "pt": "O que significa muhasaba no sentido islâmico?",
+        "nl": "Wat betekent muhasaba in islamitische zin?",
+        "de": "Was bedeutet Muhasaba im islamischen Sinne?",
+        "ku": "Muhasebe di wataya Îslamî de çi tê wateya?",
+        "ckb": "موحاسەبە لە واتای ئیسلامیدا چی مانایەکی هەیە؟",
+        "ar": "ما معنى المحاسبة في المفهوم الإسلامي؟"
+      },
+      "options": [
+        {
+          "tr": "Başkalarını eleştirmek",
+          "en": "Criticising others",
+          "es": "Criticar a los demás",
+          "pt": "Criticar os outros",
+          "nl": "Anderen bekritiseren",
+          "de": "Andere zu kritisieren",
+          "ku": "Rexnekirin li yên din",
+          "ckb": "رەخنەگرتن لە کەسانی تر",
+          "ar": "انتقاد الآخرين"
+        },
+        {
+          "tr": "Kendi eylem ve niyetlerini dürüstçe gözden geçirmek",
+          "en": "Honestly reviewing one's own actions and intentions",
+          "es": "Revisar honestamente las propias acciones e intenciones",
+          "pt": "Rever honestamente as próprias ações e intenções",
+          "nl": "Eerlijk de eigen daden en intenties herzien",
+          "de": "Die eigenen Taten und Absichten ehrlich überprüfen",
+          "ku": "Bi dürüstî xwendina kar û niyetên xwe",
+          "ckb": "بە دروستی پێداچوونەوە بە کردار و نیەتەکانی خۆت",
+          "ar": "مراجعة أعمال المرء ونياته بصدق"
+        },
+        {
+          "tr": "Günahlar için uzun süre ağlamak",
+          "en": "Weeping for a long time over sins",
+          "es": "Llorar durante mucho tiempo por los pecados",
+          "pt": "Chorar por muito tempo pelos pecados",
+          "nl": "Lang huilen om zonden",
+          "de": "Lange über Sünden zu weinen",
+          "ku": "Ji ber gunahan dirêj goristanê girêdan",
+          "ckb": "درێژە گریان بەهۆی گوناهەکانەوە",
+          "ar": "البكاء طويلاً على الذنوب"
+        },
+        {
+          "tr": "Sevap defterini yazmak",
+          "en": "Writing down one's good deeds",
+          "es": "Escribir las buenas acciones propias",
+          "pt": "Escrever as próprias boas ações",
+          "nl": "De eigen goede daden opschrijven",
+          "de": "Die eigenen guten Taten aufschreiben",
+          "ku": "Nivîsandina deftêra karên başan",
+          "ckb": "نووسینی دەفتەری کارە باوەکان",
+          "ar": "كتابة السجل الحسن"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Haşr Suresi 18. ayeti hangi sure içindedir?",
+        "en": "Surah Al-Hashr is the how-manyeth surah of the Quran?",
+        "es": "¿Cuántas es la Sura Al-Hashr en el Corán?",
+        "pt": "A Surata Al-Hashr é a qual surata do Alcorão?",
+        "nl": "Welk nummer heeft Soera Al-Hashr in de Koran?",
+        "de": "Die wievielte Sure des Korans ist Sure Al-Hashr?",
+        "ku": "Sûreta El-Haşr ya çendê ya Quranê ye?",
+        "ckb": "سورەتی ئەلحەشر چەندەمین سورەتی قورئانەکەیە؟",
+        "ar": "ما رقم سورة الحشر في القرآن الكريم؟"
+      },
+      "options": [
+        {
+          "tr": "49",
+          "en": "49",
+          "es": "49",
+          "pt": "49",
+          "nl": "49",
+          "de": "49",
+          "ku": "49",
+          "ckb": "٤٩",
+          "ar": "٤٩"
+        },
+        {
+          "tr": "55",
+          "en": "55",
+          "es": "55",
+          "pt": "55",
+          "nl": "55",
+          "de": "55",
+          "ku": "55",
+          "ckb": "٥٥",
+          "ar": "٥٥"
+        },
+        {
+          "tr": "59",
+          "en": "59",
+          "es": "59",
+          "pt": "59",
+          "nl": "59",
+          "de": "59",
+          "ku": "59",
+          "ckb": "٥٩",
+          "ar": "٥٩"
+        },
+        {
+          "tr": "63",
+          "en": "63",
+          "es": "63",
+          "pt": "63",
+          "nl": "63",
+          "de": "63",
+          "ku": "63",
+          "ckb": "٦٣",
+          "ar": "٦٣"
+        }
+      ],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Muhasebe yaparken hangi yaklaşım doğrudur?",
+        "en": "Which approach is correct when doing muhasaba?",
+        "es": "¿Cuál es el enfoque correcto al hacer muhasaba?",
+        "pt": "Qual abordagem é correta ao fazer muhasaba?",
+        "nl": "Welke benadering is juist bij het doen van muhasaba?",
+        "de": "Welcher Ansatz ist beim Muhasaba richtig?",
+        "ku": "Dema muhasebekirin, nêzîkatiya rast kîjan e?",
+        "ckb": "کاتی موحاسەبەکردن، چ نزیکایییەک ڕاستە؟",
+        "ar": "ما المنهج الصحيح عند المحاسبة؟"
+      },
+      "options": [
+        {
+          "tr": "Hatalar üzerinde sürekli takılı kalmak",
+          "en": "Dwelling on mistakes constantly",
+          "es": "Obsesionarse constantemente con los errores",
+          "pt": "Ficar constantemente preso nos erros",
+          "nl": "Voortdurend bij fouten stilstaan",
+          "de": "Sich ständig an Fehlern festzubeißen",
+          "ku": "Her û her li xeletiyên xwe mêzekirin",
+          "ckb": "هەموو کات بە هەڵەکان ئەلقدان",
+          "ar": "التركيز الدائم على الأخطاء"
+        },
+        {
+          "tr": "Kendini suçlayıp pişmanlık duymak ama değişmemek",
+          "en": "Feeling guilty and remorseful without changing",
+          "es": "Sentirse culpable y arrepentido sin cambiar",
+          "pt": "Sentir-se culpado e arrependido sem mudar",
+          "nl": "Schuldig en berouwvol zijn zonder te veranderen",
+          "de": "Sich schuldig und reumütig fühlen, ohne sich zu ändern",
+          "ku": "Xwe sûcdar û poşman hîs kirin bêyî ku biguheze",
+          "ckb": "خۆت تاوانبار و پەشیمان هەست بکەیت بەبێ گۆڕانکاری",
+          "ar": "الشعور بالذنب والندم دون تغيير"
+        },
+        {
+          "tr": "Farkındalıkla bakmak ve yarın için küçük bir adım belirlemek",
+          "en": "Looking with awareness and setting a small step for tomorrow",
+          "es": "Mirar con consciencia y establecer un pequeño paso para mañana",
+          "pt": "Olhar com consciência e definir um pequeno passo para amanhã",
+          "nl": "Met bewustzijn kijken en een kleine stap voor morgen bepalen",
+          "de": "Mit Bewusstsein hinschauen und einen kleinen Schritt für morgen festlegen",
+          "ku": "Bi hişyarî mêzekirin û gaveke piçûk ji bo sibê destnîşankirin",
+          "ckb": "بە ئاگاییەوە سەیرکردن و هەنگاوێکی بچووک بۆ سبەینی دیاریکردن",
+          "ar": "النظر بوعي وتحديد خطوة صغيرة للغد"
+        },
+        {
+          "tr": "Başkalarının iyiliklerini kendininkiyle kıyaslamak",
+          "en": "Comparing your good deeds with those of others",
+          "es": "Comparar tus buenas acciones con las de los demás",
+          "pt": "Comparar suas boas ações com as dos outros",
+          "nl": "Je goede daden vergelijken met die van anderen",
+          "de": "Die eigenen guten Taten mit denen anderer zu vergleichen",
+          "ku": "Karên baş yên xwe bi yên kesên din re berhev kirin",
+          "ckb": "بەراوردکردنی کارە باوەکانی خۆت لەگەڵ کارە باوەکانی کەسانی تر",
+          "ar": "مقارنة حسناتك بحسنات الآخرين"
+        }
+      ],
+      "correct": 2
+    }
+  ],
+  "reflection": {
+    "tr": "Bu gece yatmadan önce sadece bir dakikanı ayır. Bugünü tek bir kelimeyle tanımlasaydın ne olurdu? Bir hatayı fark ettin mi — o farkındalık bile başlı başına bir kazanımdır. Muhasebe seni küçültmez; seni daha net görür kılar. Yarın yeni bir sayfadır ve onu nasıl dolduracağını bugün gece sen belirlersin.",
+    "en": "Before you sleep tonight, set aside just one minute. If you had to describe today in one word, what would it be? Did you notice a mistake — that awareness alone is already a gain. Muhasaba does not diminish you; it makes you see yourself more clearly. Tomorrow is a new page, and tonight you decide how to fill it.",
+    "es": "Antes de dormir esta noche, dedica solo un minuto. Si tuvieras que describir hoy con una sola palabra, ¿cuál sería? ¿Notaste un error? Esa sola conciencia ya es una ganancia. La muhasaba no te disminuye; te hace verte con más claridad. Mañana es una página nueva, y esta noche tú decides cómo llenarla.",
+    "pt": "Antes de dormir esta noite, reserve apenas um minuto. Se você tivesse que descrever o dia de hoje com uma palavra, qual seria? Você percebeu algum erro — só essa consciência já é um ganho. Muhasaba não te diminui; faz com que te vejas com mais clareza. Amanhã é uma nova página, e esta noite você decide como preenchê-la.",
+    "nl": "Neem vanavond voor het slapengaan slechts één minuut. Als je deze dag in één woord moest omschrijven, wat zou dat zijn? Merkte je een fout op — die bewustwording alleen al is winst. Muhasaba maakt je niet kleiner; het laat je jezelf helderder zien. Morgen is een nieuwe bladzijde, en vanavond bepaal jij hoe die gevuld wordt.",
+    "de": "Nimm heute Abend vor dem Einschlafen nur eine Minute. Wenn du den heutigen Tag in einem Wort beschreiben müsstest — welches wäre es? Hast du einen Fehler bemerkt? Schon dieses Bewusstsein allein ist ein Gewinn. Muhasaba macht dich nicht kleiner; es lässt dich dich selbst klarer sehen. Morgen ist eine neue Seite, und heute Abend entscheidest du, wie sie gefüllt wird.",
+    "ku": "Îşev berî razanê tenê yek deqe ji xwe re veqetîne. Ger bijêya ku îroyê bi yek peyvê binirxandana — ew peyv çi bûya? Ma xeletiyek fêm kir? Ew hişyarî bi xwe jixwe destkeftiyek e. Muhasebe te piçûk nake; dike ku xwe bêtir zelal bibînî. Sibê rûpeleke nû ye û tu îşev biryar didî ku wê çawa dagirî.",
+    "ckb": "ئەمشەو پێش خەوتن تەنها یەک خولەک بۆ خۆت تەرخان بکە. ئەگەر پێویست بوایە ئەمڕۆت بە یەک وشە وەسف بکەیت — ئەو وشەیە چی دەبوو؟ هەڵەیەکت بەیاند؟ ئەو ئاگاییەی تەنها خۆی دەستکەوتێکە. موحاسەبە بچووکت ناکات؛ دەیکات خۆت بە ڕوونی بیبینی. سبەی پەڕەیەکی نوێیە و ئەمشەو تۆ دەیڕێژی چۆن پڕی بکەیتەوە.",
+    "ar": "قبل أن تنام الليلة، خصِّص دقيقةً واحدة. لو كان عليك أن تصف يومك بكلمة واحدة — ما كانت ستكون؟ هل لاحظتَ خطأً ما؟ هذا الوعي وحده مكسبٌ بحد ذاته. المحاسبة لا تُصغِّرك؛ بل تجعلك ترى نفسك بوضوح أكبر. الغدُ صفحةٌ جديدة، وأنت الليلة تقرر كيف تملؤها."
+  }
+}
