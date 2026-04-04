@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 3,
+  "title": {
+    "tr": "İnsanlara Saygı",
+    "en": "Respect for People",
+    "es": "Respeto hacia las Personas",
+    "pt": "Respeito pelas Pessoas",
+    "nl": "Respect voor Mensen",
+    "de": "Respekt vor Menschen",
+    "ku": "Rêzê li Mirovan",
+    "ckb": "ڕێزگرتن لە مرۆڤەکان",
+    "ar": "احْتِرَامُ النَّاسِ"
+  },
+  "content": {
+    "tr": "İnsanlara saygı; sadece hoş görünmek veya çıkar uğruna eğilmek değil — Allah'ın Âdem oğullarına ikram ettiği onuru hatırlamak, alaydan ve küçümsemekten uzak durmak ve kalbe taş atmamaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n**«Andolsun Biz Âdem oğullarını ikram ettik...»**\n*(İsrâ 17:70 — meâl özü)*\n\nToplumda incitmeyi yasaklayan bir çerçeve de vardır:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ﴾**\n**«Ey iman edenler! Bir topluluk diğeriyle alay etmesin; alay ettiği kimseler kendilerinden hayırlı olabilirler...»**\n*(Hucurât 49:11 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ»** — **«Kim Allah'a ve ahiret gününe iman ediyorsa ya hayır söylesin ya da sussun.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a.)*\n\nBugün: bir cümleyi alaydan çekmek — İsrâ 17:70 ve Hucurât 49:11: saygı, makamda değil; Allah'ın verdiği haysiyet bilincinde büyür.",
+    "en": "Respect for people is not mere politeness for gain — it is remembering the honor Allah granted the children of Adam, turning away from mockery and belittling, and not throwing stones at hearts.\n\nAllah the Most High says:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n**\"And We have certainly honored the children of Adam...\"**\n*(Al-Isra 17:70 — meaning summarized)*\n\nA frame that forbids hurting people in society:\n\n**﴿O you who have believed, let not a people ridicule another people; perhaps they are better than them...﴾**\n*(Al-Hujurat 49:11 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"Whoever believes in Allah and the Last Day should speak good or remain silent.\"**\n*(Al-Bukhari, Muslim — narrated by Abu Hurairah.)*\n\nToday: pull one sentence back from mockery — Al-Isra 17:70 and Al-Hujurat 49:11: respect grows in awareness of God-given dignity, not in status.",
+    "es": "Respeto no es cortesía vacía — es recordar el honor divino.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«فليقل خيرا أو ليصمت»** *(Bujari, Muslim)*\n\nHoy: retira una palabra de la burla.",
+    "pt": "Respeito não é cortesia vazia — é lembrar a honra divina.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHoje: retire uma palavra da zombaria.",
+    "nl": "Respect is geen lege beleefdheid — het is Gods eer voor de mens herdenken.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nVandaag: haal één woord weg uit spot.",
+    "de": "Respekt ist keine leere Höflichkeit — es ist die Erinnerung an die göttliche Würde.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHeute: ein Wort vom Spott zurückziehen.",
+    "ku": "Rêzê li mirovan ne tenê nazikî ji ber berjewendiyê ye — ewlehiya ku Allah daye kurên Adem tîne bîr.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Îsrâ 17:70)*\n\n**﴿لا يسخر﴾**\n*(Hucurât 49:11)*\n\n**«خيرا أو ليصمت»** *(Buxarî)*\n\nÎro: peyvê ji henekê vekişîne.",
+    "ckb": "ڕێزگرتن لە مرۆڤەکان تەنها نەرم و نیان یان بەدەست هێنانی قازانج نییە — بەڵکوو بیرهێنانەوەی ئەو شەرەفەیە کە اللە بە کوڕەکانی ئادەم بەخشیوە و دوورکەوتنەوە لە گاڵێدان و بچووککردنەوە و نەخستنی بەرد لەسەر دڵ.\n\nاللە دەفەرموێت:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n*(ئسرا: ٧٠)*\n\n**﴿لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ﴾**\n*(حوجورات: ١١)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: ڕستەیەک لە گاڵێدان دوور بخەرەوە — ئسرا ٧٠ و حوجورات ١١: ڕێز لە ناساندنی پلەدا ناگەشێتەوە؛ لە هۆشیاری شەرەفی خوداییدا گەشە دەکات.",
+    "ar": "احترامُ الناس ليس مجاملةً خاويةً أو انحناءً من أجل مصلحة — إنما تذكُّرُ الإكرام الذي أكرم الله به بني آدم، والبعدُ عن السخرية والاستصغار، وعدمُ رمي القلوب بالحجارة.\n\nيقول الله تعالى:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n*(الإسراء: ٧٠)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ﴾**\n*(الحجرات: ١١)*\n\nوقال النبي ﷺ:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(متفق عليه — عن أبي هريرة)*\n\nاليوم: اكفِفْ جملةً عن السخرية — الإسراء ٧٠ والحجرات ١١: الاحترامُ يكبرُ بوعيِ الكرامة لا بالمنصب."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Âdem oğullarını ikram ettik» ifadesi hangi surede geçer?",
+        "en": "In which surah does the phrase about honoring the children of Adam appear?",
+        "es": "¿En qué sura está «كرمنا بني آدم»?",
+        "pt": "Em qual sura está «كرمنا بني آدم»?",
+        "nl": "In welke soera staat «كرمنا بني آدم»?",
+        "de": "In welcher Sure steht «كرمنا بني آدم»?",
+        "ku": "Gotina «me kurên Adem rêz kir» di kîjan sureyê de ye?",
+        "ckb": "«ئێمە کوڕەکانی ئادەممان ڕێزگرتووە» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ولقد كرمنا بني آدم﴾؟"
+      },
+      "options": [
+        {
+          "tr": "İsrâ",
+          "en": "Al-Isra",
+          "es": "Al-Isra",
+          "pt": "Al-Isra",
+          "nl": "Al-Isra",
+          "de": "Al-Isra",
+          "ku": "Îsrâ",
+          "ckb": "ئسرا",
+          "ar": "الإسراء"
+        },
+        {
+          "tr": "Kehf",
+          "en": "Al-Kahf",
+          "es": "Al-Kahf",
+          "pt": "Al-Kahf",
+          "nl": "Al-Kahf",
+          "de": "Al-Kahf",
+          "ku": "Kehf",
+          "ckb": "کەهف",
+          "ar": "الكهف"
+        },
+        {
+          "tr": "Yâsîn",
+          "en": "Ya-Sin",
+          "es": "Ya-Sin",
+          "pt": "Ya-Sin",
+          "nl": "Ya-Sin",
+          "de": "Ya-Sin",
+          "ku": "Yasîn",
+          "ckb": "یسین",
+          "ar": "يس"
+        },
+        {
+          "tr": "Rahmân",
+          "en": "Ar-Rahman",
+          "es": "Ar-Rahman",
+          "pt": "Ar-Rahman",
+          "nl": "Ar-Rahman",
+          "de": "Ar-Rahman",
+          "ku": "Rahman",
+          "ckb": "ڕەحمان",
+          "ar": "الرحمن"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Hucurât 49:11 bir topluluğun diğeriyle ne yapmasını yasaklar?",
+        "en": "According to the text, what does Al-Hujurat 49:11 forbid one group to do to another?",
+        "es": "Según el texto, ¿qué prohíbe Al-Hujurat 49:11 entre grupos?",
+        "pt": "Segundo o texto, o que Al-Hujurat 49:11 proíbe entre grupos?",
+        "nl": "Wat verbiedt Al-Hujurat 49:11 tussen groepen volgens de tekst?",
+        "de": "Was verbietet Al-Hujurat 49:11 zwischen Gruppen laut Text?",
+        "ku": "Li gorî nivîsê Hucurât 49:11 kîjan tiştî di navbera komên de qedexe dike?",
+        "ckb": "بەپێی دەقەکە حوجورات ١١ لە نێوان دوو کۆمەڵدا چی قەدەغە دەکات؟",
+        "ar": "ماذا يحرّم الحجرات ١١ بين القومين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Alay etmek (sümkürme)",
+          "en": "Mocking / ridiculing",
+          "es": "Burlarse / ridiculizar",
+          "pt": "Zombar / ridicularizar",
+          "nl": "Bespotten / bespotting",
+          "de": "Spott / Verspottung",
+          "ku": "Henek kirin",
+          "ckb": "گاڵێدان",
+          "ar": "السخرية"
+        },
+        {
+          "tr": "Sadece selamlaşmayı",
+          "en": "Only greeting",
+          "es": "Solo saludar",
+          "pt": "Só cumprimentar",
+          "nl": "Alleen groeten",
+          "de": "Nur grüßen",
+          "ku": "Tenê silav",
+          "ckb": "تەنها سڵاو",
+          "ar": "التحية فقط"
+        },
+        {
+          "tr": "Yardım etmeyi",
+          "en": "Helping",
+          "es": "Ayudar",
+          "pt": "Ajudar",
+          "nl": "Helpen",
+          "de": "Helfen",
+          "ku": "Alîkarî",
+          "ckb": "یارمەتی",
+          "ar": "المساعدة"
+        },
+        {
+          "tr": "Doğruyu söylemeyi",
+          "en": "Speaking truth",
+          "es": "Decir la verdad",
+          "pt": "Dizer a verdade",
+          "nl": "De waarheid spreken",
+          "de": "Die Wahrheit sagen",
+          "ku": "Rastî gotin",
+          "ckb": "ڕاستی وتن",
+          "ar": "قول الحق"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Ya hayır söylesin ya da sussun» hadisi imanı hangi iki esasa bağlar?",
+        "en": "The hadith «speak good or be silent» ties faith to which two principles?",
+        "es": "¿A qué dos principios une la fe el hadiz «diga bien o calle»?",
+        "pt": "A qual dois princípios a fé o hadith «fale bem ou cale-se» liga?",
+        "nl": "Aan welke twee principes koppelt de hadith «spreek goed of zwijg» het geloof?",
+        "de": "An welche zwei Prinzipien knüpft der Hadith «Sprich Gutes oder schweig» den Glauben?",
+        "ku": "Hedîsa «baş bibêje an bêdeng be» bi kîjan du bingehên îmanê ve girê dide?",
+        "ckb": "حەدیسی «باش بڵێ یان بێدەنگ بە» باوەڕ بە کام دوو بنەڕەتەوە دەبەستێتەوە؟",
+        "ar": "بماذا يربط حديث «فليقل خيرا أو ليصمت» الإيمان؟"
+      },
+      "options": [
+        {
+          "tr": "Allah ve ahiret günü",
+          "en": "Allah and the Last Day",
+          "es": "Allah y el Día Final",
+          "pt": "Allah e o Dia Final",
+          "nl": "Allah en de Laatste Dag",
+          "de": "Allah und der Jüngste Tag",
+          "ku": "Allah û roja dawî",
+          "ckb": "اللە و ڕۆژی دوایی",
+          "ar": "الله واليوم الآخر"
+        },
+        {
+          "tr": "Sadece oruç",
+          "en": "Only fasting",
+          "es": "Solo ayuno",
+          "pt": "Só jejum",
+          "nl": "Alleen vasten",
+          "de": "Nur Fasten",
+          "ku": "Tenê roje",
+          "ckb": "تەنها ڕۆژوو",
+          "ar": "الصوم فقط"
+        },
+        {
+          "tr": "Sadece hac",
+          "en": "Only Hajj",
+          "es": "Solo el Hajj",
+          "pt": "Só Hajj",
+          "nl": "Alleen hadj",
+          "de": "Nur Haddsch",
+          "ku": "Tenê hec",
+          "ckb": "تەنها حەج",
+          "ar": "الحج فقط"
+        },
+        {
+          "tr": "Sadece zekât",
+          "en": "Only zakah",
+          "es": "Solo zakat",
+          "pt": "Só zakat",
+          "nl": "Alleen zakat",
+          "de": "Nur Zakat",
+          "ku": "Tenê zekat",
+          "ckb": "تەنها زەکات",
+          "ar": "الزكاة فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre İsrâ 17:70 insan onurunu kime bağlar?",
+        "en": "According to the text, to what does Al-Isra 17:70 tie human dignity?",
+        "es": "Según el texto, ¿a qué ata Al-Isra 17:70 la dignidad humana?",
+        "pt": "Segundo o texto, a que Al-Isra 17:70 liga a dignidade humana?",
+        "nl": "Waaraan koppelt Al-Isra 17:70 menselijke waardigheid volgens de tekst?",
+        "de": "Woran knüpft Al-Isra 17:70 die Menschenwürde laut Text?",
+        "ku": "Li gorî nivîsê Îsrâ 17:70 şerefê mirovan bi çi ve girê dide?",
+        "ckb": "بەپێی دەقەکە ئسرا ٧٠ شەرەفی مرۆڤ بە چیەوە دەبەستێتەوە؟",
+        "ar": "بماذا يربط الإسراء ٧٠ كرامة الإنسان وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Allah'ın Âdem oğullarına ikramı",
+          "en": "Allah's honoring of the children of Adam",
+          "es": "El honor de Allah a los hijos de Adán",
+          "pt": "A honra de Allah aos filhos de Adão",
+          "nl": "Allahs eerbetoon aan Adams kinderen",
+          "de": "Allahs Ehrung der Kinder Adams",
+          "ku": "Rêzê Allah ji kurên Adem re",
+          "ckb": "ئیکرامی اللە بۆ کوڕەکانی ئادەم",
+          "ar": "إكرام الله لبني آدم"
+        },
+        {
+          "tr": "Yalnızca servet miktarı",
+          "en": "Only amount of wealth",
+          "es": "Solo riqueza",
+          "pt": "Só riqueza",
+          "nl": "Alleen rijkdom",
+          "de": "Nur Reichtum",
+          "ku": "Tenê dewlemendî",
+          "ckb": "تەنها سامان",
+          "ar": "المال فقط"
+        },
+        {
+          "tr": "Yalnızca soy isim",
+          "en": "Only lineage",
+          "es": "Solo linaje",
+          "pt": "Só linhagem",
+          "nl": "Alleen afstamming",
+          "de": "Nur Abstammung",
+          "ku": "Tenê nasil",
+          "ckb": "تەنها نەسەب",
+          "ar": "النسب فقط"
+        },
+        {
+          "tr": "Yalnızca yaş",
+          "en": "Only age",
+          "es": "Solo edad",
+          "pt": "Só idade",
+          "nl": "Alleen leeftijd",
+          "de": "Nur Alter",
+          "ku": "Tenê temen",
+          "ckb": "تەنها تەمەن",
+          "ar": "العمر فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "İnsanlara saygı yalnızca makam veya mal üzerinden ölçülmelidir",
+          "en": "Respect for people should be measured only by rank or wealth",
+          "es": "El respeto solo se mide por rango o dinero",
+          "pt": "O respeito só se mede por cargo ou dinheiro",
+          "nl": "Respect meet je alleen met rang of geld",
+          "de": "Respekt misst man nur nach Rang oder Geld",
+          "ku": "Rêzê tenê bi rûmet û mal tê pîvan",
+          "ckb": "ڕێزگرتن تەنها بە پلە و سامان دەپێوانرێت",
+          "ar": "الاحترام يُقاس بالمنصب أو المال فقط"
+        },
+        {
+          "tr": "Hucurât 49:11 alayı yasaklar",
+          "en": "Al-Hujurat 49:11 forbids mockery",
+          "es": "Al-Hujurat 49:11 prohíbe la burla",
+          "pt": "Al-Hujurat 49:11 proíbe zombaria",
+          "nl": "Al-Hujurat 49:11 verbiedt spot",
+          "de": "Al-Hujurat 49:11 verbietet Spott",
+          "ku": "Hucurât 49:11 henekê qedexe dike",
+          "ckb": "حوجورات ١١ گاڵێدان قەدەغە دەکات",
+          "ar": "الحجرات ١١ تحرّم السخرية"
+        },
+        {
+          "tr": "Hadis hayır söylemeyi veya susmayı önerir",
+          "en": "The hadith advises speaking good or being silent",
+          "es": "El hadiz aconseja hablar bien o callar",
+          "pt": "O hadith aconselha falar bem ou calar",
+          "nl": "Hadith raadt goed spreken of zwijgen aan",
+          "de": "Hadith rät zu gutem Reden oder Schweigen",
+          "ku": "Hedîs baş gotin an bêdengî şîret dike",
+          "ckb": "حەدیس باش وتن یان بێدەنگی پێشنیار دەکات",
+          "ar": "الحديث يقرّب الخير أو الصمت"
+        },
+        {
+          "tr": "İsrâ 17:70 Âdem oğullarının ikramını anar",
+          "en": "Al-Isra 17:70 recalls honoring the children of Adam",
+          "es": "Al-Isra 17:70 recuerda el honor a los hijos de Adán",
+          "pt": "Al-Isra 17:70 lembra a honra aos filhos de Adão",
+          "nl": "Al-Isra 17:70 herdenkt eer aan Adams kinderen",
+          "de": "Al-Isra 17:70 erinnert an die Ehrung der Kinder Adams",
+          "ku": "Îsrâ 17:70 rêzê kurên Adem tîne bîr",
+          "ckb": "ئسرا ٧٠ ئیکرامی کوڕەکانی ئادەم دەگێڕێتەوە",
+          "ar": "الإسراء ٧٠ يذكر إكرام بني آدم"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir cümleyi Hucurât 49:11 ile, bir susku İsrâ 17:70 ile bağla — insanlara saygı gösterişte değil; Allah'ın verdiği haysiyet bilincinde büyür.",
+    "en": "Tie one sentence you hold back today to Al-Hujurat 49:11 and one silence to Al-Isra 17:70 — respect grows in dignity, not display.",
+    "es": "Hoy una frase menos con Al-Hujurat 49:11 y un silencio con Al-Isra 17:70.",
+    "pt": "Hoje uma frase a menos com Al-Hujurat 49:11 e um silêncio com Al-Isra 17:70.",
+    "nl": "Vandaag: één zin minder spot met Al-Hujurat 49:11 en zwijgen met Al-Isra 17:70.",
+    "de": "Heute: einen Satz weniger Spott mit Al-Hujurat 49:11 und Schweigen mit Al-Isra 17:70.",
+    "ku": "Îro peyvek kêmtir bi Hucurât 49:11 û bêdengî bi Îsrâ 17:70 ve girêde.",
+    "ckb": "ئەمڕۆ ڕستەیەک کەمتر بە حوجورات ١١ەوە و بێدەنگی بە ئسرا ٧٠ەوە بەستەوە — ڕێز لە ناساندنی پلەدا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ جملةً بالحجرات ١١ وصمتًا بالإسراء ٧٠ — الاحترامُ بالكرامة لا بالمظهر."
+  }
+}

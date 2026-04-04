@@ -1,0 +1,344 @@
+{
+  "month": 6,
+  "day": 21,
+  "title": {
+    "tr": "Kendini Gözlemlemek",
+    "en": "Observing Yourself",
+    "es": "Observarse a Uno Mismo",
+    "pt": "Observar-se a Si Mesmo",
+    "nl": "Jezelf Observeren",
+    "de": "Sich selbst beobachten",
+    "ku": "Xwe Temaşekirin",
+    "ckb": "سەیرکردنی خۆت",
+    "ar": "مُلَاحَظَةُ الذَّاتِ"
+  },
+  "content": {
+    "tr": "Kendini gözlemlemek (muhasaba); başkalarını süzmek değil — kalbinin ve dilinin Allah katında ne teslim ettiğine bakmaktır. Günün sonunda «Ben neyi besledim?» sorusu, riyadan ve gafletten önce bir hatırlatıcıdır.\n\nAllah Teâlâ müminleri şöyle uyarıyor:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**«Ey iman edenler! Allah'tan sakının. Herkes yarın için ne hazırladığına baksın. Allah'tan sakının; şüphesiz Allah yaptıklarınızdan haberdardır.»**\n*(Haşr 59:18)*\n\nPeygamberimiz ﷺ de hesap gününden önce hesap tutsun diye şöyle buyurur:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»** — **«Hesaba çekilmeden önce kendi nefsinizi hesaba çekin.»**\n*(Tirmizî, «Kıyamet» — hasen)*\n\nGözlem, suçu başkasına atmak değil; «Rabbim, bugün gönlümde ve dilimde senden sakınmadığım ne var?» diye durmaktır. Küçük bir muhasebe, büyük bir düzeltmeye kapı açar.\n\nBugün: beş dakika sessizlik — Haşr 59:18 ve bu öğüt: yarın için ne biriktirdiğine bir bak.",
+    "en": "Observing yourself (muhasaba) is not sizing others up — it is looking at what your heart and tongue are truly offering before Allah. At day's end, the question «What did I feed today?» is a guard against heedlessness and showing off before it is too late.\n\nAllah the Most High warns the believers:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**\"O you who have believed, fear Allah. And let every soul look to what it has put forward for tomorrow — and fear Allah. Indeed, Allah is Acquainted with what you do.\"**\n*(Al-Hashr 59:18)*\n\nThe Prophet ﷺ also said, as counsel to take account before the Final Reckoning:\n\n**«Take account of yourselves before you are taken to account.»**\n*(At-Tirmidhi, «The Resurrection» — graded hasan.)*\n\nObservation is not blaming others; it is pausing to say: «My Lord, what in my heart and speech today did I not guard for Your sake?» A small audit can open a large correction.\n\nToday: five minutes of silence — Al-Hashr 59:18 and this reminder: look at what you are storing for tomorrow.",
+    "es": "Observarse no es juzgar a otros — es mirar qué ofrece el corazón ante Allah.\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Al-Hashr 59:18)*\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»** *(Tirmidî — consejo)*\n\nHoy: cinco minutos en silencio.",
+    "pt": "Observar-se não é medir os outros — é ver o que o coração entrega diante de Allah.\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Al-Hashr 59:18)*\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»** *(Tirmidî — conselho)*\n\nHoje: cinco minutos em silêncio.",
+    "nl": "Jezelf observeren is geen anderen beoordelen — kijken wat het hart voor Allah klaarzet.\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Al-Hashr 59:18)*\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»** *(Tirmidhi — raad)*\n\nVandaag: vijf minuten stilte.",
+    "de": "Sich beobachten heißt nicht andere messen — sondern sehen, was das Herz vor Allah vorlegt.\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Al-Hashr 59:18)*\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»** *(Tirmidhi — Mahnung)*\n\nHeute: fünf Minuten Stille.",
+    "ku": "Xwe temaşekirin ne pîvanîna kesên din e — dil berî Allahî çi radigihînî bibîne.\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Haşr 59:18)*\n\n**«حاسبوا أنفسكم»** *(Tirmizî)*\n\nÎro: pênc deqe bê deng.",
+    "ckb": "سەیرکردنی خۆت (موحاسەبە) نەکۆڵینەوەی کەسانی ترە — بەڵکوو سەیرکردنی ئەوەی دڵ و زمانەکەت لەبەردەم اللە چی پێشکەش دەکات. لە کۆتایی رۆژدا پرسیارەکەی «ئەمڕۆ چیم پەروەردە کردووە؟» وەک بیرخستنەوەیەکە لە غەفلەت و ڕیا پێش ئەوەی دوا بێت.\n\nاللە دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(حەشر: ١٨)*\n\nپێغەمبەر ﷺ فێر دەکات پێش ئەوەی لە ڕۆژی دواییدا لێک بدرێیت، خۆت لێک بدەیتەوە:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(تیڕمیزی — حەسەن)*\n\nسەیرکردن تۆمەتبارکردنی کەسانی تر نییە — بەڵکوو وەستاندن و گوتن: «پەروەرێ، ئەمڕۆ لە دڵ و زمانمدا چیم هەبوو کە لە تۆ نەترسام؟» موحاسەبەی بچووک، ڕێکخستنێکی گەورە دەکاتەوە.\n\nئەمڕۆ: پێنج خولەک بێدەنگی — حەشر ١٨ و ئەم بیرخستنەوەیە: سەیری ئەوەی بۆ بەیانی چیت کۆکردۆتەوە.",
+    "ar": "مُلاحظةُ الذات (المحاسبة) ليست تقييمَ الناس — إنما النظرُ إلى ما تقدِّمه القلبُ واللسانُ بين يدي الله. في آخرِ النهار سؤالُ «ماذا غذَّيتُ اليوم؟» تذكرةٌ من الغفلةِ والرياء قبل فواتِ الأوان.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(الحشر: ١٨)*\n\nوقال النبي ﷺ موعظةً بحسابِ النفسِ قبل الحسابِ:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(رواه الترمذي في «القيامة» — حسن)*\n\nالمحاسبةُ ليست رميَ التُهمِ — إنما الوقوفُ: «ربّ، ما الذي في قلبي ولساني اليوم لم أتقِك فيه؟» حسابٌ صغيرٌ يفتحُ تصحيحاً كبيراً.\n\nاليوم: خمسُ دقائقَ صمتٍ — ﴿ولتنظر نفس ما قدمت لغد﴾: انظرْ ما ادَّخرتَ للغدِ."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Herkes yarın için ne hazırladığına baksın» ayeti hangi surede geçer?",
+        "en": "In which surah does the verse «let every soul look to what it has put forward for tomorrow» appear?",
+        "es": "¿En qué sura está «mire cada alma lo que adelantó para mañana»?",
+        "pt": "Em qual sura está «cada alma veja o que enviou para o amanhã»?",
+        "nl": "In welke soera staat «laat elke ziel zien wat zij voor morgen voorbereidt»?",
+        "de": "In welcher Sure steht «jede Seele soll sehen, was sie für morgen vorbereitet hat»?",
+        "ku": "Ayeta «her kes li pêşerojê çi amade dike bibîne» di kîjan sureyê de ye?",
+        "ckb": "ئایەتی «هەر کەسێک سەیری ئەوەی بۆ بەیانی ئامادە دەکات بکات» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ولتنظر نفس ما قدمت لغد﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Haşr",
+          "en": "Al-Hashr",
+          "es": "Al-Hashr",
+          "pt": "Al-Hashr",
+          "nl": "Al-Hashr",
+          "de": "Al-Hashr",
+          "ku": "Haşr",
+          "ckb": "حەشر",
+          "ar": "الحشر"
+        },
+        {
+          "tr": "Mücâdele",
+          "en": "Al-Mujadilah",
+          "es": "Al-Mujadilah",
+          "pt": "Al-Mujadilah",
+          "nl": "Al-Mujadilah",
+          "de": "Al-Mudschadila",
+          "ku": "Mucâdele",
+          "ckb": "موجادەلە",
+          "ar": "المجادلة"
+        },
+        {
+          "tr": "Hucurât",
+          "en": "Al-Hujurat",
+          "es": "Al-Hujurat",
+          "pt": "Al-Hujurat",
+          "nl": "Al-Hujurat",
+          "de": "Al-Hudschurat",
+          "ku": "Hucurât",
+          "ckb": "حوجورات",
+          "ar": "الحجرات"
+        },
+        {
+          "tr": "Tegâbün",
+          "en": "At-Taghabun",
+          "es": "At-Taghabun",
+          "pt": "At-Taghabun",
+          "nl": "At-Taghabun",
+          "de": "At-Taghabun",
+          "ku": "Tegâbün",
+          "ckb": "تەغابون",
+          "ar": "التغابن"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Haşr 59:18 müminlere neyi hatırlatır?",
+        "en": "According to the text, what does Al-Hashr 59:18 remind believers of?",
+        "es": "Según el texto, ¿qué recuerda Al-Hashr 59:18?",
+        "pt": "Segundo o texto, o que Al-Hashr 59:18 lembra?",
+        "nl": "Wat herinnert Al-Hashr 59:18 volgens de tekst?",
+        "de": "Woran erinnert Al-Hashr 59:18 laut Text?",
+        "ku": "Li gorî nivîsê Haşr 59:18 çi bi bîr tîne?",
+        "ckb": "بەپێی دەقەکە حەشر ١٨ چی بۆ باوەڕداران دەگێڕێتەوە؟",
+        "ar": "ماذا يُذكِّر الحشر ١٨ المؤمنين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Yarın için ne biriktirdiklerine bakmak ve Allah'tan sakınmak",
+          "en": "To look at what they send forth for tomorrow and fear Allah",
+          "es": "Mirar lo enviado para mañana y temer a Allah",
+          "pt": "Ver o que enviam para amanhã e temer a Allah",
+          "nl": "Kijken wat men voor morgen bereidt en Allah vrezen",
+          "de": "Sehen was man für morgen vorbereitet und Allah fürchten",
+          "ku": "Li pêşerojê binêrin û ji Allahî bitirsin",
+          "ckb": "سەیرکردنی ئەوەی بۆ بەیانی دەنێرن و لە اللە بترسن",
+          "ar": "النظرُ إلى ما قدَّموا للغدٍ والتقوى"
+        },
+        {
+          "tr": "Sadece dünya malını artırmak",
+          "en": "Only increasing worldly wealth",
+          "es": "Solo aumentar bienes",
+          "pt": "Só aumentar bens",
+          "nl": "Alleen wereldse rijkdom",
+          "de": "Nur irdischen Besitz mehren",
+          "ku": "Tenê malê dinyayê zêde bike",
+          "ckb": "تەنها زۆرکردنی سامانی دنیا",
+          "ar": "زيادةَ المالِ الدنيوي فقط"
+        },
+        {
+          "tr": "Başkalarını yargılamayı bırakmamak",
+          "en": "Never judging others",
+          "es": "Nunca juzgar a otros",
+          "pt": "Nunca julgar outros",
+          "nl": "Anderen nooit beoordelen",
+          "de": "Andere nie beurteilen",
+          "ku": "Kesên din qet ne nirxîne",
+          "ckb": "هەرگیز کەسانی تر نەدەستەنیت",
+          "ar": "عدمِ الحكمِ على الناس أبداً"
+        },
+        {
+          "tr": "Namazı terk etmek",
+          "en": "Abandoning prayer",
+          "es": "Dejar el salat",
+          "pt": "Abandonar a oração",
+          "nl": "Gebed opgeven",
+          "de": "Gebet aufgeben",
+          "ku": "Namazî terk bike",
+          "ckb": "جێهێشتنی نوێژ",
+          "ar": "تركُ الصلاة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Metinde geçen «حاسبوا أنفسكم قبل أن تحاسبوا» öğüdü neyi çağrıştırır?",
+        "en": "What does the counsel «Take account of yourselves before you are taken to account» suggest in the text?",
+        "es": "¿Qué sugiere «tomad cuenta de vosotros antes»?",
+        "pt": "O que sugere «fazei contas de vós antes»?",
+        "nl": "Wat suggereert «reken met jezelf voordat»?",
+        "de": "Was meint «rechnet mit euch ab bevor»?",
+        "ku": "«حاسبوا أنفسكم» çi wate dike?",
+        "ckb": "ئامۆژگاری «حاسبوا أنفسكم قبل أن تحاسبوا» چی دەگەیەنێت؟",
+        "ar": "ماذا يقصد قولُ «حاسبوا أنفسكم قبل أن تحاسبوا» في النص؟"
+      },
+      "options": [
+        {
+          "tr": "Son hesaptan önce nefsi muhasebe",
+          "en": "Self-reckoning before the Final Reckoning",
+          "es": "Examen de conciencia antes del juicio final",
+          "pt": "Conta própria antes do juízo final",
+          "nl": "Zelfonderzoek voor het Laatste Oordeel",
+          "de": "Selbstabrechnung vor dem Jüngsten Gericht",
+          "ku": "Berî hesabê dawî xwe hesab bike",
+          "ckb": "لێکدانەوەی خۆت پێش لێکدانەوەی کۆتایی",
+          "ar": "محاسبةُ النفسِ قبل الحسابِ الأخير"
+        },
+        {
+          "tr": "Sadece başkalarını eleştirmek",
+          "en": "Only criticizing others",
+          "es": "Solo criticar a otros",
+          "pt": "Só criticar outros",
+          "nl": "Alleen anderen bekritiseren",
+          "de": "Nur andere kritisieren",
+          "ku": "Tenê kesên din rexne bike",
+          "ckb": "تەنها ڕەخنەی کەسانی تر",
+          "ar": "انتقادُ الناسِ فقط"
+        },
+        {
+          "tr": "Oruç tutmamak",
+          "en": "Not fasting",
+          "es": "No ayunar",
+          "pt": "Não jejuar",
+          "nl": "Niet vasten",
+          "de": "Nicht fasten",
+          "ku": "Roze negire",
+          "ckb": "ڕۆژوو نەگرتن",
+          "ar": "تركُ الصوم"
+        },
+        {
+          "tr": "Zekâtı inkâr etmek",
+          "en": "Denying zakah",
+          "es": "Negar el zakat",
+          "pt": "Negar o zakat",
+          "nl": "Zakat ontkennen",
+          "de": "Zakat verneinen",
+          "ku": "Zekatê înkar bike",
+          "ckb": "ئینکاری زەکات",
+          "ar": "إنكارُ الزكاة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre «küçük muhasebe» neye kapı açabilir?",
+        "en": "According to the text, what can a «small audit» open the door to?",
+        "es": "Según el texto, ¿a qué abre un «pequeño balance»?",
+        "pt": "Segundo o texto, o que um «pequeno balanço» pode abrir?",
+        "nl": "Waartoe opent een «kleine afrekening» volgens de tekst?",
+        "de": "Wozu kann laut Text eine «kleine Abrechnung» führen?",
+        "ku": "Li gorî nivîsê «hesabê biçûk» çi vedike?",
+        "ckb": "بەپێی دەقەکە «موحاسەبەی بچووک» دەتوانێت دەرگای چی بکاتەوە؟",
+        "ar": "ماذا يفتح «حسابٌ صغيرٌ» وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Büyük bir düzeltmeye / tövbeye",
+          "en": "A large correction / repentance",
+          "es": "Una gran corrección",
+          "pt": "Uma grande correção",
+          "nl": "Een grote verbetering",
+          "de": "Eine große Korrektur",
+          "ku": "Rastkirinek mezin",
+          "ckb": "ڕێکخستنێکی گەورە",
+          "ar": "تصحيحاً كبيراً أو توبةً"
+        },
+        {
+          "tr": "Başkalarına iftira",
+          "en": "Slandering others",
+          "es": "Calumniar a otros",
+          "pt": "Caluniar outros",
+          "nl": "Anderen belasteren",
+          "de": "Andere verleumden",
+          "ku": "Tukî li kesên din bike",
+          "ckb": "تۆمەتبارکردنی کەسانی تر",
+          "ar": "افتراءً على الناس"
+        },
+        {
+          "tr": "Namazı terk",
+          "en": "Abandoning prayer",
+          "es": "Dejar el salat",
+          "pt": "Abandonar salat",
+          "nl": "Gebed laten",
+          "de": "Gebet aufgeben",
+          "ku": "Namazî terk",
+          "ckb": "جێهێشتنی نوێژ",
+          "ar": "تركَ الصلاة"
+        },
+        {
+          "tr": "Sadakayı reddetmek",
+          "en": "Rejecting charity",
+          "es": "Rechazar caridad",
+          "pt": "Rejeitar caridade",
+          "nl": "Liefdadigheid weigeren",
+          "de": "Spenden ablehnen",
+          "ku": "Xêrî red bike",
+          "ckb": "ڕەتکردنەوەی خێر",
+          "ar": "ردَّ الصدقة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kendini gözlemlemek başkalarını süzmektir",
+          "en": "Self-observation is sizing others up",
+          "es": "Observarse es medir a otros",
+          "pt": "Observar-se é medir os outros",
+          "nl": "Zelf observeren is anderen meten",
+          "de": "Selbstbeobachtung ist andere messen",
+          "ku": "Xwe temaşekirin pîvanîna kesên din e",
+          "ckb": "سەیرکردنی خۆت واتای سەیرکردنی کەسانی ترە",
+          "ar": "ملاحظةُ الذاتِ قياسُ الناسِ"
+        },
+        {
+          "tr": "Haşr 59:18 yarın için hazırlığa bakmayı söyler",
+          "en": "Al-Hashr 59:18 tells one to look at what is prepared for tomorrow",
+          "es": "Al-Hashr 59:18 mira lo de mañana",
+          "pt": "Al-Hashr 59:18 fala do amanhã",
+          "nl": "Al-Hashr 59:18 zegt naar morgen te kijken",
+          "de": "Al-Hashr 59:18 sagt auf morgen zu sehen",
+          "ku": "Haşr 59:18 li pêşerojê dinêre",
+          "ckb": "حەشر ١٨ دەڵێت سەیری ئامادەکاری بۆ بەیانی بکەیت",
+          "ar": "الحشر ١٨ يأمر بالنظر لما قُدِّم للغد"
+        },
+        {
+          "tr": "Metin, hesaptan önce nefsi hesaba çekmeyi öğütler",
+          "en": "The text advises taking account before being accounted",
+          "es": "El texto aconseja cuenta antes del juicio",
+          "pt": "O texto aconselha conta antes do juízo",
+          "nl": "Tekst raadt afrekenen voor het oordeel",
+          "de": "Text rät zur Abrechnung vor dem Gericht",
+          "ku": "Nivîs pêşî hesabê dawî xwe hesab dike",
+          "ckb": "دەقەکە ئامۆژگاری لێکدانەوەی پێش لێکدانەوە دەکات",
+          "ar": "النصُ يوصي بحسابِ النفس قبل الحساب"
+        },
+        {
+          "tr": "Beş dakika sessizlik bugün için pratik öneridir",
+          "en": "Five minutes of silence is a practical suggestion for today",
+          "es": "Cinco minutos en silencio es práctica hoy",
+          "pt": "Cinco minutos em silêncio é prática hoje",
+          "nl": "Vijf minuten stilte is praktisch vandaag",
+          "de": "Fünf Minuten Stille ist heute praktisch",
+          "ku": "Pênc deqe bê deng îro pratîk e",
+          "ckb": "پێنج خولەک بێدەنگی ئەمڕۆ وەک پێشنیارێکی پراکتیکی",
+          "ar": "خمس دقائق صمتٍ مقترحٌ عمليٌّ اليوم"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün beş dakikayı Haşr 59:18 ile bağla: «Yarın için ne biriktirdim?» — kendini gözlemlemek başkasını ölçmek değil; kalbini ve dilini Allah'a hesap verir gibi durdurmaktır.",
+    "en": "Tie five minutes today to Al-Hashr 59:18: «What am I storing for tomorrow?» — observing yourself is not measuring others; it is pausing heart and tongue as if before Allah.",
+    "es": "Hoy cinco minutos con Al-Hashr 59:18 — observarse no es medir a otros.",
+    "pt": "Hoje cinco minutos com Al-Hashr 59:18 — observar-se não é medir outros.",
+    "nl": "Vandaag vijf minuten bij Al-Hashr 59:18 — jezelf observeren is geen anderen meten.",
+    "de": "Heute fünf Minuten mit Al-Hashr 59:18 — sich beobachten heißt nicht andere messen.",
+    "ku": "Îro pênc deqe bi Haşr 59:18 ve girêde — xwe temaşekirin ne pîvanîna kesên din e.",
+    "ckb": "ئەمڕۆ پێنج خولەک بە حەشر ١٨ەوە بەستەوە: «بۆ بەیانی چیم کۆکردۆتەوە؟» — سەیرکردنی خۆت پێوانەکردنی کەسانی تر نییە؛ وەستاندنی دڵ و زمان وەک لەبەردەم اللە.",
+    "ar": "اليوم اربطْ خمس دقائقَ بقولِه تعالى ﴿ولتنظر نفس ما قدمت لغد﴾ — ملاحظةُ الذات ليست قياسَ الناس؛ إنما إيقافُ القلبِ واللسانِ كأنك بين يدي الله."
+  }
+}

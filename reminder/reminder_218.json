@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 9,
+  "title": {
+    "tr": "Güzel Sözlerin Gücü",
+    "en": "The Power of Beautiful Words",
+    "es": "El Poder de las Bellas Palabras",
+    "pt": "O Poder das Belas Palavras",
+    "nl": "De Kracht van Mooie Woorden",
+    "de": "Die Kraft schöner Worte",
+    "ku": "Hêza Peyvên Xweş",
+    "ckb": "هێزی قسەی جوان",
+    "ar": "قُوَّةُ الْكَلِمَاتِ الْحَسَنَةِ"
+  },
+  "content": {
+    "tr": "Güzel sözün gücü; sadece kulağı okşamak veya gerçeği süslü paketlemek değil — kök salan iyilik gibi duran sözü seçmek, en güzelini söylemek ve kalbi yumuşatan cümleler taşımaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ﴾**\n**«Görmedin mi Allah güzel sözün misalini güzel ağaç gibi vermiştir...»**\n*(İbrâhîm 14:24 — meâl özü)*\n\nKullarına en güzel sözü hatırlatan bir emir de şudur:\n\n**﴿وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ﴾**\n**«Kullarıma söyle: En güzel sözü söylesinler.»**\n*(İsrâ 17:53 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ»** — **«Kim Allah'a ve ahiret gününe iman ediyorsa ya hayır söylesin ya da sussun.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a.)*\n\nBugün: bir cümleyi «tayyib»e çevirmek — İbrâhîm 14:24 ve İsrâ 17:53: güzel söz, gösterişte değil; kökü sağlam iyilikte büyür.",
+    "en": "The power of a good word is not merely flattering the ear or wrapping truth in ornament — it is choosing speech that stands firm like a good tree, saying what is best, and carrying sentences that soften hearts.\n\nAllah the Most High says:\n\n**﴿Have you not seen how Allah presents an example: a good word like a good tree...﴾**\n*(Ibrahim 14:24 — meaning summarized)*\n\nA command that reminds servants of the best speech:\n\n**﴿And tell My servants to say that which is best﴾**\n*(Al-Isra 17:53 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"Whoever believes in Allah and the Last Day should speak good or remain silent.\"**\n*(Al-Bukhari, Muslim — narrated by Abu Hurairah.)*\n\nToday: turn one sentence toward «tayyib» — Ibrahim 14:24 and Al-Isra 17:53: a beautiful word grows in rooted goodness, not display.",
+    "es": "La palabra buena no es solo adorno — es como un árbol bueno.\n\n**﴿كلمة طيبة كشجرة طيبة﴾**\n*(Ibrahim 14:24)*\n\n**﴿قل للتي هي أحسن﴾**\n*(Al-Isra 17:53)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHoy: una frase más tayyib.",
+    "pt": "A palavra boa não é só ornamento — é como árvore boa.\n\n**﴿كلمة طيبة كشجرة طيبة﴾**\n*(Ibrahim 14:24)*\n\n**﴿قل للتي هي أحسن﴾**\n*(Al-Isra 17:53)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHoje: uma frase mais tayyib.",
+    "nl": "Een goed woord is niet alleen versiering — het is als een goede boom.\n\n**﴿كلمة طيبة كشجرة طيبة﴾**\n*(Ibrahim 14:24)*\n\n**﴿قل للتي هي أحسن﴾**\n*(Al-Isra 17:53)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nVandaag: één woord meer in het tayyib.",
+    "de": "Ein gutes Wort ist nicht nur Schmuck — es ist wie ein guter Baum.\n\n**﴿كلمة طيبة كشجرة طيبة﴾**\n*(Ibrahim 14:24)*\n\n**﴿قل للتي هي أحسن﴾**\n*(Al-Isra 17:53)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHeute: ein Wort tayyib.",
+    "ku": "Peyva baş ne tenê xemil e — wek dara baş e.\n\n**﴿كلمة طيبة﴾**\n*(Îbrahîm 14:24)*\n\n**﴿أحسن﴾**\n*(Îsrâ 17:53)*\n\n**«خيرا أو ليصمت»** *(Buxarî)*\n\nÎro: peyvek tayyib.",
+    "ckb": "هێزی قسەی جوان تەنها ڕازینکردنی گوێ یان داپۆشینی ڕاستی بە ڕازاوەیی نییە — بەڵکوو هەڵبژاردنی قسەیەکە وەک دارێکی چاک ڕەگ دەگرێت، وتنی باشترین و هەڵگرتنی ڕستەی نەرمکەرەوەی دڵ.\n\nاللە دەفەرموێت:\n\n**﴿أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ﴾**\n*(ئیبراهیم: ٢٤)*\n\n**﴿وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ﴾**\n*(ئسرا: ٥٣)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: ڕستەیەک بگۆڕە بۆ «تەیِّب» — ئیبراهیم ٢٤ و ئسرا ٥٣: قسەی جوان لە نمایشدا ناگەشێتەوە؛ لە چاکی ڕەگەداردا گەشە دەکات.",
+    "ar": "قوةُ الكلمة الحسنة ليست تزييناً للأذن ولا تلفيقاً مزخرفاً للحق — إنما اختيارُ قولٍ ثابتٍ كشجرةٍ طيبةٍ، وقولُ أحسن، وحملُ جملٍ تلينُ القلوب.\n\nيقول الله تعالى:\n\n**﴿أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلاً كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ﴾**\n*(إبراهيم: ٢٤)*\n\n**﴿وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ﴾**\n*(الإسراء: ٥٣)*\n\nوقال النبي ﷺ:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(متفق عليه — عن أبي هريرة)*\n\nاليوم: حوِّلْ جملةً إلى «طيّب» — إبراهيم ٢٤ والإسراء ٥٣: الحسنُ ينمو بصلاح الجذر لا بالبهرجة."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Güzel sözün misalini güzel ağaç gibi vermiştir» ayeti hangi surede geçer?",
+        "en": "In which surah is the parable of a good word as a good tree?",
+        "es": "¿En qué sura está «كلمة طيبة كشجرة طيبة»?",
+        "pt": "Em qual sura está «كلمة طيبة كشجرة طيبة»?",
+        "nl": "In welke soera staat het voorbeeld van het goede woord als boom?",
+        "de": "In welcher Sure steht das Gleichnis vom guten Wort wie einem guten Baum?",
+        "ku": "Mîsala peyva wek dara baş di kîjan sureyê de ye?",
+        "ckb": "«قسەی جوان وەک دارێکی جوان» لە کام سورەتدایە؟",
+        "ar": "في أي سورة مثل ﴿كلمة طيبة كشجرة طيبة﴾؟"
+      },
+      "options": [
+        {
+          "tr": "İbrâhîm",
+          "en": "Ibrahim",
+          "es": "Ibrahim",
+          "pt": "Ibrahim",
+          "nl": "Ibrahim",
+          "de": "Ibrahim",
+          "ku": "Îbrahîm",
+          "ckb": "ئیبراهیم",
+          "ar": "إبراهيم"
+        },
+        {
+          "tr": "Yâsîn",
+          "en": "Ya-Sin",
+          "es": "Ya-Sin",
+          "pt": "Ya-Sin",
+          "nl": "Ya-Sin",
+          "de": "Ya-Sin",
+          "ku": "Yasîn",
+          "ckb": "یسین",
+          "ar": "يس"
+        },
+        {
+          "tr": "Duhan",
+          "en": "Ad-Dukhan",
+          "es": "Ad-Dukhan",
+          "pt": "Ad-Dukhan",
+          "nl": "Ad-Dukhan",
+          "de": "Ad-Dukhan",
+          "ku": "Duhan",
+          "ckb": "دۆخان",
+          "ar": "الدخان"
+        },
+        {
+          "tr": "Kıyâmet",
+          "en": "Al-Qiyamah",
+          "es": "Al-Qiyamah",
+          "pt": "Al-Qiyamah",
+          "nl": "Al-Qiyamah",
+          "de": "Al-Qiyamah",
+          "ku": "Qiyemet",
+          "ckb": "قیامەت",
+          "ar": "القيامة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre İsrâ 17:53 kullarına neyi emreder?",
+        "en": "According to the text, what does Al-Isra 17:53 command servants?",
+        "es": "Según el texto, ¿qué manda Al-Isra 17:53 a los siervos?",
+        "pt": "Segundo o texto, o que Al-Isra 17:53 manda aos servos?",
+        "nl": "Wat gebiedt Al-Isra 17:53 den dienaren volgens de tekst?",
+        "de": "Was befiehlt Al-Isra 17:53 den Dienern laut Text?",
+        "ku": "Li gorî nivîsê Îsrâ 17:53 bendeyan çi ferman dike?",
+        "ckb": "بەپێی دەقەکە ئسرا ٥٣ بەندەکان چی فەرموو دەکات؟",
+        "ar": "ماذا يأمر الإسراء ٥٣ العباد وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "En güzel sözü söylemek",
+          "en": "To say what is best",
+          "es": "Decir lo mejor",
+          "pt": "Dizer o melhor",
+          "nl": "Het beste zeggen",
+          "de": "Das Beste sagen",
+          "ku": "Baştirînê bibêje",
+          "ckb": "باشترین بڵێن",
+          "ar": "قول أحسن"
+        },
+        {
+          "tr": "Sadece susmak",
+          "en": "Only silence",
+          "es": "Solo callar",
+          "pt": "Só calar",
+          "nl": "Alleen zwijgen",
+          "de": "Nur schweigen",
+          "ku": "Tenê bêdengî",
+          "ckb": "تەنها بێدەنگی",
+          "ar": "الصمت فقط"
+        },
+        {
+          "tr": "Yalan söylemek",
+          "en": "To lie",
+          "es": "Mentir",
+          "pt": "Mentir",
+          "nl": "Liegen",
+          "de": "Lügen",
+          "ku": "Derew bike",
+          "ckb": "درۆ بکەن",
+          "ar": "الكذب"
+        },
+        {
+          "tr": "Bağırarak konuşmak",
+          "en": "To shout",
+          "es": "Gritar",
+          "pt": "Gritar",
+          "nl": "Schreeuwen",
+          "de": "Schreien",
+          "ku": "Bi bilind bêje",
+          "ckb": "قسە بە بەرزی بکەن",
+          "ar": "الصياح"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Ya hayır söylesin ya da sussun» hadisi hangi kitaplarda geçer?",
+        "en": "In which collections is the hadith «speak good or be silent» found?",
+        "es": "¿En qué colecciones está «قل خيرا أو اصمت»?",
+        "pt": "Em quais coleções está «قل خيرا أو اصمت»?",
+        "nl": "In welke verzamelingen staat «قل خيرا أو اصمت»?",
+        "de": "In welchen Sammlungen steht «قل خيرا أو اصمت»?",
+        "ku": "Hedîsa «baş bibêje an bêdeng be» di kîjan kitêban de ye?",
+        "ckb": "حەدیسی «باش بڵێ یان بێدەنگ بە» لە کام کتێبەکاندا هەیە؟",
+        "ar": "في أي كتب «فليقل خيرا أو ليصمت»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bukhari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Sadece Müdevver",
+          "en": "Only al-Mudawwar",
+          "es": "Solo Mudawwar",
+          "pt": "Só Mudawwar",
+          "nl": "Alleen Mudawwar",
+          "de": "Nur Mudawwar",
+          "ku": "Tenê Mudewwer",
+          "ckb": "تەنها مودەوەر",
+          "ar": "المدور فقط"
+        },
+        {
+          "tr": "Sadece İhyâ",
+          "en": "Only Ihya",
+          "es": "Solo Ihya",
+          "pt": "Só Ihya",
+          "nl": "Alleen Ihya",
+          "de": "Nur Ihya",
+          "ku": "Tenê Îhyâ",
+          "ckb": "تەنها ئیحیا",
+          "ar": "الإحياء فقط"
+        },
+        {
+          "tr": "Sadece Mesnevî",
+          "en": "Only Masnavi",
+          "es": "Solo Masnavi",
+          "pt": "Só Masnavi",
+          "nl": "Alleen Masnavi",
+          "de": "Nur Masnavi",
+          "ku": "Tenê Mesnevî",
+          "ckb": "تەنها مەسنەوی",
+          "ar": "المثنوي فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre İbrâhîm 14:24 güzel sözü neye benzetir?",
+        "en": "According to the text, to what does Ibrahim 14:24 compare a good word?",
+        "es": "Según el texto, ¿a qué compara Ibrahim 14:24 la buena palabra?",
+        "pt": "Segundo o texto, a que Ibrahim 14:24 compara a boa palavra?",
+        "nl": "Waarmee vergelijkt Ibrahim 14:24 een goed woord volgens de tekst?",
+        "de": "Womit vergleicht Ibrahim 14:24 ein gutes Wort laut Text?",
+        "ku": "Li gorî nivîsê Îbrahîm 14:24 peyva baş bi çi re dikot?",
+        "ckb": "بەپێی دەقەکە ئیبراهیم ٢٤ قسەی جوان بە چی دەچەسپێنێتەوە؟",
+        "ar": "بماذا يشبه إبراهيم ٢٤ الكلمة الطيبة وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Güzel ağaca (kökü sağlam bitkiye)",
+          "en": "To a good tree (firm-rooted plant)",
+          "es": "A un árbol bueno",
+          "pt": "A uma árvore boa",
+          "nl": "Aan een goede boom",
+          "de": "An einen guten Baum",
+          "ku": "Bi darekî baş re",
+          "ckb": "بە دارێکی جوان",
+          "ar": "بشجرة طيبة"
+        },
+        {
+          "tr": "Kötü tohum",
+          "en": "Bad seed",
+          "es": "Mala semilla",
+          "pt": "Semente má",
+          "nl": "Slecht zaad",
+          "de": "Schlechter Samen",
+          "ku": "Toximê xerab",
+          "ckb": "تۆوی خراپ",
+          "ar": "زرع خبيث"
+        },
+        {
+          "tr": "Uçan kuş",
+          "en": "Flying bird",
+          "es": "Pájaro volando",
+          "pt": "Pássaro voando",
+          "nl": "Vogel in vlucht",
+          "de": "Fliegender Vogel",
+          "ku": "Çivîka firr",
+          "ckb": "باڵندەی فڕێ",
+          "ar": "طائر طائر"
+        },
+        {
+          "tr": "Kırık testi",
+          "en": "Broken pot",
+          "es": "Cántaro roto",
+          "pt": "Pote quebrado",
+          "nl": "Gebroken kruik",
+          "de": "Zerbrochener Krug",
+          "ku": "Kûçe şkandî",
+          "ckb": "کوزەی شکاو",
+          "ar": "إناء مكسور"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Güzel sözün gücü yalnızca süs ve gösteriştedir; doğruluk ve niyet önemli değildir",
+          "en": "The power of good words is only ornament; truth and intention do not matter",
+          "es": "El poder de la palabra es solo adorno; la verdad no importa",
+          "pt": "O poder da palavra é só ornamento; a verdade não importa",
+          "nl": "Mooie woorden zijn alleen versiering; waarheid telt niet",
+          "de": "Schöne Worte sind nur Schmuck; Wahrheit zählt nicht",
+          "ku": "Hêza peyva baş tenê xemil e; rastî girîng nine",
+          "ckb": "هێزی قسەی جوان تەنها ڕازاوەیییە؛ ڕاستی و نیەت گرنگ نییە",
+          "ar": "حسن القول زينةٌ فقط؛ الحق والنية لا يعتبران"
+        },
+        {
+          "tr": "İbrâhîm 14:24 güzel sözü güzel ağaca benzetir",
+          "en": "Ibrahim 14:24 compares a good word to a good tree",
+          "es": "Ibrahim 14:24 compara la palabra buena con un árbol bueno",
+          "pt": "Ibrahim 14:24 compara a boa palavra a uma árvore boa",
+          "nl": "Ibrahim 14:24 vergelijkt goed woord met goede boom",
+          "de": "Ibrahim 14:24 gleicht gutes Wort gutem Baum",
+          "ku": "Îbrahîm 14:24 peyva baş bi darekî baş re dikot",
+          "ckb": "ئیبراهیم ٢٤ قسەی جوان بە دارێکی جوان دەچەسپێنێتەوە",
+          "ar": "إبراهيم ٢٤ يشبه الكلمة الطيبة بشجرة طيبة"
+        },
+        {
+          "tr": "İsrâ 17:53 en güzel sözü söylemeyi hatırlatır",
+          "en": "Al-Isra 17:53 reminds to say what is best",
+          "es": "Al-Isra 17:53 recuerda decir lo mejor",
+          "pt": "Al-Isra 17:53 lembra a dizer o melhor",
+          "nl": "Al-Isra 17:53 herinnert aan het beste zeggen",
+          "de": "Al-Isra 17:53 erinnert an das Beste sagen",
+          "ku": "Îsrâ 17:53 baştirînê bibêje tîne bîr",
+          "ckb": "ئسرا ٥٣ بیردەخاتەوە باشترین بڵێن",
+          "ar": "الإسراء ٥٣ يذكر قول أحسن"
+        },
+        {
+          "tr": "Hadis hayır söylemeyi veya susmayı önerir",
+          "en": "The hadith advises speaking good or being silent",
+          "es": "El hadiz aconseja hablar bien o callar",
+          "pt": "O hadith aconselha falar bem ou calar",
+          "nl": "Hadith raadt goed spreken of zwijgen aan",
+          "de": "Hadith rät zu gutem Reden oder Schweigen",
+          "ku": "Hedîs baş gotin an bêdengî şîret dike",
+          "ckb": "حەدیس باش وتن یان بێدەنگی پێشنیار دەکات",
+          "ar": "الحديث يقرّب الخير أو الصمت"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir cümleyi İbrâhîm 14:24 ile, bir seçimi İsrâ 17:53 ile bağla — güzel söz gösterişte değil; kökü sağlam iyilikte büyür.",
+    "en": "Tie one sentence today to Ibrahim 14:24 and one choice to Al-Isra 17:53 — a beautiful word grows in rooted goodness, not display.",
+    "es": "Hoy una frase con Ibrahim 14:24 y una elección con Al-Isra 17:53.",
+    "pt": "Hoje uma frase com Ibrahim 14:24 e uma escolha com Al-Isra 17:53.",
+    "nl": "Vandaag: één zin met Ibrahim 14:24 en keuze met Al-Isra 17:53.",
+    "de": "Heute: ein Satz mit Ibrahim 14:24 und Wahl mit Al-Isra 17:53.",
+    "ku": "Îro peyvek bi Îbrahîm 14:24 û hilbijartin bi Îsrâ 17:53 ve girêde.",
+    "ckb": "ئەمڕۆ ڕستەیەک بە ئیبراهیم ٢٤ەوە و هەڵبژاردنێک بە ئسرا ٥٣ەوە بەستەوە — قسەی جوان لە نمایشدا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ جملةً بإبراهيم ٢٤ واختيارًا بالإسراء ٥٣ — الحسنُ بصلاح الجذر لا بالزخرفة."
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 13,
+  "title": {
+    "tr": "Birlik ve Beraberlik",
+    "en": "Unity and Togetherness",
+    "es": "Unidad y Unión",
+    "pt": "Unidade e União",
+    "nl": "Eenheid en Samenhorigheid",
+    "de": "Einheit und Zusammenhalt",
+    "ku": "Yekîtî û Hevkariyê",
+    "ckb": "یەکێتی و پێکەوەبوون",
+    "ar": "الْوَحْدَةُ وَالْجَمَاعَةُ"
+  },
+  "content": {
+    "tr": "Birlik ve beraberlik; herkesin aynı hatayı paylaşması veya görüşsüzlüğü «birlik» diye paketlemek değil — Allah'ın ipine hep birlikte sarılmak, çekişmeden kaçınmak ve hak için saf dürüst durmaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n**«Allah'ın ipine hepiniz sımsıkı sarılın; ayrılığa düşmeyin...»**\n*(Âl-i İmrân 3:103 — meâl özü)*\n\nAnlaşmazlığın bedeli de hatırlatılır:\n\n**﴿وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ﴾**\n**«Allah'a ve Resûlü'ne itaat edin; çekişmeyin...»**\n*(Enfâl 8:46 — meâl özü)*\n\nSaf bağlılığın görüntüsü de vurgulanır:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ﴾**\n**«Şüphesiz Allah, yolunda sanki rabıtalı bir bina gibi saf tutanları sever.»**\n*(Saf 61:4 — meâl özü)*\n\nBugün: bir eli Âl-i İmrân 3:103 ile, bir nefesi Enfâl 8:46 ile bağla — birlik, kalabalıkta değil; Allah'ın ipi ve safın düzeninde büyür.",
+    "en": "Unity and togetherness is not everyone sharing the same mistake or dressing disagreement as «unity» — it is holding fast together to Allah's rope, avoiding mutual quarrel, and standing in honest ranks for truth.\n\nAllah the Most High says:\n\n**﴿And hold fast to the rope of Allah all together and do not become divided...﴾**\n*(Ali Imran 3:103 — meaning summarized)*\n\nThe cost of dispute is also recalled:\n\n**﴿And obey Allah and His Messenger and do not dispute among yourselves, lest you fail...﴾**\n*(Al-Anfal 8:46 — meaning summarized)*\n\nThe image of steadfast ranks is emphasized:\n\n**﴿Indeed Allah loves those who fight in His cause in a row as though they were a [single] structure joined firmly.﴾**\n*(As-Saff 61:4 — meaning summarized)*\n\nToday: tie one hand to Ali Imran 3:103 and one breath to Al-Anfal 8:46 — unity grows in Allah's rope and disciplined ranks, not mere crowd.",
+    "es": "Unidad no es callar diferencias con mentira — es la cuerda de Allah.\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**﴿ولا تنازعوا﴾**\n*(Al-Anfal 8:46)*\n\n**﴿صفا كأنهم بنيان مرصوص﴾**\n*(As-Saff 61:4)*\n\nHoy: un paso a la unidad.",
+    "pt": "Unidade não é calar diferenças com mentira — é a corda de Allah.\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**﴿ولا تنازعوا﴾**\n*(Al-Anfal 8:46)*\n\n**﴿صفا كأنهم بنيان مرصوص﴾**\n*(As-Saff 61:4)*\n\nHoje: um passo à unidade.",
+    "nl": "Eenheid is niet twist verbergen — het is Allahs touw.\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**﴿ولا تنازعوا﴾**\n*(Al-Anfal 8:46)*\n\n**﴿صفا كأنهم بنيان مرصوص﴾**\n*(As-Saff 61:4)*\n\nVandaag: één stap naar eenheid.",
+    "de": "Einheit ist nicht Meinungszwang — es ist Allahs Seil.\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**﴿ولا تنازعوا﴾**\n*(Al-Anfal 8:46)*\n\n**﴿صفا كأنهم بنيان مرصوص﴾**\n*(As-Saff 61:4)*\n\nHeute: ein Schritt zur Einheit.",
+    "ku": "Yekîtî ne rê li nerînên cuda girtin e — ew hêlîna Allah e.\n\n**﴿حبل الله﴾**\n*(Îmrân 3:103)*\n\n**﴿لا تنازعوا﴾**\n*(Enfal 8:46)*\n\n**﴿بنيان مرصوص﴾**\n*(Saf 61:4)*\n\nÎro: gavek bo yekîtiyê.",
+    "ckb": "یەکێتی و پێکەوەبوون واتای هاوبەشکردنی هەمان هەڵە یان داپۆشینی ناکۆکی بە ناوی «یەکێتی» نییە — بەڵکوو هەڵگرتنی بە هێزەوە بە هۆی اللەوە بە پێکەوە، دوورکەوتنەوە لە ناکۆکی و ڕیزبوونی ڕاستەقینە بۆ حەق.\n\nاللە دەفەرموێت:\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n*(ئالی عمران: ١٠٣)*\n\n**﴿وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ﴾**\n*(ئەنفال: ٤٦)*\n\n**﴿إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ﴾**\n*(سەف: ٤)*\n\nئەمڕۆ: دەستێک بە عمران ١٠٣ەوە و نەفاسێک بە ئەنفال ٤٦ەوە بەستەوە — یەکێتی لە قەومدا نییە؛ لە هۆی اللە و ڕیزێکی ڕێکدا گەشە دەکات.",
+    "ar": "الوحدةُ والجماعةُ ليست إسكاتَ الخلاف بالباطل ولا «وحدةَ الأخطاء» — إنما اعتصامٌ بحبل الله جميعاً، واجتنابُ التنازع، وصفٌ كالبنيان المرصوص في الحق.\n\nيقول الله تعالى:\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n*(آل عمران: ١٠٣)*\n\n**﴿وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ﴾**\n*(الأنفال: ٤٦)*\n\n**﴿إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ﴾**\n*(الصف: ٤)*\n\nاليوم اربطْ يداً بآل عمران ١٠٣ ونفسًا بالأنفال ٤٦ — الجماعةُ بحبل الله والصفّ المرتب لا بالزحام."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Allah'ın ipine hepiniz sımsıkı sarılın» ayeti hangi surede geçer?",
+        "en": "In which surah is the verse «hold fast to the rope of Allah all together»?",
+        "es": "¿En qué sura está «واعتصموا بحبل الله جميعا»?",
+        "pt": "Em qual sura está «واعتصموا بحبل الله جميعا»?",
+        "nl": "In welke soera staat «واعتصموا بحبل الله جميعا»?",
+        "de": "In welcher Sure steht «واعتصموا بحبل الله جميعا»?",
+        "ku": "Ayeta «bi hêlîna Allah bi hev re girê bidin» di kîjan sureyê de ye?",
+        "ckb": "«بە هۆی اللەوە بە پێکەوە هەڵی بگرن» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿واعتصموا بحبل الله جميعا﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Âl-i İmrân",
+          "en": "Ali Imran",
+          "es": "Ali Imran",
+          "pt": "Ali Imran",
+          "nl": "Ali Imran",
+          "de": "Ali Imran",
+          "ku": "Alî Imran",
+          "ckb": "ئالی عمران",
+          "ar": "آل عمران"
+        },
+        {
+          "tr": "Bakara",
+          "en": "Al-Baqarah",
+          "es": "Al-Baqarah",
+          "pt": "Al-Baqarah",
+          "nl": "Al-Baqarah",
+          "de": "Al-Baqarah",
+          "ku": "Bekere",
+          "ckb": "بەقەرە",
+          "ar": "البقرة"
+        },
+        {
+          "tr": "Maide",
+          "en": "Al-Ma'idah",
+          "es": "Al-Ma'idah",
+          "pt": "Al-Ma'idah",
+          "nl": "Al-Ma'idah",
+          "de": "Al-Ma'idah",
+          "ku": "Maide",
+          "ckb": "مائدە",
+          "ar": "المائدة"
+        },
+        {
+          "tr": "En'am",
+          "en": "Al-An'am",
+          "es": "Al-An'am",
+          "pt": "Al-An'am",
+          "nl": "Al-An'am",
+          "de": "Al-An'am",
+          "ku": "En'am",
+          "ckb": "ئەنعام",
+          "ar": "الأنعام"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "«Sanki rabıtalı bir bina gibi saf tutanları» hangi sure anlatır?",
+        "en": "Which surah describes those who stand in a row as a firmly joined structure?",
+        "es": "¿Qué sura describe el «بنيان مرصوص» en fila?",
+        "pt": "Qual sura descreve «بنيان مرصوص» em fileira?",
+        "nl": "Welke soera beschrijft «بنيان مرصوص» in de rij?",
+        "de": "Welche Sure beschreibt «بنيان مرصوص» in der Reihe?",
+        "ku": "Kîjan sure «wek avahiyek girêdayî saf» dibêje?",
+        "ckb": "کام سورەت «وەک بینایەکی بەستراو ڕیز» دەگێڕێتەوە؟",
+        "ar": "في أي سورة وصف ﴿بنيان مرصوص﴾ في الصف؟"
+      },
+      "options": [
+        {
+          "tr": "Saf",
+          "en": "As-Saff",
+          "es": "As-Saff",
+          "pt": "As-Saff",
+          "nl": "As-Saff",
+          "de": "As-Saff",
+          "ku": "Saf",
+          "ckb": "سەف",
+          "ar": "الصف"
+        },
+        {
+          "tr": "İhlâs",
+          "en": "Al-Ikhlas",
+          "es": "Al-Ikhlas",
+          "pt": "Al-Ikhlas",
+          "nl": "Al-Ikhlas",
+          "de": "Al-Ikhlas",
+          "ku": "Îxlas",
+          "ckb": "ئیخلاس",
+          "ar": "الإخلاص"
+        },
+        {
+          "tr": "Felak",
+          "en": "Al-Falaq",
+          "es": "Al-Falaq",
+          "pt": "Al-Falaq",
+          "nl": "Al-Falaq",
+          "de": "Al-Falaq",
+          "ku": "Feleq",
+          "ckb": "فەڵەق",
+          "ar": "الفلق"
+        },
+        {
+          "tr": "Kevser",
+          "en": "Al-Kawthar",
+          "es": "Al-Kawthar",
+          "pt": "Al-Kawthar",
+          "nl": "Al-Kawthar",
+          "de": "Al-Kawthar",
+          "ku": "Kevser",
+          "ckb": "کەوسەر",
+          "ar": "الكوثر"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Metne göre Enfâl 8:46 çekişmeyle ne olacağını hatırlatır?",
+        "en": "According to the text, what does Al-Anfal 8:46 warn dispute may cause?",
+        "es": "Según el texto, ¿qué advierte Al-Anfal 8:46 sobre la disputa?",
+        "pt": "Segundo o texto, o que Al-Anfal 8:46 alerta sobre disputa?",
+        "nl": "Waarvoor waarschuwt Al-Anfal 8:46 bij twist?",
+        "de": "Wovor warnt Al-Anfal 8:46 bei Streit?",
+        "ku": "Li gorî nivîsê Enfal 8:46 ji şer re çi hişyar dike?",
+        "ckb": "بەپێی دەقەکە ئەنفال ٤٦ لە ناکۆکیدا چی ئاگادار دەکاتەوە؟",
+        "ar": "ماذا ينذر الأنفال ٤٦ من التنازع وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Güçten düşme / rüzgârın (metanetin) gitmesi",
+          "en": "Failure / loss of strength (wind)",
+          "es": "Debilidad / perder el ímpetu",
+          "pt": "Fracasso / perder o ímpeto",
+          "nl": "Zwakte / kracht verliezen",
+          "de": "Schwäche / Kraftverlust",
+          "ku": "Windabûn / windakirina hêzê",
+          "ckb": "لاوازبوون و لەدەستدانی هێز",
+          "ar": "الفشل وذهاب الريح"
+        },
+        {
+          "tr": "Otomatik zenginlik",
+          "en": "Automatic wealth",
+          "es": "Riqueza automática",
+          "pt": "Riqueza automática",
+          "nl": "Automatische rijkdom",
+          "de": "Automatischer Reichtum",
+          "ku": "Bixweber dewlemendî",
+          "ckb": "سامانی خۆکار",
+          "ar": "غنى تلقائي"
+        },
+        {
+          "tr": "Namazın düşmesi",
+          "en": "Prayer falling away",
+          "es": "Caída del salat",
+          "pt": "Queda da oração",
+          "nl": "Gebed wegvallen",
+          "de": "Gebet entfällt",
+          "ku": "Namajê winda bike",
+          "ckb": "لەدەستچوونی نوێژ",
+          "ar": "سقوط الصلاة"
+        },
+        {
+          "tr": "Orucun boşalması",
+          "en": "Invalidating fast",
+          "es": "Invalidar el ayuno",
+          "pt": "Anular o jejum",
+          "nl": "Vasten ongeldig",
+          "de": "Fasten ungültig",
+          "ku": "Roze betal bike",
+          "ckb": "پووچەڵکردنەوەی ڕۆژوو",
+          "ar": "ابطال الصوم"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Âl-i İmrân 3:103 «ayrılığa düşmeyin» ile neyi birlikte anar?",
+        "en": "According to the text, what does Ali Imran 3:103 pair with «do not divide»?",
+        "es": "Según el texto, ¿con qué empareja Ali Imran 3:103 «لا تفرقوا»?",
+        "pt": "Segundo o texto, com o que Ali Imran 3:103 emparelha «لا تفرقوا»?",
+        "nl": "Met wat koppelt Ali Imran 3:103 «niet verdelen»?",
+        "de": "Womit koppelt Ali Imran 3:103 «nicht spalten»?",
+        "ku": "Li gorî nivîsê Îmrân 3:103 «ne perçe bibin» bi çi ve girê dide?",
+        "ckb": "بەپێی دەقەکە عمران ١٠٣ «دابەش مەبن» بە چیەوە دەبەستێتەوە؟",
+        "ar": "بماذا يقرن آل عمران ١٠٣ «لا تفرقوا» وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Allah'ın ipine hep birlikte sarılmak",
+          "en": "Holding fast together to Allah's rope",
+          "es": "Aferrarse juntos a la cuerda de Allah",
+          "pt": "Agarrem-se todos à corda de Allah",
+          "nl": "Samen vast aan Allahs touw",
+          "de": "Gemeinsam an Allahs Seil",
+          "ku": "Bi hev re girêdana hêlîna Allah",
+          "ckb": "هەڵگرتنی هۆی اللە بە پێکەوە",
+          "ar": "الاعتصام بحبل الله جميعاً"
+        },
+        {
+          "tr": "Birbirini inkâr etmek",
+          "en": "Denying one another",
+          "es": "Negarse mutuamente",
+          "pt": "Negar-se mutuamente",
+          "nl": "Elkaar ontkennen",
+          "de": "Sich gegenseitig leugnen",
+          "ku": "Hev înkar bike",
+          "ckb": "ئینکاری یەکتر",
+          "ar": "إنكار بعضهم بعضاً"
+        },
+        {
+          "tr": "Zekâtı terk etmek",
+          "en": "Abandoning zakah",
+          "es": "Dejar el zakat",
+          "pt": "Abandonar o zakat",
+          "nl": "Zakat laten",
+          "de": "Zakat aufgeben",
+          "ku": "Zekatê terk bike",
+          "ckb": "جێهێشتنی زەکات",
+          "ar": "ترك الزكاة"
+        },
+        {
+          "tr": "Haccı geciktirmek",
+          "en": "Delaying Hajj",
+          "es": "Retrasar el Hajj",
+          "pt": "Atrasar o Hajj",
+          "nl": "Hadj uitstellen",
+          "de": "Haddsch verschieben",
+          "ku": "Hecê dereng bike",
+          "ckb": "دواخستنی حەج",
+          "ar": "تأخير الحج"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Birlik ve beraberlik, her konuda herkesin aynı fikirde olmasını şart koşar",
+          "en": "Unity requires everyone to agree on every matter",
+          "es": "La unidad exige el mismo criterio en todo",
+          "pt": "Unidade exige o mesmo critério em tudo",
+          "nl": "Eenheid vereist overal dezelfde mening",
+          "de": "Einheit verlangt überall gleiche Meinung",
+          "ku": "Yekîtî daxwaz dike her kes li her babetê re hev be",
+          "ckb": "یەکێتی داوا دەکات هەموو کەس لە هەموو بابەتێکدا هەمان بیر بکاتەوە",
+          "ar": "الجماعة تشترط اتفاق الجميع على كل شيء"
+        },
+        {
+          "tr": "Âl-i İmrân 3:103 birliği emreder",
+          "en": "Ali Imran 3:103 commands unity",
+          "es": "Ali Imran 3:103 manda unidad",
+          "pt": "Ali Imran 3:103 manda unidade",
+          "nl": "Ali Imran 3:103 gebiedt eenheid",
+          "de": "Ali Imran 3:103 befiehlt Einheit",
+          "ku": "Îmrân 3:103 yekîtiyê ferman dike",
+          "ckb": "عمران ١٠٣ یەکێتی فەرموو دەکات",
+          "ar": "آل عمران ١٠٣ يأمر بالاعتصام"
+        },
+        {
+          "tr": "Enfâl 8:46 çekişmeden kaçınmayı hatırlatır",
+          "en": "Al-Anfal 8:46 reminds to avoid dispute",
+          "es": "Al-Anfal 8:46 recuerda evitar la disputa",
+          "pt": "Al-Anfal 8:46 lembra evitar disputa",
+          "nl": "Al-Anfal 8:46 herinnert aan twist vermijden",
+          "de": "Al-Anfal 8:46 erinnert an Streit meiden",
+          "ku": "Enfal 8:46 ji şer dûr ketinê tîne bîr",
+          "ckb": "ئەنفال ٤٦ دوورکەوتنەوە لە ناکۆکی بیردەخاتەوە",
+          "ar": "الأنفال ٤٦ يذكر اجتناب الخلاف"
+        },
+        {
+          "tr": "Saf 61:4 düzenli safı över",
+          "en": "As-Saff 61:4 praises orderly ranks",
+          "es": "As-Saff 61:4 elogia el orden en fila",
+          "pt": "As-Saff 61:4 louva fileiras ordenadas",
+          "nl": "As-Saff 61:4 prijst geordende rijen",
+          "de": "As-Saff 61:4 lobt geordnete Reihen",
+          "ku": "Saf 61:4 rêza rêz kirî bilind dike",
+          "ckb": "سەف ٤ ڕیزی ڕێکخستراو دەستەبەر دەکات",
+          "ar": "الصف ٤ يمدح الصف المرتب"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir dayanışmayı Âl-i İmrân 3:103 ile, bir düzeni Saf 61:4 ile bağla — birlik kalabalıkta değil; Allah'ın ipi ve safın düzeninde büyür.",
+    "en": "Tie one bond today to Ali Imran 3:103 and one order to As-Saff 61:4 — unity grows in Allah's rope and ranks, not crowd size.",
+    "es": "Hoy un lazo con Ali Imran 3:103 y un orden con As-Saff 61:4.",
+    "pt": "Hoje um vínculo com Ali Imran 3:103 e ordem com As-Saff 61:4.",
+    "nl": "Vandaag: band met Ali Imran 3:103 en orde met As-Saff 61:4.",
+    "de": "Heute: Band mit Ali Imran 3:103 und Ordnung mit As-Saff 61:4.",
+    "ku": "Îro girê bi Îmrân 3:103 û rêz bi Saf 61:4 ve girêde.",
+    "ckb": "ئەمڕۆ پەیوەندی بە عمران ١٠٣ەوە و ڕیزێکی ڕێک بە سەف ٤ەوە بەستەوە — یەکێتی لە قەومدا نییە.",
+    "ar": "اليوم اربطْ وصلاً بآل عمران ١٠٣ وصفًّا بالصف ٤ — الجماعةُ بالحبل والصف لا بالعدد."
+  }
+}

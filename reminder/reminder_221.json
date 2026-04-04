@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 12,
+  "title": {
+    "tr": "Kardeşlik Ruhu",
+    "en": "The Spirit of Brotherhood",
+    "es": "El Espíritu de Hermandad",
+    "pt": "O Espírito de Fraternidade",
+    "nl": "De Geest van Broederschap",
+    "de": "Der Geist der Brüderlichkeit",
+    "ku": "Rûhê Biratiyê",
+    "ckb": "ڕۆحی برایایەتی",
+    "ar": "رُوحُ الأُخُوَّةِ"
+  },
+  "content": {
+    "tr": "Kardeşlik ruhu; aynı soydan gelmek veya aynı mahallede oturmak değil — imanla bağlanan kardeşlik, arayı düzeltmek ve ipte Allah'a sımsıkı sarılmaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾**\n**«Müminler ancak kardeştir. Öyleyse iki kardeşinizin arasını düzeltin.»**\n*(Hucurât 49:10 — meâl özü)*\n\nÜmmetin birlik çağrısı da bellidir:\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n**«Allah'ın ipine hepiniz sımsıkı sarılın; ayrılığa düşmeyin...»**\n*(Âl-i İmrân 3:103 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»** — **«Sizden biriniz, kardeşi için kendisinin sevdiğini sevmedikçe gerçek anlamda iman etmiş olmaz.»**\n*(Buhârî, Müslim — rivayet özeti)*\n\nBugün: bir selamı Hucurât 49:10 ile, bir muhabbeti Âl-i İmrân 3:103 ile bağla — kardeşlik ruhu soyda değil; iman, merhamet ve birlikte büyür.",
+    "en": "The spirit of brotherhood is not shared lineage or the same neighborhood — it is brotherhood tied by faith, setting things right between people, and holding fast together to Allah's rope.\n\nAllah the Most High says:\n\n**﴿The believers are but brothers, so make settlement between your brothers﴾**\n*(Al-Hujurat 49:10 — meaning summarized)*\n\nThe call to the community's unity is clear:\n\n**﴿And hold fast to the rope of Allah all together and do not become divided...﴾**\n*(Ali Imran 3:103 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"None of you truly believes until he loves for his brother what he loves for himself.\"**\n*(Al-Bukhari, Muslim — narration summarized)*\n\nToday: tie one greeting to Al-Hujurat 49:10 and one bond of love to Ali Imran 3:103 — brotherhood grows in faith and unity, not in bloodline alone.",
+    "es": "Hermandad no es solo parentesco — es fe y unidad.\n\n**﴿إنما المؤمنون إخوة﴾**\n*(Al-Hujurat 49:10)*\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**«يحب لأخيه ما يحب لنفسه»** *(Bukhari, Muslim)*\n\nHoy: un saludo con 49:10.",
+    "pt": "Fraternidade não é só parentesco — é fé e unidade.\n\n**﴿إنما المؤمنون إخوة﴾**\n*(Al-Hujurat 49:10)*\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**«يحب لأخيه ما يحب لنفسه»** *(Bukhari, Muslim)*\n\nHoje: um cumprimento com 49:10.",
+    "nl": "Broederschap is niet alleen bloed — het is geloof en eenheid.\n\n**﴿إنما المؤمنون إخوة﴾**\n*(Al-Hujurat 49:10)*\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**«يحب لأخيه ما يحب لنفسه»** *(Bukhari, Muslim)*\n\nVandaag: één groet met 49:10.",
+    "de": "Brüderlichkeit ist nicht nur Abstammung — es ist Glaube und Einheit.\n\n**﴿إنما المؤمنون إخوة﴾**\n*(Al-Hujurat 49:10)*\n\n**﴿واعتصموا بحبل الله جميعا﴾**\n*(Ali Imran 3:103)*\n\n**«يحب لأخيه ما يحب لنفسه»** *(Bukhari, Muslim)*\n\nHeute: ein Gruß mit 49:10.",
+    "ku": "Biratî ne tenê nasil e — ev îman û yekîtî ye.\n\n**﴿إنما المؤمنون إخوة﴾**\n*(Hucurât 49:10)*\n\n**﴿حبل الله﴾**\n*(Îmrân 3:103)*\n\n**«يحب لأخيه»** *(Buxarî)*\n\nÎro: silav bi 49:10 re.",
+    "ckb": "ڕۆحی برایایەتی تەنها هەمان نەسەب یان هەمان گەڕەک نییە — بەڵکوو برایایەتی بە باوەڕ، ڕێکخستنەوەی نێوان کەسەکان و هەڵگرتنی بە هێزەوە بە هۆی اللەوە.\n\nاللە دەفەرموێت:\n\n**﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾**\n*(حوجورات: ١٠)*\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n*(ئالی عمران: ١٠٣)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: سڵاوێک بە حوجورات ١٠ەوە و پەیوەندیەک بە عمران ١٠٣ەوە بەستەوە — برایایەتی تەنها لە نەسەبدا ناگەشێتەوە؛ لە باوەڕ و یەکێتی و میهرەبانیدا گەشە دەکات.",
+    "ar": "رُوحُ الأُخُوَّة ليست مجرد قرابةٍ أو جوارٍ — إنما أُخُوَّةٌ يقرُّها الإيمان، وإصلاحٌ بين الخصمين، والتمسُّكُ بحبل الله جميعاً.\n\nيقول الله تعالى:\n\n**﴿إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ﴾**\n*(الحجرات: ١٠)*\n\n**﴿وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلا تَفَرَّقُوا﴾**\n*(آل عمران: ١٠٣)*\n\nوقال النبي ﷺ:\n\n**«لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه»**\n*(متفق عليه)*\n\nاليوم اربطْ سلاماً بالحجرات ١٠ ووحدةً بآل عمران ١٠٣ — الأخوةُ بالإيمان والجماعة لا بالنسب وحده."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Müminler ancak kardeştir» ayeti hangi surede geçer?",
+        "en": "In which surah does the verse «the believers are but brothers» appear?",
+        "es": "¿En qué sura está «إنما المؤمنون إخوة»?",
+        "pt": "Em qual sura está «إنما المؤمنون إخوة»?",
+        "nl": "In welke soera staat «إنما المؤمنون إخوة»?",
+        "de": "In welcher Sure steht «إنما المؤمنون إخوة»?",
+        "ku": "Ayeta «bawermend tenê birayan» di kîjan sureyê de ye?",
+        "ckb": "«باوەڕداران تەنها براین» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿إنما المؤمنون إخوة﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Hucurât",
+          "en": "Al-Hujurat",
+          "es": "Al-Hujurat",
+          "pt": "Al-Hujurat",
+          "nl": "Al-Hujurat",
+          "de": "Al-Hudschurat",
+          "ku": "Hucurât",
+          "ckb": "حوجورات",
+          "ar": "الحجرات"
+        },
+        {
+          "tr": "Fetih",
+          "en": "Al-Fath",
+          "es": "Al-Fath",
+          "pt": "Al-Fath",
+          "nl": "Al-Fath",
+          "de": "Al-Fath",
+          "ku": "Fetih",
+          "ckb": "فەتح",
+          "ar": "الفتح"
+        },
+        {
+          "tr": "Nasr",
+          "en": "An-Nasr",
+          "es": "An-Nasr",
+          "pt": "An-Nasr",
+          "nl": "An-Nasr",
+          "de": "An-Nasr",
+          "ku": "Nasr",
+          "ckb": "نەسر",
+          "ar": "النصر"
+        },
+        {
+          "tr": "Tebbet",
+          "en": "Al-Masad",
+          "es": "Al-Masad",
+          "pt": "Al-Masad",
+          "nl": "Al-Masad",
+          "de": "Al-Masad",
+          "ku": "Tebbet",
+          "ckb": "تەبەت",
+          "ar": "تبت"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Âl-i İmrân 3:103 ümmete neyi emreder?",
+        "en": "According to the text, what does Ali Imran 3:103 command the community?",
+        "es": "Según el texto, ¿qué manda Ali Imran 3:103 a la comunidad?",
+        "pt": "Segundo o texto, o que Ali Imran 3:103 manda à comunidade?",
+        "nl": "Wat gebiedt Ali Imran 3:103 de gemeenschap volgens de tekst?",
+        "de": "Was befiehlt Ali Imran 3:103 der Gemeinschaft laut Text?",
+        "ku": "Li gorî nivîsê Îmrân 3:103 ji ûmetê çi ferman dike?",
+        "ckb": "بەپێی دەقەکە عمران ١٠٣ کۆمەڵ چی فەرموو دەکات؟",
+        "ar": "ماذا يأمر آل عمران ١٠٣ الأمة وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Allah'ın ipine topluca sımsıkı sarılmak; ayrılığa düşmemek",
+          "en": "To hold fast together to Allah's rope; not to split apart",
+          "es": "Aferrarse juntos a la cuerda de Allah; no dividirse",
+          "pt": "Agarrem-se todos à corda de Allah; não se dividam",
+          "nl": "Samen vasthouden aan Allahs touw; niet uiteenvallen",
+          "de": "Gemeinsam an Allahs Seil halten; nicht spalten",
+          "ku": "Bi hev re bi hêzê xwe girê bidin hêlîna Allah; ne perçe bibin",
+          "ckb": "بە هێزەوە هەڵگرتنی هۆی اللە بە پێکەوە؛ دوورکەوتنەوە لە دابەشبوون",
+          "ar": "الاعتصام بحبل الله جميعاً وعدم التفرق"
+        },
+        {
+          "tr": "Birbirini tamamen reddetmek",
+          "en": "Rejecting one another completely",
+          "es": "Rechazarse del todo",
+          "pt": "Rejeitar-se totalmente",
+          "nl": "Elkaar volledig afwijzen",
+          "de": "Sich ganz ablehnen",
+          "ku": "Hev temamî red bike",
+          "ckb": "ڕەتکردنەوەی یەکتر بە تەواوی",
+          "ar": "القطيعة التامة"
+        },
+        {
+          "tr": "Sadece mal biriktirmek",
+          "en": "Only hoarding wealth",
+          "es": "Solo atesorar",
+          "pt": "Só acumular",
+          "nl": "Alleen sparen",
+          "de": "Nur horten",
+          "ku": "Tenê komkirina mal",
+          "ckb": "تەنها کۆکردنەوەی سامان",
+          "ar": "كنز المال فقط"
+        },
+        {
+          "tr": "Namazı terk etmek",
+          "en": "Abandoning prayer",
+          "es": "Dejar el salat",
+          "pt": "Abandonar a oração",
+          "nl": "Gebed opgeven",
+          "de": "Gebet aufgeben",
+          "ku": "Namazî terk bike",
+          "ckb": "جێهێشتنی نوێژ",
+          "ar": "ترك الصلاة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Kardeşi için kendisinin sevdiğini sevmedikçe iman tamamlanmaz» hadisi hangi kitaplarda geçer?",
+        "en": "In which collections is the hadith about loving for one's brother what one loves for oneself?",
+        "es": "¿En qué colecciones está el hadiz del amor al prójimo como a uno mismo?",
+        "pt": "Em quais coleções está o hadith de amar o irmão como a si?",
+        "nl": "In welke verzamelingen staat de hadith over liefde voor de broeder?",
+        "de": "In welchen Sammlungen steht der Hadith über Liebe zum Bruder?",
+        "ku": "Hedîsa hezkirina ji bo birayê wek ji bo xwe di kîjan kitêban de ye?",
+        "ckb": "حەدیسی خۆشەوێستنی بۆ براکە وەک خۆی لە کام کتێبەکاندا هەیە؟",
+        "ar": "في أي كتب «يحب لأخيه ما يحب لنفسه»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bukhari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Sadece Mesnevî",
+          "en": "Only Masnavi",
+          "es": "Solo Masnavi",
+          "pt": "Só Masnavi",
+          "nl": "Alleen Masnavi",
+          "de": "Nur Masnavi",
+          "ku": "Tenê Mesnevî",
+          "ckb": "تەنها مەسنەوی",
+          "ar": "المثنوي فقط"
+        },
+        {
+          "tr": "Sadece Keşfü'l-Hafâ",
+          "en": "Only Kashf al-Khafa",
+          "es": "Solo Kashf",
+          "pt": "Só Kashf",
+          "nl": "Alleen Kashf",
+          "de": "Nur Kashf",
+          "ku": "Tenê Keşf",
+          "ckb": "تەنها کەشف",
+          "ar": "كشف الخفاء فقط"
+        },
+        {
+          "tr": "Sadece Tirmizî",
+          "en": "Only al-Tirmidhi alone",
+          "es": "Solo Tirmidhi",
+          "pt": "Só Tirmidhi",
+          "nl": "Alleen Tirmidhi",
+          "de": "Nur Tirmidhi",
+          "ku": "Tenê Tirmizî",
+          "ckb": "تەنها تیرمیزی",
+          "ar": "الترمذي وحده"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Hucurât 49:10 müminler arasında ne tavsiye eder?",
+        "en": "According to the text, what does Al-Hujurat 49:10 counsel among believers?",
+        "es": "Según el texto, ¿qué aconseja Al-Hujurat 49:10 entre creyentes?",
+        "pt": "Segundo o texto, o que Al-Hujurat 49:10 aconselha entre crentes?",
+        "nl": "Wat raadt Al-Hujurat 49:10 onder gelovigen aan?",
+        "de": "Was rät Al-Hujurat 49:10 unter Gläubigen?",
+        "ku": "Li gorî nivîsê Hucurât 49:10 di nav bawermendan de çi şîret dike?",
+        "ckb": "بەپێی دەقەکە حوجورات ١٠ لە نێوان باوەڕداراندا چی ئامۆژگاری دەکات؟",
+        "ar": "ماذا يوصي الحجرات ١٠ بين المؤمنين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "İki kardeşin arasını düzeltmek",
+          "en": "To reconcile between two brothers",
+          "es": "Reconciliar entre dos hermanos",
+          "pt": "Reconciliar entre dois irmãos",
+          "nl": "Tussen twee broers verzoenen",
+          "de": "Zwischen zwei Brüdern versöhnen",
+          "ku": "Di navbera du biran de rê bikin",
+          "ckb": "ڕێکخستنەوەی نێوان دوو برای",
+          "ar": "الإصلاح بين الأخوين"
+        },
+        {
+          "tr": "Birbirini düşman ilan etmek",
+          "en": "Declaring each other enemies",
+          "es": "Declararse enemigos",
+          "pt": "Declarar-se inimigos",
+          "nl": "Elkaar vijand noemen",
+          "de": "Sich gegenseitig Feinde nennen",
+          "ku": "Hev wek dijmin îlan bike",
+          "ckb": "ڕاگەیاندنی یەکتر وەک دوژمن",
+          "ar": "التباغي بينهم"
+        },
+        {
+          "tr": "İbadeti terk etmek",
+          "en": "Abandoning worship",
+          "es": "Dejar el culto",
+          "pt": "Abandonar culto",
+          "nl": "Aanbidding opgeven",
+          "de": "Gottesdienst aufgeben",
+          "ku": "Îbadetê terk bike",
+          "ckb": "جێهێشتنی عیبادەت",
+          "ar": "ترك العبادة"
+        },
+        {
+          "tr": "Zekâtı inkâr etmek",
+          "en": "Denying zakah",
+          "es": "Negar el zakat",
+          "pt": "Negar o zakat",
+          "nl": "Zakat ontkennen",
+          "de": "Zakat leugnen",
+          "ku": "Zekatê înkar bike",
+          "ckb": "ئینکاری زەکات",
+          "ar": "إنكار الزكاة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kardeşlik ruhu yalnızca aynı soydan veya aynı yerden gelmekle mümkündür",
+          "en": "Brotherhood is possible only through same lineage or same place",
+          "es": "La hermandad solo es posible por sangre o lugar",
+          "pt": "Fraternidade só é possível por sangue ou lugar",
+          "nl": "Broederschap alleen door bloed of plek",
+          "de": "Brüderlichkeit nur durch gleiche Abstammung oder Ort",
+          "ku": "Biratî tenê bi heman nasil an cih dikare bibe",
+          "ckb": "ڕۆحی برایایەتی تەنها بە هەمان نەسەب یان شوێن دەبێت",
+          "ar": "الأخوة لا تكون إلا بالنسب أو المحل"
+        },
+        {
+          "tr": "Hucurât 49:10 müminleri kardeş sayar",
+          "en": "Al-Hujurat 49:10 calls believers brothers",
+          "es": "Al-Hujurat 49:10 llama hermanos a los creyentes",
+          "pt": "Al-Hujurat 49:10 chama crentes de irmãos",
+          "nl": "Al-Hujurat 49:10 noemt gelovigen broers",
+          "de": "Al-Hujurat 49:10 nennt Gläubige Brüder",
+          "ku": "Hucurât 49:10 bawermendan birayan dibêje",
+          "ckb": "حوجورات ١٠ باوەڕداران وەک برای دەناسێت",
+          "ar": "الحجرات ١٠ تسمّي المؤمنين إخوة"
+        },
+        {
+          "tr": "Âl-i İmrân 3:103 birliği emreder",
+          "en": "Ali Imran 3:103 commands unity",
+          "es": "Ali Imran 3:103 manda unidad",
+          "pt": "Ali Imran 3:103 manda unidade",
+          "nl": "Ali Imran 3:103 gebiedt eenheid",
+          "de": "Ali Imran 3:103 befiehlt Einheit",
+          "ku": "Îmrân 3:103 yekîtiyê ferman dike",
+          "ckb": "عمران ١٠٣ یەکێتی فەرموو دەکات",
+          "ar": "آل عمران ١٠٣ يأمر بالجماعة"
+        },
+        {
+          "tr": "Hadis kardeş için kendine duyduğun sevgiyi ister",
+          "en": "The hadith asks love for one's brother as for oneself",
+          "es": "El hadiz pide amar al prójimo como a uno mismo",
+          "pt": "O hadith pede amar o irmão como a si",
+          "nl": "Hadith vraagt liefde voor broeder als voor jezelf",
+          "de": "Hadith verlangt Liebe zum Bruder wie zu sich",
+          "ku": "Hedîs ji bo birayê wek ji bo xwe hez dixwaze",
+          "ckb": "حەدیس داوای خۆشەوێستنی بۆ براکە وەک خۆی دەکات",
+          "ar": "الحديث يطلب محبة الأخ كمحبة النفس"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir selamı Hucurât 49:10 ile, bir dayanışmayı Âl-i İmrân 3:103 ile bağla — kardeşlik ruhu soyda değil; iman ve birlikte büyür.",
+    "en": "Tie one greeting today to Al-Hujurat 49:10 and one bond to Ali Imran 3:103 — brotherhood grows in faith and unity, not bloodline alone.",
+    "es": "Hoy un saludo con Al-Hujurat 49:10 y un lazo con Ali Imran 3:103.",
+    "pt": "Hoje um cumprimento com Al-Hujurat 49:10 e um vínculo com Ali Imran 3:103.",
+    "nl": "Vandaag: één groet met Al-Hujurat 49:10 en band met Ali Imran 3:103.",
+    "de": "Heute: ein Gruß mit Al-Hujurat 49:10 und Band mit Ali Imran 3:103.",
+    "ku": "Îro silav bi Hucurât 49:10 û girê bi Îmrân 3:103 ve girêde.",
+    "ckb": "ئەمڕۆ سڵاوێک بە حوجورات ١٠ەوە و پەیوەندی بە عمران ١٠٣ەوە بەستەوە — برایایەتی لە باوەڕ و یەکێتیدا گەشە دەکات.",
+    "ar": "اليوم اربطْ سلاماً بالحجرات ١٠ ووحدةً بآل عمران ١٠٣ — الأخوةُ بالإيمان لا بالنسب وحده."
+  }
+}

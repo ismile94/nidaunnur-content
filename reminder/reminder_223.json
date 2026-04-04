@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 14,
+  "title": {
+    "tr": "Toplumda Güven Ortamı",
+    "en": "An Atmosphere of Trust in Society",
+    "es": "Ambiente de Confianza en la Sociedad",
+    "pt": "Ambiente de Confiança na Sociedade",
+    "nl": "Een Klimaat van Vertrouwen in de Samenleving",
+    "de": "Vertrauensatmosphäre in der Gesellschaft",
+    "ku": "Atmosfera Ewlehiyê di Civakê de",
+    "ckb": "ژینگەی متمانە لە کۆمەڵدا",
+    "ar": "جَوُّ الثِّقَةِ فِي الْمُجْتَمَعِ"
+  },
+  "content": {
+    "tr": "Toplumda güven ortamı; her sırrı herkese açmak veya güvensizliği «dikkat» diye meşrulaştırmak değil — emaneti yerine ulaştırmak, ölçüde hile yapmamak ve müslümanın dilinden ve elinden emin olunmasıdır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ﴾**\n**«Ey iman edenler! Allah'a ve Resûlü'ne hainlik etmeyin; bilerek emanetlerinize de hainlik etmeyin.»**\n*(Enfâl 8:27 — meâl özü)*\n\nÖlçüde doğruluk da güvenin ta kendisidir:\n\n**﴿وَيْلٌ لِلْمُطَفِّفِينَ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ﴾**\n**«Ölçüde eksik verenlerin vay haline!...»**\n*(Mutaffifîn 83:1–3 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«المُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ»** — **«Müslüman, müslümanların dilinden ve elinden emin olduğu kimsedir.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a.)*\n\nBugün: bir emaneti Enfâl 8:27 ile, bir ölçüyü Mutaffifîn 83 ile bağla — güven gösterişte değil; emanet ve doğrulukta büyür.",
+    "en": "An atmosphere of trust in society is not broadcasting every secret or dressing suspicion as «care» — it is delivering trusts, not cheating in measure, and Muslims being safe from one another's tongue and hand.\n\nAllah the Most High says:\n\n**﴿O you who have believed, do not betray Allah and His Messenger or your trusts while you know﴾**\n*(Al-Anfal 8:27 — meaning summarized)*\n\nHonesty in measure is trust itself:\n\n**﴿Woe to those who give less [than due] — who, when they take a measure from people, take in full; but if they give by measure or weight to them, they give less...﴾**\n*(Al-Mutaffifin 83:1–3 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"The Muslim is one from whom other Muslims are safe from his tongue and his hand.\"**\n*(Al-Bukhari, Muslim — narrated by Abu Hurairah.)*\n\nToday: tie one trust to Al-Anfal 8:27 and one measure to Al-Mutaffifin 83 — trust grows in amanah and truth, not display.",
+    "es": "Confianza no es paranoia — es amanah y medida justa.\n\n**﴿لا تخونوا أماناتكم﴾**\n*(Al-Anfal 8:27)*\n\n**﴿ويل للمطففين﴾**\n*(Al-Mutaffifin 83:1)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHoy: una amanah cumplida.",
+    "pt": "Confiança não é paranoia — é amanah e medida justa.\n\n**﴿لا تخونوا أماناتكم﴾**\n*(Al-Anfal 8:27)*\n\n**﴿ويل للمطففين﴾**\n*(Al-Mutaffifin 83:1)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHoje: uma amanah cumprida.",
+    "nl": "Vertrouwen is geen wantrouwen — het is amanah en eerlijke maat.\n\n**﴿لا تخونوا أماناتكم﴾**\n*(Al-Anfal 8:27)*\n\n**﴿ويل للمطففين﴾**\n*(Al-Mutaffifin 83:1)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nVandaag: één amanah nakomen.",
+    "de": "Vertrauen ist kein Misstrauen — es ist Amanah und gerechtes Maß.\n\n**﴿لا تخونوا أماناتكم﴾**\n*(Al-Anfal 8:27)*\n\n**﴿ويل للمطففين﴾**\n*(Al-Mutaffifin 83:1)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHeute: eine Amanah erfüllen.",
+    "ku": "Ewlehî ne paranoya ye — ev amanah û pîvana rast e.\n\n**﴿لا تخونوا﴾**\n*(Enfal 8:27)*\n\n**﴿مطففين﴾**\n*(Mutaffifîn 83)*\n\n**«المسلم من سلم»** *(Buxarî)*\n\nÎro: amanatekê bicîh bîne.",
+    "ckb": "ژینگەی متمانە لە کۆمەڵدا واتای ئاشکراکردنی هەر نهێنی یان ڕەواکردنی بێ متمانەیی بە ناوی «ئاگاداری» نییە — بەڵکوو گەیاندنی ئەمانەت، ڕاستی لە پێوان و ئاسودەبوونی موسڵمانان لە زمان و دەستی یەکتر.\n\nاللە دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ﴾**\n*(ئەنفال: ٢٧)*\n\n**﴿وَيْلٌ لِلْمُطَفِّفِينَ﴾**\n*(موتەفیفین: ١)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«المسلم من سلم المسلمون من لسانه ويده»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: ئەمانەتێک بە ئەنفال ٢٧ەوە و پێوانێک بە موتەفیفین ٨٣ەوە بەستەوە — متمانە لە نمایشدا ناگەشێتەوە؛ لە ئەمانەت و ڕاستیدا گەشە دەکات.",
+    "ar": "جوُّ الثقة في المجتمع ليس إفشاءَ كل سرّ ولا تسميةَ الريبة «حرصاً» — إنما أداءُ الأمانات، واجتنابُ الغش في الميزان، وسلامةُ المسلم من لسان أخيه ويده.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ﴾**\n*(الأنفال: ٢٧)*\n\n**﴿وَيْلٌ لِلْمُطَفِّفِينَ﴾**\n*(المطففين: ١)*\n\nوقال النبي ﷺ:\n\n**«المسلم من سلم المسلمون من لسانه ويده»**\n*(متفق عليه — عن أبي هريرة)*\n\nاليوم اربطْ أمانةً بالأنفال ٢٧ وميزاناً بالمطففين — الثقةُ بالوفاء لا بالمظهر."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Emanetlerinize hainlik etmeyin» ayeti hangi surede geçer?",
+        "en": "In which surah is the verse «do not betray your trusts»?",
+        "es": "¿En qué sura está «لا تخونوا أماناتكم»?",
+        "pt": "Em qual sura está «لا تخونوا أماناتكم»?",
+        "nl": "In welke soera staat «لا تخونوا أماناتكم»?",
+        "de": "In welcher Sure steht «لا تخونوا أماناتكم»?",
+        "ku": "Ayeta «ji amanetên xwe xiyanet nekin» di kîjan sureyê de ye?",
+        "ckb": "«لە ئەمانەتەکانتا خیانەت مەکەن» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿لا تخونوا أماناتكم﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Enfâl",
+          "en": "Al-Anfal",
+          "es": "Al-Anfal",
+          "pt": "Al-Anfal",
+          "nl": "Al-Anfal",
+          "de": "Al-Anfal",
+          "ku": "Enfal",
+          "ckb": "ئەنفال",
+          "ar": "الأنفال"
+        },
+        {
+          "tr": "Tevbe",
+          "en": "At-Tawbah",
+          "es": "At-Tawbah",
+          "pt": "At-Tawbah",
+          "nl": "At-Tawbah",
+          "de": "At-Tawbah",
+          "ku": "Tevbe",
+          "ckb": "تەوبە",
+          "ar": "التوبة"
+        },
+        {
+          "tr": "Rad",
+          "en": "Ar-Ra'd",
+          "es": "Ar-Ra'd",
+          "pt": "Ar-Ra'd",
+          "nl": "Ar-Ra'd",
+          "de": "Ar-Ra'd",
+          "ku": "Rad",
+          "ckb": "رعد",
+          "ar": "الرعد"
+        },
+        {
+          "tr": "İbrâhîm",
+          "en": "Ibrahim",
+          "es": "Ibrahim",
+          "pt": "Ibrahim",
+          "nl": "Ibrahim",
+          "de": "Ibrahim",
+          "ku": "Îbrahîm",
+          "ckb": "ئیبراهیم",
+          "ar": "إبراهيم"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Mutaffifîn suresinin başı kime «vay haline» der?",
+        "en": "According to the text, to whom does the opening of Al-Mutaffifin say «woe»?",
+        "es": "Según el texto, ¿a quién dice «ويل» el inicio de Al-Mutaffifin?",
+        "pt": "Segundo o texto, a quem Al-Mutaffifin diz «ويل» no início?",
+        "nl": "Tot wie zegt het begin van Al-Mutaffifin «wee» volgens de tekst?",
+        "de": "Zu wem sagt der Anfang von Al-Mutaffifin «Wehe» laut Text?",
+        "ku": "Li gorî nivîsê destpêka Mutaffifîn kê re «way halê» dibêje?",
+        "ckb": "بەپێی دەقەکە سەرەتای موتەفیفین بۆ کێ «وەیڵ» دەڵێت؟",
+        "ar": "لمن يقول مطلع المطففين «ويل» وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Ölçüde eksik verenlere (mutaffifîn)",
+          "en": "To those who give less than due in measure",
+          "es": "A los que defraudan en la medida",
+          "pt": "Aos que fraudam na medida",
+          "nl": "Aan wie te weinig geeft bij afmeten",
+          "de": "Denen, die beim Messen zu wenig geben",
+          "ku": "Kesên di pîvanê de kêm didin",
+          "ckb": "ئەوانەی لە پێواندا کەم دەدەن",
+          "ar": "للمطففين في الميزان"
+        },
+        {
+          "tr": "Sadece çocuklara",
+          "en": "Only to children",
+          "es": "Solo a niños",
+          "pt": "Só a crianças",
+          "nl": "Alleen kinderen",
+          "de": "Nur Kindern",
+          "ku": "Tenê ji zarokan re",
+          "ckb": "تەنها بۆ منداڵان",
+          "ar": "للأطفال فقط"
+        },
+        {
+          "tr": "Sadece yolculara",
+          "en": "Only to travelers",
+          "es": "Solo a viajeros",
+          "pt": "Só a viajantes",
+          "nl": "Alleen reizigers",
+          "de": "Nur Reisenden",
+          "ku": "Tenê ji rêwiyan re",
+          "ckb": "تەنها بۆ گەشتیاران",
+          "ar": "للمسافرين فقط"
+        },
+        {
+          "tr": "Sadece hastalara",
+          "en": "Only to the sick",
+          "es": "Solo a enfermos",
+          "pt": "Só a doentes",
+          "nl": "Alleen zieken",
+          "de": "Nur Kranken",
+          "ku": "Tenê ji nexweşan re",
+          "ckb": "تەنها بۆ نەخۆشان",
+          "ar": "للمرضى فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Müslüman, müslümanların dilinden emin olduğu kimsedir» hadisi neyi ölçer?",
+        "en": "What does the hadith about safety from the tongue measure?",
+        "es": "¿Qué mide el hadiz «المسلم من سلم المسلمون من لسانه»?",
+        "pt": "O que o hadith «المسلم من سلم المسلمون من لسانه» mede?",
+        "nl": "Wat meet de hadith over veiligheid voor de tong?",
+        "de": "Was misst der Hadith über Sicherheit vor der Zunge?",
+        "ku": "Hedîsa ewlehiya ji zimanê çi pîvan dike?",
+        "ckb": "حەدیسی ئاسودەیی لە زمان چی دەپێوانێت؟",
+        "ar": "ماذا يقيس حديث سلامة المسلمين من اللسان؟"
+      },
+      "options": [
+        {
+          "tr": "Dil ve el ile zarar vermeme / güven",
+          "en": "Safety from harm by tongue and hand / trust",
+          "es": "No dañar con lengua ni mano",
+          "pt": "Não ferir com língua nem mão",
+          "nl": "Geen schade door taal en hand",
+          "de": "Kein Schaden durch Zunge und Hand",
+          "ku": "Ewlehiya ji ziman û destê xerab",
+          "ckb": "ئاسایش لە زیانی زمان و دەست",
+          "ar": "سلامة المسلمين من الأذى"
+        },
+        {
+          "tr": "Sadece zenginlik",
+          "en": "Only wealth",
+          "es": "Solo riqueza",
+          "pt": "Só riqueza",
+          "nl": "Alleen rijkdom",
+          "de": "Nur Reichtum",
+          "ku": "Tenê dewlemendî",
+          "ckb": "تەنها سامان",
+          "ar": "المال فقط"
+        },
+        {
+          "tr": "Sadece güreş",
+          "en": "Only wrestling",
+          "es": "Solo lucha",
+          "pt": "Só luta",
+          "nl": "Alleen worstelen",
+          "de": "Nur Ringen",
+          "ku": "Tenê güreş",
+          "ckb": "تەنها کشتوانی",
+          "ar": "المصارعة فقط"
+        },
+        {
+          "tr": "Sadece koşu",
+          "en": "Only running",
+          "es": "Solo correr",
+          "pt": "Só correr",
+          "nl": "Alleen rennen",
+          "de": "Nur Laufen",
+          "ku": "Tenê bazdan",
+          "ckb": "تەنها ڕاکردن",
+          "ar": "العدو فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Enfâl 8:27 imanlılara neyi yasaklar?",
+        "en": "According to the text, what does Al-Anfal 8:27 forbid believers?",
+        "es": "Según el texto, ¿qué prohíbe Al-Anfal 8:27 a los creyentes?",
+        "pt": "Segundo o texto, o que Al-Anfal 8:27 proíbe aos crentes?",
+        "nl": "Wat verbiedt Al-Anfal 8:27 gelovigen volgens de tekst?",
+        "de": "Was verbietet Al-Anfal 8:27 den Gläubigen laut Text?",
+        "ku": "Li gorî nivîsê Enfal 8:27 çi ji bawermendan re qedexe dike?",
+        "ckb": "بەپێی دەقەکە ئەنفال ٢٧ چی لە باوەڕداران قەدەغە دەکات؟",
+        "ar": "ماذا يحرّم الأنفال ٢٧ على المؤمنين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Bilerek emanete / emanetlere hainlik etmek",
+          "en": "Betraying trusts knowingly",
+          "es": "Traicionar las amanah a sabiendas",
+          "pt": "Trair amanás conscientemente",
+          "nl": "Bewust amanah verraden",
+          "de": "Amanah wissentlich verraten",
+          "ku": "Bi zanînê ji amanetê re xiyanet bike",
+          "ckb": "خیانەت بە ئەمانەت بە زانست",
+          "ar": "خيانة الأمانات عن علم"
+        },
+        {
+          "tr": "İyilik etmeyi",
+          "en": "Doing good",
+          "es": "Hacer el bien",
+          "pt": "Fazer o bem",
+          "nl": "Goed doen",
+          "de": "Gutes tun",
+          "ku": "Başî kirin",
+          "ckb": "چاکە کردن",
+          "ar": "فعل الخير"
+        },
+        {
+          "tr": "Dürüst konuşmayı",
+          "en": "Speaking honestly",
+          "es": "Hablar con honestidad",
+          "pt": "Falar com honestidade",
+          "nl": "Eerlijk spreken",
+          "de": "Ehrlich reden",
+          "ku": "Rast bêje",
+          "ckb": "ڕاست قسە کردن",
+          "ar": "قول الصدق"
+        },
+        {
+          "tr": "Komşuya iyiliği",
+          "en": "Good to neighbor",
+          "es": "Bien al vecino",
+          "pt": "Bem ao vizinho",
+          "nl": "Goed naar buur",
+          "de": "Gutes zum Nachbarn",
+          "ku": "Başî ji cîran re",
+          "ckb": "چاکە بۆ دراوسێ",
+          "ar": "بر الجار"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Güven ortamı, hiç emanet ve sorumluluk almamak; her şeyi reddetmek demektir",
+          "en": "Trust means taking no trust or duty; refusing everything",
+          "es": "Confianza es no asumir ninguna amanah; rechazar todo",
+          "pt": "Confiança é não assumir amanah; recusar tudo",
+          "nl": "Vertrouwen is geen amanah aannemen; alles weigeren",
+          "de": "Vertrauen heißt keine Amanah übernehmen; alles ablehnen",
+          "ku": "Ewlehî wê wateyê ye ku tu amanet û berpirsiyarî negrî; her tiştî red bikî",
+          "ckb": "ژینگەی متمانە واتای وەرگرتنی هیچ ئەمانەت و بەرپرسیارێتییەک نییە و ڕەتکردنەوەی هەموو شتێکە",
+          "ar": "الثقة تعني عدم تحمل أمانة ورفض كل تكليف"
+        },
+        {
+          "tr": "Enfâl 8:27 emanete hainlik etmeyi yasaklar",
+          "en": "Al-Anfal 8:27 forbids betraying trusts",
+          "es": "Al-Anfal 8:27 prohíbe traicionar amanah",
+          "pt": "Al-Anfal 8:27 proíbe trair amanás",
+          "nl": "Al-Anfal 8:27 verbiedt verraad van amanah",
+          "de": "Al-Anfal 8:27 verbietet Verrat an Amanah",
+          "ku": "Enfal 8:27 ji amanetê re xiyanetê qedexe dike",
+          "ckb": "ئەنفال ٢٧ خیانەت بە ئەمانەت قەدەغە دەکات",
+          "ar": "الأنفال ٢٧ تحرّم خيانة الأمانة"
+        },
+        {
+          "tr": "Mutaffifîn 83 ölçüde hileyi kınar",
+          "en": "Al-Mutaffifin 83 condemns cheating in measure",
+          "es": "Al-Mutaffifin 83 condena el fraude en la medida",
+          "pt": "Al-Mutaffifin 83 condena fraude na medida",
+          "nl": "Al-Mutaffifin 83 veroordeelt bedrog bij maat",
+          "de": "Al-Mutaffifin 83 verurteilt Betrug beim Maß",
+          "ku": "Mutaffifîn 83 li pîvanê xapandin rexne dike",
+          "ckb": "موتەفیفین ٨٣ فێڵکردن لە پێوان ڕەخنە دەکات",
+          "ar": "المطففين ٨٣ يذم الغش في الميزان"
+        },
+        {
+          "tr": "Hadis dil ve el ile emniyeti ölçer",
+          "en": "The hadith measures safety from tongue and hand",
+          "es": "El hadiz mide seguridad de lengua y mano",
+          "pt": "O hadith mede segurança de língua e mão",
+          "nl": "Hadith meet veiligheid van taal en hand",
+          "de": "Hadith misst Sicherheit von Zunge und Hand",
+          "ku": "Hedîs ewlehiya ziman û destê pîvan dike",
+          "ckb": "حەدیس ئاسایشی زمان و دەست دەپێوانێت",
+          "ar": "الحديث يقيس الأمان من اللسان واليد"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir emaneti Enfâl 8:27 ile, bir ölçüyü Mutaffifîn 83 ile bağla — güven gösterişte değil; emanet ve doğrulukta büyür.",
+    "en": "Tie one trust today to Al-Anfal 8:27 and one measure to Al-Mutaffifin 83 — trust grows in amanah and truth, not display.",
+    "es": "Hoy una amanah con Al-Anfal 8:27 y una medida con Al-Mutaffifin 83.",
+    "pt": "Hoje uma amanah com Al-Anfal 8:27 e uma medida com Al-Mutaffifin 83.",
+    "nl": "Vandaag: één amanah met Al-Anfal 8:27 en maat met Al-Mutaffifin 83.",
+    "de": "Heute: eine Amanah mit Al-Anfal 8:27 und Maß mit Al-Mutaffifin 83.",
+    "ku": "Îro amanatek bi Enfal 8:27 û pîvan bi Mutaffifîn 83 ve girêde.",
+    "ckb": "ئەمڕۆ ئەمانەتێک بە ئەنفال ٢٧ەوە و پێوانێک بە موتەفیفین ٨٣ەوە بەستەوە — متمانە لە ڕاستیدا گەشە دەکات.",
+    "ar": "اليوم اربطْ أمانةً بالأنفال ٢٧ وميزاناً بالمطففين — الثقةُ بالوفاء لا بالمظهر."
+  }
+}

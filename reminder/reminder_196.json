@@ -1,0 +1,344 @@
+{
+  "month": 6,
+  "day": 17,
+  "title": {
+    "tr": "Samimi Olmak",
+    "en": "Being Sincere",
+    "es": "Ser Sincero",
+    "pt": "Ser Sincero",
+    "nl": "Oprecht Zijn",
+    "de": "Aufrichtig sein",
+    "ku": "Dilsoz / Rast bûn",
+    "ckb": "ڕاستگۆ بوون",
+    "ar": "الصِّدْقُ وَالْمَصَارَحَةُ"
+  },
+  "content": {
+    "tr": "Samimi olmak; her düşünceyi filtresiz dökmek veya kabalığı «dürüstlük» diye satmak değil — dil ile kalbin bir olması, sözün adab ve merhamet çerçevesinde hakka hizmet etmesidir. İman diliyle övünüp kalpte riya taşımak, samimiyet değil; ikiyüzlülüktür.\n\nAllah Teâlâ dil ile kalp arasındaki farkı şöyle ortaya koyar:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**«Bedeviler «İman ettik» dedi. De ki: Henüz iman etmediniz; fakat «Müslüman olduk» deyin. Kalplerinize henüz iman girmemiştir.»**\n*(Hucurât 49:14)*\n\nSamimiyet, Allah ile yapılan sözde tutarlılıkla da bağlanır:\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**«Allah ile yaptığınız ahdi yerine getirin.»**\n*(Nahl 16:91 — özet)*\n\nPeygamberimiz ﷺ dinin özünü «nasîhat»e bağlar — samimiyet burada hem doğruluk hem vefa olarak okunur:\n\n**«الدِّينُ النَّصِيحَةُ»** denildiğinde **«لمن؟»** sorusuna **«للهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»** cevabı verilir.\n*(Müslim, «Îman» — Temîm ed-Dârî r.a.)*\n\nBugün samimiyet pratiği: bir söz verdiğinde tut, bir hatayı küçültmeden kabul et, bir özürde göz teması — samimiyet, bazen sesi yükseltmek değil; kalbi hizaya getirmektir.",
+    "en": "Being sincere is not venting every thought or selling rudeness as «honesty» — it is alignment of tongue and heart, and speech that serves truth within adab and mercy. Boasting faith with the tongue while hiding riya in the heart is not sincerity; it is two-facedness.\n\nAllah the Most High exposes the gap between lip and heart:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**\"The bedouins said, 'We have believed.' Say, 'You have not believed yet, but say, 'We have submitted,' for faith has not yet entered your hearts.'\"**\n*(Al-Hujurat 49:14)*\n\nSincerity is tied to keeping covenant:\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**\"Fulfill the covenant of Allah when you have taken it.\"**\n*(An-Nahl 16:91 — summarized.)*\n\nThe Prophet ﷺ sums religion as **sincere counsel** — nasihah read as truthfulness and loyalty:\n\n**«Ad-dinu an-nasihah»** — to Allah, His Book, His Messenger, leaders and common Muslims.\n*(Muslim, «Iman» — Tamim ad-Dari.)*\n\nToday's sincerity practice: keep a word once given; admit a fault without minimizing; eye contact in an apology — sincerity is often aligning the heart, not raising the voice.",
+    "es": "Ser sincero no es ser grosero — es alinear lengua y corazón.\n\n**﴿قل لم تؤمنوا ولكن قولوا أسلمنا﴾**\n*(Al-Hujurat 49:14)*\n\n**«الدين النصيحة»** *(Muslim)*\n\nHoy: cumple tu palabra.",
+    "pt": "Ser sincero não é ser rude — é alinhar língua e coração.\n\n**﴿قل لم تؤمنوا ولكن قولوا أسلمنا﴾**\n*(Al-Hujurat 49:14)*\n\n**«الدين النصيحة»** *(Muslim)*\n\nHoje: cumpra sua palavra.",
+    "nl": "Oprecht zijn is niet grof zijn — tong en hart één.\n\n**﴿قل لم تؤمنوا ولكن قولوا أسلمنا﴾**\n*(Al-Hujurat 49:14)*\n\n**«الدين النصيحة»** *(Moslim)*\n\nVandaag: houd je woord.",
+    "de": "Aufrichtig sein heißt nicht grob sein — Zunge und Herz in Einklang.\n\n**﴿قل لم تؤمنوا ولكن قولوا أسلمنا﴾**\n*(Al-Hujurat 49:14)*\n\n**«الدين النصيحة»** *(Muslim)*\n\nHeute: Halte dein Wort.",
+    "ku": "Rast bûn wateya xamxwerebûn nîne — ziman û dil wekhev bin.\n\n**﴿قل لم تؤمنوا ولكن قولوا أسلمنا﴾**\n*(Hucûrat 49:14)*\n\n**«الدين النصيحة»** *(Muslîm)*\n\nÎro: peyva xwe bimeşîne.",
+    "ckb": "ڕاستگۆ بوون واتای فڕێدانی هەموو بیرۆکەی بێ فلتەر یان فرۆشتنی گەلەت وەک «ڕاستی» نییە — بەڵکوو یەکگرتنەوەی زمان و دڵ و قسەکردن بە ئاداب و بەزەیی لە چوارچێوەی حەقدا. بڵێن «ئیمانمان هێناوە» لە کاتێکدا دڵ هێشتا دووڕووە، ڕاستگۆیی نییە.\n\nاللە دەفەرموێت:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n*(حوجورات: ١٤)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«الدين النصيحة»** — بۆ اللە و کتێب و پێغەمبەر و سەرکردەکان و گشتی موسڵمانان.\n*(موسلیم، تەمیم داڕی)*\n\nئەمڕۆ وەرزشی ڕاستگۆیی: پابەندبوون بە قسە، قبوڵکردنی هەڵە بێ بچووککردنەوە، ڕاستگۆیی زۆرجار واتای هێلکردنی دڵە نەک بەرزکردنەوەی دەنگ.",
+    "ar": "الصدقُ ليس إطلاقَ كلِّ خاطرٍ بلا أدبٍ ولا جعلَ الفحشَ «صراحة» — إنما هو اصطفافُ اللسانِ مع القلبِ، وخدمةُ الحقِّ بأدبٍ ورحمة. التبجحُ بالإيمانِ والرياءُ في الجوانحِ ليس صدقاً؛ بل نفاقُ لسانٍ.\n\nيقول الله تعالى:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n*(الحجرات: ١٤)*\n\nوقال النبي ﷺ:\n\n**«الدين النصيحة»** قيل: لمن؟ قال: **«لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم»**\n*(رواه مسلم في «الإيمان» — عن تميم الداري)*\n\nاليوم عادةٌ: وفاءٌ بالكلمةِ، وإقرارٌ بخطأٍ بلا تقليلٍ، واعتذارٌ بلطفٍ — الصدقُ أحياناً إصلاحُ القلبِ لا إعلاءُ الصوت."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Henüz iman etmediniz; müslüman olduk deyin — kalplerinize henüz iman girmemiştir» ayeti hangi surede geçer?",
+        "en": "In which surah is «You have not believed yet; say we have submitted — faith has not entered your hearts»?",
+        "es": "¿En qué sura está «no habéis creído aún; decid que os habéis sometido»?",
+        "pt": "Em qual surah está «ainda não crestes; dizei que vos submetestes»?",
+        "nl": "In welke soera «nog niet geloofd; zeg onderworpen»?",
+        "de": "In welcher Sure «noch nicht geglaubt; sagt ergeben»?",
+        "ku": "«Hêj iman ne aniye; bêje em muslim man — îman hêj di dil neketiye» di kîjan sûreyê de ye?",
+        "ckb": "«هێشتا ئیمان نەهێناوون؛ بڵێن موسڵمان بووین — ئیمان هێشتا نەچووەتە دڵەوە» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿قل لم تؤمنوا ولكن قولوا أسلمنا ولم يدخل الإيمان في قلوبكم﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Hucurât",
+          "en": "Al-Hujurat",
+          "es": "Al-Hujurat",
+          "pt": "Al-Hujurat",
+          "nl": "Al-Hujurat",
+          "de": "Al-Hujurat",
+          "ku": "Hucûrat",
+          "ckb": "حوجورات",
+          "ar": "الحجرات"
+        },
+        {
+          "tr": "Nûr",
+          "en": "An-Nur",
+          "es": "An-Nur",
+          "pt": "An-Nur",
+          "nl": "An-Nur",
+          "de": "An-Nur",
+          "ku": "Nûr",
+          "ckb": "نور",
+          "ar": "النور"
+        },
+        {
+          "tr": "Ahzâb",
+          "en": "Al-Ahzab",
+          "es": "Al-Ahzab",
+          "pt": "Al-Ahzab",
+          "nl": "Al-Ahzab",
+          "de": "Al-Ahzab",
+          "ku": "Ahzâb",
+          "ckb": "احزاب",
+          "ar": "الأحزاب"
+        },
+        {
+          "tr": "Tevbe",
+          "en": "At-Tawbah",
+          "es": "At-Tawbah",
+          "pt": "At-Tawbah",
+          "nl": "At-Tawbah",
+          "de": "At-Tawbah",
+          "ku": "Tewbe",
+          "ckb": "تەوبە",
+          "ar": "التوبة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metinde geçen «din nasîhattır» hadisinde nasîhat kime yapılır?",
+        "en": "In the hadith «Religion is sincere counsel», to whom is nasihah due?",
+        "es": "En «la religión es nasihah», ¿a quién?",
+        "pt": "Em «a religião é nasihah», a quem?",
+        "nl": "In «religie is nasihah» — aan wie?",
+        "de": "Bei «Religion ist Nasihah» — wem?",
+        "ku": "Di «dîn nasîhat e» de nasîhat ji kê re ye?",
+        "ckb": "لە حەدیسی «ئایین نەسێحەتە» نەسێحەت بۆ کێیە؟",
+        "ar": "لمن كانت «النصيحة» في حديث «الدين النصيحة»؟"
+      },
+      "options": [
+        {
+          "tr": "Allah'a, Kitab'a, Resûl'e, müslümanların önderlerine ve geneline",
+          "en": "Allah, His Book, Messenger, leaders of Muslims, and the general public",
+          "es": "Allah, Libro, Profeta, líderes y pueblo",
+          "pt": "Allah, Livro, Profeta, líderes e povo",
+          "nl": "Allah, Boek, Boodschapper, leiders en gemeente",
+          "de": "Allah, Buch, Gesandter, Führer und Gemeinde",
+          "ku": "Allah, Kitab, Pêxember, serok û gel",
+          "ckb": "اللە و کتێب و پێغەمبەر و سەرکردەکان و گشتی موسڵمانان",
+          "ar": "لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم"
+        },
+        {
+          "tr": "Sadece düşmanlara",
+          "en": "Only to enemies",
+          "es": "Solo a enemigos",
+          "pt": "Só a inimigos",
+          "nl": "Alleen aan vijanden",
+          "de": "Nur Feinden",
+          "ku": "Tenê ji dijminan re",
+          "ckb": "تەنها بۆ دوژمنان",
+          "ar": "للأعداء فقط"
+        },
+        {
+          "tr": "Sadece aileye",
+          "en": "Only to family",
+          "es": "Solo a familia",
+          "pt": "Só à família",
+          "nl": "Alleen familie",
+          "de": "Nur Familie",
+          "ku": "Tenê ji malbatê re",
+          "ckb": "تەنها بۆ خێزان",
+          "ar": "للأهل فقط"
+        },
+        {
+          "tr": "Hiç kimseye",
+          "en": "To no one",
+          "es": "A nadie",
+          "pt": "A ninguém",
+          "nl": "Aan niemand",
+          "de": "An niemanden",
+          "ku": "Ji tu kesî re",
+          "ckb": "بۆ هیچ کەسێک",
+          "ar": "لأحدٍ"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Hucurât 49:14 ile metnin birleştirdiği mesele ne?",
+        "en": "What issue does Al-Hujurat 49:14 tie together with the text?",
+        "es": "¿Qué une Al-Hujurat 49:14 con el texto?",
+        "pt": "O que Al-Hujurat 49:14 une ao texto?",
+        "nl": "Wat verbindt Al-Hujurat 49:14 met de tekst?",
+        "de": "Was verbindet Al-Hujurat 49:14 mit dem Text?",
+        "ku": "Hucûrat 49:14 bi nivîsê re çi girê dide?",
+        "ckb": "حوجورات ١٤ چی لەگەڵ دەقەکە دەگەڕێتەوە؟",
+        "ar": "ماذا يربط الحجرات ١٤ بالنص؟"
+      },
+      "options": [
+        {
+          "tr": "Dil ile kalp arasındaki farkı; «iman ettik» demenin kalbe girmemiş olabileceğini",
+          "en": "Gap between tongue and heart; claiming faith before it enters hearts",
+          "es": "Lengua vs corazón",
+          "pt": "Língua vs coração",
+          "nl": "Tong versus hart",
+          "de": "Zunge versus Herz",
+          "ku": "Cudahiya di navbera ziman û dil de",
+          "ckb": "جیاوازی نێوان زمان و دڵ؛ «ئیمانمان هێنا» پێش نەچوونەوەی ئیمان بۆ دڵ",
+          "ar": "فصلِ اللسانِ عن القلبِ في الإيمان"
+        },
+        {
+          "tr": "Bedevilerin hep kâfir olduğunu",
+          "en": "All bedouins are disbelievers",
+          "es": "Todos beduinos son kafir",
+          "pt": "Todos beduínos são cafires",
+          "nl": "Alle bedoeïenen zijn kafir",
+          "de": "Alle Beduinen sind Kafir",
+          "ku": "Hemû ereb kafir in",
+          "ckb": "هەموو عەرەبەکان کافرن",
+          "ar": "تكفيرُ كلِّ الأعراب"
+        },
+        {
+          "tr": "İslâm kelimesinin yasak olduğunu",
+          "en": "The word Islam is forbidden",
+          "es": "Islam está prohibido",
+          "pt": "Islam é proibido",
+          "nl": "Islam is verboden",
+          "de": "Islam ist verboten",
+          "ku": "Îslam qedexe ye",
+          "ckb": "ئیسلام قەدەغەیە",
+          "ar": "تحريمُ لفظِ الإسلام"
+        },
+        {
+          "tr": "İmanın hiçbir zaman kalbe girmeyeceğini",
+          "en": "Faith never enters hearts",
+          "es": "La fe nunca entra",
+          "pt": "A fé nunca entra",
+          "nl": "Geloof komt nooit in hart",
+          "de": "Glaube kommt nie ins Herz",
+          "ku": "Îman tu caran di dil nakeve",
+          "ckb": "ئیمان هیچ کاتێک ناچێتە دڵ",
+          "ar": "عدمُ دخولِ الإيمان أبداً"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre samimi olmak çoğu zaman neye eşdeğerdir?",
+        "en": "According to the text, what is being sincere most often equivalent to?",
+        "es": "Según el texto, ¿a qué equivale ser sincero?",
+        "pt": "Segundo o texto, a que equivale ser sincero?",
+        "nl": "Volgens de tekst, waarmee is oprecht zijn gelijk?",
+        "de": "Laut Text, womit ist Aufrichtigkeit meist gleich?",
+        "ku": "Li gorî nivîsê rast bûn piranî bi çi tê mane?",
+        "ckb": "بەپێی دەقەکە ڕاستگۆ بوون زۆرجار چییە؟",
+        "ar": "بماذا يعادل «الصدق» في النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kalbi hizaya getirmek; sözü adab ve merhametle hakka hizmet ettirmek",
+          "en": "Aligning the heart; speaking truth with adab and mercy",
+          "es": "Alinear corazón y hablar con adab",
+          "pt": "Alinhar coração e falar com adab",
+          "nl": "Hart lijnen en spreken met adab",
+          "de": "Herz ausrichten und mit Adab sprechen",
+          "ku": "Dil rast bikin; bi adab û rehmeta xwe re",
+          "ckb": "ڕێکخستنەوەی دڵ؛ قسە بە ئاداب و بەزەیی بۆ حەق",
+          "ar": "إصلاحُ القلبِ وخدمةُ الحقِّ بأدبٍ"
+        },
+        {
+          "tr": "Herkesi incitmek",
+          "en": "Hurting everyone",
+          "es": "Herir a todos",
+          "pt": "Magoar todos",
+          "nl": "Iedereen kwetsen",
+          "de": "Alle verletzen",
+          "ku": "Her kesî birîndar bike",
+          "ckb": "ئازاردانی هەموو کەسێک",
+          "ar": "إيذاءَ الخلق"
+        },
+        {
+          "tr": "Hiç özür dilememek",
+          "en": "Never apologizing",
+          "es": "Nunca pedir perdón",
+          "pt": "Nunca pedir desculpas",
+          "nl": "Nooit sorry zeggen",
+          "de": "Nie um Verzeihung bitten",
+          "ku": "Tu caran lêborînê nexwaze",
+          "ckb": "هیچ کاتێک لێبوردن نەخوازین",
+          "ar": "عدمُ الاعتذار"
+        },
+        {
+          "tr": "Sadece zenginlerin dürüst olabileceğini",
+          "en": "Only rich people can be honest",
+          "es": "Solo ricos son honestos",
+          "pt": "Só ricos são honestos",
+          "nl": "Alleen rijken zijn eerlijk",
+          "de": "Nur Reiche sind ehrlich",
+          "ku": "Tenê dewlemend rast in",
+          "ckb": "تەنها دەوڵەمەند ڕاستن",
+          "ar": "اختصاصُ الصدق بالأغنياء"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Samimi olmak; her düşünceyi filtresiz söylemek veya kabalığı dürüstlük saymaktır",
+          "en": "Being sincere means blurting every thought or calling rudeness honesty",
+          "es": "Sinceridad es grosería",
+          "pt": "Sinceridade é grosseria",
+          "nl": "Sinceriteit is grofheid",
+          "de": "Aufrichtigkeit ist Grobheit",
+          "ku": "Rast bûn wateya her tiştî bê filtreyê gotin e",
+          "ckb": "ڕاستگۆ بوون واتای فڕێدانی هەموو بیرۆکە و ناونانی گەلەت بە ڕاستییە",
+          "ar": "الصدقُ إطلاقُ كلِّ خاطرٍ أو جعلُ الفحشِ صراحةً"
+        },
+        {
+          "tr": "Hucurât 49:14 dil ile kalp uyumsuzluğunu ele alır",
+          "en": "Al-Hujurat 49:14 addresses tongue-heart mismatch",
+          "es": "Al-Hujurat 49:14 trata lengua y corazón",
+          "pt": "Al-Hujurat 49:14 trata língua e coração",
+          "nl": "Al-Hujurat 49:14 over tong en hart",
+          "de": "Al-Hujurat 49:14 Zunge und Herz",
+          "ku": "Hucûrat 49:14 ziman û dil dinêre",
+          "ckb": "حوجورات ١٤ ناکۆکی زمان و دڵ دەگێڕێتەوە",
+          "ar": "الحجرات ١٤ يقرر فصلَ اللسان عن القلب"
+        },
+        {
+          "tr": "Nasîhat hadisi dinin özetine işaret eder",
+          "en": "The nasihah hadith points to religion's essence",
+          "es": "El hadiz de nasihah resume la religión",
+          "pt": "O hadith de nasihah resume a religião",
+          "nl": "Nasihah-hadith vat religie samen",
+          "de": "Nasihah-Hadith fasst Religion",
+          "ku": "Hedîsa nasîhat dînê kurte dike",
+          "ckb": "حەدیسی نەسێحەت ئایین کورت دەکاتەوە",
+          "ar": "حديثُ النصيحة يجمعُ الدين"
+        },
+        {
+          "tr": "Ahde vefa samimiyetle ilişkilidir",
+          "en": "Keeping covenant ties to sincerity",
+          "es": "El pacto se liga a la sinceridad",
+          "pt": "O pacto liga-se à sinceridade",
+          "nl": "Verbond hoort bij oprechtheid",
+          "de": "Bund gehört zu Aufrichtigkeit",
+          "ku": "Peyman bi rastî ve girêdayî ye",
+          "ckb": "پابەندبوون بە پەیمان پەیوەندی بە ڕاستگۆییەوە هەیە",
+          "ar": "الوفاءُ بالعهد من صفاتِ الصادقين"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir söz verdiysen tut, bir hatayı küçültmeden kabul et veya bir cümleyi yumuşat — Hucurât 49:14 ve «din nasîhattır» hadisi hatırlatıyor: samimiyet, sesi değil; kalbi hakka hizaya getirmektir.",
+    "en": "If you gave your word today — keep it; admit a fault without minimizing; or soften a sentence — Al-Hujurat 49:14 and «religion is nasihah» remind you: sincerity aligns the heart with truth, not just the volume.",
+    "es": "Hoy cumple tu palabra o suaviza una frase — Al-Hujurat 49:14: el corazón alineado.",
+    "pt": "Hoje cumpra sua palavra ou suavize uma frase — Al-Hujurat 49:14: coração alinhado.",
+    "nl": "Houd woord vandaag of verzacht een zin — Al-Hujurat 49:14: hart op lijn.",
+    "de": "Halte Wort oder mildere einen Satz — Al-Hujurat 49:14: Herz in Linie.",
+    "ku": "Îro peywa xwe bimeşîne, kêmasiyê biçûk nedîne an cümleyê nerm bike — Hucûrat 49:14 û «dîn nasîhat e» — samimîyet deng nagire, dil rast dike.",
+    "ckb": "ئەمڕۆ پابەند بە قسەکەت بە، هەڵەکە بێ بچووککردنەوە قبوڵ بکە یان ڕستەیەک نەرم بکەرەوە — حوجورات ١٤ و حەدیسی «ئایین نەسێحەتە»: ڕاستگۆیی دڵ ڕاست دەکاتەوە نەک تەنها دەنگ.",
+    "ar": "اليوم أوفِ بكلمةٍ، أو أقرَّ بخطأٍ بلا تقليلٍ، أو ليِّنْ جملةً — ﴿قل لم تؤمنوا﴾ و﴿الدين النصيحة﴾: الصدقُ يصلحُ القلبَ قبل أن يرفعَ الصوت."
+  }
+}

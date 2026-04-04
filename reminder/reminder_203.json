@@ -1,0 +1,344 @@
+{
+  "month": 6,
+  "day": 24,
+  "title": {
+    "tr": "Bağışlanma Umudu",
+    "en": "Hope of Forgiveness",
+    "es": "Esperanza del Perdón",
+    "pt": "Esperança do Perdão",
+    "nl": "Hoop op Vergeving",
+    "de": "Hoffnung auf Vergebung",
+    "ku": "Hêviya Lêborînê",
+    "ckb": "ئومێدی لێبوردن",
+    "ar": "أَمَلُ المَغْفِرَةِ"
+  },
+  "content": {
+    "tr": "Bağışlanma umudu; günahı küçümsemek değil — Allah'ın affına güvenmek ve rahmetinden ümidini kesmemektir. Umut, tövbesiz rahatlık değil; istiğfar ve düzeltmeye bağlı bir güvendir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا﴾**\n**«Kim bir kötülük işler veya kendine zulmeder, sonra Allah'tan bağışlanma dilerse, Allah'ı çok bağışlayıcı ve çok merhametli bulur.»**\n*(Nisâ 4:110)*\n\nRahmetin genişliği de zikredilir:\n\n**﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ﴾**\n**«Rahmetim her şeyi kuşatmıştır. Onu, takva sahipleri için yazacağım.»**\n*(A'râf 7:156 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle müjde verir:\n\n**«إِنَّ رَحْمَتِي غَلَبَتْ غَضَبِي»** — **«Şüphesiz rahmetim gazabımı geçmiştir.»**\n*(Buhârî, «Daavât»; Müslim, «Tevbe» — Allah'ın kendi sözü olarak rivayet edilir.)*\n\nBugün: bir «Estağfirullah» ve küçük bir düzeltme — Nisâ 4:110 ve A'râf 7:156: umut, Allah'ın vaadine dayanır; gaflete değil.",
+    "en": "Hope of forgiveness is not belittling sin — it is trusting Allah's pardon and not cutting off hope in His mercy. Hope is not ease without repentance; it is confidence tied to istighfar and repair.\n\nAllah the Most High says:\n\n**﴿وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا﴾**\n**\"And whoever does a wrong or wrongs himself but then seeks forgiveness of Allah will find Allah Forgiving and Merciful.\"**\n*(An-Nisa 4:110)*\n\nThe vastness of mercy is declared:\n\n**﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ﴾**\n**\"And My mercy encompasses all things, so I will decree it for those who fear Allah.\"**\n*(Al-A'raf 7:156 — meaning summarized)*\n\nThe Prophet ﷺ conveys glad tidings:\n\n**«Indeed, My mercy has overcome My wrath.»**\n*(Al-Bukhari, «Supplications»; Muslim, «Repentance» — narrated as Allah's words.)*\n\nToday: one «Astaghfirullah» and one small repair — An-Nisa 4:110 and Al-A'raf 7:156: hope rests on Allah's promise, not on heedlessness.",
+    "es": "Esperanza del perdón no es menospreciar el pecado — es confiar en Allah.\n\n**﴿ثم يستغفر الله يجد الله غفورا رحيما﴾**\n*(An-Nisa 4:110)*\n\n**﴿ورحمتي وسعت كل شيء﴾**\n*(Al-A'raf 7:156)*\n\n**«إن رحمتي غلبت غضبي»** *(Bukhari — palabras de Allah)*\n\nHoy: «Astaghfirullah».",
+    "pt": "Esperança do perdão não é menosprezar o pecado — é confiar em Allah.\n\n**﴿ثم يستغفر الله يجد الله غفورا رحيما﴾**\n*(An-Nisa 4:110)*\n\n**﴿ورحمتي وسعت كل شيء﴾**\n*(Al-A'raf 7:156)*\n\n**«إن رحمتي غلبت غضبي»** *(Bukhari — palavras de Allah)*\n\nHoje: «Astaghfirullah».",
+    "nl": "Hoop op vergeving is zonde niet klein maken — vertrouwen op Allah.\n\n**﴿ثم يستغفر الله يجد الله غفورا رحيما﴾**\n*(An-Nisa 4:110)*\n\n**﴿ورحمتي وسعت كل شيء﴾**\n*(Al-A'raf 7:156)*\n\n**«إن رحمتي غلبت غضبي»** *(Bukhari)*\n\nVandaag: «Astaghfirullah».",
+    "de": "Hoffnung auf Vergebung verkleinert nicht die Sünde — sie vertraut Allah.\n\n**﴿ثم يستغفر الله يجد الله غفورا رحيما﴾**\n*(An-Nisa 4:110)*\n\n**﴿ورحمتي وسعت كل شيء﴾**\n*(Al-A'raf 7:156)*\n\n**«إن رحمتي غلبت غضبي»** *(Bukhari)*\n\nHeute: «Astaghfirullah».",
+    "ku": "Hêviya lêborînê guneh nayê siwandin — ew bawerî bi Allahî ye.\n\n**﴿ثم يستغفر الله يجد الله غفورا رحيما﴾**\n*(Nisâ 4:110)*\n\n**﴿ورحمتي وسعت كل شيء﴾**\n*(A'râf 7:156)*\n\n**«إن رحمتي غلبت غضبي»** *(Buxarî)*\n\nÎro: «Estağfirullah».",
+    "ckb": "ئومێدی لێبوردن واتای سووککردنەوەی گوناه نییە — بەڵکوو متمانە بە لێبوردنی اللە و ئومێد نەبڕین لە ڕەحمەتی ئەو. ئومێد واتای ئارامی بێ تۆوبە نییە؛ بەڵکوو متمانەیەکە بەستراو بە ئیستیغفار و ڕێکخستنەوە.\n\nاللە دەفەرموێت:\n\n**﴿وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا﴾**\n*(نسا: ١١٠)*\n\n**﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ﴾**\n*(ئەعراف: ١٥٦)*\n\nپێغەمبەر ﷺ دەفەرموێت (وەک وتەی اللە):\n\n**«إن رحمتي غلبت غضبي»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: «ئیستەغفڕوڵڵا» و ڕێکخستنێکی بچووک — نسا ١١٠ و ئەعراف ١٥٦: ئومێد لەسەر بەڵێندانی اللە دانیشێت نەک لەسەر غەفلەت.",
+    "ar": "أملُ المغفرة ليس استصغارَ الذنب — إنما الثقةُ بعفوِ الله وعدمُ اليأس من رحمته. الأملُ ليس راحةً بلا توبة؛ إنما ثقةٌ مقترنةٌ بالاستغفارِ والإصلاح.\n\nيقول الله تعالى:\n\n**﴿وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا﴾**\n*(النساء: ١١٠)*\n\n**﴿وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ﴾**\n*(الأعراف: ١٥٦)*\n\nوقال النبي ﷺ يُخبر عن ربِّه:\n\n**«إن رحمتي غلبت غضبي»**\n*(رواه البخاري في «الدعوات» ومسلم في «التوبة» — عن كلام الله)*\n\nاليوم: «أستغفر الله» وإصلاحٌ صغيرٌ — النساء ١١٠ والأعراف ١٥٦: الأملُ على وعدِ الله لا على الغفلة."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Sonra Allah'tan bağışlanma dilerse Allah'ı çok bağışlayıcı ve merhametli bulur» ayeti hangi surede geçer?",
+        "en": "In which surah does the verse about seeking forgiveness and finding Allah Forgiving and Merciful appear?",
+        "es": "¿En qué sura está «luego pide perdón y encuentra a Allah indulgente»?",
+        "pt": "Em qual sura está quem pede perdão e encontra Allah perdoador?",
+        "nl": "In welke soera vind je «vergeeft Allah dan vindt Hij Vergevensgezind»?",
+        "de": "In welcher Sure steht «dann um Vergebung bittet und Allah gnädig findet»?",
+        "ku": "Ayeta «paşî lêborînê bixwaze Allahê bibîne bibore» di kîjan sureyê de ye?",
+        "ckb": "ئایەتی «پاشان داوای لێبوردن بکات اللە بەخشندە و میهرەبان دەبینێت» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ثم يستغفر الله يجد الله غفورا رحيما﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Nisâ",
+          "en": "An-Nisa",
+          "es": "An-Nisa",
+          "pt": "An-Nisa",
+          "nl": "An-Nisa",
+          "de": "An-Nisa",
+          "ku": "Nisâ",
+          "ckb": "نسا",
+          "ar": "النساء"
+        },
+        {
+          "tr": "Bakara",
+          "en": "Al-Baqarah",
+          "es": "Al-Baqarah",
+          "pt": "Al-Baqarah",
+          "nl": "Al-Baqarah",
+          "de": "Al-Baqarah",
+          "ku": "Bekere",
+          "ckb": "بەقەرە",
+          "ar": "البقرة"
+        },
+        {
+          "tr": "Tevbe",
+          "en": "At-Tawbah",
+          "es": "At-Tawbah",
+          "pt": "At-Tawbah",
+          "nl": "At-Tawbah",
+          "de": "At-Tawbah",
+          "ku": "Tevbe",
+          "ckb": "تەوبە",
+          "ar": "التوبة"
+        },
+        {
+          "tr": "İsrâ",
+          "en": "Al-Isra",
+          "es": "Al-Isra",
+          "pt": "Al-Isra",
+          "nl": "Al-Isra",
+          "de": "Al-Isra",
+          "ku": "Îsrâ",
+          "ckb": "ئیسرا",
+          "ar": "الإسراء"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre A'râf 7:156'da «Rahmetim her şeyi kuşatmıştır» ile ne vurgulanır?",
+        "en": "According to the text, what is emphasized with «My mercy encompasses all things» in Al-A'raf 7:156?",
+        "es": "Según el texto, ¿qué enfatiza «mi misericordia abarca todo» en Al-A'raf 7:156?",
+        "pt": "Segundo o texto, o que «minha misericórdia abrange tudo» enfatiza em Al-A'raf 7:156?",
+        "nl": "Wat benadrukt «Mijn barmhartigheid omvat alles» in Al-A'raf 7:156 volgens de tekst?",
+        "de": "Was betont «Meine Barmherzigkeit umfasst alles» in Al-A'raf 7:156 laut Text?",
+        "ku": "Li gorî nivîsê di A'râf 7:156 de «rehma min her tiştî digire» çi rave dike?",
+        "ckb": "بەپێی دەقەکە لە ئەعراف ١٥٦ «ڕەحمەتم هەموو شتێک دەگرێتەوە» چی دەربڕێت؟",
+        "ar": "ماذا يؤكد ﴿ورحمتي وسعت كل شيء﴾ في الأعراف ١٥٦ وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Rahmetin genişliği; takva sahipleri için yazılacağı",
+          "en": "The vastness of mercy; it will be written for the God-fearing",
+          "es": "Amplitud de la misericordia; para los temerosos",
+          "pt": "Amplitude da misericórdia; para os tementes",
+          "nl": "Rijkdom van barmhartigheid; voor de vrezenden",
+          "de": "Weite der Barmherzigkeit; für die Gottesfürchtigen",
+          "ku": "Firehiya rehmê; ji bo tirsiyaran",
+          "ckb": "پڕی ڕەحمەت؛ بۆ لە اللەترسەکان دەنووسرێت",
+          "ar": "سعةُ الرحمة؛ كتابتُها للمتقين"
+        },
+        {
+          "tr": "Rahmetin hiç olmadığı",
+          "en": "That mercy does not exist",
+          "es": "Que no hay misericordia",
+          "pt": "Que não há misericórdia",
+          "nl": "Dat er geen barmhartigheid is",
+          "de": "Dass keine Barmherzigkeit existiert",
+          "ku": "Ku rehm tune ye",
+          "ckb": "ڕەحمەت نییە",
+          "ar": "عدمُ الرحمة"
+        },
+        {
+          "tr": "Namazın haram olduğu",
+          "en": "That prayer is forbidden",
+          "es": "Que el salat es haram",
+          "pt": "Que a oração é proibida",
+          "nl": "Dat gebed haram is",
+          "de": "Dass Gebet verboten ist",
+          "ku": "Ku namaz haram e",
+          "ckb": "نوێژ حەرامە",
+          "ar": "تحريمُ الصلاة"
+        },
+        {
+          "tr": "Sadece peygamberlere özel rahmet",
+          "en": "Mercy only for prophets",
+          "es": "Misericordia solo para profetas",
+          "pt": "Misericórdia só para profetas",
+          "nl": "Barmhartigheid alleen voor profeten",
+          "de": "Barmherzigkeit nur für Propheten",
+          "ku": "Rehm tenê ji bo pêxemberan",
+          "ckb": "ڕەحمەت تەنها بۆ پێغەمبەران",
+          "ar": "رحمةُ الأنبياء فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«إن رحمتي غلبت غضبي» hadisi metinde neyi müjdelemektedir?",
+        "en": "In the text, what does the hadith «My mercy has overcome My wrath» convey?",
+        "es": "En el texto, ¿qué anuncia «mi misericordia venció a mi ira»?",
+        "pt": "No texto, o que «minha misericórdia venceu minha ira» anuncia?",
+        "nl": "Wat belooft «Mijn barmhartigheid overwint Mijn toorn» in de tekst?",
+        "de": "Was verkündet «Meine Barmherzigkeit hat Meinen Zorn überwunden» im Text?",
+        "ku": "Di nivîsê de «rehma min gazabê min derbas kiriye» çi ragihînî?",
+        "ckb": "لە دەقەکەدا «ڕەحمەتم لە تووڕەیی تێپەڕیوە» چی پێشکەش دەکات؟",
+        "ar": "ماذا تبشر ﴿إن رحمتي غلبت غضبي﴾ في النص؟"
+      },
+      "options": [
+        {
+          "tr": "Rahmetin gazaba galip geldiğine dair müjde",
+          "en": "Glad tidings that mercy prevails over wrath",
+          "es": "Bien nueva: la misericordia vence",
+          "pt": "Boa nova: a misericórdia vence",
+          "nl": "Blijde boodschap: barmhartigheid wint",
+          "de": "Frohbotschaft: Barmherzigkeit siegt",
+          "ku": "Mûjde: rehm serkeftî ye",
+          "ckb": "مژدەی سەرکەوتنی ڕەحمەت لەسەر تووڕەیی",
+          "ar": "بشارةُ غلبةِ الرحمة على الغضب"
+        },
+        {
+          "tr": "Gazabın her zaman rahmetten üstün olduğu",
+          "en": "That wrath is always above mercy",
+          "es": "Que la ira siempre gana",
+          "pt": "Que a ira sempre vence",
+          "nl": "Dat toorn altijd wint",
+          "de": "Dass Zorn immer siegt",
+          "ku": "Ku gazab her serkeftî ye",
+          "ckb": "تووڕەیی هەمیشە سەرترە",
+          "ar": "غلبةُ الغضب دائماً"
+        },
+        {
+          "tr": "Rahmetin hiç olmadığı",
+          "en": "That there is no mercy",
+          "es": "Que no hay misericordia",
+          "pt": "Que não há misericórdia",
+          "nl": "Dat er geen barmhartigheid is",
+          "de": "Dass keine Barmherzigkeit ist",
+          "ku": "Ku rehm tune ye",
+          "ckb": "ڕەحمەت نییە",
+          "ar": "عدمُ الرحمة"
+        },
+        {
+          "tr": "Zekâtın farz olmadığı",
+          "en": "That zakah is not obligatory",
+          "es": "Que el zakat no es obligatorio",
+          "pt": "Que o zakat não é obrigatório",
+          "nl": "Dat zakat niet verplicht is",
+          "de": "Dass Zakat nicht Pflicht ist",
+          "ku": "Ku zekat ferz nîne",
+          "ckb": "زەکات فەرز نییە",
+          "ar": "سقوطُ فرضية الزكاة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre bağışlanma umudu gaflete mi, tövbe ve düzeltmeye mi bağlanır?",
+        "en": "According to the text, is hope of forgiveness tied to heedlessness or to repentance and repair?",
+        "es": "Según el texto, ¿la esperanza va con la negligencia o con el arrepentimiento?",
+        "pt": "Segundo o texto, a esperança liga-se à negligência ou ao arrependimento?",
+        "nl": "Verbindt de tekst hoop met nalatigheid of met berouw?",
+        "de": "Hängt Hoffnung laut Text an Nachlässigkeit oder an Reue?",
+        "ku": "Li gorî nivîsê hêvî bi gafletê an bi tevbe ve girêdayî ye?",
+        "ckb": "بەپێی دەقەکە ئومێدی لێبوردن بە غەفلەتە یان بە تۆوبە و ڕێکخستنەوە؟",
+        "ar": "هل يربط النصُ أملَ المغفرة بالغفلة أم بالتوبة والإصلاح؟"
+      },
+      "options": [
+        {
+          "tr": "Tövbe, istiğfar ve düzeltmeye; gaflete değil",
+          "en": "To repentance, istighfar, and repair — not to heedlessness",
+          "es": "A arrepentimiento, istighfar y enmienda — no a negligencia",
+          "pt": "A arrependimento, istighfar e emenda — não à negligência",
+          "nl": "Aan berouw, istighfar en verbetering — niet aan nalatigheid",
+          "de": "An Reue, Istighfar und Besserung — nicht an Nachlässigkeit",
+          "ku": "Bi tevbe, istiğfar û rastkirinê — ne bi gafletê",
+          "ckb": "بە تۆوبە و ئیستیغفار و ڕێکخستنەوە — نەک بە غەفلەت",
+          "ar": "بالتوبة والاستغفار والإصلاح لا بالغفلة"
+        },
+        {
+          "tr": "Sadece gaflete",
+          "en": "Only to heedlessness",
+          "es": "Solo a negligencia",
+          "pt": "Só à negligência",
+          "nl": "Alleen aan nalatigheid",
+          "de": "Nur an Nachlässigkeit",
+          "ku": "Tenê bi gafletê",
+          "ckb": "تەنها بە غەفلەت",
+          "ar": "بالغفلة فقط"
+        },
+        {
+          "tr": "Sadece başkalarını suçlamaya",
+          "en": "Only to blaming others",
+          "es": "Solo a culpar a otros",
+          "pt": "Só a culpar outros",
+          "nl": "Alleen aan anderen de schuld geven",
+          "de": "Nur an Schuldzuweisung",
+          "ku": "Tenê bi şermezarkirina kesên din",
+          "ckb": "تەنها بە تۆمەتبارکردنی کەسانی تر",
+          "ar": "باللومِ على الغير فقط"
+        },
+        {
+          "tr": "Orucu terk etmeye",
+          "en": "To abandoning fasting",
+          "es": "A dejar el ayuno",
+          "pt": "A abandonar o jejum",
+          "nl": "Aan vasten opgeven",
+          "de": "An Fasten aufgeben",
+          "ku": "Bi terkkirina rozeyê",
+          "ckb": "بە جێهێشتنی ڕۆژوو",
+          "ar": "بترك الصوم"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Bağışlanma umudu günahı küçümsemek ve tövbesiz rahatlıktır",
+          "en": "Hope of forgiveness is belittling sin and ease without repentance",
+          "es": "Esperanza es menospreciar el pecado sin arrepentimiento",
+          "pt": "Esperança é menosprezar o pecado sem arrependimento",
+          "nl": "Hoop is zonde klein maken zonder berouw",
+          "de": "Hoffnung verkleinert Sünde ohne Reue",
+          "ku": "Hêvî guneh siwandinî ye bê tevbe",
+          "ckb": "ئومێدی لێبوردن واتای سووککردنەوەی گوناه و ئارامی بێ تۆوبەیە",
+          "ar": "أملُ المغفرة استصغارُ الذنب وراحةٌ بلا توبة"
+        },
+        {
+          "tr": "Nisâ 4:110 istiğfar eden için Allah'ı bağışlayıcı bulmayı söyler",
+          "en": "An-Nisa 4:110 says the seeker of forgiveness finds Allah forgiving",
+          "es": "An-Nisa 4:110 dice que quien pide perdón encuentra indulgencia",
+          "pt": "An-Nisa 4:110 diz que quem pede perdão encontra Allah perdoador",
+          "nl": "An-Nisa 4:110: vergiffeniszoeker vindt Allah vergevensgezind",
+          "de": "An-Nisa 4:110: Bittender findet Allah gnädig",
+          "ku": "Nisâ 4:110 dibêje lêborînxwaz Allahê bibore dibîne",
+          "ckb": "نسا ١١٠ دەڵێت داواکاری لێبوردن اللە بەخشندە دەبینێت",
+          "ar": "النساء ١١٠ يجد المستغفر غفوراً"
+        },
+        {
+          "tr": "A'râf 7:156 rahmetin genişliğini bildirir",
+          "en": "Al-A'raf 7:156 declares the vastness of mercy",
+          "es": "Al-A'raf 7:156 declara la amplitud",
+          "pt": "Al-A'raf 7:156 declara a amplitude",
+          "nl": "Al-A'raf 7:156 meldt uitgestrekte barmhartigheid",
+          "de": "Al-A'raf 7:156 verkündet weite Barmherzigkeit",
+          "ku": "A'râf 7:156 firehiya rehmê radigihîne",
+          "ckb": "ئەعراف ١٥٦ پڕی ڕەحمەت دەگەیەنێت",
+          "ar": "الأعراف ١٥٦ تبشر بسعة الرحمة"
+        },
+        {
+          "tr": "«رحمتي غلبت غضبي» rahmetin gazaba üstün olduğunu müjdelemektedir",
+          "en": "«My mercy has overcome My wrath» conveys mercy prevailing",
+          "es": "«Mi misericordia venció» anuncia victoria de la misericordia",
+          "pt": "«Minha misericórdia venceu» anuncia vitória da misericórdia",
+          "nl": "«Mijn barmhartigheid won» belooft overwinning",
+          "de": "«Meine Barmherzigkeit siegte» verkündet Überlegenheit",
+          "ku": "«Rehma min serkeftî ye» mûjde dide",
+          "ckb": "«ڕەحمەتم سەرکەوتووە» مژدەی سەرکەوتنی ڕەحمەت دەدات",
+          "ar": "«غلبت غضبي» تبشر بغلبة الرحمة"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir «Estağfirullah»ı Nisâ 4:110 ve A'râf 7:156 ile bağla — bağışlanma umudu vaad üzerinedir; günahı hafife almak üzerine değil.",
+    "en": "Tie one «Astaghfirullah» today to An-Nisa 4:110 and Al-A'raf 7:156 — hope of forgiveness rests on Allah's promise, not on belittling sin.",
+    "es": "Hoy une «Astaghfirullah» a An-Nisa 4:110 y Al-A'raf 7:156.",
+    "pt": "Hoje ligue «Astaghfirullah» a An-Nisa 4:110 e Al-A'raf 7:156.",
+    "nl": "Koppel vandaag «Astaghfirullah» aan An-Nisa 4:110 en Al-A'raf 7:156.",
+    "de": "Binde heute «Astaghfirullah» an An-Nisa 4:110 und Al-A'raf 7:156.",
+    "ku": "Îro «Estağfirullah» bi Nisâ 4:110 û A'râf 7:156 ve girêde.",
+    "ckb": "ئەمڕۆ «ئیستەغفڕوڵڵا» بە نسا ١١٠ و ئەعراف ١٥٦ەوە بەستەوە — ئومێدی لێبوردن لەسەر بەڵێندانی اللە دانیشێت نەک لەسەر سووککردنەوەی گوناه.",
+    "ar": "اليوم اربطْ «أستغفر الله» بالنساء ١١٠ والأعراف ١٥٦ — أملُ المغفرة على الوعد لا على استصغار الذنب."
+  }
+}

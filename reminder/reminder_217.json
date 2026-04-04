@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 8,
+  "title": {
+    "tr": "Kırıcı Sözlerden Kaçınmak",
+    "en": "Avoiding Hurtful Words",
+    "es": "Evitar Palabras Hirientes",
+    "pt": "Evitar Palavras Magoantes",
+    "nl": "Kwetsende Woorden Vermijden",
+    "de": "Verletzende Worte meiden",
+    "ku": "Ji Peyvên Birînî Dûr Ketin",
+    "ckb": "دوورکەوتنەوە لە قسەی پێکدان",
+    "ar": "اجْتِنَابُ الْكَلِمَاتِ الْمُؤْذِيَةِ"
+  },
+  "content": {
+    "tr": "Kırıcı sözlerden kaçınmak; suskun kalmak veya haksızlığı görmezden gelmek değil — gıybet etmemek, gereksiz şüpheye düşmemek ve kalbe taş yerine merhamet taşıyan cümleler seçmektir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلا تَجَسَّسُوا وَلا يَغْتَبْ بَعْضُكُمْ بَعْضًا﴾**\n**«Ey iman edenler! Çok zandan kaçının; zannın bir kısmı günahtır. Birbirinizi gıybet etmeyin...»**\n*(Hucurât 49:12 — meâl özü)*\n\nAlay ve incitme çizgisi de nettir:\n\n**﴿لا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ﴾**\n**«Bir topluluk diğeriyle alay etmesin...»**\n*(Hucurât 49:11 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«المُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ»** — **«Müslüman, müslümanların dilinden ve elinden emin olduğu kimsedir.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a.)*\n\nBugün: bir cümleyi gıybetten çekmek — Hucurât 49:11–12: kırıcı söz, ses yüksekliğinde değil; dilin emanetinde belli olur.",
+    "en": "Avoiding hurtful words is not staying silent about wrong or looking away from injustice — it is refusing backbiting, shunning much suspicion, and choosing sentences that carry mercy instead of stones for hearts.\n\nAllah the Most High says:\n\n**﴿O you who have believed, avoid much suspicion... And do not spy or backbite one another...﴾**\n*(Al-Hujurat 49:12 — meaning summarized)*\n\nThe line against mockery and hurt is clear:\n\n**﴿Let not a people ridicule another people...﴾**\n*(Al-Hujurat 49:11 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"The Muslim is one from whom other Muslims are safe from his tongue and his hand.\"**\n*(Al-Bukhari, Muslim — narrated by Abu Hurairah.)*\n\nToday: pull one sentence back from backbiting — Al-Hujurat 49:11–12: hurtful speech shows in how the tongue is trusted, not only in volume.",
+    "es": "Evitar dañar no es callar ante el mal — es no calumniar.\n\n**﴿لا يغتب بعضكم بعضا﴾**\n*(Al-Hujurat 49:12)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHoy: retira una frase de la ghibah.",
+    "pt": "Evitar ferir não é calar injustiça — é não difamar.\n\n**﴿لا يغتب بعضكم بعضا﴾**\n*(Al-Hujurat 49:12)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHoje: tire uma frase da difamação.",
+    "nl": "Kwetsen vermijden is niet zwijgen bij onrecht — het is geen roddel.\n\n**﴿لا يغتب بعضكم بعضا﴾**\n*(Al-Hujurat 49:12)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nVandaag: haal één zin weg uit achterklap.",
+    "de": "Worte meiden heißt nicht Unrecht schweigend hinnehmen — es ist kein Gerede über andere.\n\n**﴿لا يغتب بعضكم بعضا﴾**\n*(Al-Hujurat 49:12)*\n\n**﴿لا يسخر قوم من قوم﴾**\n*(Al-Hujurat 49:11)*\n\n**«المسلم من سلم المسلمون من لسانه»** *(Bukhari, Muslim)*\n\nHeute: einen Satz aus der Nachrede zurückziehen.",
+    "ku": "Ji peyvên birînî dûr ketin ne bêdengî li hemberî neheqî ye — ev gıybetê red dike.\n\n**﴿لا يغتب﴾**\n*(Hucurât 49:12)*\n\n**﴿لا يسخر﴾**\n*(Hucurât 49:11)*\n\n**«المسلم من سلم»** *(Buxarî)*\n\nÎro: peyvek ji gıybetê vekişîne.",
+    "ckb": "دوورکەوتنەوە لە قسەی پێکدان واتای بێدەنگی لەبەر ناڕەوایی نییە — بەڵکوو خۆپاراستن لە گێبت، کەمکردنەوەی گومانی زۆر و هەڵبژاردنی ڕستەی میهرەبانانە نەک بەرد بۆ دڵ.\n\nاللە دەفەرموێت:\n\n**﴿وَلا تَجَسَّسُوا وَلا يَغْتَبْ بَعْضُكُمْ بَعْضًا﴾**\n*(حوجورات: ١٢)*\n\n**﴿لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ﴾**\n*(حوجورات: ١١)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«المسلم من سلم المسلمون من لسانه ويده»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: ڕستەیەک لە گێبت دوور بخەرەوە — حوجورات ١١–١٢: قسەی پێکدان تەنها لە بەرزی دەنگدا نییە؛ لە ئەمانیتی زماندا دەردەکەوێت.",
+    "ar": "اجتنابُ الكلمات المؤذية ليس سكوتاً عن الباطل ولا إغفالاً للعدل — إنما تركُ الغيبة، واجتنابُ كثيرٍ من الظن، واختيارُ ما يرحم القلوب.\n\nيقول الله تعالى:\n\n**﴿وَلا تَجَسَّسُوا وَلا يَغْتَبْ بَعْضُكُمْ بَعْضًا﴾**\n*(الحجرات: ١٢)*\n\n**﴿لا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ﴾**\n*(الحجرات: ١١)*\n\nوقال النبي ﷺ:\n\n**«المسلم من سلم المسلمون من لسانه ويده»**\n*(متفق عليه — عن أبي هريرة)*\n\nاليوم: اكفِفْ جملةً عن الغيبة — الحجرات ١١–١٢: الأذى باللسان يظهرٌ في الأمانة لا في الصوت فقط."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Birbirinizi gıybet etmeyin» ayeti hangi surede geçer?",
+        "en": "In which surah is the verse «do not backbite one another»?",
+        "es": "¿En qué sura está «لا يغتب بعضكم بعضا»?",
+        "pt": "Em qual sura está «لا يغتب بعضكم بعضا»?",
+        "nl": "In welke soera staat «لا يغتب بعضكم بعضا»?",
+        "de": "In welcher Sure steht «لا يغتب بعضكم بعضا»?",
+        "ku": "Ayeta «hevdu negıybet bikin» di kîjan sureyê de ye?",
+        "ckb": "«یەکتر گێبت مەکەن» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ولا يغتب بعضكم بعضا﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Hucurât",
+          "en": "Al-Hujurat",
+          "es": "Al-Hujurat",
+          "pt": "Al-Hujurat",
+          "nl": "Al-Hujurat",
+          "de": "Al-Hudschurat",
+          "ku": "Hucurât",
+          "ckb": "حوجورات",
+          "ar": "الحجرات"
+        },
+        {
+          "tr": "Maûn",
+          "en": "Al-Ma'un",
+          "es": "Al-Ma'un",
+          "pt": "Al-Ma'un",
+          "nl": "Al-Ma'un",
+          "de": "Al-Ma'un",
+          "ku": "Maûn",
+          "ckb": "ماعون",
+          "ar": "الماعون"
+        },
+        {
+          "tr": "Kureyş",
+          "en": "Quraysh",
+          "es": "Quraysh",
+          "pt": "Quraysh",
+          "nl": "Quraysh",
+          "de": "Quraysch",
+          "ku": "Qureyş",
+          "ckb": "قورەیش",
+          "ar": "قريش"
+        },
+        {
+          "tr": "Fil",
+          "en": "Al-Fil",
+          "es": "Al-Fil",
+          "pt": "Al-Fil",
+          "nl": "Al-Fil",
+          "de": "Al-Fil",
+          "ku": "Fîl",
+          "ckb": "فیل",
+          "ar": "الفيل"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Hucurât 49:12 çok zannın bir kısmıyla ilgili ne der?",
+        "en": "According to the text, what does Al-Hujurat 49:12 say about much suspicion?",
+        "es": "Según el texto, ¿qué dice Al-Hujurat 49:12 sobre mucha sospecha?",
+        "pt": "Segundo o texto, o que Al-Hujurat 49:12 diz sobre muita suspeita?",
+        "nl": "Wat zegt Al-Hujurat 49:12 over veel argwaan volgens de tekst?",
+        "de": "Was sagt Al-Hujurat 49:12 über viel Verdacht laut Text?",
+        "ku": "Li gorî nivîsê Hucurât 49:12 li ser gumanê zêde çi dibêje?",
+        "ckb": "بەپێی دەقەکە حوجورات ١٢ لەسەر گومانی زۆر چی دەڵێت؟",
+        "ar": "ماذا يقول الحجرات ١٢ عن كثرة الظن وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Çok zandan kaçınmak gerekir; zannın bir kısmı günahtır",
+          "en": "Avoid much suspicion; some suspicion is sin",
+          "es": "Evitar mucha sospecha; parte es pecado",
+          "pt": "Evitar muita suspeita; parte é pecado",
+          "nl": "Vermijd veel argwaan; deel is zonde",
+          "de": "Meide viel Verdacht; teils Sünde",
+          "ku": "Ji gumanê zêde dûr keve; beşek guneh e",
+          "ckb": "لە گومانی زۆر دوور بکەوە؛ بەشێکی گومان گوناحە",
+          "ar": "اجتناب كثير من الظن؛ بعض الظن إثم"
+        },
+        {
+          "tr": "Her zan doğrudur",
+          "en": "Every suspicion is true",
+          "es": "Toda sospecha es verdad",
+          "pt": "Toda suspeita é verdade",
+          "nl": "Elke argwaan is waar",
+          "de": "Jeder Verdacht ist wahr",
+          "ku": "Her guman rast e",
+          "ckb": "هەموو گومان ڕاستە",
+          "ar": "كل ظن حق"
+        },
+        {
+          "tr": "Zanmak farzdır",
+          "en": "Suspicion is obligatory",
+          "es": "Sospechar es obligatorio",
+          "pt": "Suspeitar é obrigatório",
+          "nl": "Argwaan is verplicht",
+          "de": "Verdacht ist Pflicht",
+          "ku": "Guman ferz e",
+          "ckb": "گومان فەرزە",
+          "ar": "الظن واجب"
+        },
+        {
+          "tr": "Sadece zenginler için geçerlidir",
+          "en": "It applies only to the rich",
+          "es": "Solo rige para ricos",
+          "pt": "Só vale para ricos",
+          "nl": "Alleen voor rijken",
+          "de": "Nur für Reiche",
+          "ku": "Tenê ji bo dewlemendan e",
+          "ckb": "تەنها بۆ دەوڵەمەندانە",
+          "ar": "للأغنياء فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Müslüman, müslümanların dilinden emin olduğu kimsedir» hadisi neyi ölçer?",
+        "en": "What does the hadith about the Muslim and safety from the tongue measure?",
+        "es": "¿Qué mide el hadiz «المسلم من سلم المسلمون من لسانه»?",
+        "pt": "O que o hadith «المسلم من سلم المسلمون من لسانه» mede?",
+        "nl": "Wat meet de hadith over de Muslim en de tong?",
+        "de": "Was misst der Hadith über Muslim und Zunge?",
+        "ku": "Hedîsa «musilman ji zimanê wî ewle ne» çi pîvan dike?",
+        "ckb": "حەدیسی «موسڵمان ئەو کەسەیە موسڵمانان لە زمانەکەی ئاسودەن» چی دەپێوانێت؟",
+        "ar": "ماذا يقيس حديث «المسلم من سلم المسلمون من لسانه»؟"
+      },
+      "options": [
+        {
+          "tr": "Dil ile zarar vermeme / güven",
+          "en": "Safety from harm by the tongue / trust",
+          "es": "No dañar con la lengua",
+          "pt": "Não ferir com a língua",
+          "nl": "Geen schade door de tong",
+          "de": "Kein Schaden durch die Zunge",
+          "ku": "Ewlehiya ji zimanê xerab",
+          "ckb": "ئاسایش لە زیانی زمان",
+          "ar": "سلامة المسلمين من الأذى باللسان"
+        },
+        {
+          "tr": "Sadece namaz sayısı",
+          "en": "Only prayer count",
+          "es": "Solo número de oraciones",
+          "pt": "Só número de orações",
+          "nl": "Alleen gebedstelling",
+          "de": "Nur Gebetsanzahl",
+          "ku": "Tenê hejmara nimêjê",
+          "ckb": "تەنها ژمارەی نوێژ",
+          "ar": "عدد الصلوات فقط"
+        },
+        {
+          "tr": "Sadece oruç",
+          "en": "Only fasting",
+          "es": "Solo ayuno",
+          "pt": "Só jejum",
+          "nl": "Alleen vasten",
+          "de": "Nur Fasten",
+          "ku": "Tenê roje",
+          "ckb": "تەنها ڕۆژوو",
+          "ar": "الصوم فقط"
+        },
+        {
+          "tr": "Sadece hac",
+          "en": "Only Hajj",
+          "es": "Solo Hajj",
+          "pt": "Só Hajj",
+          "nl": "Alleen hadj",
+          "de": "Nur Haddsch",
+          "ku": "Tenê hec",
+          "ckb": "تەنها حەج",
+          "ar": "الحج فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Hucurât 49:11 alayla ilgili ne yasaklar?",
+        "en": "According to the text, what does Al-Hujurat 49:11 forbid about mockery?",
+        "es": "Según el texto, ¿qué prohíbe Al-Hujurat 49:11 sobre la burla?",
+        "pt": "Segundo o texto, o que Al-Hujurat 49:11 proíbe sobre zombaria?",
+        "nl": "Wat verbiedt Al-Hujurat 49:11 over spot volgens de tekst?",
+        "de": "Was verbietet Al-Hujurat 49:11 zum Spott laut Text?",
+        "ku": "Li gorî nivîsê Hucurât 49:11 li ser henekê çi qedexe dike?",
+        "ckb": "بەپێی دەقەکە حوجورات ١١ لەسەر گاڵێدان چی قەدەغە دەکات؟",
+        "ar": "ماذا يحرّم الحجرات ١١ من السخرية وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Bir topluluğun diğeriyle alay etmesi",
+          "en": "One group mocking another",
+          "es": "Burlarse unos de otros",
+          "pt": "Zombar uns dos outros",
+          "nl": "Elkaar uitlachen in groepen",
+          "de": "Sich gegenseitig verspotten",
+          "ku": "Komîkek ji ya din re henek bike",
+          "ckb": "گاڵێدان لە نێوان کۆمەڵەکان",
+          "ar": "سخرية قوم من قوم"
+        },
+        {
+          "tr": "Selamlaşmayı",
+          "en": "Greeting",
+          "es": "Saludar",
+          "pt": "Cumprimentar",
+          "nl": "Groeten",
+          "de": "Grüßen",
+          "ku": "Silav",
+          "ckb": "سلاو",
+          "ar": "التحية"
+        },
+        {
+          "tr": "Yardım etmeyi",
+          "en": "Helping",
+          "es": "Ayudar",
+          "pt": "Ajudar",
+          "nl": "Helpen",
+          "de": "Helfen",
+          "ku": "Alîkarî",
+          "ckb": "یارمەتی",
+          "ar": "المساعدة"
+        },
+        {
+          "tr": "Doğruyu söylemeyi",
+          "en": "Speaking truth",
+          "es": "Decir verdad",
+          "pt": "Dizer verdade",
+          "nl": "Waarheid spreken",
+          "de": "Wahrheit sagen",
+          "ku": "Rastî gotin",
+          "ckb": "ڕاستی وتن",
+          "ar": "قول الحق"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kırıcı sözler yalnızca yüksek sesle söylenince zarar verir; fısıltı ve gıybet mesele değildir",
+          "en": "Hurtful words harm only when loud; whispers and backbiting do not matter",
+          "es": "Solo duele si gritas; el susurro y la ghibah no importan",
+          "pt": "Só magoa se gritar; sussurro e calúnia não importam",
+          "nl": "Alleen hard kwetsen; fluisteren en roddel tellen niet",
+          "de": "Nur laut schadet; Flüstern und Gerede zählt nicht",
+          "ku": "Tenê deng bilind birîn dide; fisîltî û gıybet girîng nine",
+          "ckb": "قسەی پێکدان تەنها کاتێک زیان دەگەیەنێت کە بەرز بێت؛ پشوو و گێبت گرنگ نییە",
+          "ar": "الأذى بالقول لا يكون إلا بصوت عالٍ؛ الهمس والغيبة لا يضران"
+        },
+        {
+          "tr": "Hucurât 49:12 gıybeti yasaklar",
+          "en": "Al-Hujurat 49:12 forbids backbiting",
+          "es": "Al-Hujurat 49:12 prohíbe la ghibah",
+          "pt": "Al-Hujurat 49:12 proíbe difamação",
+          "nl": "Al-Hujurat 49:12 verbiedt roddel",
+          "de": "Al-Hujurat 49:12 verbietet Gerede",
+          "ku": "Hucurât 49:12 gıybetê qedexe dike",
+          "ckb": "حوجورات ١٢ گێبت قەدەغە دەکات",
+          "ar": "الحجرات ١٢ تحرّم الغيبة"
+        },
+        {
+          "tr": "Hucurât 49:11 alayı yasaklar",
+          "en": "Al-Hujurat 49:11 forbids mockery",
+          "es": "Al-Hujurat 49:11 prohíbe la burla",
+          "pt": "Al-Hujurat 49:11 proíbe zombaria",
+          "nl": "Al-Hujurat 49:11 verbiedt spot",
+          "de": "Al-Hujurat 49:11 verbietet Spott",
+          "ku": "Hucurât 49:11 henekê qedexe dike",
+          "ckb": "حوجورات ١١ گاڵێدان قەدەغە دەکات",
+          "ar": "الحجرات ١١ تحرّم السخرية"
+        },
+        {
+          "tr": "Hadis dil ile emniyeti ölçer",
+          "en": "The hadith measures safety from the tongue",
+          "es": "El hadiz mide seguridad de lengua",
+          "pt": "O hadith mede segurança da língua",
+          "nl": "Hadith meet veiligheid van de tong",
+          "de": "Hadith misst Sicherheit vor der Zunge",
+          "ku": "Hedîs ewlehiya ziman pîvan dike",
+          "ckb": "حەدیس ئاسایشی زمان دەپێوانێت",
+          "ar": "الحديث يقيس سلامة اللسان"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir cümleyi Hucurât 49:12 ile, bir susku Hucurât 49:11 ile bağla — kırıcı söz yüksekte değil; dilin emanetinde belli olur.",
+    "en": "Tie one sentence today to Al-Hujurat 49:12 and one restraint to Al-Hujurat 49:11 — hurt shows in the tongue's trust, not only volume.",
+    "es": "Hoy una frase menos de ghibah con Al-Hujurat 49:12 y menos burla con 49:11.",
+    "pt": "Hoje uma frase a menos de difamação com Al-Hujurat 49:12 e menos zombaria com 49:11.",
+    "nl": "Vandaag: één zin minder roddel met Al-Hujurat 49:12 en spot met 49:11.",
+    "de": "Heute: einen Satz weniger Nachrede mit Al-Hujurat 49:12 und Spott mit 49:11.",
+    "ku": "Îro peyvek kêmtir ji gıybetê bi Hucurât 49:12 û henek bi 49:11 ve girêde.",
+    "ckb": "ئەمڕۆ ڕستەیەک کەمتر بە حوجورات ١٢ەوە و خۆڕاگری بە حوجورات ١١ەوە بەستەوە — قسەی پێکدان لە بەرزی دەنگدا نییە.",
+    "ar": "اليوم اربطْ جملةً بالحجرات ١٢ وكظماً بالحجرات ١١ — الأذى باللسان في الأمانة لا في الصوت وحده."
+  }
+}

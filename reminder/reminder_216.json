@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 7,
+  "title": {
+    "tr": "Gerçek Dinleme Sanatı",
+    "en": "The Art of True Listening",
+    "es": "El Arte de Escuchar de Verdad",
+    "pt": "A Arte de Ouvir de Verdade",
+    "nl": "De Kunst van Echt Luisteren",
+    "de": "Die Kunst des wahren Zuhörens",
+    "ku": "Hunera Guhdarîya Rastê",
+    "ckb": "هونەری گوێگرتنی ڕاستەقینە",
+    "ar": "فَنُّ الْاِسْتِمَاعِ الْحَقِيقِيِّ"
+  },
+  "content": {
+    "tr": "Gerçek dinleme; sözü biriktirmek için acele etmek veya karşı tarafı bitirmeden cevabı dilinin ucuna getirmek değil — kalbi hazır tutmak, Kur'an okunduğunda susup kulak vermek ve önce dinleyip sonra konuşmaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ﴾**\n**«Kur'an okunduğunda ona kulak verin ve susun ki rahmete eresiniz.»**\n*(A'râf 7:204 — meâl özü)*\n\nİman ehline hitap da dinleme adabını hatırlatır:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ﴾**\n**«Ey iman edenler! Allah ve Resûlü'nün önüne geçmeyin...»**\n*(Hucurât 49:1 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ»** — **«Kim Allah'a ve ahiret gününe iman ediyorsa ya hayır söylesin ya da sussun.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a.)*\n\nBugün: bir cümleyi bitirmesini beklemek — A'râf 7:204 ve Hucurât 49:1: gerçek dinleme, yarışta değil; huşû ve sıraya riayettedir.",
+    "en": "True listening is not rushing to stockpile words or having your reply ready before the other finishes — it is keeping the heart present, falling silent and lending an ear when the Qur'an is recited, and hearing before speaking.\n\nAllah the Most High says:\n\n**﴿And when the Qur'an is recited, listen to it attentively and be silent, that you may receive mercy﴾**\n*(Al-A'raf 7:204 — meaning summarized)*\n\nThe address to believers also recalls adab of listening:\n\n**﴿O you who have believed, do not advance before Allah and His Messenger...﴾**\n*(Al-Hujurat 49:1 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"Whoever believes in Allah and the Last Day should speak good or remain silent.\"**\n*(Al-Bukhari, Muslim — narrated by Abu Hurairah.)*\n\nToday: wait for one sentence to finish — Al-A'raf 7:204 and Al-Hujurat 49:1: true listening grows in humility and order, not in interrupting.",
+    "es": "Escuchar no es preparar la réplica — es callar cuando toca.\n\n**﴿فاستمعوا له وأنصتوا﴾**\n*(Al-A'raf 7:204)*\n\n**﴿لا تقدموا بين يدي الله ورسوله﴾**\n*(Al-Hujurat 49:1)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHoy: espera a que termine una frase.",
+    "pt": "Ouvir não é preparar a réplica — é calar quando convém.\n\n**﴿فاستمعوا له وأنصتوا﴾**\n*(Al-A'raf 7:204)*\n\n**﴿لا تقدموا بين يدي الله ورسوله﴾**\n*(Al-Hujurat 49:1)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHoje: espere uma frase acabar.",
+    "nl": "Luisteren is niet je antwoord voorbereiden — het is zwijgen wanneer het hoort.\n\n**﴿فاستمعوا له وأنصتوا﴾**\n*(Al-A'raf 7:204)*\n\n**﴿لا تقدموا بين يدي الله ورسوله﴾**\n*(Al-Hujurat 49:1)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nVandaag: wacht tot de zin klaar is.",
+    "de": "Zuhören heißt nicht die Erwiderung vorbereiten — es ist schweigen, wenn es passt.\n\n**﴿فاستمعوا له وأنصتوا﴾**\n*(Al-A'raf 7:204)*\n\n**﴿لا تقدموا بين يدي الله ورسوله﴾**\n*(Al-Hujurat 49:1)*\n\n**«فليقل خيرا أو ليصمت»** *(Bukhari, Muslim)*\n\nHeute: warte bis der Satz zu Ende ist.",
+    "ku": "Guhdarî ne amadekirina bersivê ye — ev bêdengî ye dema ku divê.\n\n**﴿فاستمعوا﴾**\n*(A'râf 7:204)*\n\n**﴿لا تقدموا﴾**\n*(Hucurât 49:1)*\n\n**«خيرا أو ليصمت»** *(Buxarî)*\n\nÎro: li benda bidî ku peyv biqede.",
+    "ckb": "گوێگرتنی ڕاستەقینە واتای کۆکردنەوەی وشە بە پەلە یان ئامادەکردنی وەڵام پێش تەواوبوونی قسەی بەرامبەر نییە — بەڵکوو ئامادەکردنی دڵ، بێدەنگی و گوێگرتن کاتێک قورئان دەخوێنرێتەوە و یەکەم گوێ بگرێت پاشان بڵێت.\n\nاللە دەفەرموێت:\n\n**﴿وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ﴾**\n*(ئەعراف: ٢٠٤)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ﴾**\n*(حوجورات: ١)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: چاوەڕوانی تەواوبوونی ڕستەیەک بە — ئەعراف ٢٠٤ و حوجورات ١: گوێگرتنی ڕاستەقینە لە پێشبڕکێدا ناگەشێتەوە؛ لە ئاداب و ڕیزدا گەشە دەکات.",
+    "ar": "الاستماعُ الحقيقي ليس تجميعَ كلماتٍ ولا تجهيزَ الجواب قبل أن يفرغ المتكلم — إنما حضورُ القلب، والإنصاتُ عند تلاوة القرآن، والسمعُ قبل القول.\n\nيقول الله تعالى:\n\n**﴿وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنصِتُوا لَعَلَّكُمْ تُرْحَمُونَ﴾**\n*(الأعراف: ٢٠٤)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ﴾**\n*(الحجرات: ١)*\n\nوقال النبي ﷺ:\n\n**«من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت»**\n*(متفق عليه — عن أبي هريرة)*\n\nاليوم: مُرْ على انتهاء الجملة — الأعراف ٢٠٤ والحجرات ١: الإنصاتُ يكبرُ بالأدب لا بالمقاطعة."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Kur'an okunduğunda ona kulak verin ve susun» ayeti hangi surede geçer?",
+        "en": "In which surah is the verse about listening when the Qur'an is recited?",
+        "es": "¿En qué sura está «فاستمعوا له وأنصتوا» sobre el Qur'an?",
+        "pt": "Em qual sura está «فاستمعوا له وأنصتوا» sobre o Alcorão?",
+        "nl": "In welke soera staat «فاستمعوا له وأنصتوا» over de Qur'an?",
+        "de": "In welcher Sure steht «فاستمعوا له وأنصتوا» zur Qur'an-Rezitation?",
+        "ku": "Ayeta «dem dema Qur'an tê xwendin guhdarî bike û bêdeng be» di kîjan sureyê de ye?",
+        "ckb": "«کاتێک قورئان دەخوێنرێتەوە گوێی لێ بگرە و بێدەنگ بە» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿فاستمعوا له وأنصتوا﴾ عند تلاوة القرآن؟"
+      },
+      "options": [
+        {
+          "tr": "A'râf",
+          "en": "Al-A'raf",
+          "es": "Al-A'raf",
+          "pt": "Al-A'raf",
+          "nl": "Al-A'raf",
+          "de": "Al-A'raf",
+          "ku": "A'râf",
+          "ckb": "ئەعراف",
+          "ar": "الأعراف"
+        },
+        {
+          "tr": "Yûnus",
+          "en": "Yunus",
+          "es": "Yunus",
+          "pt": "Yunus",
+          "nl": "Yunus",
+          "de": "Yunus",
+          "ku": "Yûnus",
+          "ckb": "یونس",
+          "ar": "يونس"
+        },
+        {
+          "tr": "Hûd",
+          "en": "Hud",
+          "es": "Hud",
+          "pt": "Hud",
+          "nl": "Hud",
+          "de": "Hud",
+          "ku": "Hûd",
+          "ckb": "هود",
+          "ar": "هود"
+        },
+        {
+          "tr": "Enbiyâ",
+          "en": "Al-Anbiya",
+          "es": "Al-Anbiya",
+          "pt": "Al-Anbiya",
+          "nl": "Al-Anbiya",
+          "de": "Al-Anbiya",
+          "ku": "Enbiyâ",
+          "ckb": "ئەنبیاء",
+          "ar": "الأنبياء"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre A'râf 7:204 Kur'an okunduğunda neyi emreder?",
+        "en": "According to the text, what does Al-A'raf 7:204 command when the Qur'an is recited?",
+        "es": "Según el texto, ¿qué manda Al-A'raf 7:204 al recitar el Qur'an?",
+        "pt": "Segundo o texto, o que Al-A'raf 7:204 manda ao recitar o Alcorão?",
+        "nl": "Wat gebiedt Al-A'raf 7:204 bij Qur'an-recitatie volgens de tekst?",
+        "de": "Was befiehlt Al-A'raf 7:204 bei Qur'an-Rezitation laut Text?",
+        "ku": "Li gorî nivîsê A'râf 7:204 dema Qur'an tê xwendin çi ferman dike?",
+        "ckb": "بەپێی دەقەکە ئەعراف ٢٠٤ کاتێک قورئان دەخوێنرێتەوە چی فەرموو دەکات؟",
+        "ar": "ماذا يأمر الأعراف ٢٠٤ عند تلاوة القرآن وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kulak vermek ve susmak",
+          "en": "To listen attentively and be silent",
+          "es": "Escuchar atentamente y callar",
+          "pt": "Ouvir atentamente e calar",
+          "nl": "Aandachtig luisteren en zwijgen",
+          "de": "Zuhören und schweigen",
+          "ku": "Guhdarî û bêdengî",
+          "ckb": "گوێگرتن و بێدەنگی",
+          "ar": "الاستماع والإنصات"
+        },
+        {
+          "tr": "Bağırarak konuşmak",
+          "en": "Speaking loudly",
+          "es": "Hablar alto",
+          "pt": "Falar alto",
+          "nl": "Luid spreken",
+          "de": "Laut reden",
+          "ku": "Bi bilind bêje",
+          "ckb": "قسەکردن بە بەرز",
+          "ar": "الجهر بالكلام"
+        },
+        {
+          "tr": "Okumayı reddetmek",
+          "en": "Rejecting recitation",
+          "es": "Rechazar la recitación",
+          "pt": "Rejeitar a recitação",
+          "nl": "Recitatie afwijzen",
+          "de": "Rezitation ablehnen",
+          "ku": "Xwendinê red bike",
+          "ckb": "ڕەتکردنەوەی خوێندنەوە",
+          "ar": "رفض التلاوة"
+        },
+        {
+          "tr": "Sadece arkaya dönmek",
+          "en": "Only turning away",
+          "es": "Solo apartarse",
+          "pt": "Só afastar-se",
+          "nl": "Alleen wegdraaien",
+          "de": "Nur wegwenden",
+          "ku": "Tenê paş veger",
+          "ckb": "تەنها پشت هەڵکردن",
+          "ar": "الإعراض فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Ya hayır söylesin ya da sussun» hadisi hangi kitaplarda geçer?",
+        "en": "In which collections is the hadith «speak good or be silent» found?",
+        "es": "¿En qué colecciones está «قل خيرا أو اصمت»?",
+        "pt": "Em quais coleções está «قل خيرا أو اصمت»?",
+        "nl": "In welke verzamelingen staat «قل خيرا أو اصمت»?",
+        "de": "In welchen Sammlungen steht «قل خيرا أو اصمت»?",
+        "ku": "Hedîsa «baş bibêje an bêdeng be» di kîjan kitêban de ye?",
+        "ckb": "حەدیسی «باش بڵێ یان بێدەنگ بە» لە کام کتێبەکاندا هەیە؟",
+        "ar": "في أي كتب «فليقل خيرا أو ليصمت»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bukhari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Sadece Süyûtî",
+          "en": "Only al-Suyuti",
+          "es": "Solo Suyuti",
+          "pt": "Só Suyuti",
+          "nl": "Alleen Suyuti",
+          "de": "Nur Suyuti",
+          "ku": "Tenê Suyûtî",
+          "ckb": "تەنها سەیوتی",
+          "ar": "السيوطي فقط"
+        },
+        {
+          "tr": "Sadece İbn Kesîr",
+          "en": "Only Ibn Kathir",
+          "es": "Solo Ibn Kathir",
+          "pt": "Só Ibn Kathir",
+          "nl": "Alleen Ibn Kathir",
+          "de": "Nur Ibn Kathir",
+          "ku": "Tenê Ibn Kesîr",
+          "ckb": "تەنها ئیبن کەسیر",
+          "ar": "ابن كثير فقط"
+        },
+        {
+          "tr": "Sadece Taberî",
+          "en": "Only al-Tabari",
+          "es": "Solo Tabari",
+          "pt": "Só Tabari",
+          "nl": "Alleen Tabari",
+          "de": "Nur Tabari",
+          "ku": "Tenê Taberî",
+          "ckb": "تەنها تەبەری",
+          "ar": "الطبري فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Hucurât 49:1 müminlere neyi yasaklar?",
+        "en": "According to the text, what does Al-Hujurat 49:1 forbid believers?",
+        "es": "Según el texto, ¿qué prohíbe Al-Hujurat 49:1 a los creyentes?",
+        "pt": "Segundo o texto, o que Al-Hujurat 49:1 proíbe aos crentes?",
+        "nl": "Wat verbiedt Al-Hujurat 49:1 gelovigen volgens de tekst?",
+        "de": "Was verbietet Al-Hujurat 49:1 den Gläubigen laut Text?",
+        "ku": "Li gorî nivîsê Hucurât 49:1 çi ji bawermendan re qedexe dike?",
+        "ckb": "بەپێی دەقەکە حوجورات ١ چی لە باوەڕداران قەدەغە دەکات؟",
+        "ar": "ماذا يحرّم الحجرات ١ على المؤمنين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Allah ve Resûl'ünün önüne geçmek",
+          "en": "Advancing before Allah and His Messenger",
+          "es": "Adelantarse a Allah y Su Mensajero",
+          "pt": "Adiantar-se a Allah e Seu Mensageiro",
+          "nl": "Voor Allah en Zijn Boodschapper uitgaan",
+          "de": "Sich Allah und Seinem Gesandten vordrängen",
+          "ku": "Berî Allah û Peyamber pêşî veçe",
+          "ckb": "پێش اللە و پێغەمبەرەوە چوون",
+          "ar": "التقدم بين يدي الله ورسوله"
+        },
+        {
+          "tr": "Kur'an dinlemeyi",
+          "en": "Listening to the Qur'an",
+          "es": "Escuchar el Qur'an",
+          "pt": "Ouvir o Alcorão",
+          "nl": "Naar de Qur'an luisteren",
+          "de": "Dem Qur'an zuhören",
+          "ku": "Guhdarîya Qur'anê",
+          "ckb": "گوێگرتن لە قورئان",
+          "ar": "سماع القرآن"
+        },
+        {
+          "tr": "İyi niyeti",
+          "en": "Good intention",
+          "es": "Buena intención",
+          "pt": "Boa intenção",
+          "nl": "Goede intentie",
+          "de": "Gute Absicht",
+          "ku": "Niyeta baş",
+          "ckb": "نیەتی چاک",
+          "ar": "حسن النية"
+        },
+        {
+          "tr": "Selamlaşmayı",
+          "en": "Greeting",
+          "es": "Saludar",
+          "pt": "Cumprimentar",
+          "nl": "Groeten",
+          "de": "Grüßen",
+          "ku": "Silav",
+          "ckb": "سلاو",
+          "ar": "التحية"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Gerçek dinleme, karşı taraf konuşurken cevabı hazırlamak ve sözü bölmektir",
+          "en": "True listening is preparing your reply while the other speaks and interrupting",
+          "es": "Escuchar bien es preparar la réplica e interrumpir",
+          "pt": "Ouvir bem é preparar a réplica e interromper",
+          "nl": "Echt luisteren is je antwoord kappen en onderbreken",
+          "de": "Echtes Zuhören heißt Antwort vorbereiten und unterbrechen",
+          "ku": "Guhdarîya rast amadekirina bersivê dema din dinivîse û ketinê nav qeseyê ye",
+          "ckb": "گوێگرتنی ڕاستەقینە واتای ئامادەکردنی وەڵام لە کاتی قسەی بەرامبەر و تێکدانەوەی قسەیە",
+          "ar": "الاستماع الحقيقي هو تحضير الجواب والقطع أثناء كلام الآخر"
+        },
+        {
+          "tr": "A'râf 7:204 Kur'an okunurken dinlemeyi ve susmayı hatırlatır",
+          "en": "Al-A'raf 7:204 reminds to listen and be silent during recitation",
+          "es": "Al-A'raf 7:204 recuerda escuchar y callar al recitar",
+          "pt": "Al-A'raf 7:204 lembra ouvir e calar ao recitar",
+          "nl": "Al-A'raf 7:204 herinnert aan luisteren en zwijgen bij recitatie",
+          "de": "Al-A'raf 7:204 erinnert an Zuhören und Schweigen bei Rezitation",
+          "ku": "A'râf 7:204 dema xwendinê guhdarî û bêdengî tîne bîr",
+          "ckb": "ئەعراف ٢٠٤ لە کاتی خوێندنەوەدا گوێگرتن و بێدەنگی بیردەخاتەوە",
+          "ar": "الأعراف ٢٠٤ يذكر الاستماع والإنصات عند التلاوة"
+        },
+        {
+          "tr": "Hucurât 49:1 Allah ve Resûl'ünden öne geçmeyi yasaklar",
+          "en": "Al-Hujurat 49:1 forbids advancing before Allah and His Messenger",
+          "es": "Al-Hujurat 49:1 prohíbe adelantarse a Allah y el Mensajero",
+          "pt": "Al-Hujurat 49:1 proíbe adiantar-se a Allah e o Mensageiro",
+          "nl": "Al-Hujurat 49:1 verbiedt voorrang op Allah en de Boodschapper",
+          "de": "Al-Hujurat 49:1 verbietet Vordringen vor Allah und dem Gesandten",
+          "ku": "Hucurât 49:1 berî Allah û Peyamber qedexe dike",
+          "ckb": "حوجورات ١ پێش اللە و پێغەمبەرەوە چوون قەدەغە دەکات",
+          "ar": "الحجرات ١ يحرّم التقدم بين يدي الله ورسوله"
+        },
+        {
+          "tr": "Hadis önce hayır söylemeyi veya susmayı önerir",
+          "en": "The hadith advises speaking good or silence first",
+          "es": "El hadiz aconseja primero hablar bien o callar",
+          "pt": "O hadith aconselha primeiro falar bem ou calar",
+          "nl": "Hadith raadt eerst goed spreken of zwijgen aan",
+          "de": "Hadith rät zuerst gut reden oder schweigen",
+          "ku": "Hedîs pêşî baş gotin an bêdengî şîret dike",
+          "ckb": "حەدیس پێشتر باش وتن یان بێدەنگی پێشنیار دەکات",
+          "ar": "الحديث يقرّب الخير أو الصمت أولاً"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir nefesi A'râf 7:204 ile, bir sırayı Hucurât 49:1 ile bağla — gerçek dinleme yarışta değil; huşû ve suskunlukta büyür.",
+    "en": "Tie one breath today to Al-A'raf 7:204 and one moment of order to Al-Hujurat 49:1 — true listening grows in stillness, not interruption.",
+    "es": "Hoy un silencio con Al-A'raf 7:204 y un orden con Al-Hujurat 49:1.",
+    "pt": "Hoje um silêncio com Al-A'raf 7:204 e uma ordem com Al-Hujurat 49:1.",
+    "nl": "Vandaag: één stilte met Al-A'raf 7:204 en volgorde met Al-Hujurat 49:1.",
+    "de": "Heute: eine Stille mit Al-A'raf 7:204 und Ordnung mit Al-Hujurat 49:1.",
+    "ku": "Îro bêdengî bi A'râf 7:204 û rêz bi Hucurât 49:1 ve girêde.",
+    "ckb": "ئەمڕۆ بێدەنگیەک بە ئەعراف ٢٠٤ەوە و ڕیزێک بە حوجورات ١ەوە بەستەوە — گوێگرتنی ڕاستەقینە لە تێکداندا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ إنصاتًا بالأعراف ٢٠٤ وآدابًا بالحجرات ١ — الإنصاتُ بالوقار لا بالمقاطعة."
+  }
+}
