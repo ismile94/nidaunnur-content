@@ -1,0 +1,344 @@
+{
+  "month": 8,
+  "day": 2,
+  "title": {
+    "tr": "Ramazan Niyeti",
+    "en": "Ramadan Intention",
+    "es": "Intención del Ramadán",
+    "pt": "Intenção do Ramadã",
+    "nl": "Ramadan-intentie",
+    "de": "Ramadan-Absicht",
+    "ku": "Niyeta Remezanê",
+    "ckb": "نیەتی ڕەمەزان",
+    "ar": "نيةُ رَمَضانَ"
+  },
+  "content": {
+    "tr": "Ramazan niyeti; oruç yalnızca yememek değil — Allah'a yöneliş, Kur'an'ın indirildiği ayın bilinci ve dilin de oruç tutmasıdır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ﴾**\n**«Ey iman edenler! Sizden öncekilere farz kılındığı gibi size de oruç farz kılındı — umulur ki böylece takva sahibi olursunuz.»** *(Bakara 2:183 — meâl özü)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ﴾**\n**«Ramazan ayı, insanlara hidayet olarak Kur'an'ın indirildiği aydır...»** *(Bakara 2:185 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»** — **«Ameller ancak niyetlere göredir.»** *(Buhârî, Müslim — Hz. Ömer r.a. rivayetiyle)*\n\nYine Peygamberimiz ﷺ şöyle buyurur: **«من لم يدع قول الزور والعمل به فليس لله حاجة في أن يدع طعامه وشرابه»** — **«Kim yalan sözü ve onunla amel etmeyi terk etmezse Allah'ın onun yiyeceğini ve içeceğini terk etmesine ihtiyacı yoktur.»** *(Buhârî — rivayet özeti)*\n\nBugün: niyeti kalbde Allah için düzelt; Ramazan'ı sadece açlık değil — hidayet ve iffet diliyle taşı.",
+    "en": "A Ramadan intention is not fasting from food alone — it is turning to Allah, awareness of the month in which the Qur'an was revealed, and fasting of the tongue as well.\n\nAllah the Most High says:\n\n**﴿O you who believe, decreed upon you is fasting as it was decreed upon those before you that you may become righteous.﴾** *(Al-Baqarah 2:183 — meaning summarized)*\n\n**﴿The month of Ramadan in which was revealed the Qur'an, a guidance for mankind...﴾** *(Al-Baqarah 2:185 — meaning summarized)*\n\nThe Prophet ﷺ said: **\"Actions are judged by intentions.\"** *(Bukhari, Muslim — narrated by Umar)*\n\nHe ﷺ also said — meaning summarized — **whoever does not give up false speech and acting upon it, Allah has no need of his leaving food and drink.** *(Bukhari — narration summarized)*\n\nToday: set your intention sincerely for Allah; carry Ramadan not as mere hunger — but as guidance and a restrained tongue.",
+    "es": "Ramadán: niyya — no solo hambre; el Corán en 2:185 *(Baqarah)* y las intenciones *(Bujari, Muslim)*.\n\n**﴿شهر رمضان الذي أنزل فيه القرآن﴾**\n\n**«إنما الأعمال بالنيات»**\n\n**من لم يدع قول الزور** *(Bujari — sentido)*\n\nHoy: lengua y corazón.",
+    "pt": "Ramadã: niyya — não só fome; Alcorão em 2:185 *(Al-Baqarah)* e intenções *(Bukhari, Muslim)*.\n\n**﴿شهر رمضان الذي أنزل فيه القرآن﴾**\n\n**«إنما الأعمال بالنيات»**\n\n**من لم يدع قول الزور** *(Bukhari — sentido)*\n\nHoje: língua e coração.",
+    "nl": "Ramadan: niyya — niet alleen honger; Koran in 2:185 *(Al-Baqarah)* en intenties *(Bukhari, Muslim)*.\n\n**﴿شهر رمضان الذي أنزل فيه القرآن﴾**\n\n**«إنما الأعمال بالنيات»**\n\n**من لم يدع قول الزور** *(Bukhari — zin)*\n\nVandaag: tong en hart.",
+    "de": "Ramadan: Niyya — nicht nur Hunger; Qur'an in 2:185 *(Al-Baqarah)* und Absichten *(Bukhari, Muslim)*.\n\n**﴿شهر رمضان الذي أنزل فيه القرآن﴾**\n\n**«إنما الأعمال بالنيات»**\n\n**من لم يدع قول الزور** *(Bukhari — Sinn)*\n\nHeute: Zunge und Herz.",
+    "ku": "Niyeta Remezanê ne tenê birçî man e — ev vegera Allah û zanîna meha ku Qur'an tê de hatiye daxistin.\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ﴾**\n*(Bekere 2:185)*\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»** *(Buxarî, Muslîm)*\n\n**«من لم يدع قول الزور»** *(Buxarî)*\n\nÎro: niyetê ji dil ji bo Allah rast bike — Remezan ne tenê birçîtî ye.",
+    "ckb": "نیەتی ڕەمەزان تەنها برسیەتن نییە — ئەمە ڕوونەکردنەوەی بەرەو اللە و ئاگاداری مانگێکە کە قورئان تێیدا دابەزێنراوە و ڕۆژوو لە زمان و کردار.\n\nاللە دەفەرموێت:\n\n**﴿كُتِبَ عَلَيْكُمُ الصِّيَامُ﴾** *(بەقەرە: ١٨٣)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ﴾** *(بەقەرە: ١٨٥)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»** *(بوخاری، موسلیم)*\n\nهەروەها: **«من لم يدع قول الزور والعمل به»** *(بوخاری — کورتە)*\n\nئەمڕۆ: نیەت لە دڵدا بۆ اللە ڕاست بکەرەوە — ڕەمەزان تەنها برسی نییە بەڵکو هیدایەت و پاراستنی زمان.",
+    "ar": "نيةُ رمضان ليست جوعاً عن الطعام فقط — إنها التوجّه إلى الله، ووعيَ الشهرِ الذي أُنزل فيه القرآن، وصومَ اللسان أيضاً.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ﴾**\n*(البقرة: ١٨٣)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ﴾**\n*(البقرة: ١٨٥)*\n\nوقال النبي ﷺ: **«إنما الأعمال بالنيات»** *(البخاري ومسلم — عن عمر)*.\n\nوقال ﷺ — بمعنى الحديث — **«من لم يدع قول الزور والعمل به فليس لله حاجة في أن يدع طعامه وشرابه»** *(البخاري — باختصار)*.\n\nاليوم: صِغِ النية لله صدقاً؛ احمل رمضان هدى وعفّة لسان لا جوعاً مجرّداً."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Ramazan ayı, insanlara hidayet olarak Kur'an'ın indirildiği ay» ifadesi hangi sure ve ayettedir?",
+        "en": "In which surah and verse is Ramadan described as the month in which the Qur'an was revealed as guidance?",
+        "es": "¿En qué sura/aya está «Ramadán… en el que se reveló el Corán, guía»?",
+        "pt": "Em qual sura/versículo está «Ramadã… em que o Alcorão foi revelado, guia»?",
+        "nl": "In welke soera/vers staat «Ramadan… waarin de Koran neerkwam, leiding»?",
+        "de": "In welcher Sure/Aya steht «Ramadan… in dem der Qur'an hinabgesandt wurde»?",
+        "ku": "«Meha Remezanê ku Qur'an tê de hat daxistin, rêberî» di kîjan sure û ayetê de ye?",
+        "ckb": "«مانگی ڕەمەزان کە قورئان تێدا دابەزێنراوە وەک هیدایەت» لە کام سورەت و ئایەتدایە؟",
+        "ar": "في أي سورة وآية ﴿شهر رمضان الذي أنزل فيه القرآن هدى للناس﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Bakara 2:185",
+          "en": "Al-Baqarah 2:185",
+          "es": "Al-Baqarah 2:185",
+          "pt": "Al-Baqarah 2:185",
+          "nl": "Al-Baqarah 2:185",
+          "de": "Al-Baqarah 2:185",
+          "ku": "Bekere 2:185",
+          "ckb": "بەقەرە ١٨٥",
+          "ar": "البقرة ١٨٥"
+        },
+        {
+          "tr": "Âl İmrân 3:97",
+          "en": "Al Imran 3:97",
+          "es": "Al Imran 3:97",
+          "pt": "Al Imran 3:97",
+          "nl": "Al Imran 3:97",
+          "de": "Al Imran 3:97",
+          "ku": "Al İmran 3:97",
+          "ckb": "ئالی عمران ٩٧",
+          "ar": "آل عمران ٩٧"
+        },
+        {
+          "tr": "Tevbe 9:36",
+          "en": "At-Tawbah 9:36",
+          "es": "At-Tawbah 9:36",
+          "pt": "At-Tawbah 9:36",
+          "nl": "At-Tawbah 9:36",
+          "de": "At-Tawbah 9:36",
+          "ku": "Tewbe 9:36",
+          "ckb": "تەوبە ٣٦",
+          "ar": "التوبة ٣٦"
+        },
+        {
+          "tr": "Kehf 18:1",
+          "en": "Al-Kahf 18:1",
+          "es": "Al-Kahf 18:1",
+          "pt": "Al-Kahf 18:1",
+          "nl": "Al-Kahf 18:1",
+          "de": "Al-Kahf 18:1",
+          "ku": "Kehf 18:1",
+          "ckb": "کەهف ١",
+          "ar": "الكهف ١"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "«Ameller ancak niyetlere göredir» hadisini kim rivayet etmiştir?",
+        "en": "Who narrated the hadith \"Actions are judged by intentions\"?",
+        "es": "¿Quién narró «Las acciones son por las intenciones»?",
+        "pt": "Quem narrou «As ações são pelas intenções»?",
+        "nl": "Wie leverde «Daden naar intenties»?",
+        "de": "Wer überlieferte «Die Taten nach den Absichten»?",
+        "ku": "Kî «Kirin bi niyetan tên nirxandin» şand?",
+        "ckb": "کێ «کارەکان بەپێی نیەتەکانن» ڕێوایەت کردووە؟",
+        "ar": "مَن روى «إنما الأعمال بالنيات»؟"
+      },
+      "options": [
+        {
+          "tr": "Hz. Ömer r.a. (Buhârî, Müslim)",
+          "en": "Umar ibn al-Khattab (Bukhari, Muslim)",
+          "es": "Umar ibn al-Jattab (Bujari, Muslim)",
+          "pt": "Umar ibn al-Khattab (Bukhari, Muslim)",
+          "nl": "Umar ibn al-Khattab (Bukhari, Muslim)",
+          "de": "Umar ibn al-Chattab (Bukhari, Muslim)",
+          "ku": "Omer b. Xettab (Buxarî, Muslîm)",
+          "ckb": "عومەر بن خەتاب (بوخاری، موسلیم)",
+          "ar": "عمر بن الخطاب (البخاري ومسلم)"
+        },
+        {
+          "tr": "Yalnızca Ebû Hureyre r.a.",
+          "en": "Only Abu Hurayrah",
+          "es": "Solo Abu Hurayra",
+          "pt": "Apenas Abu Hurayrah",
+          "nl": "Alleen Abu Hurayrah",
+          "de": "Nur Abu Huraira",
+          "ku": "Tenê Ebû Hureyre",
+          "ckb": "تەنها ئەبوو هۆرێرە",
+          "ar": "أبو هريرة فقط"
+        },
+        {
+          "tr": "Yalnızca Âişe r.anha",
+          "en": "Only Aisha",
+          "es": "Solo Aisha",
+          "pt": "Apenas Aisha",
+          "nl": "Alleen Aisha",
+          "de": "Nur Aisha",
+          "ku": "Tenê Aişe",
+          "ckb": "تەنها عائشە",
+          "ar": "عائشة فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Ömer r.a.",
+          "en": "Only Ibn Umar",
+          "es": "Solo Ibn Umar",
+          "pt": "Apenas Ibn Umar",
+          "nl": "Alleen Ibn Umar",
+          "de": "Nur Ibn Umar",
+          "ku": "Tenê İbn Omer",
+          "ckb": "تەنها ئیبن عومەر",
+          "ar": "ابن عمر فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Ey iman edenler! Size oruç farz kılındı» ayeti hangi surededir?",
+        "en": "In which surah is the verse \"O you who believe, fasting has been prescribed for you\"?",
+        "es": "¿En qué sura está «Oh creyentes, se os prescribió el ayuno»?",
+        "pt": "Em qual sura está «Ó vós que credes, foi-vos prescrito o jejum»?",
+        "nl": "In welke soera staat «O gelovigen, vasten is jullie voorgeschreven»?",
+        "de": "In welcher Sure steht «O ihr Gläubigen, euch ist Fasten auferlegt»?",
+        "ku": "«Ey bawermendan! Orok ji we re hatiye ferz kirin» di kîjan sure de ye?",
+        "ckb": "«ئەی باوەڕداران ڕۆژوو لەسەر ئێوە فەرز کراوە» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Bakara",
+          "en": "Al-Baqarah",
+          "es": "Al-Baqarah",
+          "pt": "Al-Baqarah",
+          "nl": "Al-Baqarah",
+          "de": "Al-Baqarah",
+          "ku": "Bekere",
+          "ckb": "بەقەرە",
+          "ar": "البقرة"
+        },
+        {
+          "tr": "Maide",
+          "en": "Al-Ma'idah",
+          "es": "Al-Ma'idah",
+          "pt": "Al-Ma'idah",
+          "nl": "Al-Ma'idah",
+          "de": "Al-Ma'idah",
+          "ku": "Maide",
+          "ckb": "مائدە",
+          "ar": "المائدة"
+        },
+        {
+          "tr": "Nisâ",
+          "en": "An-Nisa",
+          "es": "An-Nisa",
+          "pt": "An-Nisa",
+          "nl": "An-Nisa",
+          "de": "An-Nisa",
+          "ku": "Nisa",
+          "ckb": "نسا",
+          "ar": "النساء"
+        },
+        {
+          "tr": "Hucurât",
+          "en": "Al-Hujurat",
+          "es": "Al-Hujurat",
+          "pt": "Al-Hujurat",
+          "nl": "Al-Hujurat",
+          "de": "Al-Hujurat",
+          "ku": "Hucurat",
+          "ckb": "حوجورات",
+          "ar": "الحجرات"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Bakara 2:185'te Kur'an, Ramazan bağlamında nasıl tanımlanır?",
+        "en": "In Al-Baqarah 2:185, how is the Qur'an described in the Ramadan context?",
+        "es": "En Al-Baqarah 2:185, ¿cómo se describe el Corán?",
+        "pt": "Em Al-Baqarah 2:185, como o Alcorão é descrito?",
+        "nl": "In Al-Baqarah 2:185: hoe wordt de Koran beschreven?",
+        "de": "In Al-Baqarah 2:185: wie wird der Qur'an beschrieben?",
+        "ku": "Di Bekere 2:185 de Qur'an çawa tê nas kirin?",
+        "ckb": "لە بەقەرە ١٨٥دا قورئان چۆن دەردەکەوێت؟",
+        "ar": "في البقرة ١٨٥ كيف وُصف القرآن؟"
+      },
+      "options": [
+        {
+          "tr": "İnsanlara hidayet (hudan li'n-nâs)",
+          "en": "A guidance for mankind (hudan li'n-nas)",
+          "es": "Guía para la gente",
+          "pt": "Guia para as pessoas",
+          "nl": "Leiding voor de mensen",
+          "de": "Eine Führung für die Menschen",
+          "ku": "Rêberî ji bo mirovan",
+          "ckb": "هیدایەت بۆ خەڵک",
+          "ar": "هدى للناس"
+        },
+        {
+          "tr": "Yalnızca tarih kitabı",
+          "en": "Merely a history book",
+          "es": "Solo historia",
+          "pt": "Só história",
+          "nl": "Alleen geschiedenis",
+          "de": "Nur Geschichte",
+          "ku": "Tenê pirtûka dîrokê",
+          "ckb": "تەنها کتێبی مێژوو",
+          "ar": "كتاب تاريخ فقط"
+        },
+        {
+          "tr": "Sadece şiir",
+          "en": "Only poetry",
+          "es": "Solo poesía",
+          "pt": "Só poesia",
+          "nl": "Alleen poëzie",
+          "de": "Nur Poesie",
+          "ku": "Tenê helbest",
+          "ckb": "تەنها شیعر",
+          "ar": "شعر فقط"
+        },
+        {
+          "tr": "Farz olmayan öğüt",
+          "en": "Non-obligatory counsel",
+          "es": "Consejo no obligatorio",
+          "pt": "Conselho não obrigatório",
+          "nl": "Niet-verplicht advies",
+          "de": "Unverbindlicher Rat",
+          "ku": "Şîreta ne ferz",
+          "ckb": "ئامۆژگاری نافەرز",
+          "ar": "موعظة غير واجبة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Ramazan orucunda niyet ve kalp yönelişi önemsizdir; sadece gündüz yememek iç yeterlidir",
+          "en": "In Ramadan fasting, intention and heart matter little; merely abstaining from food by day inwardly suffices",
+          "es": "La niyya no importa; basta no comer de día",
+          "pt": "A niyya não importa; basta não comer de dia",
+          "nl": "Intentie deert niet; alleen overdag niet eten is genoeg",
+          "de": "Niyya ist egal; nur tagsüber nicht essen reicht innerlich",
+          "ku": "Niyet ne girîng e; tenê şevê nexwarin bes e",
+          "ckb": "نیەت و ڕووکردنەوەی دڵ گرنگ نییە؛ تەنها بێ ئەوەی لە ڕۆژدا بخوات بەس دەکات",
+          "ar": "النية والقلب لا أهمية لهما في صوم رمضان؛ يكفي ترك الطعام نهاراً بلا قصد"
+        },
+        {
+          "tr": "Bakara 2:185 Ramazan'ı Kur'an'ın indirildiği ay olarak anar",
+          "en": "Al-Baqarah 2:185 names Ramadan as the month the Qur'an was revealed",
+          "es": "Al-Baqarah 2:185 nombra Ramadán",
+          "pt": "Al-Baqarah 2:185 nomeia Ramadã",
+          "nl": "Al-Baqarah 2:185 noemt Ramadan",
+          "de": "Al-Baqarah 2:185 nennt den Ramadan",
+          "ku": "Bekere 2:185 Remezanê nav dike",
+          "ckb": "بەقەرە ١٨٥ ڕەمەزان وەک مانگی دابەزاندنی قورئان دەناسێت",
+          "ar": "البقرة ١٨٥ تسمي رمضان شهر نزول القرآن"
+        },
+        {
+          "tr": "«Ameller niyetlere göredir» hadisi Buhârî ve Müslim'de geçer",
+          "en": "The hadith on intentions appears in Bukhari and Muslim",
+          "es": "El hadiz de intenciones está en Bujari y Muslim",
+          "pt": "O hadith das intenções está em Bukhari e Muslim",
+          "nl": "De hadith over intenties staat bij Bukhari en Muslim",
+          "de": "Der Hadith über Absichten steht bei Bukhari und Muslim",
+          "ku": "Hedîsa niyetan di Buxarî û Muslîm de ye",
+          "ckb": "حەدیسی نیەت لە بوخاری و موسلیمدایە",
+          "ar": "حديث النيات في البخاري ومسلم"
+        },
+        {
+          "tr": "Metin, yalan sözü terk etmeden sadece yiyip içmeyi bırakmanın yeterli olmayabileceğini hatırlatır",
+          "en": "The text reminds that abandoning food alone may not suffice without leaving false speech",
+          "es": "El texto recuerda dejar la palabra falsa",
+          "pt": "O texto lembra abandonar a palavra falsa",
+          "nl": "De tekst herinnert aan vals spreken laten",
+          "de": "Der Text erinnert an falsche Rede aufzugeben",
+          "ku": "Nivîs bibîr dixîne dev ji gotina şaş berde",
+          "ckb": "دەقەکە بیر دەخاتەوە کە تەنها جێگۆڕکێی خواردنەوە بەس نابێت ئەگەر زۆر و درۆ بەجێ نەهێڵرێت",
+          "ar": "النص يذكر أن ترك الطعام وحده لا يكفي مع الإصرار على الزور"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün niyeti kalbde Allah için düzelt; Ramazan'ı sadece açlık değil — hidayet ve iffet diliyle taşı.",
+    "en": "Set your intention sincerely for Allah today; carry Ramadan not as mere hunger — but as guidance and a restrained tongue.",
+    "es": "Hoy: niyya sincera; Ramadán no es solo hambre.",
+    "pt": "Hoje: niyya sincera; Ramadã não é só fome.",
+    "nl": "Vandaag: oprechte intentie; Ramadan is niet alleen honger.",
+    "de": "Heute: aufrichtige Niyya; Ramadan ist nicht nur Hunger.",
+    "ku": "Îro niyeta xwe ji dil ji bo Allah rast bike — Remezan ne tenê birçîtî ye.",
+    "ckb": "ئەمڕۆ نیەت لە دڵدا بۆ اللە ڕاست بکەرەوە — ڕەمەزان تەنها برسی نییە بەڵکو هیدایەت و پاراستنی زمان.",
+    "ar": "اليوم صِغِ النية لله صدقاً؛ احمل رمضان هدى وعفّة لسان لا جوعاً مجرّداً."
+  }
+}

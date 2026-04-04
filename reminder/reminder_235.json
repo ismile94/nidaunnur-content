@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 26,
+  "title": {
+    "tr": "Pozitif Tutum",
+    "en": "A Positive Attitude",
+    "es": "Actitud positiva",
+    "pt": "Atitude positiva",
+    "nl": "Een positieve houding",
+    "de": "Eine positive Haltung",
+    "ku": "Helwesta Erênî",
+    "ckb": "هەڵوێستی ئەرێنی",
+    "ar": "النَّظْرَةُ الإِيجَابِيَّةُ"
+  },
+  "content": {
+    "tr": "Pozitif tutum; yalnızca yüzde tebessüm veya görüntü değil — Allah'ın rahmetinden ümid kesmemek, O'na güzel zan beslemek ve Duhâ suresinin müjdesi gibi ahiret ümidini diri tutmaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ * وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ﴾**\n**«Şüphesiz ahiret sana dünyadan daha hayırlıdır. Rabbin sana verecek de sen hoşnut olacaksın.»** *(Duhâ 93:4–5 — meâl özü)*\n\n**﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا﴾**\n**«De ki: Ey kendilerine zulmeden kullarım! Allah'ın rahmetinden ümid kesmeyin...»** *(Zumer 39:53 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«إِنِّي عِنْدَ ظَنِّ عَبْدِي بِي»** — **«Ben, kullumun hakkımdaki zannına göreyim.»** *(Buhârî, Müslim — rivayet özeti)*\n\nBugün: bir müjdeyi Duhâ 93 ile, bir kapıyı Zumer 39:53 ile bağla — pozitif tutum gösterişte değil; Allah'a güzel zan ve tövbede büyür.",
+    "en": "A positive attitude is not merely a smile on the surface — it is not despairing of Allah's mercy, holding a good opinion of Him, and keeping hope alive as the glad tidings of Surah Ad-Duha teach.\n\nAllah the Most High says:\n\n**﴿And the Hereafter is better for you than the first [life]. And your Lord is going to give you, and you will be satisfied.﴾** *(Ad-Duha 93:4–5 — meaning summarized)*\n\n**﴿Say, O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins...﴾** *(Az-Zumar 39:53 — meaning summarized)*\n\nThe Prophet ﷺ said: **\"I am as My servant thinks of Me.\"** *(Al-Bukhari, Muslim — narration summarized)*\n\nToday: tie one glad tiding to Ad-Duha 93 and one open door to Az-Zumar 39:53 — a positive attitude grows in good opinion of Allah and repentance, not in show.",
+    "es": "Actitud positiva: ahirah mejor *(Ad-Duha 93)* y no desesperar *(Az-Zumar 39:53)*.\n\n**﴿لآخرة خير﴾**\n\n**﴿لا تقنطوا من رحمة الله﴾**\n\n**«إني عند ظن عبدي»** *(Bukhari, Muslim)*\n\nHoy: buen pensamiento.",
+    "pt": "Atitude positiva: akhirah melhor *(Ad-Duha 93)* e não desesperar *(Az-Zumar 39:53)*.\n\n**﴿لآخرة خير﴾**\n\n**﴿لا تقنطوا من رحمة الله﴾**\n\n**«إني عند ظن عبدي»** *(Bukhari, Muslim)*\n\nHoje: bom pensamento.",
+    "nl": "Positieve houding: akhirah beter *(Ad-Duha 93)* en niet wanhopig *(Az-Zumar 39:53)*.\n\n**﴿لآخرة خير﴾**\n\n**﴿لا تقنطوا من رحمة الله﴾**\n\n**«إني عند ظن عبدي»** *(Bukhari, Muslim)*\n\nVandaag: goede gedachte.",
+    "de": "Positive Haltung: Akhira besser *(Ad-Duha 93)* und nicht verzweifeln *(Az-Zumar 39:53)*.\n\n**﴿لآخرة خير﴾**\n\n**﴿لا تقنطوا من رحمة الله﴾**\n\n**«إني عند ظن عبدي»** *(Bukhari, Muslim)*\n\nHeute: guter Gedanke.",
+    "ku": "Helwesta erênî ne tenê kenî ye — ev hêvî û lutf û niyeta baş e.\n\n**﴿لآخرة خير﴾**\n*(Duha 93)*\n\n**﴿لا تقنطوا﴾**\n*(Zumer 39:53)*\n\n**«إني عند ظن عبدي»** *(Buxarî, Muslîm)*\n\nÎro: şîret bi Duha 93 û derî bi Zumer 39:53 ve girêde.",
+    "ckb": "هەڵوێستی ئەرێنی تەنها پێکەنین لەسەر ڕووخسار نییە — ئەمە ئومێد لە بەخششی اللە، بیرکردنەوەی باش لەسەر ئەو و زیندووکردنەوەی هیوای ئاخیرەت وەک مژدەی سورەتی دووحا.\n\nاللە دەفەرموێت:\n\n**﴿وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ * وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ﴾**\n*(دووحا: ٤–٥)*\n\n**﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ﴾**\n*(زومەر: ٥٣)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«إِنِّي عِنْدَ ظَنِّ عَبْدِي بِي»** *(بوخاری، موسلیم)*.\n\nئەمڕۆ: مژدەیەک بە دووحا ٩٣ەوە و دەرگایەک بە زومەر ٣٩:٥٣ەوە بەستەوە — هەڵوێستی ئەرێنی لە نمایشدا ناگەشێتەوە.",
+    "ar": "النظرة الإيجابية ليست ابتسامةً ظاهرةً فقط — إنها عدمُ اليأس من رحمة الله، وحسنُ الظن به، وحياةُ الأمل كما في ضوء سورة الضحى.\n\nيقول الله تعالى:\n\n**﴿وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ * وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ﴾**\n*(الضحى: ٤–٥)*\n\n**﴿قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ﴾**\n*(الزمر: ٥٣)*\n\nوقال النبي ﷺ: **«إني عند ظن عبدي بي»** *(متفق عليه)*.\n\nاليوم اربطْ بشارةً بالضحى ٩٣ وباباً بالزمر ٥٣ — الإيجابيةُ بحسن الظن بالله والتوبة لا بالمظهر."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Ahiret sana dünyadan daha hayırlıdır; Rabbin sana verecek de sen hoşnut olacaksın» ayetleri hangi surededir?",
+        "en": "In which surah are the verses that the Hereafter is better and your Lord will give you until you are satisfied?",
+        "es": "¿En qué sura está «el más allá es mejor» y «tu Señor te dará»?",
+        "pt": "Em qual sura está «a outra vida é melhor» e «teu Senhor dar-te-á»?",
+        "nl": "In welke soera staat dat het hiernamaals beter is en dat je Heer je zal geven?",
+        "de": "In welcher Sure steht, das Jenseits sei besser und der Herr werde geben?",
+        "ku": "Ayetên «ahiret baştir e û Rab te dide» kîjan sure ne?",
+        "ckb": "ئایەتەکانی «ئاخیرەت باشترە» و «پەروەردگارت دەتداتێ» لە کام سورەتدان؟",
+        "ar": "في أي سورة ﴿وللآخرة خير لك من الأولى ولسوف يعطيك ربك فترضى﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Duhâ",
+          "en": "Ad-Duha",
+          "es": "Ad-Duha",
+          "pt": "Ad-Duha",
+          "nl": "Ad-Duha",
+          "de": "Ad-Duha",
+          "ku": "Duha",
+          "ckb": "دووحا",
+          "ar": "الضحى"
+        },
+        {
+          "tr": "Felak",
+          "en": "Al-Falaq",
+          "es": "Al-Falaq",
+          "pt": "Al-Falaq",
+          "nl": "Al-Falaq",
+          "de": "Al-Falaq",
+          "ku": "Felak",
+          "ckb": "فەلەق",
+          "ar": "الفلق"
+        },
+        {
+          "tr": "Nas",
+          "en": "An-Nas",
+          "es": "An-Nas",
+          "pt": "An-Nas",
+          "nl": "An-Nas",
+          "de": "An-Nas",
+          "ku": "Nas",
+          "ckb": "ناس",
+          "ar": "الناس"
+        },
+        {
+          "tr": "Kâfirûn",
+          "en": "Al-Kafirun",
+          "es": "Al-Kafirun",
+          "pt": "Al-Kafirun",
+          "nl": "Al-Kafirun",
+          "de": "Al-Kafirun",
+          "ku": "Kafirûn",
+          "ckb": "کافرون",
+          "ar": "الكافرون"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Zumer 39:53'te zulmeden kullara ilk ne hatırlatılır?",
+        "en": "In Az-Zumar 39:53, what is the first reminder to servants who wrong themselves?",
+        "es": "En Az-Zumar 39:53, ¿qué se recuerda primero?",
+        "pt": "Em Az-Zumar 39:53, o que se recorda primeiro?",
+        "nl": "In Az-Zumar 39:53: wat wordt eerst herinnerd?",
+        "de": "In Az-Zumar 39:53: Was wird zuerst erinnert?",
+        "ku": "Di Zumer 39:53 de pêşî çi tê bibîrxistin?",
+        "ckb": "لە زومەر ٣٩:٥٣دا سەرەتا چی دەخرێتە بیر؟",
+        "ar": "في الزمر ٥٣، ما التذكير الأول؟"
+      },
+      "options": [
+        {
+          "tr": "Allah'ın rahmetinden ümid kesmemek (lâ taknatu)",
+          "en": "Not to despair of Allah's mercy",
+          "es": "No desesperar de la misericordia",
+          "pt": "Não desesperar da misericórdia",
+          "nl": "Niet wanhopig zijn aan Allahs barmhartigheid",
+          "de": "Nicht an Allahs Barmherzigkeit zu verzweifeln",
+          "ku": "Ji rehma Allahî bêhêvî nebin",
+          "ckb": "ئومێدبڕین لە بەخشینی اللە",
+          "ar": "عدم اليأس من رحمة الله"
+        },
+        {
+          "tr": "Günahı artırmak",
+          "en": "To increase sin",
+          "es": "Aumentar el pecado",
+          "pt": "Aumentar o pecado",
+          "nl": "Zonde vermeerderen",
+          "de": "Sünde mehren",
+          "ku": "Guneh zêde bike",
+          "ckb": "زیادکردنی گوناح",
+          "ar": "زيادة الإثم"
+        },
+        {
+          "tr": "Tövbe etmeyi reddetmek",
+          "en": "To refuse repentance",
+          "es": "Rechazar el arrepentimiento",
+          "pt": "Recusar arrependimento",
+          "nl": "Berouw weigeren",
+          "de": "Reue ablehnen",
+          "ku": "Tewbeyê red bike",
+          "ckb": "ڕەتکردنەوەی تەوبە",
+          "ar": "رفض التوبة"
+        },
+        {
+          "tr": "Sadece dünyayı düşünmek",
+          "en": "To think only of the world",
+          "es": "Solo pensar el mundo",
+          "pt": "Só pensar no mundo",
+          "nl": "Alleen aan de wereld denken",
+          "de": "Nur an die Welt denken",
+          "ku": "Tenê li dinyayê bifikire",
+          "ckb": "تەنها بیرکردنەوە لە دنیا",
+          "ar": "التفكير في الدنيا فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Ben, kullumun hakkımdaki zannına göreyim» hadisi hangi koleksiyonlarda yer alır?",
+        "en": "In which collections is the hadith \"I am as My servant thinks of Me\"?",
+        "es": "¿En qué colecciones está «soy como piensa mi siervo»?",
+        "pt": "Em quais coleções está «sou como o meu servo pensa»?",
+        "nl": "In welke verzamelingen staat «Ik ben zoals Mijn dienaar denkt»?",
+        "de": "In welchen Sammlungen steht «Ich bin, wie Mein Diener denkt»?",
+        "ku": "Hedîsa «ez wekî baweriya bendê xwe me» di kîjan kitêban de ye?",
+        "ckb": "حەدیسی «من وەک بیرکردنەوەی بەندەمم» لە کام کۆمەڵەکاندا هەیە؟",
+        "ar": "في أي مجموعتين حديث «إني عند ظن عبدي بي»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bujari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Yalnızca Tirmizî",
+          "en": "Only al-Tirmidhi",
+          "es": "Solo al-Tirmidhi",
+          "pt": "Apenas al-Tirmidhi",
+          "nl": "Alleen at-Tirmidhi",
+          "de": "Nur at-Tirmidhi",
+          "ku": "Tenê Tirmizî",
+          "ckb": "تەنها تیرمیزی",
+          "ar": "الترمذي فقط"
+        },
+        {
+          "tr": "Yalnızca Nesâî",
+          "en": "Only al-Nasa'i",
+          "es": "Solo al-Nasa'i",
+          "pt": "Apenas al-Nasa'i",
+          "nl": "Alleen an-Nasa'i",
+          "de": "Nur an-Nasa'i",
+          "ku": "Tenê Nesaî",
+          "ckb": "تەنها نەسائی",
+          "ar": "النسائي فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Mâce",
+          "en": "Only Ibn Majah",
+          "es": "Solo Ibn Majah",
+          "pt": "Apenas Ibn Majah",
+          "nl": "Alleen Ibn Majah",
+          "de": "Nur Ibn Majah",
+          "ku": "Tenê İbn Mace",
+          "ckb": "تەنها ئیبن ماجە",
+          "ar": "ابن ماجه فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Duhâ 93:4'e göre «üla» (evvel) ile karşılaştırıldığında ne daha hayırlıdır?",
+        "en": "According to Ad-Duha 93:4, what is better compared to the \"first\" (ula)?",
+        "es": "Según Ad-Duha 93:4, ¿qué es mejor que «la primera»?",
+        "pt": "Segundo Ad-Duha 93:4, o que é melhor que a «primeira»?",
+        "nl": "Volgens Ad-Duha 93:4: wat is beter dan het «eerste»?",
+        "de": "Nach Ad-Duha 93:4: Was ist besser als das «Erste»?",
+        "ku": "Li gorî Duha 93:4 çi ji «yekem» baştir e?",
+        "ckb": "بەپێی دووحا ٩٣:٤، چی باشترە لە «یەکەم»؟",
+        "ar": "وفق الضحى ٤، ما خيرٌ من الأولى؟"
+      },
+      "options": [
+        {
+          "tr": "Âhiret (el-âhirah)",
+          "en": "The Hereafter (al-akhirah)",
+          "es": "El más allá",
+          "pt": "O além",
+          "nl": "Het hiernamaals",
+          "de": "Das Jenseits",
+          "ku": "Ahiret",
+          "ckb": "ئاخیرەت",
+          "ar": "الآخرة"
+        },
+        {
+          "tr": "Yalnızca mal biriktirmek",
+          "en": "Only hoarding wealth",
+          "es": "Solo atesorar",
+          "pt": "Só acumular",
+          "nl": "Alleen sparen",
+          "de": "Nur Horten",
+          "ku": "Tenê komkirin",
+          "ckb": "تەنها کۆکردنەوە",
+          "ar": "كنز المال فقط"
+        },
+        {
+          "tr": "Gösteriş",
+          "en": "Showing off",
+          "es": "Ostentación",
+          "pt": "Ostentação",
+          "nl": "Opscheppen",
+          "de": "Prahlerei",
+          "ku": "Serbilindî",
+          "ckb": "ڕیا",
+          "ar": "الرياء"
+        },
+        {
+          "tr": "İbadeti terk etmek",
+          "en": "Abandoning worship",
+          "es": "Abandonar el culto",
+          "pt": "Abandonar o culto",
+          "nl": "Aanbidding verlaten",
+          "de": "Anbetung aufgeben",
+          "ku": "Îbadetê berdan",
+          "ckb": "جێهێشتنی عیبادەت",
+          "ar": "ترك العبادة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Pozitif tutum yalnızca gülümsemektir; Allah'a güzel zan, tövbe ve rahmet ümidi sayılmaz",
+          "en": "A positive attitude is only smiling; good opinion of Allah, repentance, and hope in mercy do not count",
+          "es": "Positivo es solo sonreír; la misericordia no cuenta",
+          "pt": "Positivo é só sorrir; a misericórdia não conta",
+          "nl": "Positief is alleen glimlachen; genade telt niet",
+          "de": "Positiv ist nur Lächeln; Barmherzigkeit zählt nicht",
+          "ku": "Pozîtîf tenê kenî ye; rehma nayê jimartin",
+          "ckb": "هەڵوێستی ئەرێنی تەنها پێکەنینە؛ بیرکردنەوەی باش لەسەر اللە و تەوبە و ئومێد بە بەخشش ژمێردراو نین",
+          "ar": "الإيجابية ابتسامةٌ فقط؛ حسن الظن والتوبة والرجاء لا يُحتسب"
+        },
+        {
+          "tr": "Duhâ 93 ahiretin dünyadan hayırlı olduğunu müjdeler",
+          "en": "Ad-Duha 93 gives glad tidings that the Hereafter is better than this life",
+          "es": "Ad-Duha 93 anuncia el más allá mejor",
+          "pt": "Ad-Duha 93 anuncia o além melhor",
+          "nl": "Ad-Duha 93 verkondigt beter hiernamaals",
+          "de": "Ad-Duha 93 verkündigt besseres Jenseits",
+          "ku": "Duha 93 ahîretê baştir dibêje",
+          "ckb": "دووحا ٩٣ ئاخیرەت باشتر لە دنیا دەردەکەوێت",
+          "ar": "الضحى ٩٣ يبشر بفضل الآخرة"
+        },
+        {
+          "tr": "Zumer 39:53 rahmetten ümidi kesmemeyi hatırlatır",
+          "en": "Az-Zumar 39:53 reminds not to despair of mercy",
+          "es": "Az-Zumar 39:53 recuerda no desesperar",
+          "pt": "Az-Zumar 39:53 lembra a não desesperar",
+          "nl": "Az-Zumar 53 herinnert aan niet wanhopig zijn",
+          "de": "Az-Zumar 39:53 erinnert an keine Verzweiflung",
+          "ku": "Zumer 39:53 ji bêhêvîtiyê dikîne",
+          "ckb": "زومەر ٣٩:٥٣ لە ئومێدبڕین ئاگادار دەکاتەوە",
+          "ar": "الزمر ٥٣ ينهى عن اليأس من الرحمة"
+        },
+        {
+          "tr": "Hadis Allah'a yapılan zanna göre karşılık verdiğini bildirir",
+          "en": "The hadith states Allah responds according to the servant's opinion of Him",
+          "es": "El hadiz dice que Allah responde al pensamiento",
+          "pt": "O hadith diz que Allah responde ao pensamento",
+          "nl": "De hadith zegt dat Allah antwoordt naar denken",
+          "de": "Der Hadith sagt Allah antwortet nach Denken",
+          "ku": "Hedîs dibêje Allah li gorî baweriyê dibersivîne",
+          "ckb": "حەدیس دەڵێت اللە بەپێی بیرکردنەوەی بەندە وەڵام دەداتەوە",
+          "ar": "الحديث يقرن الجزاء بظن العبد"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir müjdeyi Duhâ 93 ile, bir kapıyı Zumer 39:53 ile bağla — pozitif tutum gösterişte değil; Allah'a güzel zan ve tövbede büyür.",
+    "en": "Tie one glad tiding today to Ad-Duha 93 and one open door to Az-Zumar 39:53 — a positive attitude grows in good opinion of Allah and repentance, not in show.",
+    "es": "Hoy une una buena nueva con Ad-Duha 93 y una puerta con Az-Zumar 39:53.",
+    "pt": "Hoje una uma boa nova com Ad-Duha 93 e uma porta com Az-Zumar 39:53.",
+    "nl": "Vandaag: één goed bericht met Ad-Duha 93 en een open deur met Az-Zumar 39:53.",
+    "de": "Heute: eine Frohbotschaft mit Ad-Duha 93 und eine offene Tür mit Az-Zumar 39:53.",
+    "ku": "Îro şîret bi Duha 93 û derî bi Zumer 39:53 ve girêde.",
+    "ckb": "ئەمڕۆ مژدەیەک بە دووحا ٩٣ەوە و دەرگایەک بە زومەر ٣٩:٥٣ەوە بەستەوە — هەڵوێستی ئەرێنی لە نمایشدا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ بشارةً بالضحى ٩٣ وباباً بالزمر ٥٣ — الإيجابيةُ بحسن الظن والتوبة لا بالرياء."
+  }
+}

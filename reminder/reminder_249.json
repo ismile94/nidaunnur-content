@@ -1,0 +1,344 @@
+{
+  "month": 8,
+  "day": 10,
+  "title": {
+    "tr": "Gece İbadeti Pratiği",
+    "en": "The Practice of Night Worship",
+    "es": "Práctica de la adoración nocturna",
+    "pt": "Prática da adoração noturna",
+    "nl": "Nachtelijke aanbidding",
+    "de": "Nachtgebetspraxis",
+    "ku": "Pratîka îbadeta şevê",
+    "ckb": "پراکتیزی عیبادەتی شەو",
+    "ar": "مُمَارَسَةُ قِيَامِ اللَّيْلِ"
+  },
+  "content": {
+    "tr": "Gece ibadeti pratiği; uykuyu tamamen yok saymak değil — kalbi sessiz saatlere taşımak, gündüzün gürültüsünden sonra Allah ile baş başa kalmayı denemektir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا ۝ نِصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا ۝ أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا﴾**\n**«Ey örtüsüne bürünen! Geceleyin kalk — az bir süre hariç; yarısını veya ondan biraz eksik veya biraz fazla; ve Kur'an'ı tartîl ile oku.»** *(Muzzemmil 73:1–4 — meâl özü)*\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ ۖ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**«Gecenin bir kısmında kalkıp nafile namaz kıl — umulur ki Rabbin seni övülen bir makama yükseltir.»** *(İsrâ 17:79 — meâl özü)*\n\n**﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِن ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ﴾**\n**«Şüphesiz Rabbin, senin ve seninle beraber olanlardan bir grubun gecenin iki üçte birinden az, yarısından ve üçte birinden kalktığını bilir...»** *(Muzzemmil 73:20 — meâl özü)*\n\nPeygamberimiz ﷺ gece namazının faziletini ve son üçte birde rahmetin indiğini müjdeleyen rivayetlerle hatırlatılır *(Buhârî, Müslim — rivayet özeti)*.\n\nBugün: bütün geceyi değil — bir rekât, bir secde veya bir «Yâ Rabbî» bile olsa geceye ibadetle bir iz bırakmayı dene.",
+    "en": "The practice of night worship is not pretending sleep does not matter — it is carrying the heart into quiet hours and seeking a moment alone with Allah after the noise of the day.\n\nAllah the Most High says:\n\n**﴿O you who wraps himself — arise [to pray] the night, except a little... and recite the Qur'an with measured recitation.﴾** *(Al-Muzzammil 73:1–4 — meaning summarized)*\n\n**﴿And from [part of] the night, pray with it as additional for you; perhaps your Lord will raise you to a praiseworthy station.﴾** *(Al-Isra 17:79 — meaning summarized)*\n\n**﴿Indeed, your Lord knows that you stand less than two thirds of the night or half of it or a third of it, and [so do] a group of those with you...﴾** *(Al-Muzzammil 73:20 — meaning summarized)*\n\nThe Prophet ﷺ is remembered through reports on the merit of night prayer and mercy descending in the last third of the night *(Al-Bukhari, Muslim — narration summarized)*.\n\nToday: not the whole night — try to leave even one rak'ah, one prostration, or one \"O my Lord\" in the night.",
+    "es": "Qiyam al-layl: 73:1–4 *(Muzzammil)*; 17:79 *(Isra)*; 73:20 *(duración)*.\n\n**﴿قم الليل﴾**\n\nRahma en el último tercio *(Bukhari, Muslim — resumen)*\n\nHoy: un rak'a, un sujud.",
+    "pt": "Qiyam al-layl: 73:1–4 *(Al-Muzzammil)*; 17:79 *(Al-Isra)*; 73:20 *(duração)*.\n\n**﴿قم الليل﴾**\n\nMisericórdia no último terço *(Bukhari, Muslim — resumo)*\n\nHoje: um rak'ah, um sujud.",
+    "nl": "Nachtgebed: 73:1–4 *(Al-Muzzammil)*; 17:79 *(Al-Isra)*; 73:20 *(duur)*.\n\n**﴿قم الليل﴾**\n\nBarmhartigheid in laatste derde *(Bukhari, Muslim)*\n\nVandaag: één rak'a, één sujud.",
+    "de": "Nachtgebet: 73:1–4 *(Al-Muzzammil)*; 17:79 *(Al-Isra)*; 73:20 *(Dauer)*.\n\n**﴿قم الليل﴾**\n\nBarmherzigkeit im letzten Drittel *(Bukhari, Muslim)*\n\nHeute: eine Rak'a, ein Sujud.",
+    "ku": "Pratîka îbadeta şevê ne gotin e ku xew tune ye — ev birîna dilê demên bê deng û lêgerîna demek bi Allah re ye.\n\n**﴿قُمِ اللَّيْلَ إِلَّا قَلِيلًا﴾**\n*(Muzzemmil 73:1–4)*\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً﴾**\n*(İsrâ 17:79)*\n\n**﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِن ثُلُثَيِ اللَّيْلِ﴾**\n*(Muzzemmil 73:20)*\n\nÎro: ne tevahiya şevê — kurt jî be yek rek'at an yek secde.",
+    "ckb": "پراکتیزی عیبادەتی شەو واتای ئەوە نییە خەو پشتگوێ بخەیت — ئەمە بردنی دڵ بۆ کاتە بێدەنگەکان و هەوڵدان بۆ تەنها مانەوە لەگەڵ اللە دوای دەنگی ڕۆژ.\n\nاللە دەفەرموێت:\n\n**﴿يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا﴾**\n*(مزەممەل: ١–٤)*\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ﴾**\n*(ئیسرا: ٧٩)*\n\n**﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِن ثُلُثَيِ اللَّيْلِ﴾**\n*(مزەممەل: ٢٠)*\n\nپێغەمبەر ﷺ بە فەزڵی نوێژی شەو و ڕەحمەت لە سێیەکی کۆتایی شەودا بیردێتەوە *(بوخاری، موسلیم)*.\n\nئەمڕۆ: نە هەموو شەو — تەنانەت یەک ڕەعەت یان یەک سوژود یان یەک «یە ڕەبی» لە شەودا بهێڵەرەوە.",
+    "ar": "ممارسة قيام الليل ليست إنكاراً للنوم — إنها حملَ القلب إلى ساعاتِ الهدوء، والبحثَ عن لحظةٍ وحدانيةٍ مع الله بعد ضجيج النهار.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الْمُزَّمِّلُ ۝ قُمِ اللَّيْلَ إِلَّا قَلِيلًا ۝ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا﴾**\n*(المزمل: ١–٤)*\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ ۖ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n*(الإسراء: ٧٩)*\n\n**﴿إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَى مِن ثُلُثَيِ اللَّيْلِ﴾**\n*(المزمل: ٢٠)*\n\nويُذكَر النبي ﷺ بفضلِ قيام الليل وبنزولِ الرحمة في الثلث الأخير من الليل *(متفق عليه — باختصار)*.\n\nاليوم لا تُرهق نفسك بكل الليل — دعْ فيه ركعةً أو سجدةً أو نَفَسَ «يا رب»."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Ey örtüsüne bürünen (Muzzemmil)! Geceleyin kalk» diye başlayan emir hangi surenin ilk ayetlerindedir?",
+        "en": "In which surah do the first verses begin with \"O you who wraps himself — arise the night\" (Ya ayyuha al-muzzammil)?",
+        "es": "¿En qué sura empieza «يا أيها المزمل قم الليل»?",
+        "pt": "Em qual sura começa «يا أيها المزمل قم الليل»?",
+        "nl": "In welke soera begint het met «يا أيها المزمل قم الليل»?",
+        "de": "In welcher Sure beginnt es mit «يا أيها المزمل قم الليل»?",
+        "ku": "«Ey Muzzemmil! Şevê rabî» di destpêka kîjan sure de tê?",
+        "ckb": "«ئەی داپۆشراو! شەو بڕۆژە» لە سەرەتای کام سورەتدایە؟",
+        "ar": "في أي سورة افتتاحها ﴿يا أيها المزمل قم الليل﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Muzzemmil",
+          "en": "Al-Muzzammil",
+          "es": "Al-Muzzammil",
+          "pt": "Al-Muzzammil",
+          "nl": "Al-Muzzammil",
+          "de": "Al-Muzzammil",
+          "ku": "Muzzemmil",
+          "ckb": "مزەممەل",
+          "ar": "المزمل"
+        },
+        {
+          "tr": "Müddessir",
+          "en": "Al-Muddaththir",
+          "es": "Al-Muddaththir",
+          "pt": "Al-Muddaththir",
+          "nl": "Al-Muddaththir",
+          "de": "Al-Muddaththir",
+          "ku": "Müddessir",
+          "ckb": "مودەسیر",
+          "ar": "المدثر"
+        },
+        {
+          "tr": "Tekvîr",
+          "en": "At-Takwir",
+          "es": "At-Takwir",
+          "pt": "At-Takwir",
+          "nl": "At-Takwir",
+          "de": "At-Takwir",
+          "ku": "Tekvîr",
+          "ckb": "تەکویر",
+          "ar": "التكوير"
+        },
+        {
+          "tr": "İnsikâf",
+          "en": "Al-Inshiqaq",
+          "es": "Al-Inshiqaq",
+          "pt": "Al-Inshiqaq",
+          "nl": "Al-Inshiqaq",
+          "de": "Al-Inshiqaq",
+          "ku": "Însikâf",
+          "ckb": "ئینشقاق",
+          "ar": "الإنشقاق"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "«Gecenin bir kısmında kalkıp nafile namaz kıl — umulur ki Rabbin seni övülen bir makama yükseltir» ayeti hangi surededir?",
+        "en": "In which surah is the verse about praying at night as naafilah and the \"praiseworthy station\" (maqam mahmud)?",
+        "es": "¿En qué sura está «ومن الليل فتهجد به نافلة لك عسى أن يبعثك ربك مقاما محمودا»?",
+        "pt": "Em qual sura está «ومن الليل فتهجد به نافلة لك» e «مقاما محمودا»?",
+        "nl": "In welke soera staat «فتهجد به نافلة» en «مقاما محمودا»?",
+        "de": "In welcher Sure steht «فتهجد به نافلة» und «مقاما محمودا»?",
+        "ku": "«Şevê rabî û nimêja nafile… umulur ku te bi cîheke pesindarkirî rabike» di kîjan sure de ye?",
+        "ckb": "«لە شەوەکەدا بڕۆژە و نوێژی نوافل… لەوانەیە پەروەردگارت ببەیتە پلەیەکی ستایشراو» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ومن الليل فتهجد به نافلة لك عسى أن يبعثك ربك مقاما محمودا﴾؟"
+      },
+      "options": [
+        {
+          "tr": "İsrâ",
+          "en": "Al-Isra",
+          "es": "Al-Isra",
+          "pt": "Al-Isra",
+          "nl": "Al-Isra",
+          "de": "Al-Isra",
+          "ku": "İsrâ",
+          "ckb": "ئیسرا",
+          "ar": "الإسراء"
+        },
+        {
+          "tr": "Neml",
+          "en": "An-Naml",
+          "es": "An-Naml",
+          "pt": "An-Naml",
+          "nl": "An-Naml",
+          "de": "An-Naml",
+          "ku": "Neml",
+          "ckb": "نەمل",
+          "ar": "النمل"
+        },
+        {
+          "tr": "Kehf",
+          "en": "Al-Kahf",
+          "es": "Al-Kahf",
+          "pt": "Al-Kahf",
+          "nl": "Al-Kahf",
+          "de": "Al-Kahf",
+          "ku": "Kehf",
+          "ckb": "کەهف",
+          "ar": "الكهف"
+        },
+        {
+          "tr": "Furkân",
+          "en": "Al-Furqan",
+          "es": "Al-Furqan",
+          "pt": "Al-Furqan",
+          "nl": "Al-Furqan",
+          "de": "Al-Furqan",
+          "ku": "Furkân",
+          "ckb": "فورقان",
+          "ar": "الفرقان"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Muzzemmil suresi 20. ayette, Peygamber ﷺ ve sahâbenin gece kalkış süreleri hakkında geceyi nasıl böldüğüne dair hangi ifade geçer?",
+        "en": "In Al-Muzzammil 73:20, how does the verse refer to portions of the night (standing less than two thirds, half, or a third)?",
+        "es": "En 73:20, ¿qué partes de la noche se mencionan?",
+        "pt": "Em 73:20, que partes da noite são mencionadas?",
+        "nl": "In 73:20: welke delen van de nacht?",
+        "de": "In 73:20: welche Nachtabschnitte?",
+        "ku": "Di Muzzemmil 73:20 de kîjan perçeyên şevê tên navîn?",
+        "ckb": "لە مزەممەل ٢٠دا کام بەشەکانی شەو باس دەکرێت؟",
+        "ar": "في المزمل ٢٠ ما أجزاء الليل المذكورة في قيام النبي ﷺ وأصحابه؟"
+      },
+      "options": [
+        {
+          "tr": "İki üçte birinden az, yarısı veya üçte biri (üçte ikiden az, nısf, süs)",
+          "en": "Less than two thirds, half, or a third of the night",
+          "es": "Menos de dos tercios, mitad o tercio",
+          "pt": "Menos de dois terços, metade ou terço",
+          "nl": "Minder dan twee derde, helft of derde",
+          "de": "Weniger als zwei Drittel, Hälfte oder Drittel",
+          "ku": "Kêmtir ji du sêyekan, nîv an sêyek",
+          "ckb": "کەمتر لە دوو لە سێیەک، نیو یان یەک لە سێیەک",
+          "ar": "أدنى من ثلثي الليل ونصفه وثلثه"
+        },
+        {
+          "tr": "Yalnızca tam gece",
+          "en": "Only the full night",
+          "es": "Solo noche entera",
+          "pt": "Só noite inteira",
+          "nl": "Alleen hele nacht",
+          "de": "Nur ganze Nacht",
+          "ku": "Tenê tevahiya şevê",
+          "ckb": "تەنها هەموو شەو",
+          "ar": "الليل كله فقط"
+        },
+        {
+          "tr": "Yalnızca gündüz",
+          "en": "Only daytime",
+          "es": "Solo día",
+          "pt": "Só dia",
+          "nl": "Alleen dag",
+          "de": "Nur Tag",
+          "ku": "Tenê roj",
+          "ckb": "تەنها ڕۆژ",
+          "ar": "النهار فقط"
+        },
+        {
+          "tr": "Yalnızca şafak",
+          "en": "Only dawn",
+          "es": "Solo alba",
+          "pt": "Só alvorada",
+          "nl": "Alleen dageraad",
+          "de": "Nur Morgendämmerung",
+          "ku": "Tenê sibeh",
+          "ckb": "تەنها بەیانی",
+          "ar": "الفجر فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Son üçte bir gece dilinde rahmetin ve duanın özellikle müminlere yönelik olduğunu bildiren rivayetler çoğunlukla hangi hadis kitaplarında yer alır?",
+        "en": "Reports about the last third of the night and Allah's descent (meaning summarized) are most commonly found in which major collections?",
+        "es": "¿En qué colecciones mayores está el hadiz del último tercio de la noche?",
+        "pt": "Em quais coleções maiores está o hadith do último terço da noite?",
+        "nl": "In welke grote verzamelingen staat het hadith over het laatste nachtdeel?",
+        "de": "In welchen großen Sammlungen steht das Hadith vom letzten Nachtdrittel?",
+        "ku": "Behsa sêyekê kêyî ya şevê di kîjan pirtûkên mezin de herî zêde tê?",
+        "ckb": "حەدیسی سێیەکی کۆتایی شەو لە کام کۆمەڵە گەورەکاندا زۆرتر دەرکەوێت؟",
+        "ar": "في أي مجموعتين كبيرتين يكثر حديث الساعة الأخيرة من الليل (بمعناه المختصر)؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim (ve benzeri sahih kaynaklar)",
+          "en": "Sahih al-Bukhari and Sahih Muslim (and similar major works)",
+          "es": "Bujari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Yalnızca Muvatta (bu konuda müstakil)",
+          "en": "Only Muwatta exclusively on this topic",
+          "es": "Solo Muwatta",
+          "pt": "Só Muwatta",
+          "nl": "Alleen Muwatta",
+          "de": "Nur Muwatta",
+          "ku": "Tenê Muvatta",
+          "ckb": "تەنها موەتتا",
+          "ar": "الموطأ وحده"
+        },
+        {
+          "tr": "Yalnızca İbn Mâce",
+          "en": "Only Ibn Majah",
+          "es": "Solo Ibn Mayah",
+          "pt": "Apenas Ibn Majah",
+          "nl": "Alleen Ibn Majah",
+          "de": "Nur Ibn Majah",
+          "ku": "Tenê İbn Mace",
+          "ckb": "تەنها ئیبن ماجە",
+          "ar": "ابن ماجه فقط"
+        },
+        {
+          "tr": "Yalnızca Dar Kutni",
+          "en": "Only Dar al-Kutni",
+          "es": "Solo al-Daraqutni",
+          "pt": "Só al-Daraqutni",
+          "nl": "Alleen Darqutni",
+          "de": "Nur Darqutni",
+          "ku": "Tenê Dar Kutnî",
+          "ckb": "تەنها دەرەقەتنی",
+          "ar": "الدارقطني فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Gece ibadeti pratiği, uykuyu tamamen yok saymak ve gündüzün sorumluluklarını hiçe saymak demektir",
+          "en": "Night worship means ignoring sleep entirely and neglecting daytime duties",
+          "es": "Qiyam niega el sueño y el día",
+          "pt": "Qiyam nega sono e dia",
+          "nl": "Nachtgebed ontkent slaap en dag",
+          "de": "Nachtgebet leugnet Schlaf und Tag",
+          "ku": "Îbadeta şevê gotin e ku xew tune û roj tune",
+          "ckb": "عیبادەتی شەو واتای تەواو پشتگوێخستنی خەو و بەرپرسیاریەتی ڕۆژانەیە",
+          "ar": "قيام الليل إنكارٌ تامٌ للنوم وإهمالٌ لحقوق النهار"
+        },
+        {
+          "tr": "Muzzemmil 73:1–4, gece kalkış ve Kur'an tilavetiyle ilişkilidir",
+          "en": "Al-Muzzammil 73:1–4 links night prayer and Qur'an recitation",
+          "es": "73:1–4 une noche y Corán",
+          "pt": "73:1–4 liga noite e Alcorão",
+          "nl": "73:1–4 koppelt nacht en Koran",
+          "de": "73:1–4 verbindet Nacht und Koran",
+          "ku": "73:1–4 şev û Kur'anê girê dide",
+          "ckb": "مزەممەل ١–٤ بڕۆژان و تیلاوەتی قورئان دەبەستێتەوە",
+          "ar": "المزمل ١–٤ يربط قيام الليل بتلاوة القرآن"
+        },
+        {
+          "tr": "İsrâ 17:79, gece nafile namazını ve «övülen makam» ümidini anlatır",
+          "en": "Al-Isra 17:79 mentions night naafilah and hope of a praiseworthy station",
+          "es": "17:79 menciona tahayyud y maqam",
+          "pt": "17:79 menciona tahajjud e maqam",
+          "nl": "17:79 noemt tahajjud en maqam",
+          "de": "17:79 erwähnt Tahaddschud und Maqam",
+          "ku": "17:79 behsa nimêja şevê û makam dike",
+          "ckb": "ئیسرا ٧٩ نوێژی شەو و پلەی ستایشراو باس دەکات",
+          "ar": "الإسراء ٧٩ يذكر التهجد والمقام المحمود"
+        },
+        {
+          "tr": "Metin, Peygamber ﷺ ve sahâbenin gece kalkış sürelerinin çeşitliliğine işaret eden bir ayete değinir",
+          "en": "The text refers to a verse about varied night vigil lengths",
+          "es": "El texto cita 73:20 sobre duración",
+          "pt": "O texto cita 73:20 sobre duração",
+          "nl": "De tekst noemt 73:20 over duur",
+          "de": "Der Text nennt 73:20 zur Dauer",
+          "ku": "Nivîs behsa 73:20 dike",
+          "ckb": "دەقەکە ئاماژە بە ٧٣:٢٠ دەکات",
+          "ar": "النص يشير إلى ٧٣:٢٠ في تفاوت مدة القيام"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bütün geceyi değil — bir rekât, bir secde veya bir «Yâ Rabbî» bile olsa geceye ibadetle bir iz bırakmayı dene.",
+    "en": "Today not the whole night — try to leave even one rak'ah, one prostration, or one \"O my Lord\" in the night.",
+    "es": "Hoy: un rak'a o un suspiro — no toda la noche.",
+    "pt": "Hoje: um rak'ah ou um suspiro — não a noite inteira.",
+    "nl": "Vandaag: één rak'a of één adem — niet de hele nacht.",
+    "de": "Heute: eine Rak'a oder ein Atem — nicht die ganze Nacht.",
+    "ku": "Îro ne tevahiya şevê — kurt jî be yek rek'at an yek «Yâ Rabbî».",
+    "ckb": "ئەمڕۆ نە هەموو شەو — تەنانەت یەک ڕەعەت یان یەک «یە ڕەبی» لە شەودا.",
+    "ar": "اليوم لا تُرهق نفسك بكل الليل — دعْ فيه ركعةً أو سجدةً أو نَفَسَ «يا رب»."
+  }
+}

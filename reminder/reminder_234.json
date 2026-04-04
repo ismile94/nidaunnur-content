@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 25,
+  "title": {
+    "tr": "Sabırlı Yaklaşım",
+    "en": "A Patient Approach",
+    "es": "Enfoque paciente",
+    "pt": "Abordagem paciente",
+    "nl": "Een geduldige benadering",
+    "de": "Ein geduldiger Ansatz",
+    "ku": "Rêbaza bi Sebir",
+    "ckb": "نزیکبوونەوەی سەبورانە",
+    "ar": "مَنْهَجُ الصَّبْرِ"
+  },
+  "content": {
+    "tr": "Sabırlı yaklaşım; yalnızca geçiştirmek veya susmak değil — Asr suresinin emrettiği gibi hakka ve sabra teşvik, Bakara'nın dediği gibi namaz ve sabırla yardım istemek ve ilk şokta nefsi dizginlemektir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَالْعَصْرِ * إِنَّ الْإِنسَانَ لَفِي خُسْرٍ * إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n**«Asra yemin olsun ki insan gerçekten hüsrandadır — ancak iman edip salih amel işleyenler, birbirine hakkı ve sabrı tavsiye edenler müstesna.»** *(Asr 103:1–3 — meâl özü)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ﴾**\n**«Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.»** *(Bakara 2:153 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى»** — **«Sabır, ilk şok anındadır.»** *(Buhârî, Müslim — rivayet özeti)*\n\nBugün: bir tavsiyeyi Asr 103 ile, bir dayanağı Bakara 2:153 ile bağla — sabırlı yaklaşım gösterişte değil; ilk anda ve süreklilikte büyür.",
+    "en": "A patient approach is not merely getting by or staying silent — it is, as Surah Al-'Asr commands, enjoining truth and patience; as Surah Al-Baqarah teaches, seeking help through patience and prayer; and restraining the soul at the first shock.\n\nAllah the Most High says:\n\n**﴿By time, indeed mankind is in loss, except for those who believe, do righteous deeds, advise one another to truth, and advise one another to patience.﴾** *(Al-'Asr 103:1–3 — meaning summarized)*\n\n**﴿O you who believe, seek help through patience and prayer. Indeed, Allah is with the patient.﴾** *(Al-Baqarah 2:153 — meaning summarized)*\n\nThe Prophet ﷺ said: **\"Patience is at the first strike [of calamity].\"** *(Al-Bukhari, Muslim — narration summarized)*\n\nToday: tie one counsel to Al-'Asr 103 and one support to Al-Baqarah 2:153 — a patient approach grows at the first moment and in constancy, not in show.",
+    "es": "Paciencia: verdad y sabr *(Al-'Asr 103)* y ayuda con sabr y salat *(Al-Baqarah 2:153)*.\n\n**﴿تواصوا بالصبر﴾**\n\n**﴿استعينوا بالصبر والصلاة﴾**\n\n**«الصبر عند الصدمة»** *(Bukhari, Muslim)*\n\nHoy: primer momento.",
+    "pt": "Paciência: verdade e sabr *(Al-'Asr 103)* e ajuda com sabr e salat *(Al-Baqarah 2:153)*.\n\n**﴿تواصوا بالصبر﴾**\n\n**﴿استعينوا بالصبر والصلاة﴾**\n\n**«الصبر عند الصدمة»** *(Bukhari, Muslim)*\n\nHoje: primeiro momento.",
+    "nl": "Geduld: waarheid en sabr *(Al-'Asr 103)* en hulp met sabr en salat *(Al-Baqarah 2:153)*.\n\n**﴿تواصوا بالصبر﴾**\n\n**﴿استعينوا بالصبر والصلاة﴾**\n\n**«الصبر عند الصدمة»** *(Bukhari, Muslim)*\n\nVandaag: eerste ogenblik.",
+    "de": "Geduld: Wahrheit und Sabr *(Al-'Asr 103)* und Hilfe durch Sabr und Salat *(Al-Baqarah 2:153)*.\n\n**﴿تواصوا بالصبر﴾**\n\n**﴿استعينوا بالصبر والصلاة﴾**\n\n**«الصبر عند الصدمة»** *(Bukhari, Muslim)*\n\nHeute: erster Augenblick.",
+    "ku": "Rêbaza bi sebir ne tenê bêdengî ye — ev rastî û sebir û nimêj e.\n\n**﴿تواصوا بالصبر﴾**\n*(Asr 103)*\n\n**﴿استعينوا بالصبر والصلاة﴾**\n*(Bekara 2:153)*\n\n**«إنما الصبر عند الصدمة الأولى»** *(Buxarî, Muslîm)*\n\nÎro: şîret bi Asr 103 û piştgirî bi Bekara 2:153 ve girêde.",
+    "ckb": "نزیکبوونەوەی سەبورانە تەنها خۆگرتنەوە یان بێدەنگی نییە — وەک عەصر فەرمانی دەکات، هاندانی ڕاستی و سەبر؛ وەک بەقەرە فێر دەکات، داوای یارمەتی بە سەبر و نوێژ؛ وە حەدیس دەڵێت سەبر لە یەکەم شکاندندا دەردەکەوێت.\n\nاللە دەفەرموێت:\n\n**﴿وَالْعَصْرِ * إِنَّ الْإِنسَانَ لَفِي خُسْرٍ * إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n*(عەصر: ١–٣)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ﴾**\n*(بەقەرە: ١٥٣)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى»** *(بوخاری، موسلیم)*.\n\nئەمڕۆ: تۆزێک بە عەصر ١٠٣ەوە و پشتیوانییەک بە بەقەرە ٢:١٥٣ەوە بەستەوە — سەبری ڕێکخراو لە نمایشدا ناگەشێتەوە.",
+    "ar": "منهج الصبر لا يُختصر على التسويف أو الصمت — إنه التواصي بالحق والصبر كما في العصر، والاستعانة بالصبر والصلاة كما في البقرة، والضبط عند الصدمة الأولى.\n\nيقول الله تعالى:\n\n**﴿وَالْعَصْرِ * إِنَّ الْإِنسَانَ لَفِي خُسْرٍ * إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n*(العصر: ١–٣)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ﴾**\n*(البقرة: ١٥٣)*\n\nوقال النبي ﷺ: **«إنما الصبر عند الصدمة الأولى»** *(متفق عليه)*.\n\nاليوم اربطْ وصيةً بالعصر ١٠٣ وعوناً بالبقرة ١٥٣ — الصبرُ عند اللحظة الأولى والدوام لا بالرياء."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Birbirine sabrı tavsiye edenler» ifadesi hangi surede geçer?",
+        "en": "In which surah does the phrase about advising one another to patience appear?",
+        "es": "¿En qué sura se aconseja el sabr mutuamente?",
+        "pt": "Em qual sura se aconselha o sabr mutuamente?",
+        "nl": "In welke soera wordt elkaar tot sabr geadviseerd?",
+        "de": "In welcher Sure wird einander zu Sabr geraten?",
+        "ku": "«Hevûdin şîret bi sebir dikin» kîjan sure ye?",
+        "ckb": "«هاندانی یەکتر بۆ سەبر» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿وتواصوا بالصبر﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Asr",
+          "en": "Al-'Asr",
+          "es": "Al-'Asr",
+          "pt": "Al-'Asr",
+          "nl": "Al-'Asr",
+          "de": "Al-'Asr",
+          "ku": "Asr",
+          "ckb": "عەصر",
+          "ar": "العصر"
+        },
+        {
+          "tr": "Kâfirûn",
+          "en": "Al-Kafirun",
+          "es": "Al-Kafirun",
+          "pt": "Al-Kafirun",
+          "nl": "Al-Kafirun",
+          "de": "Al-Kafirun",
+          "ku": "Kafirûn",
+          "ckb": "کافرون",
+          "ar": "الكافرون"
+        },
+        {
+          "tr": "Nasr",
+          "en": "An-Nasr",
+          "es": "An-Nasr",
+          "pt": "An-Nasr",
+          "nl": "An-Nasr",
+          "de": "An-Nasr",
+          "ku": "Nasr",
+          "ckb": "نەسر",
+          "ar": "النصر"
+        },
+        {
+          "tr": "Tekâsür",
+          "en": "At-Takathur",
+          "es": "At-Takathur",
+          "pt": "At-Takathur",
+          "nl": "At-Takathur",
+          "de": "At-Takathur",
+          "ku": "Tekasûr",
+          "ckb": "تەکاسور",
+          "ar": "التكاثر"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Bakara 2:153'te müminlere sabır ile birlikte hangi destek önerilir?",
+        "en": "In Al-Baqarah 2:153, what is paired with patience as a means of help?",
+        "es": "En Al-Baqarah 2:153, ¿qué va con el sabr?",
+        "pt": "Em Al-Baqarah 2:153, o que acompanha o sabr?",
+        "nl": "In Al-Baqarah 2:153: wat hoort bij sabr?",
+        "de": "In Al-Baqarah 2:153: Was gehört zu Sabr?",
+        "ku": "Di Bekara 2:153 de ligel sebirê çi tê pêşniyar kirin?",
+        "ckb": "لە بەقەرە ٢:١٥٣دا لەگەڵ سەبردا چی پێشنیار دەکرێت؟",
+        "ar": "في البقرة ١٥٣، بم يقترن الصبر؟"
+      },
+      "options": [
+        {
+          "tr": "Namaz (salât)",
+          "en": "Prayer (salah)",
+          "es": "Oración (salat)",
+          "pt": "Oração (salat)",
+          "nl": "Gebed (salat)",
+          "de": "Gebet (Salat)",
+          "ku": "Nimêj (salat)",
+          "ckb": "نوێژ",
+          "ar": "الصلاة"
+        },
+        {
+          "tr": "Yalnızca mal biriktirmek",
+          "en": "Only hoarding wealth",
+          "es": "Solo atesorar",
+          "pt": "Só acumular",
+          "nl": "Alleen sparen",
+          "de": "Nur Horten",
+          "ku": "Tenê komkirin",
+          "ckb": "تەنها کۆکردنەوە",
+          "ar": "كنز المال فقط"
+        },
+        {
+          "tr": "Başkalarına bağırmak",
+          "en": "Shouting at others",
+          "es": "Gritar a otros",
+          "pt": "Gritar com outros",
+          "nl": "Schreeuwen tegen anderen",
+          "de": "Andere anschreien",
+          "ku": "Li kesên din girîn",
+          "ckb": "هاواردان بە کەسانی تر",
+          "ar": "الصياح بالآخرين"
+        },
+        {
+          "tr": "İbadeti terk etmek",
+          "en": "Abandoning worship",
+          "es": "Abandonar el culto",
+          "pt": "Abandonar o culto",
+          "nl": "Aanbidding verlaten",
+          "de": "Anbetung aufgeben",
+          "ku": "Îbadetê berdan",
+          "ckb": "جێهێشتنی عیبادەت",
+          "ar": "ترك العبادة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Sabır, ilk şok anındadır» hadisi hangi koleksiyonlarda yer alır?",
+        "en": "In which collections is the hadith \"Patience is at the first strike\"?",
+        "es": "¿En qué colecciones está «el sabr en el primer golpe»?",
+        "pt": "Em quais coleções está «o sabr no primeiro golpe»?",
+        "nl": "In welke verzamelingen staat «sabr bij de eerste slag»?",
+        "de": "In welchen Sammlungen steht «Sabr beim ersten Schlag»?",
+        "ku": "Hedîsa «sebir li pêşî şokê ye» di kîjan kitêban de ye?",
+        "ckb": "حەدیسی «سەبر لە یەکەم شکاندندا» لە کام کۆمەڵەکاندا هەیە؟",
+        "ar": "في أي مجموعتين حديث «إنما الصبر عند الصدمة الأولى»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bujari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Yalnızca Nesâî",
+          "en": "Only al-Nasa'i",
+          "es": "Solo al-Nasa'i",
+          "pt": "Apenas al-Nasa'i",
+          "nl": "Alleen an-Nasa'i",
+          "de": "Nur an-Nasa'i",
+          "ku": "Tenê Nesaî",
+          "ckb": "تەنها نەسائی",
+          "ar": "النسائي فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Mâce",
+          "en": "Only Ibn Majah",
+          "es": "Solo Ibn Majah",
+          "pt": "Apenas Ibn Majah",
+          "nl": "Alleen Ibn Majah",
+          "de": "Nur Ibn Majah",
+          "ku": "Tenê İbn Mace",
+          "ckb": "تەنها ئیبن ماجە",
+          "ar": "ابن ماجه فقط"
+        },
+        {
+          "tr": "Yalnızca Ebû Dâvûd",
+          "en": "Only Abu Dawud",
+          "es": "Solo Abu Dawud",
+          "pt": "Apenas Abu Dawud",
+          "nl": "Alleen Abu Dawud",
+          "de": "Nur Abu Dawud",
+          "ku": "Tenê Ebû Dâwûd",
+          "ckb": "تەنها ئەبو داود",
+          "ar": "أبو داود فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Asr 103:3'e göre hüsrandan kurtuluşa gidenler hangi iki tavsiyeyi birlikte işler?",
+        "en": "According to Al-'Asr 103:3, which two counsels do the successful ones enjoin together?",
+        "es": "Según Al-'Asr 103:3, ¿qué dos consejos se dan juntos?",
+        "pt": "Segundo Al-'Asr 103:3, quais dois conselhos se dão juntos?",
+        "nl": "Volgens Al-'Asr 103:3: welke twee raadgevingen samen?",
+        "de": "Nach Al-'Asr 103:3: welche zwei Ratschläge zusammen?",
+        "ku": "Li gorî Asr 103:3 kîjan du şîret bi hev re tên kirin?",
+        "ckb": "بەپێی عەصر ١٠٣:٣، کام دوو هاندەر بە یەکەوە دەکرێن؟",
+        "ar": "وفق العصر ٣، ما التوصيتان معاً؟"
+      },
+      "options": [
+        {
+          "tr": "Hak ve sabır (haqq ve sabr)",
+          "en": "Truth and patience (haqq and sabr)",
+          "es": "Verdad y sabr",
+          "pt": "Verdade e sabr",
+          "nl": "Waarheid en sabr",
+          "de": "Wahrheit und Sabr",
+          "ku": "Rastî û sebir",
+          "ckb": "حەق و سەبر",
+          "ar": "الحق والصبر"
+        },
+        {
+          "tr": "Yalan ve acele",
+          "en": "Falsehood and haste",
+          "es": "Mentira y prisa",
+          "pt": "Mentira e pressa",
+          "nl": "Leugen en haast",
+          "de": "Lüge und Eile",
+          "ku": "Derew û lez",
+          "ckb": "درۆ و پەلە",
+          "ar": "الباطل والعجلة"
+        },
+        {
+          "tr": "Sadece dünya kazancı",
+          "en": "Worldly gain only",
+          "es": "Solo ganancia mundana",
+          "pt": "Só ganho mundano",
+          "nl": "Alleen wereldse winst",
+          "de": "Nur irdischer Gewinn",
+          "ku": "Tenê qezenca dinyayê",
+          "ckb": "تەنها قازانجی دنیا",
+          "ar": "الربح الدنيوي فقط"
+        },
+        {
+          "tr": "İbadeti terk etmek",
+          "en": "Abandoning worship",
+          "es": "Abandonar el culto",
+          "pt": "Abandonar o culto",
+          "nl": "Aanbidding verlaten",
+          "de": "Anbetung aufgeben",
+          "ku": "Îbadetê berdan",
+          "ckb": "جێهێشتنی عیبادەت",
+          "ar": "ترك العبادة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Sabırlı yaklaşım yalnızca beklemektir; namaz, hak teşviki ve ilk şokta sabır sayılmaz",
+          "en": "A patient approach is only waiting; prayer, enjoining truth, and patience at the first shock do not count",
+          "es": "La paciencia es solo esperar; el salat no cuenta",
+          "pt": "Paciência é só esperar; o salat não conta",
+          "nl": "Geduld is alleen wachten; gebed telt niet",
+          "de": "Geduld ist nur Warten; Gebet zählt nicht",
+          "ku": "Sebir tenê sekinandin e; nimêj nayê jimartin",
+          "ckb": "نزیکبوونەوەی سەبورانە تەنها چاوەڕوانیکردنە؛ نوێژ و هاندانی حەق و سەبر لە سەرەتا ژمێردراو نین",
+          "ar": "الصبر انتظارٌ فقط؛ الصلاة والأمر بالحق والصبر عند الصدمة لا تُحتسب"
+        },
+        {
+          "tr": "Asr 103 hak ve sabrı tavsiye etmeyi içerir",
+          "en": "Al-'Asr 103 includes enjoining truth and patience",
+          "es": "Al-'Asr 103 incluye aconsejar verdad y sabr",
+          "pt": "Al-'Asr 103 inclui aconselhar verdade e sabr",
+          "nl": "Al-'Asr 103 bevat aanbevelen van waarheid en sabr",
+          "de": "Al-'Asr 103 rät zu Wahrheit und Sabr",
+          "ku": "Asr 103 rastî û şîret bi sebirê dihewîne",
+          "ckb": "عەصر ١٠٣ هاندانی حەق و سەبر لەخۆدەگرێت",
+          "ar": "العصر ١٠٣ يتضمن التوصية بالحق والصبر"
+        },
+        {
+          "tr": "Bakara 2:153 sabır ve namazla yardım ister",
+          "en": "Al-Baqarah 2:153 tells believers to seek help through patience and prayer",
+          "es": "Al-Baqarah 2:153 pide ayuda con sabr y salat",
+          "pt": "Al-Baqarah 2:153 pede ajuda com sabr e salat",
+          "nl": "Al-Baqarah 2:153 vraagt hulp met sabr en salat",
+          "de": "Al-Baqarah 2:153 bittet um Hilfe mit Sabr und Salat",
+          "ku": "Bekara 2:153 bi sebir û nimêj alîkarî dixwaze",
+          "ckb": "بەقەرە ٢:١٥٣ داوای یارمەتی بە سەبر و نوێژ دەکات",
+          "ar": "البقرة ١٥٣ تأمر بالاستعانة بالصبر والصلاة"
+        },
+        {
+          "tr": "Hadis sabrı ilk musibet anına bağlar",
+          "en": "The hadith ties patience to the first moment of calamity",
+          "es": "El hadiz liga el sabr al primer golpe",
+          "pt": "O hadith liga o sabr ao primeiro golpe",
+          "nl": "De hadith koppelt sabr aan het eerste moment",
+          "de": "Der Hadith bindet Sabr an den ersten Moment",
+          "ku": "Hedîs sebir bi pêşî şokê ve girê dide",
+          "ckb": "حەدیس سەبر دەبەستێتەوە بە یەکەم شکاندن",
+          "ar": "الحديث يربط الصبر بالصدمة الأولى"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir tavsiyeyi Asr 103 ile, bir dayanağı Bakara 2:153 ile bağla — sabırlı yaklaşım gösterişte değil; ilk anda ve süreklilikte büyür.",
+    "en": "Tie one counsel today to Al-'Asr 103 and one support to Al-Baqarah 2:153 — a patient approach grows at the first moment and in constancy, not in show.",
+    "es": "Hoy une un consejo con Al-'Asr 103 y apoyo con Al-Baqarah 2:153.",
+    "pt": "Hoje una um conselho com Al-'Asr 103 e apoio com Al-Baqarah 2:153.",
+    "nl": "Vandaag: één raad met Al-'Asr 103 en steun met Al-Baqarah 2:153.",
+    "de": "Heute: ein Rat mit Al-'Asr 103 und Stütze mit Al-Baqarah 2:153.",
+    "ku": "Îro şîret bi Asr 103 û piştgirî bi Bekara 2:153 ve girêde.",
+    "ckb": "ئەمڕۆ تۆزێک بە عەصر ١٠٣ەوە و پشتیوانییەک بە بەقەرە ٢:١٥٣ەوە بەستەوە — سەبری ڕێکخراو لە نمایشدا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ وصيةً بالعصر ١٠٣ وعوناً بالبقرة ١٥٣ — الصبرُ عند اللحظة الأولى والدوام لا بالرياء."
+  }
+}

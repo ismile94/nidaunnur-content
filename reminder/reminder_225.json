@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 16,
+  "title": {
+    "tr": "Hak Gözetmek",
+    "en": "Upholding Rights",
+    "es": "Respetar los Derechos",
+    "pt": "Respeitar os Direitos",
+    "nl": "Rechten Waarborgen",
+    "de": "Rechte achten",
+    "ku": "Parastina Mafan",
+    "ckb": "پاراستنی مافەکان",
+    "ar": "رَعَايَةُ الْحُقُوقِ"
+  },
+  "content": {
+    "tr": "Hak gözetmek; sadece kendi hakkını savunmak veya çıkarını öne çekmek değil — Allah'ın Âdem oğullarına verdiği ikramı hatırlamak, komşunun ve yetimin hakkını gözetmek ve müminin canı, malı ve ırzına dokunmamaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n**«Andolsun Biz Âdem oğullarını ikram ettik...»**\n*(İsrâ 17:70 — meâl özü)*\n\nHakkın dairesi geniştir:\n\n**﴿وَاعْبُدُوا اللَّهَ وَلا تُشْرِكُوا بِهِ شَيْئًا وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ﴾**\n**«Allah'a kulluk edin... anne-babaya, akrabaya, yetime, yoksula, yakın ve uzak komşuya iyi davranın...»**\n*(Nisâ 4:36 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«كُلُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ حَرَامٌ: دَمُهُ وَمَالُهُ وَعِرْضُهُ»** — **«Her müslümanın kanı, malı ve ırzı diğer müslümana haramdır.»**\n*(Buhârî, Müslim — rivayet özeti)*\n\nBugün: bir komşu hakkını Nisâ 4:36 ile, bir ırz sınırını hadisle bağla — hak gözetmek bencillikte değil; emanet ve merhamette büyür.",
+    "en": "Upholding rights is not only defending your own claim or pushing self-interest — it is remembering the honor Allah gave the children of Adam, watching the rights of neighbor and orphan, and not violating a Muslim's life, wealth, or honor.\n\nAllah the Most High says:\n\n**﴿And We have certainly honored the children of Adam...﴾**\n*(Al-Isra 17:70 — meaning summarized)*\n\nThe circle of rights is wide:\n\n**﴿Worship Allah and associate nothing with Him; and to parents do good, and to relatives, orphans, the needy, the near neighbor and the far neighbor...﴾**\n*(An-Nisa 4:36 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"Every Muslim's blood, wealth, and honor are unlawful to another Muslim.\"**\n*(Al-Bukhari, Muslim — narration summarized)*\n\nToday: tie one neighbor's right to An-Nisa 4:36 and one boundary of honor to the hadith — watching rights grows in trust, not selfishness.",
+    "es": "Respetar derechos no es solo el tuyo — es vecino y huérfano.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿واليتامى والمساكين والجار﴾**\n*(An-Nisa 4:36)*\n\n**«كل المسلم على المسلم حرام»** *(Bukhari, Muslim)*\n\nHoy: un derecho del prójimo.",
+    "pt": "Respeitar direitos não é só o seu — é vizinho e órfão.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿واليتامى والمساكين والجار﴾**\n*(An-Nisa 4:36)*\n\n**«كل المسلم على المسلم حرام»** *(Bukhari, Muslim)*\n\nHoje: um direito do próximo.",
+    "nl": "Rechten waarborgen is niet alleen het jouwe — het is buur en wees.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿واليتامى والمساكين والجار﴾**\n*(An-Nisa 4:36)*\n\n**«كل المسلم على المسلم حرام»** *(Bukhari, Muslim)*\n\nVandaag: één recht van de buur.",
+    "de": "Rechte achten heißt nicht nur das eigene — es ist Nachbar und Waise.\n\n**﴿ولقد كرمنا بني آدم﴾**\n*(Al-Isra 17:70)*\n\n**﴿واليتامى والمساكين والجار﴾**\n*(An-Nisa 4:36)*\n\n**«كل المسلم على المسلم حرام»** *(Bukhari, Muslim)*\n\nHeute: ein Recht des Nachbarn.",
+    "ku": "Parastina mafan ne tenê ya xwe ye — ev cîran û yetîm e.\n\n**﴿كرمنا بني آدم﴾**\n*(Îsrâ 17:70)*\n\n**﴿يتامى وجار﴾**\n*(Nisâ 4:36)*\n\n**«حرام»** *(Buxarî)*\n\nÎro: mafê cîran.",
+    "ckb": "پاراستنی مافەکان تەنها بەرگریکردن لە مافی خۆی یان پێشخستنی بەرژەوەندی خۆی نییە — بەڵکوو بیرهێنانەوەی ئیکرامی اللە بۆ کوڕەکانی ئادەم، پاراستنی مافی دراوسێ و یەتیم و نەگەیاندنی زیان بە ژیان و سامان و نامووسی موسڵمان.\n\nاللە دەفەرموێت:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n*(ئسرا: ٧٠)*\n\n**﴿وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ﴾**\n*(نسا: ٣٦)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«كل المسلم على المسلم حرام دمه وماله وعرضه»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: مافێکی دراوسێ بە نسا ٣٦ەوە و سنووری نامووس بە حەدیسەوە بەستەوە — پاراستنی ماف لە خۆپەرستیدا ناگەشێتەوە.",
+    "ar": "رعايةُ الحقوق ليست الدفاعَ عن الذات فقط ولا تقديمَ المصلحة الشخصية — إنما تذكُّرُ إكرام الله لبني آدم، ورعايةُ حق الجار واليتيم، وحرمةِ دم المسلم وماله وعرضه.\n\nيقول الله تعالى:\n\n**﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾**\n*(الإسراء: ٧٠)*\n\n**﴿وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ﴾**\n*(النساء: ٣٦)*\n\nوقال النبي ﷺ:\n\n**«كل المسلم على المسلم حرام: دمه وماله وعرضه»**\n*(متفق عليه)*\n\nاليوم اربطْ حقاً للجار بالنساء ٣٦ وحرمةً بالحديث — رعايةُ الحقوق بالإحسان لا بالأنانية."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "Anne-baba, akraba, yetim, yoksul ve komşu bir arada hangi ayette zikredilir?",
+        "en": "In which verse are parents, kin, orphan, needy, and neighbor mentioned together?",
+        "es": "¿En qué aya están juntos padres, familia, huérfano, pobre y vecino?",
+        "pt": "Em qual versículo estão juntos pais, família, órfão, pobre e vizinho?",
+        "nl": "In welke aya staan ouders, familie, wees, arme en buur samen?",
+        "de": "In welcher Aya stehen Eltern, Verwandte, Waise, Arme und Nachbar zusammen?",
+        "ku": "Di kîjan ayetê de dê-bav, malbat, yetîm, hejar û cîran bi hev re tên navandin?",
+        "ckb": "دایک و باوک، خزم، یەتیم، هەژار و دراوسێ لە کام ئایەتدا پێکەوە دەهێنرێنەوە؟",
+        "ar": "في أي آية ذُكروا الوالدان والقرابة واليتيم والمسكين والجار معاً؟"
+      },
+      "options": [
+        {
+          "tr": "Nisâ 4:36",
+          "en": "An-Nisa 4:36",
+          "es": "An-Nisa 4:36",
+          "pt": "An-Nisa 4:36",
+          "nl": "An-Nisa 4:36",
+          "de": "An-Nisa 4:36",
+          "ku": "Nisâ 4:36",
+          "ckb": "نسا ٣٦",
+          "ar": "النساء ٣٦"
+        },
+        {
+          "tr": "Kevser 108:1",
+          "en": "Al-Kawthar 108:1",
+          "es": "Al-Kawthar 108:1",
+          "pt": "Al-Kawthar 108:1",
+          "nl": "Al-Kawthar 108:1",
+          "de": "Al-Kawthar 108:1",
+          "ku": "Kevser 108:1",
+          "ckb": "کەوسەر ١٠٨",
+          "ar": "الكوثر ١"
+        },
+        {
+          "tr": "İhlâs 112:1",
+          "en": "Al-Ikhlas 112:1",
+          "es": "Al-Ikhlas 112:1",
+          "pt": "Al-Ikhlas 112:1",
+          "nl": "Al-Ikhlas 112:1",
+          "de": "Al-Ikhlas 112:1",
+          "ku": "Îxlas 112:1",
+          "ckb": "ئیخلاس ١١٢",
+          "ar": "الإخلاص ١"
+        },
+        {
+          "tr": "Felak 113:1",
+          "en": "Al-Falaq 113:1",
+          "es": "Al-Falaq 113:1",
+          "pt": "Al-Falaq 113:1",
+          "nl": "Al-Falaq 113:1",
+          "de": "Al-Falaq 113:1",
+          "ku": "Feleq 113:1",
+          "ckb": "فەڵەق ١١٣",
+          "ar": "الفلق ١"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre hadis müslümanın birbirine hangi üç şeyi haram kılar?",
+        "en": "According to the text, what three things does the hadith make unlawful between Muslims?",
+        "es": "Según el texto, ¿qué tres cosas hace el hadiz ilícitas entre musulmanes?",
+        "pt": "Segundo o texto, que três coisas o hadith torna ilícitas entre muçulmanos?",
+        "nl": "Welke drie dingen maakt de hadith volgens de tekst verboden tussen moslims?",
+        "de": "Welche drei Dinge macht der Hadith zwischen Muslimen laut Text unerlaubt?",
+        "ku": "Li gorî nivîsê hedîs kîjan sê tiştî di navbera musilmanan de qedexe dike?",
+        "ckb": "بەپێی دەقەکە حەدیس کام سێ شت لە نێوان موسڵماناندا حەرام دەکات؟",
+        "ar": "ما الثلاثة التي يحرّمها الحديث بين المسلمين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Kan, mal ve ırz",
+          "en": "Blood, wealth, and honor",
+          "es": "Sangre, dinero y honor",
+          "pt": "Sangue, bens e honra",
+          "nl": "Bloed, bezit en eer",
+          "de": "Blut, Vermögen und Ehre",
+          "ku": "Xwîn, mal û namûs",
+          "ckb": "خوێن و سامان و نامووس",
+          "ar": "الدم والمال والعرض"
+        },
+        {
+          "tr": "Sadece namaz",
+          "en": "Only prayer",
+          "es": "Solo oración",
+          "pt": "Só oração",
+          "nl": "Alleen gebed",
+          "de": "Nur Gebet",
+          "ku": "Tenê nimêj",
+          "ckb": "تەنها نوێژ",
+          "ar": "الصلاة فقط"
+        },
+        {
+          "tr": "Sadece oruç",
+          "en": "Only fasting",
+          "es": "Solo ayuno",
+          "pt": "Só jejum",
+          "nl": "Alleen vasten",
+          "de": "Nur Fasten",
+          "ku": "Tenê roje",
+          "ckb": "تەنها ڕۆژوو",
+          "ar": "الصوم فقط"
+        },
+        {
+          "tr": "Sadece zikir",
+          "en": "Only dhikr",
+          "es": "Solo dhikr",
+          "pt": "Só dhikr",
+          "nl": "Alleen dhikr",
+          "de": "Nur Dhikr",
+          "ku": "Tenê zikir",
+          "ckb": "تەنها زیکر",
+          "ar": "الذكر فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Âdem oğullarını ikram ettik» ifadesi hangi surede geçer?",
+        "en": "In which surah does the phrase about honoring the children of Adam appear?",
+        "es": "¿En qué sura está «كرمنا بني آدم»?",
+        "pt": "Em qual sura está «كرمنا بني آدم»?",
+        "nl": "In welke soera staat «كرمنا بني آدم»?",
+        "de": "In welcher Sure steht «كرمنا بني آدم»?",
+        "ku": "Gotina «me kurên Adem rêz kir» di kîjan sureyê de ye?",
+        "ckb": "«ئێمە کوڕەکانی ئادەممان ڕێزگرتووە» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿ولقد كرمنا بني آدم﴾؟"
+      },
+      "options": [
+        {
+          "tr": "İsrâ",
+          "en": "Al-Isra",
+          "es": "Al-Isra",
+          "pt": "Al-Isra",
+          "nl": "Al-Isra",
+          "de": "Al-Isra",
+          "ku": "Îsrâ",
+          "ckb": "ئسرا",
+          "ar": "الإسراء"
+        },
+        {
+          "tr": "Felak",
+          "en": "Al-Falaq",
+          "es": "Al-Falaq",
+          "pt": "Al-Falaq",
+          "nl": "Al-Falaq",
+          "de": "Al-Falaq",
+          "ku": "Feleq",
+          "ckb": "فەڵەق",
+          "ar": "الفلق"
+        },
+        {
+          "tr": "Nâs",
+          "en": "An-Nas",
+          "es": "An-Nas",
+          "pt": "An-Nas",
+          "nl": "An-Nas",
+          "de": "An-Nas",
+          "ku": "Nas",
+          "ckb": "ناس",
+          "ar": "الناس"
+        },
+        {
+          "tr": "İhlâs",
+          "en": "Al-Ikhlas",
+          "es": "Al-Ikhlas",
+          "pt": "Al-Ikhlas",
+          "nl": "Al-Ikhlas",
+          "de": "Al-Ikhlas",
+          "ku": "Îxlas",
+          "ckb": "ئیخلاس",
+          "ar": "الإخلاص"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Nisâ 4:36 hangi geniş çevreyi sayar?",
+        "en": "According to the text, which wide circle does An-Nisa 4:36 list?",
+        "es": "Según el texto, ¿qué ámbito amplio enumera An-Nisa 4:36?",
+        "pt": "Segundo o texto, que círculo amplo An-Nisa 4:36 enumera?",
+        "nl": "Welke brede kring somt An-Nisa 4:36 volgens de tekst op?",
+        "de": "Welchen weiten Kreis nennt An-Nisa 4:36 laut Text?",
+        "ku": "Li gorî nivîsê Nisâ 4:36 kîjan qada berfireh dinavîne?",
+        "ckb": "بەپێی دەقەکە نسا ٣٦ کام بەشی فراوان دەگێڕێتەوە؟",
+        "ar": "ما الدائرة الواسعة في النساء ٣٦ وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Anne-baba, akraba, yetim, yoksul, komşu (yakın/uzak) gibi ilişkiler",
+          "en": "Parents, kin, orphan, needy, neighbor (near/far), etc.",
+          "es": "Padres, familia, huérfano, pobre, vecino",
+          "pt": "Pais, família, órfão, pobre, vizinho",
+          "nl": "Ouders, familie, wees, arme, buur",
+          "de": "Eltern, Verwandte, Waise, Arme, Nachbar",
+          "ku": "Dê-bav, malbat, yetîm, hejar, cîran",
+          "ckb": "دایک و باوک، خزم، یەتیم، هەژار، دراوسێ",
+          "ar": "الوالدان والقرابة واليتيم والمسكين والجار"
+        },
+        {
+          "tr": "Sadece yabancı ülkeler",
+          "en": "Only foreign countries",
+          "es": "Solo países extranjeros",
+          "pt": "Só países estrangeiros",
+          "nl": "Alleen het buitenland",
+          "de": "Nur das Ausland",
+          "ku": "Tenê welatên biyanî",
+          "ckb": "تەنها وڵاتانی بێگان",
+          "ar": "البلدان الأجنبية فقط"
+        },
+        {
+          "tr": "Sadece ticari mallar",
+          "en": "Only trade goods",
+          "es": "Solo mercancías",
+          "pt": "Só mercadorias",
+          "nl": "Alleen handelsgoed",
+          "de": "Nur Handelsware",
+          "ku": "Tenê kala bazirganî",
+          "ckb": "تەنها کاڵای بازرگانی",
+          "ar": "البضائع فقط"
+        },
+        {
+          "tr": "Sadece spor takımları",
+          "en": "Only sports teams",
+          "es": "Solo equipos deportivos",
+          "pt": "Só equipes esportivas",
+          "nl": "Alleen sportteams",
+          "de": "Nur Sportteams",
+          "ku": "Tenê tîmên werzîşê",
+          "ckb": "تەنها تیمەکانی وەرزش",
+          "ar": "الفرق الرياضية فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Hak gözetmek yalnızca kendi hakkını yüksek sesle savunmak; başkalarının hakkını görmezden gelmektir",
+          "en": "Upholding rights means only loudly defending one's own while ignoring others' rights",
+          "es": "Respetar derechos es solo defender el propio y ignorar al otro",
+          "pt": "Respeitar direitos é só defender o próprio e ignorar o outro",
+          "nl": "Rechten is alleen het eigen verdedigen en ander negeren",
+          "de": "Rechte achten heißt nur das Eigene laut verteidigen und andere ignorieren",
+          "ku": "Parastina mafan tenê parastina xwe bi deng bilind û piçûkkirina mafê din e",
+          "ckb": "پاراستنی مافەکان تەنها بەرگریکردن لە مافی خۆی بە بەرز و نەبینینی مافی کەسانی ترە",
+          "ar": "رعاية الحقوق هي الدفاع عن النفس فقط وتجاهل حق الغير"
+        },
+        {
+          "tr": "İsrâ 17:70 insan onurunu anar",
+          "en": "Al-Isra 17:70 recalls human dignity",
+          "es": "Al-Isra 17:70 recuerda la dignidad humana",
+          "pt": "Al-Isra 17:70 lembra a dignidade humana",
+          "nl": "Al-Isra 17:70 herdenkt menselijke waardigheid",
+          "de": "Al-Isra 17:70 erinnert an Menschenwürde",
+          "ku": "Îsrâ 17:70 şerefê mirov tîne bîr",
+          "ckb": "ئسرا ٧٠ شەرەفی مرۆڤ دەگێڕێتەوە",
+          "ar": "الإسراء ٧٠ يذكر إكرام بني آدم"
+        },
+        {
+          "tr": "Nisâ 4:36 komşu ve yetimi sayar",
+          "en": "An-Nisa 4:36 mentions neighbor and orphan",
+          "es": "An-Nisa 4:36 menciona vecino y huérfano",
+          "pt": "An-Nisa 4:36 menciona vizinho e órfão",
+          "nl": "An-Nisa 4:36 noemt buur en wees",
+          "de": "An-Nisa 4:36 nennt Nachbar und Waise",
+          "ku": "Nisâ 4:36 cîran û yetîmê dibêje",
+          "ckb": "نسا ٣٦ دراوسێ و یەتیم دەگێڕێتەوە",
+          "ar": "النساء ٣٦ تذكر الجار واليتيم"
+        },
+        {
+          "tr": "Hadis kan, mal ve ırzı haram kılar",
+          "en": "The hadith makes blood, wealth, and honor unlawful",
+          "es": "El hadiz hace ilícitos sangre, dinero y honor",
+          "pt": "O hadith torna ilícitos sangue, bens e honra",
+          "nl": "Hadith maakt bloed, bezit en eer verboden",
+          "de": "Hadith macht Blut, Gut und Ehre unerlaubt",
+          "ku": "Hedîs xwîn, mal û namûsê qedexe dike",
+          "ckb": "حەدیس خوێن و سامان و نامووس حەرام دەکات",
+          "ar": "الحديث يحرّم الدم والمال والعرض"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir komşu hakkını Nisâ 4:36 ile, bir ırz sınırını hadisle bağla — hak gözetmek bencillikte değil; emanet ve merhamette büyür.",
+    "en": "Tie one neighbor's right today to An-Nisa 4:36 and one boundary of honor to the hadith — upholding rights grows in care, not selfishness.",
+    "es": "Hoy un derecho del vecino con An-Nisa 4:36 y un límite del honor con el hadiz.",
+    "pt": "Hoje um direito do vizinho com An-Nisa 4:36 e limite da honra com o hadith.",
+    "nl": "Vandaag: buurrecht met An-Nisa 4:36 en eer grens met hadith.",
+    "de": "Heute: Nachbarrecht mit An-Nisa 4:36 und Ehrengrenze mit Hadith.",
+    "ku": "Îro mafê cîran bi Nisâ 4:36 û sînorê namûs bi hedîs ve girêde.",
+    "ckb": "ئەمڕۆ مافێکی دراوسێ بە نسا ٣٦ەوە و سنووری نامووس بە حەدیسەوە بەستەوە — پاراستنی ماف لە میهرەبانیدا گەشە دەکات.",
+    "ar": "اليوم اربطْ حقاً للجار بالنساء ٣٦ وحرمةً بالحديث — رعايةُ الحقوق بالإحسان لا بالأنانية."
+  }
+}

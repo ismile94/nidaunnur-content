@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 17,
+  "title": {
+    "tr": "Yardımlaşma Ruhu",
+    "en": "The Spirit of Mutual Help",
+    "es": "El Espíritu de Ayuda Mutua",
+    "pt": "O Espírito de Ajuda Mútua",
+    "nl": "De Geest van Onderlinge Hulp",
+    "de": "Der Geist der gegenseitigen Hilfe",
+    "ku": "Rûhê Hevkariyê",
+    "ckb": "ڕۆحی یارمەتیی هەموار",
+    "ar": "رُوحُ التَّعَاوُنِ"
+  },
+  "content": {
+    "tr": "Yardımlaşma ruhu; sadece büyük bağışlarla övünmek veya yardımı gösterişe çevirmek değil — yetimi itip kakmamak, yoksulu doyurmayı teşvik etmek ve müminin mümine karşı duvar gibi olmasıdır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ * فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ * وَلا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ﴾**\n**«Dini yalan sayanı gördün mü? İşte o yetimi iter. Yoksulu doyurmayı teşvik etmez.»**\n*(Maûn 107:1–3 — meâl özü)*\n\nİhtiyaç varken öne geçmenin örneği de vardır:\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**«Kendilerinde ihtiyaç olsa bile önce başkalarını düşünürler...»**\n*(Haşr 59:9 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ»** — **«Müminlerin birbirine karşı merhametli ve şefkatli olmalarının misali, beden gibidir...»**\n*(Buhârî, Müslim — rivayet özeti)*\n\nBugün: bir lokmayı Maûn 107 ile, bir önceliği Haşr 59:9 ile bağla — yardımlaşma gösterişte değil; ihtiyaç ve samimiyette büyür.",
+    "en": "The spirit of mutual help is not boasting of big donations or turning aid into display — it is not pushing the orphan away, encouraging feeding the needy, and believers being like one building for one another.\n\nAllah the Most High says:\n\n**﴿Have you seen the one who denies the Recompense? Then that is the one who drives away the orphan and does not encourage the feeding of the needy.﴾**\n*(Al-Ma'un 107:1–3 — meaning summarized)*\n\nThere is also the example of preferring others while in need:\n\n**﴿They give [them] preference over themselves, even though they are in need...﴾**\n*(Al-Hashr 59:9 — meaning summarized)*\n\nThe Prophet ﷺ said:\n\n**\"The likeness of believers in their mutual kindness, compassion, and sympathy is that of a single body...\"**\n*(Al-Bukhari, Muslim — narration summarized)*\n\nToday: tie one morsel to Al-Ma'un 107 and one priority to Al-Hashr 59:9 — helping grows in sincerity, not show.",
+    "es": "Ayuda mutua no es vanidad — es huérfano y compartir.\n\n**﴿فذلك الذي يدع اليتيم﴾**\n*(Al-Ma'un 107:2)*\n\n**﴿ويؤثرون على أنفسهم﴾**\n*(Al-Hashr 59:9)*\n\n**«مثل المؤمنين في توادهم»** *(Bukhari, Muslim)*\n\nHoy: un bocado con Ma'un.",
+    "pt": "Ajuda mútua não é vaidade — é órfão e partilhar.\n\n**﴿فذلك الذي يدع اليتيم﴾**\n*(Al-Ma'un 107:2)*\n\n**﴿ويؤثرون على أنفسهم﴾**\n*(Al-Hashr 59:9)*\n\n**«مثل المؤمنين في توادهم»** *(Bukhari, Muslim)*\n\nHoje: um bocado com Ma'un.",
+    "nl": "Hulp is geen pronken — het is wees en delen.\n\n**﴿فذلك الذي يدع اليتيم﴾**\n*(Al-Ma'un 107:2)*\n\n**﴿ويؤثرون على أنفسهم﴾**\n*(Al-Hashr 59:9)*\n\n**«مثل المؤمنين في توادهم»** *(Bukhari, Muslim)*\n\nVandaag: één hap met Ma'un.",
+    "de": "Hilfe ist keine Prahlerei — es ist Waisen und Teilen.\n\n**﴿فذلك الذي يدع اليتيم﴾**\n*(Al-Ma'un 107:2)*\n\n**﴿ويؤثرون على أنفسهم﴾**\n*(Al-Hashr 59:9)*\n\n**«مثل المؤمنين في توادهم»** *(Bukhari, Muslim)*\n\nHeute: ein Bissen mit Ma'un.",
+    "ku": "Alîkarî ne serbilindî ye — ev yetîm û parvekirin e.\n\n**﴿يدع اليتيم﴾**\n*(Maûn 107)*\n\n**﴿يؤثرون﴾**\n*(Haşr 59:9)*\n\n**«مثل المؤمنين»** *(Buxarî)*\n\nÎro: nebitek bi Maûn re.",
+    "ckb": "ڕۆحی یارمەتیی هەموار تەنها پێکەنین بە بەخششی گەورە یان گۆڕینی یارمەتی بۆ نمایش نییە — بەڵکوو نەدۆزینەوەی یەتیم، هاندانی خواردن پێدانی هەژار و وەک یەک لەش مامەڵەکردنی باوەڕداران.\n\nاللە دەفەرموێت:\n\n**﴿أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ * فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ * وَلا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ﴾**\n*(ماعون: ١–٣)*\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n*(حەشر: ٩)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«مثل المؤمنين في توادهم وتراحمهم وتعاطفهم مثل الجسد»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ: نوقمێک بە ماعون ١٠٧ەوە و پێشخستنێک بە حەشر ٩ەوە بەستەوە — یارمەتی لە نمایشدا ناگەشێتەوە.",
+    "ar": "روحُ التعاون ليست التباهي بالصدقات ولا تحويلَ المعروف إلى عرض — إنما كفَّ الأذى عن اليتيم، وحضُّ الطعام للمسكين، وتآزرُ المؤمنين كالبنيان الواحد.\n\nيقول الله تعالى:\n\n**﴿فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ * وَلا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ﴾**\n*(الماعون: ٢–٣)*\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n*(الحشر: ٩)*\n\nوقال النبي ﷺ:\n\n**«مثل المؤمنين في توادهم وتراحمهم وتعاطفهم مثل الجسد»**\n*(متفق عليه)*\n\nاليوم اربطْ لقمةً بالماعون ١٠٧ وإيثاراً بالحشر ٩ — المعونةُ بالإخلاص لا بالمظهر."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "Yetimi iten ve yoksulu doyurmayı teşvik etmeyen kimse hangi surede örneklenir?",
+        "en": "In which surah is the one who drives the orphan and does not encourage feeding the needy exemplified?",
+        "es": "¿En qué sura se ejemplifica quien empuja al huérfano y no alimenta al pobre?",
+        "pt": "Em qual sura se exemplifica quem empurra o órfão e não incentiva alimentar o pobre?",
+        "nl": "In welke soera wordt wie de wees wegstoott en de arme niet voedt genoemd?",
+        "de": "In welcher Sure wird der Weggestoßene Waise und der nicht ermunterte Arme genannt?",
+        "ku": "Kîjan sureyê mînak e ku yetîm radikin û hejaran xwarinê teşwîq nakin?",
+        "ckb": "کام سورەت نموونەی کەسێک دەگێڕێتەوە کە یەتیم دەدۆزێتەوە و هاندانی خواردنی هەژار ناکات؟",
+        "ar": "في أي سورة مَثَلُ مَنْ يَدُعُّ الْيَتِيمَ وَلا يَحُضُّ عَلَى طعام المسكين؟"
+      },
+      "options": [
+        {
+          "tr": "Maûn",
+          "en": "Al-Ma'un",
+          "es": "Al-Ma'un",
+          "pt": "Al-Ma'un",
+          "nl": "Al-Ma'un",
+          "de": "Al-Ma'un",
+          "ku": "Maûn",
+          "ckb": "ماعون",
+          "ar": "الماعون"
+        },
+        {
+          "tr": "Kevser",
+          "en": "Al-Kawthar",
+          "es": "Al-Kawthar",
+          "pt": "Al-Kawthar",
+          "nl": "Al-Kawthar",
+          "de": "Al-Kawthar",
+          "ku": "Kevser",
+          "ckb": "کەوسەر",
+          "ar": "الكوثر"
+        },
+        {
+          "tr": "Nasr",
+          "en": "An-Nasr",
+          "es": "An-Nasr",
+          "pt": "An-Nasr",
+          "nl": "An-Nasr",
+          "de": "An-Nasr",
+          "ku": "Nasr",
+          "ckb": "نەسر",
+          "ar": "النصر"
+        },
+        {
+          "tr": "İhlâs",
+          "en": "Al-Ikhlas",
+          "es": "Al-Ikhlas",
+          "pt": "Al-Ikhlas",
+          "nl": "Al-Ikhlas",
+          "de": "Al-Ikhlas",
+          "ku": "Îxlas",
+          "ckb": "ئیخلاس",
+          "ar": "الإخلاص"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Metne göre Haşr 59:9 ihtiyaç varken neyi örnekler?",
+        "en": "According to the text, what does Al-Hashr 59:9 exemplify even when in need?",
+        "es": "Según el texto, ¿qué ejemplifica Al-Hashr 59:9 con necesidad?",
+        "pt": "Segundo o texto, o que Al-Hashr 59:9 exemplifica mesmo em necessidade?",
+        "nl": "Wat toont Al-Hashr 59:9 bij eigen gebrek volgens de tekst?",
+        "de": "Was zeigt Al-Hashr 59:9 bei eigenem Bedarf laut Text?",
+        "ku": "Li gorî nivîsê Haşr 59:9 dema hewce çi mînak e?",
+        "ckb": "بەپێی دەقەکە حەشر ٩ لە کاتی پێویستیدا چی نموونە دەکات؟",
+        "ar": "ماذا يمثل الحشر ٩ مع الحاجة وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Başkasını kendine tercih etmek (îsâr)",
+          "en": "Preferring another over oneself (ithar)",
+          "es": "Preferir al otro sobre uno mismo",
+          "pt": "Preferir o outro a si mesmo",
+          "nl": "Ander boven jezelf stellen",
+          "de": "Andere vor sich stellen",
+          "ku": "Kesê din pêşîyê xwe dide",
+          "ckb": "پێشخستنی کەسێک لەسەر خۆی",
+          "ar": "الإيثار"
+        },
+        {
+          "tr": "Sadece kaçmak",
+          "en": "Only fleeing",
+          "es": "Solo huir",
+          "pt": "Só fugir",
+          "nl": "Alleen vluchten",
+          "de": "Nur Flucht",
+          "ku": "Tenê rev",
+          "ckb": "تەنها هەڵاتن",
+          "ar": "الهروب فقط"
+        },
+        {
+          "tr": "Malı gizlemek",
+          "en": "Hiding wealth",
+          "es": "Ocultar riqueza",
+          "pt": "Ocultar riqueza",
+          "nl": "Rijkdom verbergen",
+          "de": "Reichtum verbergen",
+          "ku": "Mal veşêre",
+          "ckb": "شاردنەوەی سامان",
+          "ar": "إخفاء المال"
+        },
+        {
+          "tr": "İbadeti terk etmek",
+          "en": "Abandoning worship",
+          "es": "Dejar el culto",
+          "pt": "Abandonar culto",
+          "nl": "Aanbidding opgeven",
+          "de": "Gottesdienst aufgeben",
+          "ku": "Îbadetê terk bike",
+          "ckb": "جێهێشتنی عیبادەت",
+          "ar": "ترك العبادة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Müminlerin birbirine karşı merhametli olmalarının misali beden gibidir» hadisi hangi kitaplarda geçer?",
+        "en": "In which collections is the hadith comparing believers' mercy to one body?",
+        "es": "¿En qué colecciones está el hadiz del «cuerpo» entre creyentes?",
+        "pt": "Em quais coleções está o hadith do «corpo» entre crentes?",
+        "nl": "In welke verzamelingen staat de hadith over het lichaam onder gelovigen?",
+        "de": "In welchen Sammlungen steht der Hadith über den Körper unter Gläubigen?",
+        "ku": "Hedîsa mînakê bedenê di nav bawermendan de di kîjan kitêban de ye?",
+        "ckb": "حەدیسی «لەش» لە نێوان باوەڕداران لە کام کتێبەکاندا هەیە؟",
+        "ar": "في أي كتب حديث «مثل الجسد» بين المؤمنين؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bukhari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Sadece Şiir antolojisi",
+          "en": "Only a poetry anthology",
+          "es": "Solo antología poética",
+          "pt": "Só antologia poética",
+          "nl": "Alleen poëziebundel",
+          "de": "Nur Gedichtband",
+          "ku": "Tenê kovara helbestan",
+          "ckb": "تەنها کۆمەڵەی شیعر",
+          "ar": "ديوان شعر فقط"
+        },
+        {
+          "tr": "Sadece tıp kitabı",
+          "en": "Only a medical book",
+          "es": "Solo libro médico",
+          "pt": "Só livro médico",
+          "nl": "Alleen medisch boek",
+          "de": "Nur Medizinbuch",
+          "ku": "Tenê pirtûka tibbî",
+          "ckb": "تەنها کتێبی پزیشکی",
+          "ar": "كتاب طب فقط"
+        },
+        {
+          "tr": "Sadece sözlük",
+          "en": "Only a dictionary",
+          "es": "Solo diccionario",
+          "pt": "Só dicionário",
+          "nl": "Alleen woordenboek",
+          "de": "Nur Wörterbuch",
+          "ku": "Tenê ferheng",
+          "ckb": "تەنها فەرهەنگ",
+          "ar": "قاموس فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Metne göre Maûn 107:1 «dini yalan sayan» ile hangi davranışları bağlar?",
+        "en": "According to the text, what behaviors does Al-Ma'un 107:1 tie to denying the Deen?",
+        "es": "Según el texto, ¿qué conductas une Al-Ma'un 107:1 a negar el Din?",
+        "pt": "Segundo o texto, que condutas Al-Ma'un 107:1 liga a negar o Din?",
+        "nl": "Welk gedrag koppelt Al-Ma'un 107:1 aan loochening van het Deen?",
+        "de": "Welches Verhalten knüpft Al-Ma'un 107:1 an die Leugnung des Din?",
+        "ku": "Li gorî nivîsê Maûn 107:1 çi tevger bi înkarkirina dîn ve girê dide?",
+        "ckb": "بەپێی دەقەکە ماعون ١٠٧ کام ڕەفتار بە ڕەتکردنەوەی دین دەبەستێتەوە؟",
+        "ar": "ما السلوك الذي يربطه الماعون بإنكار الدين وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "Yetimi itmek ve yoksulu doyurmayı teşvik etmemek",
+          "en": "Pushing the orphan and not encouraging feeding the needy",
+          "es": "Empujar al huérfano y no alentar al pobre",
+          "pt": "Empurrar o órfão e não incentivar o pobre",
+          "nl": "Wees wegstoten en armen niet voeden aanmoedigen",
+          "de": "Waisen stoßen und Armen nichts zu essen geben",
+          "ku": "Yetîm radikin û hejaran xwarinê teşwîq nakin",
+          "ckb": "دۆزینەوەی یەتیم و هاندانەدانی خواردنی هەژار",
+          "ar": "دفع اليتيم وترك إطعام المسكين"
+        },
+        {
+          "tr": "Sadece çok namaz kılmak",
+          "en": "Only praying a lot",
+          "es": "Solo orar mucho",
+          "pt": "Só orar muito",
+          "nl": "Alleen veel bidden",
+          "de": "Nur viel beten",
+          "ku": "Tenê pir nimêj bike",
+          "ckb": "تەنها زۆر نوێژ",
+          "ar": "كثرة الصلاة فقط"
+        },
+        {
+          "tr": "Sadece oruç tutmak",
+          "en": "Only fasting",
+          "es": "Solo ayunar",
+          "pt": "Só jejuar",
+          "nl": "Alleen vasten",
+          "de": "Nur fasten",
+          "ku": "Tenê roze bigire",
+          "ckb": "تەنها ڕۆژوو",
+          "ar": "الصوم فقط"
+        },
+        {
+          "tr": "Sadece hac yapmak",
+          "en": "Only Hajj",
+          "es": "Solo Hajj",
+          "pt": "Só Hajj",
+          "nl": "Alleen hadj",
+          "de": "Nur Haddsch",
+          "ku": "Tenê hec bike",
+          "ckb": "تەنها حەج",
+          "ar": "الحج فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Yardımlaşma yalnızca para vermektir; merhamet, selam ve emanet sayılmaz",
+          "en": "Mutual help is only giving money; mercy, greeting, and trust do not count",
+          "es": "Ayuda es solo dinero; misericordia no cuenta",
+          "pt": "Ajuda é só dinheiro; misericórdia não conta",
+          "nl": "Hulp is alleen geld; barmhartigheid telt niet",
+          "de": "Hilfe ist nur Geld; Barmherzigkeit zählt nicht",
+          "ku": "Alîkarî tenê pere ye; mihemedî û silav nayê jimartin",
+          "ckb": "یارمەتی تەنها پارەدانە؛ میهرەبانی و سلاو و ئەمانەت ژمێردراو نین",
+          "ar": "التعاون مال فقط؛ الرحمة والسلام لا تُحتسب"
+        },
+        {
+          "tr": "Maûn 107 yetim ve yoksulu örnekler",
+          "en": "Al-Ma'un 107 exemplifies orphan and needy",
+          "es": "Al-Ma'un 107 ejemplifica huérfano y pobre",
+          "pt": "Al-Ma'un 107 exemplifica órfão e pobre",
+          "nl": "Al-Ma'un 107 noemt wees en arme",
+          "de": "Al-Ma'un 107 nennt Waise und Armen",
+          "ku": "Maûn 107 yetîm û hejar mînak dike",
+          "ckb": "ماعون ١٠٧ یەتیم و هەژار نموونە دەکات",
+          "ar": "الماعون ١٠٧ يذكر اليتيم والمسكين"
+        },
+        {
+          "tr": "Haşr 59:9 ihtiyaçta bile îsârı anlatır",
+          "en": "Al-Hashr 59:9 describes ithar even in need",
+          "es": "Al-Hashr 59:9 narra el íthar con necesidad",
+          "pt": "Al-Hashr 59:9 narra ithar com necessidade",
+          "nl": "Al-Hashr 59:9 beschrijft ithar bij gebrek",
+          "de": "Al-Hashr 59:9 schildert Ithar bei Bedarf",
+          "ku": "Haşr 59:9 îsarê bi hewce dibêje",
+          "ckb": "حەشر ٩ ئیسار لەگەڵ پێویست دەگێڕێتەوە",
+          "ar": "الحشر ٩ يذكر الإيثار مع الحاجة"
+        },
+        {
+          "tr": "Hadis müminleri tek bedene benzetir",
+          "en": "The hadith likens believers to one body",
+          "es": "El hadiz compara creyentes a un cuerpo",
+          "pt": "O hadith compara crentes a um corpo",
+          "nl": "Hadith vergelijkt gelovigen met één lichaam",
+          "de": "Hadith gleicht Gläubige einem Körper",
+          "ku": "Hedîs bawermendan wek laşekî dibêje",
+          "ckb": "حەدیس باوەڕداران وەک یەک لەش دەچەسپێنێتەوە",
+          "ar": "الحديث يشبه المؤمنين بجسد واحد"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir lokmayı Maûn 107 ile, bir önceliği Haşr 59:9 ile bağla — yardımlaşma gösterişte değil; ihtiyaç ve samimiyette büyür.",
+    "en": "Tie one morsel today to Al-Ma'un 107 and one priority to Al-Hashr 59:9 — mutual help grows in sincerity, not show.",
+    "es": "Hoy un bocado con Al-Ma'un 107 y una prioridad con Al-Hashr 59:9.",
+    "pt": "Hoje um bocado com Al-Ma'un 107 e prioridade com Al-Hashr 59:9.",
+    "nl": "Vandaag: één hap met Al-Ma'un 107 en voorrang met Al-Hashr 59:9.",
+    "de": "Heute: ein Bissen mit Al-Ma'un 107 und Vorrang mit Al-Hashr 59:9.",
+    "ku": "Îro nebitek bi Maûn 107 û pêşî bi Haşr 59:9 ve girêde.",
+    "ckb": "ئەمڕۆ نوقمێک بە ماعون ١٠٧ەوە و پێشخستنێک بە حەشر ٩ەوە بەستەوە — یارمەتی لە دڵسۆزیدا گەشە دەکات.",
+    "ar": "اليوم اربطْ لقمةً بالماعون ١٠٧ وإيثاراً بالحشر ٩ — التعاونُ بالإخلاص لا بالمظهر."
+  }
+}

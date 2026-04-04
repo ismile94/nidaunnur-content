@@ -1,0 +1,344 @@
+{
+  "month": 8,
+  "day": 6,
+  "title": {
+    "tr": "Açlığın Hikmeti",
+    "en": "The Wisdom of Hunger",
+    "es": "Sabiduría del ayuno",
+    "pt": "Sabedoria do jejum",
+    "nl": "Wijsheid van vasten",
+    "de": "Weisheit des Fastens",
+    "ku": "Hikmeta Birçîbûnê",
+    "ckb": "حیکمەتی برسی",
+    "ar": "حِكْمَةُ الجُوعِ وَالصَّوْمِ"
+  },
+  "content": {
+    "tr": "Açlığın hikmeti; sadece metabolizma veya «diyet» değil — takva, şükürün derinleşmesi ve «bilseydiniz oruç tutmanız size daha hayırlıdır» ilmidir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ﴾**\n**«Ey iman edenler! ... umulur ki böylece takva sahibi olursunuz.»** *(Bakara 2:183 — meâl özü)*\n\n**﴿وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾**\n**«... bilseydiniz oruç tutmanız size daha hayırlıdır.»** *(Bakara 2:184 — meâl özü; rükûn ve fidye bağlamında)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ هُدًى لِّلنَّاسِ﴾**\n**«Ramazan ayı, insanlara hidayet olarak Kur'an'ın indirildiği aydır...»** *(Bakara 2:185 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«لَا يَزَالُ دَعْوَةُ الصَّائِمِ عِنْدَ فِطْرِهِ مُسْتَجَابَةً»** — **«Oruçlunun iftar anındaki duası geri çevrilmez (kabul olunur).»** *(Tirmizî, hasen — rivayet özeti)*\n\nBugün: açlığı küçümseme — Allah'ın tayin ettiği sınırda şükür ve tevazu ile taşı.",
+    "en": "The wisdom of hunger is not metabolism or «diet» alone — it is taqwa, deepening gratitude, and the knowledge that «to fast is better for you, if you only knew.»\n\nAllah the Most High says:\n\n**﴿O you who believe, decreed upon you is fasting... that you may become righteous.﴾** *(Al-Baqarah 2:183 — meaning summarized)*\n\n**﴿... and that you fast is better for you, if you only knew.﴾** *(Al-Baqarah 2:184 — meaning summarized; in the rules of obligation and fidya)*\n\n**﴿The month of Ramadan in which was revealed the Qur'an, a guidance for mankind...﴾** *(Al-Baqarah 2:185 — meaning summarized)*\n\nThe Prophet ﷺ said: **\"The supplication of the fasting person at the time of breaking the fast is not rejected.\"** *(At-Tirmidhi, hasan — wording summarized)*\n\nToday: do not belittle hunger — carry it with gratitude and humility within the limit Allah sets.",
+    "es": "Hikma del hambre: 2:183–185 *(Baqarah)*; du'a al iftar *(Tirmidhi)*.\n\n**﴿وأن تصوموا خير لكم إن كنتم تعلمون﴾**\n\n**«دعوة الصائم»** *(Tirmidhi)*\n\nHoy: gratitud.",
+    "pt": "Sabedoria do jejum: 2:183–185 *(Al-Baqarah)*; du'a no iftar *(Tirmidhi)*.\n\n**﴿وأن تصوموا خير لكم إن كنتم تعلمون﴾**\n\n**«دعوة الصائم»** *(Tirmidhi)*\n\nHoje: gratidão.",
+    "nl": "Wijsheid van vasten: 2:183–185 *(Al-Baqarah)*; dua bij iftar *(Tirmidhi)*.\n\n**﴿وأن تصوموا خير لكم إن كنتم تعلمون﴾**\n\n**«دعوة الصائم»** *(Tirmidhi)*\n\nVandaag: dankbaarheid.",
+    "de": "Weisheit des Fastens: 2:183–185 *(Al-Baqarah)*; Du'a beim Iftar *(Tirmidhi)*.\n\n**﴿وأن تصوموا خير لكم إن كنتم تعلمون﴾**\n\n**«دعوة الصائم»** *(Tirmidhi)*\n\nHeute: Dankbarkeit.",
+    "ku": "Hikmeta birçîbûnê ne tenê beden e — ev takwa û zanîna ku rojê ji we re çêtir e ger bizanibin.\n\n**﴿لَعَلَّكُمْ تَتَّقُونَ﴾**\n*(Bekere 2:183)*\n\n**﴿وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾**\n*(2:184)*\n\n**«دَعْوَةُ الصَّائِمِ»** *(Tirmizî)*\n\nÎro: birçîbûnê bi şukr û îmodanî bibîne.",
+    "ckb": "حیکمەتی برسی تەنها مەتابۆلیزم و ڕێژیم نییە — ئەمە تەقوا، قووڵبوونەوەی شوکور و زانینی «ئەگەر بزانن ڕۆژوو بۆتان باشترە».\n\nاللە دەفەرموێت:\n\n**﴿كُتِبَ عَلَيْكُمُ الصِّيَامُ ... لَعَلَّكُمْ تَتَّقُونَ﴾** *(بەقەرە: ١٨٣)*\n\n**﴿وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾** *(بەقەرە: ١٨٤)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ﴾** *(بەقەرە: ١٨٥)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«لَا يَزَالُ دَعْوَةُ الصَّائِمِ عِنْدَ فِطْرِهِ مُسْتَجَابَةً»** *(تیرمیزی، حەسەن)*\n\nئەمڕۆ: برسی سووک مەزانە — لە سنووری اللەدا بە شوکور و تواضو هەڵیگرە.",
+    "ar": "حكمة الجوع ليست حرقاتٍ ولا رجيماً فقط — إنها التقوى وتعميق الشكر وعلمُ أن «أن تصوموا خيرٌ لكم إن كنتم تعلمون».\n\nيقول الله تعالى:\n\n**﴿كُتِبَ عَلَيْكُمُ الصِّيَامُ ... لَعَلَّكُمْ تَتَّقُونَ﴾**\n*(البقرة: ١٨٣)*\n\n**﴿وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾**\n*(البقرة: ١٨٤)*\n\n**﴿شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ﴾**\n*(البقرة: ١٨٥)*\n\nوقال النبي ﷺ: **«لا تزال دعوة الصائم عند فطره مستجابة»** *(الترمذي — حسن)*.\n\nاليوم لا تستهنِ بالجوع — احمله شكراً وتذللاً في حدّ الله."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Bilseydiniz oruç tutmanız size daha hayırlıdır» ifadesi hangi sure ve ayettedir?",
+        "en": "In which surah and verse is it said that fasting is better for you if you knew?",
+        "es": "¿En qué sura/aya está «صوم خير لكم إن كنتم تعلمون»?",
+        "pt": "Em qual sura/versículo está «صوم خير لكم إن كنتم تعلمون»?",
+        "nl": "In welke soera/vers staat «صوم خير لكم إن كنتم تعلمون»?",
+        "de": "In welcher Sure/Aya steht «صوم خير لكم إن كنتم تعلمون»?",
+        "ku": "«Ger bizanibin rojê we re çêtir e» di kîjan sure û ayetê de ye?",
+        "ckb": "«ئەگەر بزانن ڕۆژوو بۆتان باشترە» لە کام سورەت و ئایەتدایە؟",
+        "ar": "في أي سورة وآية ﴿وأن تصوموا خير لكم إن كنتم تعلمون﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Bakara 2:184",
+          "en": "Al-Baqarah 2:184",
+          "es": "Al-Baqarah 2:184",
+          "pt": "Al-Baqarah 2:184",
+          "nl": "Al-Baqarah 2:184",
+          "de": "Al-Baqarah 2:184",
+          "ku": "Bekere 2:184",
+          "ckb": "بەقەرە ١٨٤",
+          "ar": "البقرة ١٨٤"
+        },
+        {
+          "tr": "Bakara 2:196",
+          "en": "Al-Baqarah 2:196",
+          "es": "Al-Baqarah 2:196",
+          "pt": "Al-Baqarah 2:196",
+          "nl": "Al-Baqarah 2:196",
+          "de": "Al-Baqarah 2:196",
+          "ku": "Bekere 2:196",
+          "ckb": "بەقەرە ١٩٦",
+          "ar": "البقرة ١٩٦"
+        },
+        {
+          "tr": "Maide 5:89",
+          "en": "Al-Ma'idah 5:89",
+          "es": "Al-Ma'idah 5:89",
+          "pt": "Al-Ma'idah 5:89",
+          "nl": "Al-Ma'idah 5:89",
+          "de": "Al-Ma'idah 5:89",
+          "ku": "Maide 5:89",
+          "ckb": "مائدە ٨٩",
+          "ar": "المائدة ٨٩"
+        },
+        {
+          "tr": "Nisâ 4:92",
+          "en": "An-Nisa 4:92",
+          "es": "An-Nisa 4:92",
+          "pt": "An-Nisa 4:92",
+          "nl": "An-Nisa 4:92",
+          "de": "An-Nisa 4:92",
+          "ku": "Nisa 4:92",
+          "ckb": "نسا ٩٢",
+          "ar": "النساء ٩٢"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Bakara 2:183'te oruç kime farz kılınmış ve hangi temel sonuç hedeflenmiştir?",
+        "en": "In Al-Baqarah 2:183, upon whom is fasting prescribed and what outcome is aimed?",
+        "es": "En 2:183, ¿para quién el ayuno y qué fin?",
+        "pt": "Em 2:183, para quem o jejum e qual fim?",
+        "nl": "In 2:183: op wie vasten en welk doel?",
+        "de": "In 2:183: wem Fasten und welches Ziel?",
+        "ku": "Di 2:183 de kî ji bo kê ferz e û çi armanc e?",
+        "ckb": "لە بەقەرە ١٨٣دا ڕۆژوو بۆ کێ فەرز کراوە و چی ئامانج دەکرێت؟",
+        "ar": "في البقرة ١٨٣ لمن فرض الصوم وما الغاية؟"
+      },
+      "options": [
+        {
+          "tr": "İman edenlere; takva (lallekum tattakun)",
+          "en": "Believers; taqwa (la'allakum tattaqun)",
+          "es": "Creyentes; taqwa",
+          "pt": "Crentes; taqwa",
+          "nl": "Gelovigen; taqwa",
+          "de": "Gläubige; Taqwa",
+          "ku": "Bawermend; takwa",
+          "ckb": "باوەڕداران؛ تەقوا",
+          "ar": "المؤمنين؛ التقوى"
+        },
+        {
+          "tr": "Yalnızca yolculara; kolaylık",
+          "en": "Only travelers; ease",
+          "es": "Solo viajeros",
+          "pt": "Só viajantes",
+          "nl": "Alleen reizigers",
+          "de": "Nur Reisende",
+          "ku": "Tenê rêwî; hêsanî",
+          "ckb": "تەنها گەشتیاران",
+          "ar": "للمسافرين فقط"
+        },
+        {
+          "tr": "Sadece zenginlere; mal biriktirme",
+          "en": "Only the rich; amassing wealth",
+          "es": "Solo ricos",
+          "pt": "Só ricos",
+          "nl": "Alleen rijken",
+          "de": "Nur Reiche",
+          "ku": "Tenê dewlemend; komkirina mal",
+          "ckb": "تەنها دەوڵەمەندان",
+          "ar": "للأغنياء فقط"
+        },
+        {
+          "tr": "Hiç kimseye; tamamen nafile",
+          "en": "Upon no one; purely voluntary",
+          "es": "A nadie",
+          "pt": "A ninguém",
+          "nl": "Aan niemand",
+          "de": "Niemandem",
+          "ku": "Ji tu kesî re ne; bi tevahî nefîl",
+          "ckb": "بۆ هیچ کەس؛ تەواو دڵخوازانە",
+          "ar": "لأحد؛ تطوعاً كلياً"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Oruçlunun iftar anındaki duası geri çevrilmez» hadisi hangi koleksiyonda yer alır?",
+        "en": "In which collection is the hadith that the fasting person's supplication at iftar is answered?",
+        "es": "¿En qué colección está la du'a del ayunante al iftar?",
+        "pt": "Em qual coleção está a du'a do jejuante no iftar?",
+        "nl": "In welke verzameling staat de hadith over dua bij iftar?",
+        "de": "In welcher Sammlung steht die Hadith über Du'a beim Iftar?",
+        "ku": "Hedîsa «duaya rojêdar dema vekirî» di kîjan pirtûkê de ye?",
+        "ckb": "حەدیسی «داوای ڕۆژوو لە کاتی ئیفتاردا قبووڵ دەکرێت» لە کام کۆمەڵدایە؟",
+        "ar": "في أي مجموعة حديث دعوة الصائم عند فطره؟"
+      },
+      "options": [
+        {
+          "tr": "Tirmizî (hasen)",
+          "en": "At-Tirmidhi (hasan)",
+          "es": "Al-Tirmidhi (hasan)",
+          "pt": "At-Tirmidhi (hasan)",
+          "nl": "At-Tirmidhi (hasan)",
+          "de": "At-Tirmidhi (hasan)",
+          "ku": "Tirmizî",
+          "ckb": "تیرمیزی",
+          "ar": "الترمذي"
+        },
+        {
+          "tr": "Yalnızca Buhârî (bu lafızla ayrı bölüm)",
+          "en": "Only Bukhari (this exact wording only)",
+          "es": "Solo Bujari",
+          "pt": "Apenas Bukhari",
+          "nl": "Alleen Bukhari",
+          "de": "Nur Bukhari",
+          "ku": "Tenê Buxarî",
+          "ckb": "تەنها بوخاری",
+          "ar": "البخاري فقط"
+        },
+        {
+          "tr": "Yalnızca Müsned-i Ahmed",
+          "en": "Only Musnad Ahmad",
+          "es": "Solo Musnad Ahmad",
+          "pt": "Apenas Musnad Ahmad",
+          "nl": "Alleen Musnad Ahmad",
+          "de": "Nur Musnad Ahmad",
+          "ku": "Tenê Musnedê Ehmed",
+          "ckb": "تەنها مسنەدی ئەحمەد",
+          "ar": "مسند أحمد فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Ebî Dâvûd",
+          "en": "Only Ibn Abi Dawud",
+          "es": "Solo Ibn Abi Dawud",
+          "pt": "Apenas Ibn Abi Dawud",
+          "nl": "Alleen Ibn Abi Dawud",
+          "de": "Nur Ibn Abi Dawud",
+          "ku": "Tenê İbn Ebî Davûd",
+          "ckb": "تەنها ئیبن ئەبی داود",
+          "ar": "ابن أبي داود فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Bakara 2:185'te Ramazan ayı hangi büyük nimetle tanıtılır?",
+        "en": "In Al-Baqarah 2:185, the month of Ramadan is introduced with which great blessing?",
+        "es": "En 2:185, ¿con qué bendición se presenta Ramadán?",
+        "pt": "Em 2:185, com qual bênção Ramadã é apresentado?",
+        "nl": "In 2:185: met welke grote gunst wordt Ramadan genoemd?",
+        "de": "In 2:185: mit welchem großen Gnadengeschenk wird Ramadan eingeführt?",
+        "ku": "Di 2:185 de Remezan bi kîjan fêdeyê mezin tê nasandin?",
+        "ckb": "لە بەقەرە ١٨٥دا مانگی ڕەمەزان بە کۆمەڵێک نەعمەت گەورە دەناسرێتەوە؟",
+        "ar": "في البقرة ١٨٥ بأي نعمة عُرفِي رمضان؟"
+      },
+      "options": [
+        {
+          "tr": "İnsanlara hidayet olarak Kur'an'ın indirildiği ay",
+          "en": "The month in which the Qur'an was revealed as guidance to people",
+          "es": "Mes en que se reveló el Corán como guía",
+          "pt": "Mês em que o Alcorão foi revelado como guia",
+          "nl": "Maand waarin de Koran als leiding neerkwam",
+          "de": "Monat, in dem der Qur'an als Führung herabkam",
+          "ku": "Meha ku Qur'an wek rêberî ji bo mirovan hat daxistin",
+          "ckb": "ئەو مانگەی قورئان وەک هیدایەت بۆ خەڵک دابەزێنراوە",
+          "ar": "شهر نزول القرآن هدى للناس"
+        },
+        {
+          "tr": "Yalnızca ticaret sezonu",
+          "en": "Only a trading season",
+          "es": "Solo temporada comercial",
+          "pt": "Só temporada comercial",
+          "nl": "Alleen handelsseizoen",
+          "de": "Nur Handelszeit",
+          "ku": "Tenê demsala bazirganiyê",
+          "ckb": "تەنها وەرزی بازرگانی",
+          "ar": "موسم تجارة فقط"
+        },
+        {
+          "tr": "Sadece kış ayları",
+          "en": "Only winter months",
+          "es": "Solo invierno",
+          "pt": "Só inverno",
+          "nl": "Alleen winter",
+          "de": "Nur Winter",
+          "ku": "Tenê mehên zivistanê",
+          "ckb": "تەنها مانگەکانی زستان",
+          "ar": "شهور الشتاء فقط"
+        },
+        {
+          "tr": "Kur'an'da adı geçmeyen ay",
+          "en": "A month not named in the Qur'an",
+          "es": "Mes sin nombre en el Corán",
+          "pt": "Mês sem nome no Alcorão",
+          "nl": "Maand zonder naam in de Koran",
+          "de": "Ein unbenannter Monat im Qur'an",
+          "ku": "Meha ku di Qur'an de navê wê tune",
+          "ckb": "مانگێک نەوی لە قورئاندا نییە",
+          "ar": "شهر لا يُسمى في القرآن"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Açlığın ve orucun Kur'an'da takva, şükür ve «bilseniz hayırlıdır» ilmiyle bağlantısı yoktur; sadece dünyevî ağız tadıdır",
+          "en": "Hunger and fasting have no Qur'anic link to taqwa, gratitude, or «better if you knew» — only worldly taste",
+          "es": "El ayuno no tiene hikma en el Corán",
+          "pt": "O jejum não tem sabedoria no Alcorão",
+          "nl": "Vasten heeft geen Koranische wijsheid",
+          "de": "Fasten hat keine koranische Weisheit",
+          "ku": "Di Qur'an de ji bo birçîbûnê hikmet tune",
+          "ckb": "لە قورئاندا پەیوەندی برسی و ڕۆژوو بە تەقوا و شوکور و «باشترە ئەگەر بزانن» نییە؛ تەنها تامێکی دنیاوییە",
+          "ar": "لا ارتباط للجوع والصوم بالتقوى والشكر في القرآن؛ إنه مجرد لذة دنيا"
+        },
+        {
+          "tr": "Bakara 2:184 orucun bilen için daha hayırlı olduğunu söyler",
+          "en": "Al-Baqarah 2:184 states fasting is better for those who know",
+          "es": "2:184 dice «تصوموا خير»",
+          "pt": "2:184 diz «تصوموا خير»",
+          "nl": "2:184 zegt dat vasten beter is",
+          "de": "2:184 sagt Fasten ist besser",
+          "ku": "2:184 dibêje rojê çêtir e",
+          "ckb": "بەقەرە ١٨٤ دەڵێت ڕۆژوو بۆ ئاگاداران باشترە",
+          "ar": "البقرة ١٨٤ تقول إن تصوموا خيرٌ لكم إن كنتم تعلمون"
+        },
+        {
+          "tr": "İftar duası hadisi Tirmizî'de geçer",
+          "en": "The iftar supplication hadith appears in al-Tirmidhi",
+          "es": "Du'a al iftar en Tirmidhi",
+          "pt": "Du'a no iftar em Tirmidhi",
+          "nl": "Iftar-dua bij Tirmidhi",
+          "de": "Iftar-Du'a bei Tirmidhi",
+          "ku": "Hedîsa duaya vekirî di Tirmizî de ye",
+          "ckb": "حەدیسی داوای ئیفتار لە تیرمیزیدایە",
+          "ar": "حديث دعاء الصائم عند الفطر في الترمذي"
+        },
+        {
+          "tr": "Bakara 2:185 Ramazan'ı Kur'an ile tanıtır",
+          "en": "Al-Baqarah 2:185 introduces Ramadan with the Qur'an",
+          "es": "2:185 presenta Ramadán con el Corán",
+          "pt": "2:185 apresenta Ramadã com o Alcorão",
+          "nl": "2:185 stelt Ramadan voor met de Koran",
+          "de": "2:185 führt Ramadan mit dem Qur'an ein",
+          "ku": "2:185 Remezan bi Qur'anê tîne ziman",
+          "ckb": "بەقەرە ١٨٥ ڕەمەزان بە قورئان دەناسێت",
+          "ar": "البقرة ١٨٥ تعرف رمضان بالقرآن"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün açlığı küçümseme — Allah'ın tayin ettiği sınırda şükür ve tevazu ile taşı.",
+    "en": "Today do not belittle hunger — carry it with gratitude and humility within the limit Allah sets.",
+    "es": "Hoy: no menosprecies el hambre — gratitud.",
+    "pt": "Hoje: não menospreze a fome — gratidão.",
+    "nl": "Vandaag: kleineer de honger niet — dankbaarheid.",
+    "de": "Heute: verachte den Hunger nicht — Dankbarkeit.",
+    "ku": "Îro birçîbûnê biçûk nebine — bi şukr û îmodanî di sînorê Allah de hilgire.",
+    "ckb": "ئەمڕۆ برسی سووک مەزانە — لە سنووری اللەدا بە شوکور و تواضو هەڵیگرە.",
+    "ar": "اليوم لا تستهنِ بالجوع — احمله شكراً وتذللاً في حدّ الله."
+  }
+}

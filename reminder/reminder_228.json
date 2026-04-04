@@ -1,0 +1,344 @@
+{
+  "month": 7,
+  "day": 19,
+  "title": {
+    "tr": "Paylaşma Alışkanlığı",
+    "en": "The Habit of Sharing",
+    "es": "Hábito de compartir",
+    "pt": "Hábito de partilhar",
+    "nl": "De gewoonte van delen",
+    "de": "Die Gewohnheit des Teilens",
+    "ku": "Adîta Parvekirinê",
+    "ckb": "عادەتی پشکدان",
+    "ar": "عَادَةُ المُشَارَكَةِ"
+  },
+  "content": {
+    "tr": "Paylaşma alışkanlığı; paylaşmayı büyük jestlere ertelemek değil — sevdiği lokmayı ihtiyacı olana açan, vermeyi tekrarlayan ve küçük iyiliği küçümsemeyen kalp düzenidir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا * إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ﴾**\n**«Onlar, yemeği — onu sevmelerine rağmen — yoksula, yetime ve esire yedirirler... 'Sizi yalnızca Allah'ın rızası için doyuruyoruz' derler.»** *(İnsân 76:8–9 — meâl özü)*\n\n**﴿وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ﴾**\n**«Malı, onu sevmesine rağmen yakınlara, yetimlere ve yoksullara verendir...»** *(Bakara 2:177 — meâl özü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا»** — **«İyilikten hiçbir şeyi küçümseme.»** *(Müslim — rivayet özeti)*\n\nBugün: bir lokmayı İnsân 76 ile, bir cömertliği Bakara 2:177 ile bağla — paylaşma alışkanlığı gösterişte değil; tekrar ve samimiyette büyür.",
+    "en": "The habit of sharing is not postponing generosity to grand gestures — it is a heart-set that opens the morsel one loves to those in need, repeats giving, and does not belittle small kindness.\n\nAllah the Most High says:\n\n**﴿And they give food in spite of love for it to the needy, the orphan, and the captive, [saying], 'We feed you only for the Face of Allah...'﴾** *(Al-Insan 76:8–9 — meaning summarized)*\n\n**﴿...and gives wealth, in spite of love for it, to relatives, orphans, and the needy...﴾** *(Al-Baqarah 2:177 — meaning summarized)*\n\nThe Prophet ﷺ said: **\"Do not belittle any good deed.\"** *(Muslim — narration summarized)*\n\nToday: tie one morsel to Al-Insan 76 and one generosity to Al-Baqarah 2:177 — the habit of sharing grows in repetition and sincerity, not in show.",
+    "es": "Hábito de compartir: comida con amor *(Al-Insan 76:8–9)* y dar con generosidad *(Al-Baqarah 2:177)*.\n\n**﴿ويُطعمون الطعام على حبه﴾**\n\n**﴿وآتى المال على حبه﴾**\n\n**«لا تحقرن»** *(Muslim)*\n\nHoy: un bocado con Insan.",
+    "pt": "Hábito de partilhar: comida com amor *(Al-Insan 76:8–9)* e dar com generosidade *(Al-Baqarah 2:177)*.\n\n**﴿ويُطعمون الطعام على حبه﴾**\n\n**﴿وآتى المال على حبه﴾**\n\n**«لا تحقرن»** *(Muslim)*\n\nHoje: um bocado com Insan.",
+    "nl": "Deelgewoonte: voedsel ondanks liefde ervoor *(Al-Insan 76:8–9)* en geven ondanks hechting *(Al-Baqarah 2:177)*.\n\n**﴿ويُطعمون الطعام على حبه﴾**\n\n**﴿وآتى المال على حبه﴾**\n\n**«لا تحقرن»** *(Muslim)*\n\nVandaag: één hap met Insan.",
+    "de": "Teilgewohnheit: Speise trotz Zuneigung *(Al-Insan 76:8–9)* und Geben trotz Anhang *(Al-Baqarah 2:177)*.\n\n**﴿ويُطعمون الطعام على حبه﴾**\n\n**﴿وآتى المال على حبه﴾**\n\n**«لا تحقرن»** *(Muslim)*\n\nHeute: ein Bissen mit Insan.",
+    "ku": "Adîta parvekirinê ne tenê jest mezin e — ev dilê ku nanê xweş dixwaze li hewcedar vekirî ye.\n\n**﴿ويُطعمون الطعام على حبه﴾**\n*(Însan 76)*\n\n**﴿وآتى المال على حبه﴾**\n*(Bekara 2:177)*\n\n**«لا تحقرن من المعروف شيئا»** *(Muslîm)*\n\nÎro: nebitek bi Însan 76 û lutfek bi Bekara 2:177 ve girêde.",
+    "ckb": "عادەتی پشکدان تەنها بۆ جووڵە گەورەکان نییە — ئەمە دڵێکە کە نانی خۆشەویستی بە پێویستەکان دەکاتەوە، پشکدان دووبارە دەکاتەوە و چاکی بچووک بچووک ناکات.\n\nاللە دەفەرموێت:\n\n**﴿وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا * إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ﴾**\n*(ئینسان: ٨–٩)*\n\n**﴿وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ﴾**\n*(بەقەرە: ١٧٧)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا»** *(موسلیم)*.\n\nئەمڕۆ: نوقمێک بە ئینسان ٧٦ەوە و دەستبەخۆشییەک بە بەقەرە ٢:١٧٧ەوە بەستەوە — عادەتی پشکدان لە نمایشدا ناگەشێتەوە.",
+    "ar": "عادةُ المشاركة ليست تأجيلَ العطاء إلى المفاخر الكبرى — إنها قلبٌ يفتحُ لقمةً يحبُّها لمن يحتاج، ويعيدُ العطاء، ولا يحقِرُ معروفاً صغيراً.\n\nيقول الله تعالى:\n\n**﴿وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا * إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ﴾**\n*(الإنسان: ٨–٩)*\n\n**﴿وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ﴾**\n*(البقرة: ١٧٧)*\n\nوقال النبي ﷺ: **«لا تحقرن من المعروف شيئاً»** *(رواه مسلم)*.\n\nاليوم اربطْ لقمةً بالإنسان ٨–٩ وجوداً بالبقرة ١٧٧ — العادةُ بالتكرار والإخلاص لا بالمظهر."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "Yoksulu, yetimi ve esiri «yemeği sevmesine rağmen» doyuran ayetler hangi surededir?",
+        "en": "In which surah are the verses about feeding the needy, orphan, and captive despite love for the food?",
+        "es": "¿En qué sura se alimenta al pobre, huérfano y cautivo a pesar del amor al alimento?",
+        "pt": "Em qual sura se alimenta o necessitado, órfão e cativo apesar do amor pelo alimento?",
+        "nl": "In welke soera voedt men de arme, wees en gevangene ondanks liefde voor het eten?",
+        "de": "In welcher Sure wird Armer, Waise und Gefangener trotz Liebe zur Speise gespeist?",
+        "ku": "Ayetên xwarinê ji hejdar, yetîm û girtî re bi hez ji xwarinê kîjan sure ne?",
+        "ckb": "ئایەتەکانی خواردن پێدانی هەژار و یەتیم و بەندکراو لەگەڵ خۆشەویستیی خواردن لە کام سورەتدان؟",
+        "ar": "في أي سورة إطعامُ المسكين واليتيم والأسير على حبِّ الطعام؟"
+      },
+      "options": [
+        {
+          "tr": "İnsân",
+          "en": "Al-Insan",
+          "es": "Al-Insan",
+          "pt": "Al-Insan",
+          "nl": "Al-Insan",
+          "de": "Al-Insan",
+          "ku": "Însan",
+          "ckb": "ئینسان",
+          "ar": "الإنسان"
+        },
+        {
+          "tr": "Felak",
+          "en": "Al-Falaq",
+          "es": "Al-Falaq",
+          "pt": "Al-Falaq",
+          "nl": "Al-Falaq",
+          "de": "Al-Falaq",
+          "ku": "Felak",
+          "ckb": "فەلەق",
+          "ar": "الفلق"
+        },
+        {
+          "tr": "Kevser",
+          "en": "Al-Kawthar",
+          "es": "Al-Kawthar",
+          "pt": "Al-Kawthar",
+          "nl": "Al-Kawthar",
+          "de": "Al-Kawthar",
+          "ku": "Kevser",
+          "ckb": "کەوسەر",
+          "ar": "الكوثر"
+        },
+        {
+          "tr": "Tekvir",
+          "en": "At-Takwir",
+          "es": "At-Takwir",
+          "pt": "At-Takwir",
+          "nl": "At-Takwir",
+          "de": "At-Takwir",
+          "ku": "Tekvîr",
+          "ckb": "تەکویر",
+          "ar": "التكوير"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Bakara 2:177'de övülenlerden biri, malı sevmesine rağmen kimlere verendir?",
+        "en": "In Al-Baqarah 2:177, who gives wealth despite loving it?",
+        "es": "En Al-Baqarah 2:177, ¿a quién da a pesar de amar el bien?",
+        "pt": "Em Al-Baqarah 2:177, a quem se dá apesar de amar o bem?",
+        "nl": "In Al-Baqarah 2:177: aan wie geeft men ondanks gehechtheid aan vermogen?",
+        "de": "In Al-Baqarah 2:177: Wen versorgt man trotz Liebe zum Gut?",
+        "ku": "Di Bekara 2:177 de kî malê xweş dixwaze dide?",
+        "ckb": "لە بەقەرە ٢:١٧٧دا کێ ماڵ دەدات لەگەڵ ئەوەی خۆشی دەوێت؟",
+        "ar": "في البقرة ١٧٧، مَن يُعطي المال على حبِّه؟"
+      },
+      "options": [
+        {
+          "tr": "Yakınlara, yetimlere ve yoksullara (özet)",
+          "en": "To relatives, orphans, and the needy (summarized)",
+          "es": "A parientes, huérfanos y pobres (resumen)",
+          "pt": "A parentes, órfãos e necessitados (resumo)",
+          "nl": "Aan verwanten, wezen en armen (kort)",
+          "de": "Verwandten, Waisen und Armen (kurz)",
+          "ku": "Nasên nêzîk, yetîm û hejdar (kurte)",
+          "ckb": "بە نزیکەکان، یەتیم و هەژار (کورتە)",
+          "ar": "ذوي القربى واليتامى والمساكين (مختصراً)"
+        },
+        {
+          "tr": "Yalnızca zenginlere",
+          "en": "Only to the rich",
+          "es": "Solo a ricos",
+          "pt": "Só aos ricos",
+          "nl": "Alleen aan rijken",
+          "de": "Nur an Reiche",
+          "ku": "Tenê ji dewlemendan re",
+          "ckb": "تەنها بۆ دەوڵەمەندان",
+          "ar": "للأغنياء فقط"
+        },
+        {
+          "tr": "Yalnızca yabancılara",
+          "en": "Only to strangers",
+          "es": "Solo a extraños",
+          "pt": "Só a estranhos",
+          "nl": "Alleen aan vreemden",
+          "de": "Nur an Fremde",
+          "ku": "Tenê ji biyanîyan re",
+          "ckb": "تەنها بۆ بیانییەکان",
+          "ar": "للغرباء فقط"
+        },
+        {
+          "tr": "Hiç kimseye; mal biriktirmek iyidir",
+          "en": "To no one; hoarding is better",
+          "es": "A nadie; atesorar es mejor",
+          "pt": "A ninguém; acumular é melhor",
+          "nl": "Aan niemand; sparen is beter",
+          "de": "An niemanden; Horten ist besser",
+          "ku": "Ji tu kesî re; komkirin baştir e",
+          "ckb": "بە هیچ کەس؛ کۆکردنەوە باشترە",
+          "ar": "لأحد؛ كنز المال أفضل"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«İyilikten hiçbir şeyi küçümseme» hadisi hangi koleksiyonda yer alır?",
+        "en": "In which collection is the hadith \"Do not belittle any good deed\"?",
+        "es": "¿En qué colección está «no menosprecies ningún bien»?",
+        "pt": "Em qual coleção está «não menosprezes nenhum bem»?",
+        "nl": "In welke verzameling staat «veracht geen goede daad»?",
+        "de": "In welcher Sammlung steht «verachte keine gute Tat»?",
+        "ku": "Hedîsa «ji başiyê tiştî biçûk nexîne» di kîjan komê de ye?",
+        "ckb": "حەدیسی «لە چاکی کەم مەزانە» لە کام کۆمەڵدایە؟",
+        "ar": "في أي مجموعة حديث «لا تحقرن من المعروف شيئاً»؟"
+      },
+      "options": [
+        {
+          "tr": "Müslim",
+          "en": "Muslim",
+          "es": "Muslim",
+          "pt": "Muslim",
+          "nl": "Muslim",
+          "de": "Muslim",
+          "ku": "Muslîm",
+          "ckb": "موسلیم",
+          "ar": "مسلم"
+        },
+        {
+          "tr": "Yalnızca Tirmizî",
+          "en": "Only al-Tirmidhi",
+          "es": "Solo al-Tirmidhi",
+          "pt": "Apenas al-Tirmidhi",
+          "nl": "Alleen at-Tirmidhi",
+          "de": "Nur at-Tirmidhi",
+          "ku": "Tenê Tirmizî",
+          "ckb": "تەنها تیرمیزی",
+          "ar": "الترمذي فقط"
+        },
+        {
+          "tr": "Yalnızca Nesâî",
+          "en": "Only al-Nasa'i",
+          "es": "Solo al-Nasa'i",
+          "pt": "Apenas al-Nasa'i",
+          "nl": "Alleen an-Nasa'i",
+          "de": "Nur an-Nasa'i",
+          "ku": "Tenê Nesaî",
+          "ckb": "تەنها نەسائی",
+          "ar": "النسائي فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Mâce",
+          "en": "Only Ibn Majah",
+          "es": "Solo Ibn Majah",
+          "pt": "Apenas Ibn Majah",
+          "nl": "Alleen Ibn Majah",
+          "de": "Nur Ibn Majah",
+          "ku": "Tenê İbn Mace",
+          "ckb": "تەنها ئیبن ماجە",
+          "ar": "ابن ماجه فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "İnsân 76:9'a göre «sizi doyuruyoruz» derken temel gerekçe nedir?",
+        "en": "According to Al-Insan 76:9, what is the main reason they give when feeding?",
+        "es": "Según Al-Insan 76:9, ¿por qué dicen que alimentan?",
+        "pt": "Segundo Al-Insan 76:9, por que dizem que alimentam?",
+        "nl": "Volgens Al-Insan 76:9: waarom zeggen zij dat ze voeden?",
+        "de": "Nach Al-Insan 76:9: warum sagen sie, sie speisen?",
+        "ku": "Li gorî Însan 76:9 çima dibêjin dixin?",
+        "ckb": "بەپێی ئینسان ٧٦:٩، بۆچی دەڵێن دەخۆڕێنن؟",
+        "ar": "وفق الإنسان ٩، بم يُعلِّلون إطعامهم؟"
+      },
+      "options": [
+        {
+          "tr": "Yalnızca Allah'ın yüzü (rızası) için — liwajhillah",
+          "en": "Only for the Face of Allah — for His sake",
+          "es": "Solo por el rostro de Allah",
+          "pt": "Só pelo rosto de Allah",
+          "nl": "Alleen om Allahs wajh",
+          "de": "Nur um Allahs willen (wajh)",
+          "ku": "Tenê ji bo rûyê Allah",
+          "ckb": "تەنها بۆ ڕووخساری اللە",
+          "ar": "لوجه الله فقط"
+        },
+        {
+          "tr": "Ücret ve şöhret için",
+          "en": "For pay and fame",
+          "es": "Por pago y fama",
+          "pt": "Por pagamento e fama",
+          "nl": "Voor loon en roem",
+          "de": "Für Lohn und Ruhm",
+          "ku": "Ji bo pere û navdarî",
+          "ckb": "بۆ مووچە و ناوداری",
+          "ar": "للأجر والشهرة"
+        },
+        {
+          "tr": "İnsanları korkutmak için",
+          "en": "To frighten people",
+          "es": "Para asustar",
+          "pt": "Para assustar",
+          "nl": "Om angst aan te jagen",
+          "de": "Um Menschen zu ängstigen",
+          "ku": "Ji bo tirsandinê",
+          "ckb": "بۆ ترساندنی خەڵک",
+          "ar": "لتخويف الناس"
+        },
+        {
+          "tr": "Yemek artığını zorunlu dağıtmak için",
+          "en": "To dispose of leftovers",
+          "es": "Para deshacerse de sobras",
+          "pt": "Para livrar-se de sobras",
+          "nl": "Om restjes kwijt te raken",
+          "de": "Um Reste loszuwerden",
+          "ku": "Ji bo xelasbûna mayî",
+          "ckb": "بۆ لەناوبردنی مایەوە",
+          "ar": "للتخلص من الفضلات"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Paylaşma alışkanlığı yalnızca para vermektir; gülümseme ve küçük iyilik sayılmaz",
+          "en": "The habit of sharing is only giving money; a smile and small kindness do not count",
+          "es": "Compartir es solo dinero; la sonrisa no cuenta",
+          "pt": "Partilhar é só dinheiro; o sorriso não conta",
+          "nl": "Delen is alleen geld; glimlachen telt niet",
+          "de": "Teilen ist nur Geld; Lächeln zählt nicht",
+          "ku": "Parvekirin tenê pere ye; kenî nayê jimartin",
+          "ckb": "عادەتی پشکدان تەنها پارەدانە؛ کەنیشک و چاکی بچووک ژمێردراو نین",
+          "ar": "عادة المشاركة مالٌ فقط؛ الابتسامة والمعروف الصغير لا يُحتسب"
+        },
+        {
+          "tr": "İnsân 76:8–9 yoksul, yetim ve esiri sevdiği yemekle ilişkilendirir",
+          "en": "Al-Insan 76:8–9 links the needy, orphan, and captive to food they love",
+          "es": "Al-Insan 76:8–9 une al pobre, huérfano y cautivo con el alimento amado",
+          "pt": "Al-Insan 76:8–9 liga o necessitado, órfão e cativo ao alimento amado",
+          "nl": "Al-Insan 76:8–9 verbindt arme, wees en gevangene met geliefd voedsel",
+          "de": "Al-Insan 76:8–9 verbindet Armen, Waise und Gefangenen mit geliebter Speise",
+          "ku": "Însan 76:8–9 hejdar, yetîm û girtî bi xwarina xweş ve girê dide",
+          "ckb": "ئینسان ٧٦:٨–٩ هەژار و یەتیم و بەندکراو بە خواردنی خۆشەوە دەبەستێتەوە",
+          "ar": "الإنسان ٨–٩ يربط المسكين واليتيم والأسير بحب الطعام"
+        },
+        {
+          "tr": "Bakara 2:177 malı sevmesine rağmen vermeyi över",
+          "en": "Al-Baqarah 2:177 praises giving wealth despite loving it",
+          "es": "Al-Baqarah 2:177 alaba dar a pesar de amar el bien",
+          "pt": "Al-Baqarah 2:177 louva dar apesar de amar o bem",
+          "nl": "Al-Baqarah 2:177 prijst geven ondanks liefde voor goed",
+          "de": "Al-Baqarah 2:177 lobt Geben trotz Zuneigung zum Gut",
+          "ku": "Bekara 2:177 malê xweş dixwaze didin pesin dike",
+          "ckb": "بەقەرە ٢:١٧٧ پشکدانی ماڵ لەگەڵ خۆشەویستی پێ دەستایش دەکات",
+          "ar": "البقرة ١٧٧ يمدح العطاء على حب المال"
+        },
+        {
+          "tr": "Hadis küçük iyiliği küçümsemeyi yasaklar",
+          "en": "The hadith forbids belittling small kindness",
+          "es": "El hadiz prohíbe menospreciar el bien pequeño",
+          "pt": "O hadith proíbe menosprezar o bem pequeno",
+          "nl": "De hadith verbiedt klein goed te verachten",
+          "de": "Der Hadith verbietet kleine Güter zu verachten",
+          "ku": "Hedîs başiya biçûk biçûk nake",
+          "ckb": "حەدیس قەدەغەی کەمزاتی کردنی چاکی بچووک دەکات",
+          "ar": "الحديث ينهى عن حقارَة المعروف"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir lokmayı İnsân 76 ile, bir cömertliği Bakara 2:177 ile bağla — paylaşma alışkanlığı gösterişte değil; tekrar ve samimiyette büyür.",
+    "en": "Tie one morsel today to Al-Insan 76 and one generosity to Al-Baqarah 2:177 — the habit of sharing grows in repetition and sincerity, not in show.",
+    "es": "Hoy une un bocado con Al-Insan 76 y una generosidad con Al-Baqarah 2:177.",
+    "pt": "Hoje una um bocado com Al-Insan 76 e uma generosidade com Al-Baqarah 2:177.",
+    "nl": "Vandaag: één hap met Al-Insan 76 en vrijgevigheid met Al-Baqarah 2:177.",
+    "de": "Heute: ein Bissen mit Al-Insan 76 und Freigebigkeit mit Al-Baqarah 2:177.",
+    "ku": "Îro nebitek bi Însan 76 û lutfek bi Bekara 2:177 ve girêde.",
+    "ckb": "ئەمڕۆ نوقمێک بە ئینسان ٧٦ەوە و دەستبەخۆشییەک بە بەقەرە ٢:١٧٧ەوە بەستەوە — عادەتی پشکدان لە نمایشدا ناگەشێتەوە.",
+    "ar": "اليوم اربطْ لقمةً بالإنسان ٨–٩ وجوداً بالبقرة ١٧٧ — العادةُ بالتكرار والإخلاص لا بالمظهر."
+  }
+}

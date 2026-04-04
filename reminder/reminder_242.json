@@ -1,0 +1,344 @@
+{
+  "month": 8,
+  "day": 3,
+  "title": {
+    "tr": "Oruç Bilinci",
+    "en": "Fasting Awareness",
+    "es": "Consciencia del ayuno",
+    "pt": "Consciência do jejum",
+    "nl": "Bewustzijn van vasten",
+    "de": "Fasten-Bewusstsein",
+    "ku": "Agahiya Rojê",
+    "ckb": "ئاگاداری ڕۆژوو",
+    "ar": "وَعْيُ الصَّوْمِ"
+  },
+  "content": {
+    "tr": "Oruç bilinci; mideyi boş tutmak değil — takva, nefsi terbiye etmek ve orucun Allah katında özel bir makam taşıdığını bilmektir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ﴾**\n**«Ey iman edenler! Sizden öncekilere farz kılındığı gibi size de oruç farz kılındı — umulur ki böylece takva sahibi olursunuz.»** *(Bakara 2:183 — meâl özü)*\n\n**﴿وَكُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الأَبْيَضُ مِنَ الْخَيْطِ الأَسْوَدِ مِنَ الْفَجْرِ﴾**\n**«İmsak vaktine kadar geceleyin yiyin için...»** *(Bakara 2:187 — meâl özü; sınır ve ölçü)*\n\nPeygamberimiz ﷺ şöyle buyurur: **«الصَّوْمُ جُنَّةٌ»** — **«Oruç kalkandır (korumadır).»** *(Buhârî, Müslim — rivayet özeti)*\n\nYine sahih rivayette Allah Resûlü ﷺ şöyle bildirir: **«كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ إِلَّا الصَّوْمَ فَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ»** — **«Âdemoğlunun her ameli kendisine aittir; oruç müstesna — o Bana aittir, ben onun mükâfatını veririm.»** *(Buhârî — hadis-i kudsî, rivayet özeti)*\n\nBugün: orucu sadece açlık değil — sınır bilinci, takva ve kalbi muhafaza olarak yaşa.",
+    "en": "Fasting awareness is not emptying the stomach alone — it is taqwa, training the self, and knowing fasting has a special station with Allah.\n\nAllah the Most High says:\n\n**﴿O you who believe, decreed upon you is fasting as it was decreed upon those before you that you may become righteous.﴾** *(Al-Baqarah 2:183 — meaning summarized)*\n\n**﴿And eat and drink until the white thread of dawn becomes distinct to you from the black thread...﴾** *(Al-Baqarah 2:187 — meaning summarized; limits)*\n\nThe Prophet ﷺ said: **\"Fasting is a shield.\"** *(Bukhari, Muslim — wording summarized)*\n\nIn an authentic report he ﷺ conveyed: **\"Every deed of the son of Adam is for him except fasting — it is for Me, and I reward for it.\"** *(Bukhari — sacred hadith, wording summarized)*\n\nToday: live fasting not as mere hunger — as mindful limits, taqwa, and guarding the heart.",
+    "es": "Consciencia del ayuno: no solo estómago — taqwa y escudo *(2:183; Bujari, Muslim)*.\n\n**﴿لعلكم تتقون﴾**\n\n**﴿حتى يتبين الخيط الأبيض﴾** *(2:187)*\n\n**«الصوم جنّة»** — **«لي وأنا أجزي به»** *(Bujari)*\n\nHoy: límites y corazón.",
+    "pt": "Consciência do jejum: não só estômago — taqwa e escudo *(2:183; Bukhari, Muslim)*.\n\n**﴿لعلكم تتقون﴾**\n\n**﴿حتى يتبين الخيط الأبيض﴾** *(2:187)*\n\n**«الصوم جنّة»** — **«لي وأنا أجزي به»** *(Bukhari)*\n\nHoje: limites e coração.",
+    "nl": "Vastenbewustzijn: niet alleen maag — taqwa en schild *(2:183; Bukhari, Muslim)*.\n\n**﴿لعلكم تتقون﴾**\n\n**﴿حتى يتبين الخيط الأبيض﴾** *(2:187)*\n\n**«الصوم جنّة»** — **«لي وأنا أجزي به»** *(Bukhari)*\n\nVandaag: grenzen en hart.",
+    "de": "Fastenbewusstsein: nicht nur Magen — Taqwa und Schild *(2:183; Bukhari, Muslim)*.\n\n**﴿لعلكم تتقون﴾**\n\n**﴿حتى يتبين الخيط الأبيض﴾** *(2:187)*\n\n**«الصوم جنّة»** — **«لي وأنا أجزي به»** *(Bukhari)*\n\nHeute: Grenzen und Herz.",
+    "ku": "Agahiya rojê ne tenê mîzê vala kirin e — ev takwa û zanîna ku rojê li cem Allah cihê taybet e.\n\n**﴿لَعَلَّكُمْ تَتَّقُونَ﴾**\n*(Bekere 2:183)*\n\n**﴿حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الأَبْيَضُ﴾**\n*(2:187)*\n\n**«الصَّوْمُ جُنَّةٌ»** *(Buxarî, Muslîm)*\n\n**«إِنَّهُ لِي وَأَنَا أَجْزِي بِهِ»** *(Buxarî)*\n\nÎro: rojê ne tenê birçîtî — sînor û takwa.",
+    "ckb": "ئاگاداری ڕۆژوو تەنها بەتاڵکردنی سک نییە — ئەمە تەقوا، ڕاهێنانەوەی نەفس و زانینی ئەوەی ڕۆژوو لەلایەن اللەوە جێگای تایبەتی هەیە.\n\nاللە دەفەرموێت:\n\n**﴿لَعَلَّكُمْ تَتَّقُونَ﴾** *(بەقەرە: ١٨٣)*\n\n**﴿وَكُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الأَبْيَضُ﴾** *(بەقەرە: ١٨٧)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«الصَّوْمُ جُنَّةٌ»** *(بوخاری، موسلیم)*\n\nهەروەها: **«کُلُّ عَمَلِ ابْنِ آدَمَ لَهُ إِلَّا الصَّوْمَ فَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ»** *(بوخاری — حەدیسی qudsî، کورتە)*\n\nئەمڕۆ: ڕۆژوو وەک نەفرەتی تەنها نەبێت — وەک سنوور، تەقوا و پاراستنی دڵ بژی.",
+    "ar": "وعيُ الصوم ليس إفراغَ المعدة فقط — إنه التقوى وتربيةُ النفس، وعلمٌ بأن للصوم عند الله شأناً خاصاً.\n\nيقول الله تعالى:\n\n**﴿كُتِبَ عَلَيْكُمُ الصِّيَامُ ... لَعَلَّكُمْ تَتَّقُونَ﴾**\n*(البقرة: ١٨٣)*\n\n**﴿وَكُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الأَبْيَضُ مِنَ الْخَيْطِ الأَسْوَدِ مِنَ الْفَجْرِ﴾**\n*(البقرة: ١٨٧)*\n\nوقال النبي ﷺ: **«الصوم جنّة»** *(البخاري ومسلم)*.\n\nوفي الحديث القدسي: **«كل عمل ابن آدم له إلا الصوم فإنه لي وأنا أجزي به»** *(البخاري — باختصار)*.\n\nاليوم: اجعل الصوم وعياً بالحدود والتقوى وحفظ القلب لا جوعاً مجرّداً."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "Bakara 2:183'te oruç kime ve hangi amaçla farz kılınmıştır?",
+        "en": "In Al-Baqarah 2:183, fasting is prescribed for whom and toward what purpose?",
+        "es": "En 2:183, ¿para quién y con qué fin el ayuno?",
+        "pt": "Em 2:183, para quem e com que fim o jejum?",
+        "nl": "In 2:183: voor wie en met welk doel vasten?",
+        "de": "In 2:183: für wen und zu welchem Zweck Fasten?",
+        "ku": "Di 2:183 de rojê ji kê re û bi çi armancî hatiye ferz kirin?",
+        "ckb": "لە بەقەرە ١٨٣دا ڕۆژوو بۆ کێ و بە چی ئامانج فەرز کراوە؟",
+        "ar": "في البقرة ١٨٣ لمن فرض الصوم وبأي غرض؟"
+      },
+      "options": [
+        {
+          "tr": "İman edenlere; umulur ki takva sahibi olurlar (leallekum tattakun)",
+          "en": "The believers; that they may gain taqwa (la'allakum tattaqun)",
+          "es": "A los creyentes; para que tengan taqwa",
+          "pt": "Aos crentes; para que tenham taqwa",
+          "nl": "Gelovigen; opdat zij taqwa verwerven",
+          "de": "Den Gläubigen; damit sie Taqwa erreichen",
+          "ku": "Ji bawermendan; ji bo takwayê",
+          "ckb": "بۆ باوەڕداران؛ بۆ ئەوەی تەقوا بەدەست بهێنن",
+          "ar": "للمؤمنين؛ لعلكم تتقون"
+        },
+        {
+          "tr": "Yalnızca peygamberlere; gösteriş için",
+          "en": "Only prophets; for show",
+          "es": "Solo profetas; ostentación",
+          "pt": "Só profetas; ostentação",
+          "nl": "Alleen profeten; voor de show",
+          "de": "Nur Propheten; zur Schau",
+          "ku": "Tenê pêxemberan; ji bo nîşandanê",
+          "ckb": "تەنها بۆ پێغەمبەران؛ بۆ نمایش",
+          "ar": "للأنبياء فقط؛ للرياء"
+        },
+        {
+          "tr": "Sadece yolculara; yol yorgunluğu",
+          "en": "Only travelers; travel fatigue",
+          "es": "Solo viajeros; cansancio",
+          "pt": "Só viajantes; cansaço",
+          "nl": "Alleen reizigers; vermoeidheid",
+          "de": "Nur Reisende; Müdigkeit",
+          "ku": "Tenê rêwiyan; westiyana rê",
+          "ckb": "تەنها بۆ گەشتیاران؛ ماندوویی",
+          "ar": "للمسافرين فقط؛ تعب السفر"
+        },
+        {
+          "tr": "Hiç kimseye; isteğe bağlı",
+          "en": "To no one; optional",
+          "es": "A nadie; opcional",
+          "pt": "A ninguém; opcional",
+          "nl": "Aan niemand; vrijwillig",
+          "de": "Niemandem; freiwillig",
+          "ku": "Ji tu kesî re ne; vebijarkî",
+          "ckb": "بۆ هیچ کەس؛ دڵخوازانە",
+          "ar": "لأحد؛ تطوعاً"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "«Oruç kalkandır (korumadır)» hadisi hangi koleksiyonlarda yer alır?",
+        "en": "In which collections is the hadith that fasting is a shield found?",
+        "es": "¿En qué colecciones está «el ayuno es escudo»?",
+        "pt": "Em quais coleções está «o jejum é escudo»?",
+        "nl": "In welke verzamelingen staat «vasten is een schild»?",
+        "de": "In welchen Sammlungen steht «Fasten ist ein Schild»?",
+        "ku": "Hedîsa «rojê parastin e» di kîjan koman de ye?",
+        "ckb": "حەدیسی «ڕۆژوو قەڵغانە» لە کام کۆمەڵدایە؟",
+        "ar": "في أي مجموعة حديث «الصوم جنّة»؟"
+      },
+      "options": [
+        {
+          "tr": "Buhârî ve Müslim",
+          "en": "Bukhari and Muslim",
+          "es": "Bujari y Muslim",
+          "pt": "Bukhari e Muslim",
+          "nl": "Bukhari en Muslim",
+          "de": "Bukhari und Muslim",
+          "ku": "Buxarî û Muslîm",
+          "ckb": "بوخاری و موسلیم",
+          "ar": "البخاري ومسلم"
+        },
+        {
+          "tr": "Yalnızca Muvatta",
+          "en": "Only Muwatta",
+          "es": "Solo Muwatta",
+          "pt": "Apenas Muwatta",
+          "nl": "Alleen Muwatta",
+          "de": "Nur Muwatta",
+          "ku": "Tenê Muvatta",
+          "ckb": "تەنها موەتتا",
+          "ar": "الموطأ فقط"
+        },
+        {
+          "tr": "Yalnızca Nesâî",
+          "en": "Only al-Nasa'i",
+          "es": "Solo al-Nasa'i",
+          "pt": "Apenas al-Nasa'i",
+          "nl": "Alleen an-Nasa'i",
+          "de": "Nur an-Nasa'i",
+          "ku": "Tenê Nesaî",
+          "ckb": "تەنها نەسائی",
+          "ar": "النسائي فقط"
+        },
+        {
+          "tr": "Yalnızca İbn Mâce",
+          "en": "Only Ibn Majah",
+          "es": "Solo Ibn Majah",
+          "pt": "Apenas Ibn Majah",
+          "nl": "Alleen Ibn Majah",
+          "de": "Nur Ibn Majah",
+          "ku": "Tenê İbn Mace",
+          "ckb": "تەنها ئیبن ماجە",
+          "ar": "ابن ماجه فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "«Âdemoğlunun her ameli kendisine aittir; oruç müstesna — o Bana aittir, ben onun mükâfatını veririm» ifadesi nasıl anılır?",
+        "en": "The report that every deed of the son of Adam is for him except fasting — it is for Me and I reward for it — is known as what?",
+        "es": "¿Cómo se llama ese hadiz sobre el ayuno «es para Mí»?",
+        "pt": "Como se chama esse hadith sobre o jejum «é para Mim»?",
+        "nl": "Hoe heet deze overlevering over vasten «is voor Mij»?",
+        "de": "Wie heißt dieser Bericht über das Fasten «ist für Mich»?",
+        "ku": "Ew gotina ku «her xebat ji bo xwe ye ji bilî rojê» çawa tê nav kirin?",
+        "ckb": "ئەو وتەیەی «هەموو کارێک بۆ خۆیەتی جگە لە ڕۆژوو کە بۆ منە» بە چی دەناسرێت؟",
+        "ar": "كيف يُسمى حديث «كل عمل ابن آدم له إلا الصوم فإنه لي وأنا أجزي به»؟"
+      },
+      "options": [
+        {
+          "tr": "Hadis-i kudsî (rivayet sahihlerde, meselâ Buhârî)",
+          "en": "Sacred hadith (hadith qudsi), in authentic collections such as Bukhari",
+          "es": "Hadiz qudsi (Bujari)",
+          "pt": "Hadith qudsi (Bukhari)",
+          "nl": "Heilig hadith (o.a. Bukhari)",
+          "de": "Hadith qudsi (u.a. Bukhari)",
+          "ku": "Hadîsa qudsî (Buxarî)",
+          "ckb": "حەدیسی qudsî (بۆ نموونە لە بوخاری)",
+          "ar": "حديث قدسي (في الصحيح كالبخاري)"
+        },
+        {
+          "tr": "Mevzû hadis",
+          "en": "Fabricated hadith",
+          "es": "Hadiz fabricado",
+          "pt": "Hadith fabricado",
+          "nl": "Vervalste hadith",
+          "de": "Erfundener Hadith",
+          "ku": "Hedîsa sexte",
+          "ckb": "حەدیسی ساختە",
+          "ar": "حديث موضوع"
+        },
+        {
+          "tr": "Sadece İsrâili rivayet",
+          "en": "Only Isra'iliyyat",
+          "es": "Solo israelitas",
+          "pt": "Só israelitas",
+          "nl": "Alleen Israïlieten",
+          "de": "Nur Israiliyyat",
+          "ku": "Tenê İsrailiyat",
+          "ckb": "تەنها ئیسرائیلیات",
+          "ar": "إسرائيليات فقط"
+        },
+        {
+          "tr": "Kur'an ayeti (mushaf sure adıyla)",
+          "en": "A Qur'an verse (named surah in the mushaf)",
+          "es": "Versículo coránico",
+          "pt": "Versículo corânico",
+          "nl": "Koranvers",
+          "de": "Koranvers",
+          "ku": "Ayetê Qur'anê",
+          "ckb": "ئایەتێکی قورئان",
+          "ar": "آية قرآنية"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Bakara 2:187'deki «beyaz iplik / siyah iplik» benzetmesi neyi belirlemeye yardımcı olur?",
+        "en": "In Al-Baqarah 2:187, the \"white thread / black thread\" imagery helps determine what?",
+        "es": "En 2:187, el hilo blanco/negro ayuda a fijar qué?",
+        "pt": "Em 2:187, o fio branco/preto ajuda a fixar o quê?",
+        "nl": "In 2:187: wit/zwart draad helpt wat vast te stellen?",
+        "de": "In 2:187: weißer/schwarzer Faden — wozu?",
+        "ku": "Di 2:187 de rêza spî/reş alîkar e ji bo çi?",
+        "ckb": "لە بەقەرە ١٨٧دا بەندەکردنی ئەرکێکی کێ ڕوون دەکاتەوە؟",
+        "ar": "في البقرة ١٨٧، خيط أبيض/أسود يُبيّن ماذا؟"
+      },
+      "options": [
+        {
+          "tr": "İmsak (fecr) ile gece yeme-içme sınırı",
+          "en": "The boundary of eating/drinking at night until dawn (fajr)",
+          "es": "Límite de comer de noche hasta el alba",
+          "pt": "Limite de comer à noite até o alvorecer",
+          "nl": "Grens eten/drinken tot dageraad",
+          "de": "Grenze Essen/Trinken bis zur Morgendämmerung",
+          "ku": "Sînorê şevê heta beyanê",
+          "ckb": "سنووری خواردنەوە لە شەو تا بەیان",
+          "ar": "حدّ الأكل والشرب من الليل إلى الفجر"
+        },
+        {
+          "tr": "Sadece elbise rengi",
+          "en": "Only clothing color",
+          "es": "Solo color de ropa",
+          "pt": "Só cor da roupa",
+          "nl": "Alleen kledingkleur",
+          "de": "Nur Kleiderfarbe",
+          "ku": "Tenê rengê cilokan",
+          "ckb": "تەنها ڕەنگی جل",
+          "ar": "لون الثوب فقط"
+        },
+        {
+          "tr": "Cuma vakti",
+          "en": "Friday prayer time",
+          "es": "Hora del viernes",
+          "pt": "Hora de sexta",
+          "nl": "Vrijdagtijd",
+          "de": "Freitagszeit",
+          "ku": "Demê înê",
+          "ckb": "کاتی هەینی",
+          "ar": "وقت الجمعة"
+        },
+        {
+          "tr": "Kıble yönü",
+          "en": "Qibla direction",
+          "es": "Dirección de la quibla",
+          "pt": "Direção da quibla",
+          "nl": "Kibla-richting",
+          "de": "Gebetsrichtung Qibla",
+          "ku": "Alî qîbleyê",
+          "ckb": "ئاراستەی قیبلە",
+          "ar": "اتجاه القبلة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "Según el texto, ¿cuál de las siguientes es FALSA?",
+        "pt": "Segundo o texto, qual das opções a seguir é FALSA?",
+        "nl": "Volgens de tekst, welke van het volgende is ONWAAR?",
+        "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+      },
+      "options": [
+        {
+          "tr": "Oruç bilinci yalnızca midenin boş kalmasıdır; takva, nefs terbiyesi ve hadisle ilişkisi yok sayılır",
+          "en": "Fasting awareness is only an empty stomach; taqwa, self-training, and hadith have no place",
+          "es": "El ayuno es solo hambre; sin taqwa",
+          "pt": "Jejum é só fome; sem taqwa",
+          "nl": "Vasten is alleen honger; geen taqwa",
+          "de": "Fasten ist nur Hunger; keine Taqwa",
+          "ku": "Agahiya rojê tenê mîzê vala ye; takwa tune",
+          "ckb": "ئاگاداری ڕۆژوو تەنها بەتاڵی سکە؛ تەقوا و ڕاهێنان و حەدیس پشتگوێ خراوە",
+          "ar": "وعي الصوم جوعٌ فقط؛ لا تقوى ولا تربية ولا ارتباط بالحديث"
+        },
+        {
+          "tr": "Bakara 2:183 orucu takvayla ilişkilendirir",
+          "en": "Al-Baqarah 2:183 links fasting to taqwa",
+          "es": "2:183 une ayuno y taqwa",
+          "pt": "2:183 liga jejum e taqwa",
+          "nl": "2:183 koppelt vasten aan taqwa",
+          "de": "2:183 verbindet Fasten mit Taqwa",
+          "ku": "2:183 rojê bi takwayê ve girê dide",
+          "ckb": "بەقەرە ١٨٣ ڕۆژوو بە تەقوا دەبەستێتەوە",
+          "ar": "البقرة ١٨٣ يربط الصوم بالتقوى"
+        },
+        {
+          "tr": "«Oruç kalkandır» hadisi Buhârî ve Müslim'de geçer",
+          "en": "The \"fasting is a shield\" hadith appears in Bukhari and Muslim",
+          "es": "«Escudo» está en Bujari y Muslim",
+          "pt": "«Escudo» está em Bukhari e Muslim",
+          "nl": "«Schild» staat bij Bukhari en Muslim",
+          "de": "«Schild» bei Bukhari und Muslim",
+          "ku": "«Parastin» di Buxarî û Muslîm de ye",
+          "ckb": "«قەڵغان» لە بوخاری و موسلیمدایە",
+          "ar": "حديث «الصوم جنّة» في البخاري ومسلم"
+        },
+        {
+          "tr": "2:187 geceleyin yeme-içme sınırına işaret eder",
+          "en": "2:187 points to the night-time limit for eating and drinking",
+          "es": "2:187 señala el límite nocturno",
+          "pt": "2:187 aponta o limite noturno",
+          "nl": "2:187 wijst op de nachtgrens",
+          "de": "2:187 zeigt die Nachtgrenze",
+          "ku": "2:187 sînorê şevê nîşan dide",
+          "ckb": "١٨٧ سنووری شەو بۆ خواردنەوە دەردەخات",
+          "ar": "٢١٨٧ يبيّن حدّ الأكل من الليل"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün orucu sadece açlık değil — sınır bilinci, takva ve kalbi muhafaza olarak yaşa.",
+    "en": "Today live fasting not as mere hunger — as mindful limits, taqwa, and guarding the heart.",
+    "es": "Hoy: ayuno consciente — no solo hambre.",
+    "pt": "Hoje: jejum consciente — não só fome.",
+    "nl": "Vandaag: bewust vasten — niet alleen honger.",
+    "de": "Heute: bewusst fasten — nicht nur Hunger.",
+    "ku": "Îro rojê ne tenê birçîtî — sînor û takwa.",
+    "ckb": "ئەمڕۆ ڕۆژوو وەک نەفرەتی تەنها نەبێت — وەک سنوور، تەقوا و پاراستنی دڵ بژی.",
+    "ar": "اليوم اجعل الصوم وعياً بالحدود والتقوى وحفظ القلب لا جوعاً مجرّداً."
+  }
+}
