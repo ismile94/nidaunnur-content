@@ -1,0 +1,344 @@
+{
+  "month": 4,
+  "day": 6,
+  "title": {
+    "tr": "Bilgiyle Amel Etmek",
+    "en": "Acting Upon Knowledge",
+    "es": "Actuar Conforme al Conocimiento",
+    "pt": "Agir de Acordo com o Conhecimento",
+    "nl": "Handelen naar Kennis",
+    "de": "Nach Wissen Handeln",
+    "ku": "Kirina Bi Zanînê",
+    "ckb": "کردار بەگوێرەی زانست",
+    "ar": "العمل بالعلم"
+  },
+  "content": {
+    "tr": "Bilgi, amel ile hayat bulur. Öğrendiğini uygulamayan kişi; kitaplıkla dolu bir oda gibidir — içindeki bilgi değerlidir, ama kapılar kapalıdır ve kimseye fayda etmez. İslam; bilgiyi bir amaç değil, doğru amele ulaşmak için bir araç olarak görür. Öğrenilen her bilginin sorumluluğu beraberinde gelir: Bildiğine göre yaşamak.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«Ey iman edenler! Neden yapmadığınız şeyi söylüyorsunuz?»**\n*(Saf 61:2)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«İlim öğrenip sonra onu [hayatına yansıtmayan] kişinin misali, altın biriktirip sonra onu harcamayan kişinin misali gibidir.»**\n*(Taberânî — Ebû Hureyre r.a. rivayetiyle)*\n\nBu hadis, bilgiyi biriktirmenin tek başına yeterli olmadığını gösterir. Altın gibi değerli olan ilim; paylaşılmadığında, uygulanmadığında ve başkalarına fayda sağlamadığında yalnızca bir yük olur. Bilgiyle amel etmek; büyük adımlar atmak değildir. Öğrendiğin bir hadisi hayatına uygulamak, öğrendiğin bir ayetin manasını bir sonraki kararında hatırlamak, öğrendiğin bir ahlaki değeri günlük ilişkilerine yansıtmak — bunların tamamı bilgiyle amel etmektir.",
+    "en": "Knowledge comes alive through action. A person who does not apply what they learn is like a room full of bookshelves — the knowledge inside is valuable, but the doors are closed and it benefits no one. Islam views knowledge not as an end but as a means to reach righteous action. Every piece of knowledge learned brings with it a responsibility: to live according to what one knows.\n\nAllah the Most High says:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**\"O you who have believed, why do you say what you do not do?\"**\n*(As-Saf 61:2)*\n\nOur Prophet ﷺ said:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**\"The likeness of the one who learns knowledge and then does not act upon it is like the one who accumulates gold and then does not spend it.\"**\n*(Tabarani — narrated by Abu Hurairah r.a.)*\n\nThis hadith shows that accumulating knowledge alone is not enough. Knowledge which is as valuable as gold becomes only a burden when it is not shared, not applied and does not benefit others. Acting upon knowledge is not taking great steps. Applying a hadith you learned to your life, remembering the meaning of a verse you learned in your next decision, reflecting a moral value you learned in your daily relationships — all of these are acting upon knowledge.",
+    "es": "El conocimiento cobra vida a través de la acción. Una persona que no aplica lo que aprende es como una habitación llena de estanterías — el conocimiento dentro es valioso pero las puertas están cerradas y no beneficia a nadie. El Islam ve el conocimiento no como un fin sino como un medio para alcanzar una acción justa. Cada pieza de conocimiento aprendida trae consigo una responsabilidad: vivir de acuerdo con lo que uno sabe.\n\nAllah el Altísimo dice:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«¡Oh creyentes! ¿Por qué decís lo que no hacéis?»**\n*(As-Saf 61:2)*\n\nNuestro Profeta ﷺ dijo:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«La semejanza del que aprende conocimiento y luego no actúa conforme a él es como la del que acumula oro y luego no lo gasta.»**\n*(Tabarani — narrado por Abu Hurairah r.a.)*\n\nEste hadiz muestra que acumular conocimiento solo no es suficiente. El conocimiento tan valioso como el oro se convierte solo en una carga cuando no se comparte no se aplica y no beneficia a otros. Actuar conforme al conocimiento no es dar grandes pasos. Aplicar un hadiz que aprendiste a tu vida recordar el significado de un versículo que aprendiste en tu próxima decisión reflejar un valor moral que aprendiste en tus relaciones diarias — todo esto es actuar conforme al conocimiento.",
+    "pt": "O conhecimento ganha vida através da ação. Uma pessoa que não aplica o que aprende é como uma sala cheia de estantes — o conhecimento dentro é valioso, mas as portas estão fechadas e não beneficia ninguém. O Islão vê o conhecimento não como um fim mas como um meio para alcançar uma ação justa. Cada peça de conhecimento aprendida traz consigo uma responsabilidade: viver de acordo com o que se sabe.\n\nAllah o Altíssimo diz:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«Ó crentes! Por que dizeis o que não fazeis?»**\n*(As-Saf 61:2)*\n\nO nosso Profeta ﷺ disse:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«A semelhança de quem aprende conhecimento e depois não age de acordo com ele é como a de quem acumula ouro e depois não o gasta.»**\n*(Tabarani — narrado por Abu Hurairah r.a.)*\n\nEste hadith mostra que acumular conhecimento sozinho não é suficiente. O conhecimento tão valioso quanto o ouro torna-se apenas um fardo quando não é partilhado, não é aplicado e não beneficia os outros. Agir de acordo com o conhecimento não é dar grandes passos. Aplicar um hadith que aprendeste à tua vida, lembrar o significado de um versículo que aprendeste na tua próxima decisão, refletir um valor moral que aprendeste nas tuas relações diárias — tudo isto é agir de acordo com o conhecimento.",
+    "nl": "Kennis komt tot leven door actie. Een persoon die niet toepast wat hij leert is als een kamer vol boekenplanken — de kennis erin is waardevol, maar de deuren zijn gesloten en het heeft niemand. De Islam ziet kennis niet als een doel maar als een middel om rechtvaardige actie te bereiken. Elk stukje geleerde kennis brengt een verantwoordelijkheid met zich mee: leven in overeenstemming met wat men weet.\n\nAllah de Verhevene zegt:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«O gelovigen! Waarom zegt u wat u niet doet?»**\n*(As-Saf 61:2)*\n\nOnze Profeet ﷺ zei:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«De gelijkenis van degene die kennis leert en er vervolgens niet naar handelt is als degene die goud verzamelt en het vervolgens niet uitgeeft.»**\n*(Tabarani — overgeleverd door Abu Hurairah r.a.)*\n\nDeze hadith toont aan dat kennis alleen verzamelen niet genoeg is. Kennis die net zo waardevol is als goud wordt alleen een last wanneer het niet gedeeld, niet toegepast wordt en anderen niet ten goede komt. Handelen naar kennis is geen grote stappen zetten. Een hadith die u leerde toepassen op uw leven, de betekenis van een vers dat u leerde onthouden in uw volgende beslissing, een morele waarde die u leerde weerspiegelen in uw dagelijkse relaties — dit alles is handelen naar kennis.",
+    "de": "Wissen wird durch Handeln lebendig. Eine Person die nicht anwendet was sie lernt ist wie ein Zimmer voll mit Buecherregalen — das Wissen darin ist wertvoll, aber die Tueren sind geschlossen und es nutzt niemandem. Der Islam betrachtet Wissen nicht als Ziel sondern als Mittel um rechtschafffenes Handeln zu erreichen. Jedes gelernte Wissen bringt eine Verantwortung mit sich: gemaess dem zu leben was man weiss.\n\nAllah der Erhabene sagt:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**\"O ihr Glaeubigen! Warum sagt ihr was ihr nicht tut?\"**\n*(As-Saf 61:2)*\n\nUnser Prophet ﷺ sagte:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**\"Das Gleichnis desjenigen der Wissen lernt und dann nicht danach handelt ist wie das Gleichnis desjenigen der Gold anhaeuft und es dann nicht ausgibt.\"**\n*(Tabarani — ueberliefert von Abu Hurairah r.a.)*\n\nDieser Hadith zeigt dass das alleinige Sammeln von Wissen nicht ausreicht. Wissen das genauso wertvoll ist wie Gold wird zu einer Last wenn es nicht geteilt, nicht angewendet wird und anderen nicht nuetzt. Nach Wissen zu handeln bedeutet nicht grosse Schritte zu unternehmen. Einen Hadith den man gelernt hat auf sein Leben anwenden, die Bedeutung eines Verses den man gelernt hat bei der naechsten Entscheidung in Erinnerung behalten, einen moralischen Wert den man gelernt hat in den taeglichen Beziehungen widerspiegeln — all das bedeutet nach Wissen zu handeln.",
+    "ku": "Zanîn bi amalan dijî dibe. Kesê ku tiştê fêr dibe û bi kar nayîne; mîna jûreyeke tijî rafên pirtûkan e — zanîna hundurê wê hêja ye, lê derî girtî ne û ji kesî re sûd nade. Îslam; zanînê ne armancek, belkî amûrek ji bo gihiştina amela rast dibîne. Her zanîna fêrbûyî berpirsiyariyê bi xwe tîne: Li gorî tiştê ku dizanî bijî.\n\nAllahê Bilind wiha dibêje:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«Gelî yên ku bawer kirin! Çima tiştê ku nakin dibêjin?»**\n*(Saf 61:2)*\n\nPêxemberê me ﷺ wiha ferman kir:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«Mînaka kesê ku zanînê fêr dibe û paşê bi wê nake, mîna mînaka kesê ku zêr kom dike û paşê wê xerc nake ye.»**\n*(Taberânî — ji Ebû Hureyre r.a. ve hatiye şandin)*\n\nEv hadis nîşan dide ku kom kirina zanînê bi tenê bes nîne. Zanîn ku bi qasî zêr hêja ye; dema neyê parvekirin, neyê bikaranîn û ji kesî re sûd nede, tenê bar dibe. Kirina bi zanînê; avêtina gavên mezin nîne. Cîbicîkirina hadiseke ku fêr bûyî di jiyana xwe de, bîranîna manaya ayeteke ku fêr bûyî di biryara xwe ya pêş de, derxistina nirxeke exlaqî ku fêr bûyî di têkiliyên rojane de — hemû vana kirina bi zanînê ne.",
+    "ckb": "زانست بە کردار ژیاندەبێت. کەسێک کە ئەوەی فێر دەبێت بەکار نایات؛ مانەندی ژووریەکی پڕ لە رافەی کتێبە — زانستی ناوەکەی بەنرخە، بەڵام دەرگاکان داخراون و بە کەس سود نادات. ئیسلام زانست نە بە ئامانج بەڵکو بە ئامراز بۆ گەیشتن بە کردارێکی ڕاست دەبینێت. هەر زانستێکی فێربوو بەرپرسیارییەکی لەگەڵ دێت: ژیان بەگوێرەی ئەوەی دەیزانی.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n**«ئەی ئەوانەی باوەڕتان هێناوە! بۆچی ئەوەی ناتانکەن دەڵێن؟»**\n*(صەف ٦١:٢)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n**«نموونەی ئەوەی زانست فێر دەبێت دواتر پێیدا کار نایەنێت، مانەندی نموونەی ئەوەیە کە زێڕ کۆ دەکات دواتر خەرجی نایکات.»**\n*(تەبەرانی — بە ڕێوایەتی ئەبو هورەیرە ڕ.ع)*\n\nئەم حەدیسە دەریدەخات کە کۆکردنی زانست بە تەنها بەس نییە. زانستی بە ئەندازەی زێڕ بەنرخ؛ کاتێک پارە نەکرێت، بەکار نەهێنرێت و بە کەسان سود نەدات، تەنها بارێک دەبێت. کردار بەگوێرەی زانست گامی گەورە هەڵگرتن نییە. جێبەجێکردنی حەدیسێکی فێربوویت لە ژیانتدا، بیرهێنانەوەی مانای ئایەتێکی فێربوویت لە بڕیارتی داهاتوودا، نیشاندانی بەهایەکی ئەخلاقی فێربوویت لە پەیوەندییە ڕۆژانەکانتدا — هەموویان کردارن بەگوێرەی زانست.",
+    "ar": "العلمُ يحيا بالعمل. من يتعلَّم ولا يُطبِّق كالغرفة الممتلئة بالرفوف — المعرفةُ فيها ثمينة، لكنَّ الأبوابَ مغلقةٌ ولا تُفيد أحداً. ولا ينظر الإسلامُ إلى العلم بوصفه غايةً بل وسيلةً للوصول إلى العمل الصالح. كلُّ علمٍ يُكتسَب يحمل معه مسؤوليَّة: أن يعيشَ الإنسانُ وفقَ ما يعلم.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ﴾**\n*(الصفِّ: ٢)*\n\nوقال النبيُّ ﷺ:\n\n**«مَثَلُ الَّذِي يَتَعَلَّمُ الْعِلْمَ ثُمَّ لَا يُحَدِّثُ بِهِ كَمَثَلِ الَّذِي يَكْنِزُ الذَّهَبَ ثُمَّ لَا يُنْفِقُهُ»**\n*(رواه الطبراني — عن أبي هريرة رضي الله عنه)*\n\nهذا الحديثُ يُبيِّن أنَّ اكتناز العلم وحده لا يكفي. العلمُ الثمينُ كالذهب يصبح مجرَّد عبءٍ حين لا يُشارَك ولا يُطبَّق ولا يُفيد الآخرين. العملُ بالعلم ليس خطواتٍ كبيرة. تطبيقُ حديثٍ تعلَّمتَه على حياتك، وتذكُّرُ معنى آيةٍ حفظتَها في قرارك القادم — كلُّ هذا عملٌ بالعلم."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "\"İlim öğrenip sonra onu hayatına yansıtmayan kişinin misali altın biriktirip harcamayan kişinin misali gibidir\" hadisini rivayet eden kimdir?",
+        "en": "Who narrated the hadith \"The likeness of the one who learns knowledge and then does not act upon it is like the one who accumulates gold and then does not spend it\"?",
+        "es": "¿Quién narró el hadiz «La semejanza del que aprende conocimiento y luego no actúa conforme a él es como la del que acumula oro y luego no lo gasta»?",
+        "pt": "Quem narrou o hadith «A semelhança de quem aprende conhecimento e depois não age de acordo com ele é como a de quem acumula ouro e depois não o gasta»?",
+        "nl": "Wie overleverde de hadith «De gelijkenis van degene die kennis leert en er vervolgens niet naar handelt is als degene die goud verzamelt en het vervolgens niet uitgeeft»?",
+        "de": "Wer ueberlieferte den Hadith «Das Gleichnis desjenigen der Wissen lernt und dann nicht danach handelt ist wie das Gleichnis desjenigen der Gold anhaeuft und es dann nicht ausgibt»?",
+        "ku": "Kê hadisa «Mînaka kesê ku zanînê fêr dibe û paşê bi wê nake, mîna mînaka kesê ku zêr kom dike û paşê wê xerc nake ye» şand?",
+        "ckb": "کێ حەدیسی «نموونەی ئەوەی زانست فێر دەبێت دواتر پێیدا کار نایەنێت، مانەندی نموونەی ئەوەیە کە زێڕ کۆ دەکات دواتر خەرجی نایکات» ڕێوایەت کردووە؟",
+        "ar": "مَن روى حديث «مثل الذي يتعلم العلم ثم لا يحدّث به كمثل الذي يكنز الذهب ثم لا ينفقه»؟"
+      },
+      "options": [
+        {
+          "tr": "Ebû Hureyre r.a. — Taberânî",
+          "en": "Abu Hurairah r.a. — Tabarani",
+          "es": "Abu Hurairah r.a. — Tabarani",
+          "pt": "Abu Hurairah r.a. — Tabarani",
+          "nl": "Abu Hurairah r.a. — Tabarani",
+          "de": "Abu Hurairah r.a. — Tabarani",
+          "ku": "Ebû Hureyre r.a. — Taberânî",
+          "ckb": "ئەبو هورەیرە ڕ.ع — تەبەرانی",
+          "ar": "أبو هريرة رضي الله عنه — الطبراني"
+        },
+        {
+          "tr": "Hz. Âişe r.a. — Müslim",
+          "en": "Aisha r.a. — Muslim",
+          "es": "Aisha r.a. — Muslim",
+          "pt": "Aisha r.a. — Muslim",
+          "nl": "Aisha r.a. — Muslim",
+          "de": "Aisha r.a. — Muslim",
+          "ku": "Aişe r.a. — Müslim",
+          "ckb": "عائیشە ڕ.ع — موسلیم",
+          "ar": "عائشة رضي الله عنها — مسلم"
+        },
+        {
+          "tr": "Enes ibn Mâlik r.a. — Buhârî",
+          "en": "Anas ibn Malik r.a. — Bukhari",
+          "es": "Anas ibn Malik r.a. — Bujari",
+          "pt": "Anas ibn Malik r.a. — Bukhari",
+          "nl": "Anas ibn Malik r.a. — Bukhari",
+          "de": "Anas ibn Malik r.a. — Bukhari",
+          "ku": "Enes ibn Mâlik r.a. — Buxarî",
+          "ckb": "ئەنەس بن مالک ڕ.ع — بوخاری",
+          "ar": "أنس بن مالك رضي الله عنه — البخاري"
+        },
+        {
+          "tr": "Hz. Ömer r.a. — Tirmizî",
+          "en": "Umar r.a. — Tirmidhi",
+          "es": "Umar r.a. — Tirmidhi",
+          "pt": "Umar r.a. — Tirmidhi",
+          "nl": "Umar r.a. — Tirmidhi",
+          "de": "Umar r.a. — Tirmidhi",
+          "ku": "Ömer r.a. — Tirmizî",
+          "ckb": "عومەر ڕ.ع — تیرمیزی",
+          "ar": "عمر رضي الله عنه — الترمذي"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Saf 61:2 ayetine göre Allah hangi durumu eleştirmektedir?",
+        "en": "According to As-Saf 61:2, which situation does Allah criticize?",
+        "es": "Según As-Saf 61:2, ¿qué situación critica Allah?",
+        "pt": "Segundo As-Saf 61:2, que situação Allah critica?",
+        "nl": "Welke situatie bekritiseert Allah volgens As-Saf 61:2?",
+        "de": "Welche Situation kritisiert Allah laut As-Saf 61:2?",
+        "ku": "Li gorî Saf 61:2, Allah kîjan rewşê rexne dike?",
+        "ckb": "بەگوێرەی صەف ٦١:٢، الله کام بارودۆخێک ڕەخنەی لێ دەگرێت؟",
+        "ar": "ما الحال التي ينتقدها الله وفق سورة الصف 61:2؟"
+      },
+      "options": [
+        {
+          "tr": "Yapmadığı şeyi söylemek — bildiğini yaşamamak",
+          "en": "Saying what one does not do — not living according to what one knows",
+          "es": "Decir lo que no se hace — no vivir de acuerdo con lo que se sabe",
+          "pt": "Dizer o que não se faz — não viver de acordo com o que se sabe",
+          "nl": "Zeggen wat men niet doet — niet leven naar wat men weet",
+          "de": "Sagen was man nicht tut — nicht gemaess dem leben was man weiss",
+          "ku": "Tiştê ku nake bêje — li gorî tiştê ku dizane nejî",
+          "ckb": "ئەوەی ناکات بڵێت — بەگوێرەی ئەوەی دەیزانێت ژیان نەکات",
+          "ar": "قول ما لا يُفعل — عدم العيش وفق ما يُعلم"
+        },
+        {
+          "tr": "Çok ibadet etmek",
+          "en": "Worshipping a lot",
+          "es": "Adorar mucho",
+          "pt": "Adorar muito",
+          "nl": "Veel aanbidden",
+          "de": "Viel anbeten",
+          "ku": "Gelek ibadet kirin",
+          "ckb": "زۆر عیبادەت کردن",
+          "ar": "الإكثار من العبادة"
+        },
+        {
+          "tr": "Zenginleri eleştirmek",
+          "en": "Criticizing the wealthy",
+          "es": "Criticar a los ricos",
+          "pt": "Criticar os ricos",
+          "nl": "De rijken bekritiseren",
+          "de": "Die Reichen kritisieren",
+          "ku": "Dewlemendên rexne kirin",
+          "ckb": "ڕەخنەگرتن لە دەوڵەمەندەکان",
+          "ar": "انتقاد الأثرياء"
+        },
+        {
+          "tr": "Az bilgiye sahip olmak",
+          "en": "Having little knowledge",
+          "es": "Tener poco conocimiento",
+          "pt": "Ter pouco conhecimento",
+          "nl": "Weinig kennis hebben",
+          "de": "Wenig Wissen haben",
+          "ku": "Xwedî zanîna kêm bûn",
+          "ckb": "هەبوونی زانستی کەم",
+          "ar": "قلة العلم"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "İslam'a göre ilmin amaca değil, araca benzetilmesinin anlamı nedir?",
+        "en": "According to Islam, what is the meaning of knowledge being likened to a means rather than an end?",
+        "es": "Según el Islam, ¿cuál es el significado de que el conocimiento sea comparado con un medio más que con un fin?",
+        "pt": "Segundo o Islão, qual é o significado do conhecimento ser comparado a um meio e não a um fim?",
+        "nl": "Wat is de betekenis van kennis als middel in plaats van doel te beschouwen volgens de Islam?",
+        "de": "Was bedeutet es laut Islam dass Wissen eher einem Mittel als einem Ziel aehnelt?",
+        "ku": "Li gorî Îslamê, maneya miştekirina zanînê ne mebest, belkî amûr çi ye?",
+        "ckb": "بەگوێرەی ئیسلام، مانای هاوشێوەکردنی زانست بە ئامراز نەک بە ئامانج چییە؟",
+        "ar": "ما معنى اعتبار العلم وسيلة لا غاية وفق الإسلام؟"
+      },
+      "options": [
+        {
+          "tr": "Öğrenilen bilginin sorumluluğu doğru amele ulaşmaktır; bilgi tek başına yeterli değildir",
+          "en": "The responsibility of learned knowledge is to reach righteous action; knowledge alone is not sufficient",
+          "es": "La responsabilidad del conocimiento aprendido es alcanzar una acción justa; el conocimiento solo no es suficiente",
+          "pt": "A responsabilidade do conhecimento aprendido é alcançar uma ação justa; o conhecimento sozinho não é suficiente",
+          "nl": "De verantwoordelijkheid van geleerde kennis is het bereiken van rechtvaardige actie; kennis alleen is niet voldoende",
+          "de": "Die Verantwortung des gelernten Wissens ist es rechtschaffe Handlung zu erreichen; Wissen allein reicht nicht",
+          "ku": "Berpirsiyariya zanîna fêrbûyî gihiştina amela rast e; zanîn bi tenê bes nîne",
+          "ckb": "بەرپرسیارییەکی زانستی فێربوو گەیشتنە کردارێکی ڕاستە؛ زانست بە تەنها بەس نییە",
+          "ar": "مسؤولية العلم المتعلَّم الوصول إلى العمل الصالح؛ العلم وحده لا يكفي"
+        },
+        {
+          "tr": "Bilgi önemsizdir, yalnızca eylem önemlidir",
+          "en": "Knowledge is unimportant, only action matters",
+          "es": "El conocimiento no es importante solo la acción importa",
+          "pt": "O conhecimento não é importante, apenas a ação importa",
+          "nl": "Kennis is onbelangrijk alleen actie telt",
+          "de": "Wissen ist unwichtig nur Handeln zaehlt",
+          "ku": "Zanîn ne girîng e, tenê kiryar girîng e",
+          "ckb": "زانست گرینگ نییە، تەنها کردار گرینگە",
+          "ar": "العلم غير مهم والعمل وحده يهم"
+        },
+        {
+          "tr": "Çok bilmek her zaman çok amel etmek demektir",
+          "en": "Knowing a lot always means acting a lot",
+          "es": "Saber mucho siempre significa actuar mucho",
+          "pt": "Saber muito sempre significa agir muito",
+          "nl": "Veel weten betekent altijd veel handelen",
+          "de": "Viel zu wissen bedeutet immer viel zu handeln",
+          "ku": "Zanîna zêde her dem kirina zêde tê manayê",
+          "ckb": "زیاتر زانین هەمیشە مانای زیاتر کردارە",
+          "ar": "معرفة الكثير تعني دائماً العمل الكثير"
+        },
+        {
+          "tr": "Amel olmadan bilgi daha değerlidir",
+          "en": "Knowledge without action is more valuable",
+          "es": "El conocimiento sin acción es más valioso",
+          "pt": "O conhecimento sem ação é mais valioso",
+          "nl": "Kennis zonder actie is waardevoller",
+          "de": "Wissen ohne Handeln ist wertvoller",
+          "ku": "Zanîn bê kiryar bêtir hêja ye",
+          "ckb": "زانست بەبێ کردار بەنرختری هەیە",
+          "ar": "العلم بلا عمل أكثر قيمة"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Hadiste ilim öğrenip amel etmemek neye benzetilmektedir?",
+        "en": "In the hadith, what is not acting upon learned knowledge likened to?",
+        "es": "¿A qué se compara en el hadiz no actuar conforme al conocimiento aprendido?",
+        "pt": "A que é comparado no hadith não agir de acordo com o conhecimento aprendido?",
+        "nl": "Waar wordt in de hadith het niet handelen naar geleerde kennis mee vergeleken?",
+        "de": "Womit wird im Hadith das Nichthandeln nach dem gelernten Wissen verglichen?",
+        "ku": "Di hadisê de, fêrbûna zanînê û nekirina bi wê bi çi tê miştekirîn?",
+        "ckb": "لە حەدیسدا، فێربوونی زانست و کار نەکردن پێیدا بە چی هاوشێوە کراوە؟",
+        "ar": "بماذا شُبّه في الحديث تعلم العلم وعدم العمل به؟"
+      },
+      "options": [
+        {
+          "tr": "Zêr biriktirip harcamamak",
+          "en": "Accumulating gold and not spending it",
+          "es": "Acumular oro y no gastarlo",
+          "pt": "Acumular ouro e não gastá-lo",
+          "nl": "Goud verzamelen en het niet uitgeven",
+          "de": "Gold anhaeufen und es nicht ausgeben",
+          "ku": "Zêr kom kirin û wê xerc nekirin",
+          "ckb": "زێڕ کۆکردن و خەرجی نەکردن",
+          "ar": "كنز الذهب وعدم إنفاقه"
+        },
+        {
+          "tr": "Suya yazı yazmak",
+          "en": "Writing on water",
+          "es": "Escribir en el agua",
+          "pt": "Escrever na água",
+          "nl": "Schrijven op water",
+          "de": "Auf Wasser schreiben",
+          "ku": "Li ser avê nivîsîn",
+          "ckb": "نووسین لەسەر ئاو",
+          "ar": "الكتابة على الماء"
+        },
+        {
+          "tr": "Karanlıkta ışık aramak",
+          "en": "Seeking light in the dark",
+          "es": "Buscar luz en la oscuridad",
+          "pt": "Procurar luz na escuridão",
+          "nl": "Licht zoeken in het donker",
+          "de": "Im Dunkeln nach Licht suchen",
+          "ku": "Di tariyê de ronahî gerîn",
+          "ckb": "گەڕان بەدوای ڕووناکی لە تاریکیدا",
+          "ar": "البحث عن النور في الظلام"
+        },
+        {
+          "tr": "Meyve vermeyen bir ağaç dikmek",
+          "en": "Planting a fruitless tree",
+          "es": "Plantar un árbol sin frutos",
+          "pt": "Plantar uma árvore sem frutos",
+          "nl": "Een vruchtloze boom planten",
+          "de": "Einen fruchtlosen Baum pflanzen",
+          "ku": "Dara bê fêkî çandin",
+          "ckb": "چاندنی دارێکی بێ مێوە",
+          "ar": "غرس شجرة لا ثمر لها"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Günlük hayatta bilgiyle amel etmenin somut örnekleri nelerdir?",
+        "en": "What are concrete examples of acting upon knowledge in daily life?",
+        "es": "¿Cuáles son ejemplos concretos de actuar conforme al conocimiento en la vida cotidiana?",
+        "pt": "Quais são exemplos concretos de agir de acordo com o conhecimento na vida quotidiana?",
+        "nl": "Wat zijn concrete voorbeelden van handelen naar kennis in het dagelijks leven?",
+        "de": "Was sind konkrete Beispiele des Handelns nach Wissen im taeglichen Leben?",
+        "ku": "Di jiyana rojane de mînakên konkrêt ên kirina bi zanînê çi ne?",
+        "ckb": "نموونە جدیەکانی کردار بەگوێرەی زانست لە ژیانی ڕۆژانەدا چین؟",
+        "ar": "ما الأمثلة الملموسة للعمل بالعلم في الحياة اليومية؟"
+      },
+      "options": [
+        {
+          "tr": "Öğrenilen hadisi hayata uygulamak, ayet manasını kararlara yansıtmak ve ahlaki değerleri ilişkilere aktarmak",
+          "en": "Applying the learned hadith to life, reflecting the meaning of a verse in decisions and transferring moral values to relationships",
+          "es": "Aplicar el hadiz aprendido a la vida reflejar el significado de un versículo en las decisiones y transferir valores morales a las relaciones",
+          "pt": "Aplicar o hadith aprendido à vida, refletir o significado de um versículo nas decisões e transferir valores morais para os relacionamentos",
+          "nl": "De geleerde hadith op het leven toepassen, de betekenis van een vers in beslissingen weerspiegelen en morele waarden naar relaties overbrengen",
+          "de": "Den gelernten Hadith auf das Leben anwenden die Bedeutung eines Verses in Entscheidungen widerspiegeln und moralische Werte auf Beziehungen uebertragen",
+          "ku": "Cîbicîkirina hadisa fêrbûyî di jiyanê de, derxistina manaya ayetê di biryaran de û veguhastina nirxên exlaqî bo têkiliyan",
+          "ckb": "جێبەجێکردنی حەدیسی فێربوو لە ژیاندا، نیشاندانی مانای ئایەتێک لە بڕیارەکاندا و گواستنەوەی بەهاکانی ئەخلاقی بۆ پەیوەندییەکان",
+          "ar": "تطبيق الحديث المتعلَّم في الحياة وانعكاس معنى الآية في القرارات ونقل القيم الأخلاقية إلى العلاقات"
+        },
+        {
+          "tr": "Yalnızca çok kitap okumak",
+          "en": "Only reading many books",
+          "es": "Solo leer muchos libros",
+          "pt": "Apenas ler muitos livros",
+          "nl": "Alleen veel boeken lezen",
+          "de": "Nur viele Buecher lesen",
+          "ku": "Tenê gelek pirtûk xwendin",
+          "ckb": "تەنها زۆر کتێب خوێندنەوە",
+          "ar": "قراءة كتب كثيرة فحسب"
+        },
+        {
+          "tr": "Bilgiyi başkalarına aktarmamak",
+          "en": "Not passing knowledge on to others",
+          "es": "No transmitir el conocimiento a otros",
+          "pt": "Não passar o conhecimento para os outros",
+          "nl": "Kennis niet doorgeven aan anderen",
+          "de": "Wissen nicht an andere weitergeben",
+          "ku": "Zanînê neguhêztin bo yên din",
+          "ckb": "نەگواستنەوەی زانست بۆ کەسانی تر",
+          "ar": "عدم نقل العلم إلى الآخرين"
+        },
+        {
+          "tr": "Yalnızca dini sohbetlere katılmak",
+          "en": "Only attending religious conversations",
+          "es": "Solo asistir a conversaciones religiosas",
+          "pt": "Apenas participar de conversas religiosas",
+          "nl": "Alleen deelnemen aan religieuze gesprekken",
+          "de": "Nur an religioesen Gespraechen teilnehmen",
+          "ku": "Tenê beşdariya sohbetên olî bûn",
+          "ckb": "تەنها بەشداربوون لە سوبەتە ئایینیەکان",
+          "ar": "حضور المجالس الدينية فحسب"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün öğrendiğiniz bir şeyi düşünün. Bu bilgiyi hayatınıza nasıl yansıtabilirsiniz? Büyük bir değişim şart değil. Küçük bir uygulama, büyük bir niyetle başlar. Bir hadis biliyorsanız, onu bugün birine anlatın ya da kendinize uygulayın. Bir Kuran ayeti öğrendiyseniz, o ayetin mesajını bu gün bir kararınıza yansıtın. Bilgi, yalnızca zihinlerde saklı kaldığında değil — kalplere ve hayatlara işlediğinde gerçek değerini bulur.",
+    "en": "Today think about something you have learned. How can you reflect this knowledge in your life? A big change is not necessary. A small application begins with a great intention. If you know a hadith, tell it to someone today or apply it to yourself. If you have learned a Quranic verse, reflect the message of that verse in one of your decisions today. Knowledge does not find its true value only when stored in minds — it finds its true value when it penetrates hearts and lives.",
+    "es": "Hoy piensa en algo que hayas aprendido. ¿Cómo puedes reflejar este conocimiento en tu vida? No es necesario un gran cambio. Una pequeña aplicación comienza con una gran intención. Si conoces un hadiz cuéntaselo a alguien hoy o aplícatelo a ti mismo. Si has aprendido un versículo del Corán refleja el mensaje de ese versículo en una de tus decisiones hoy. El conocimiento no encuentra su verdadero valor solo cuando se almacena en la mente — lo encuentra cuando penetra en los corazones y en las vidas.",
+    "pt": "Hoje pensa em algo que aprendeste. Como podes refletir este conhecimento na tua vida? Uma grande mudança não é necessária. Uma pequena aplicação começa com uma grande intenção. Se conheces um hadith conta-o a alguém hoje ou aplica-o a ti mesmo. Se aprendeste um versículo do Alcorão reflete a mensagem desse versículo numa das tuas decisões hoje. O conhecimento não encontra o seu verdadeiro valor apenas quando armazenado na mente — ele encontra o seu verdadeiro valor quando penetra nos corações e nas vidas.",
+    "nl": "Denk vandaag aan iets wat u heeft geleerd. Hoe kunt u deze kennis in uw leven weerspiegelen? Een grote verandering is niet nodig. Een kleine toepassing begint met een grote intentie. Als u een hadith kent vertel het vandaag aan iemand of pas het op uzelf toe. Als u een koranvers heeft geleerd weerspiegelt u de boodschap van dat vers in een van uw beslissingen vandaag. Kennis vindt zijn ware waarde niet alleen wanneer het in geesten wordt opgeslagen — het vindt zijn ware waarde wanneer het harten en levens doordringt.",
+    "de": "Denken Sie heute an etwas das Sie gelernt haben. Wie koennen Sie dieses Wissen in Ihrem Leben widerspiegeln? Eine grosse Veraenderung ist nicht notwendig. Eine kleine Anwendung beginnt mit einer grossen Absicht. Wenn Sie einen Hadith kennen erzaehlen Sie ihn heute jemandem oder wenden Sie ihn auf sich an. Wenn Sie einen Koranvers gelernt haben spiegeln Sie die Botschaft dieses Verses in einer Ihrer heutigen Entscheidungen wider. Wissen findet seinen wahren Wert nicht nur wenn es in Geistern gespeichert wird — es findet seinen wahren Wert wenn es Herzen und Leben durchdringt.",
+    "ku": "Îro li ser tiştekî ku fêr bûbin bifikirin. Hûn dikarin vê zanînê çawa di jiyana xwe de derxin? Guheztineke mezin ne şert e. Serîlêdaneke piçûk bi nîyeteke mezin dest pê dike. Ger hadisekê dizanin, îro ji kesekî re bibêjin an jî ji xwe re bi kar bînin. Ger ayeteke Quranê fêr bûbin, peyama wê ayetê îro di biryareke xwe de derxin. Zanîn, ne tenê dema di hiş de tê hilanîn — dema di dil û jiyan de dike, nirxa xwe ya rastîn dibîne.",
+    "ckb": "ئەمڕۆ لەسەر شتێک بیفکرە کە فێرت بوووە. چۆن دەتوانی ئەم زانستە لە ژیانتدا نیشان بدەیت؟ گۆڕانێکی گەورە پێویست نییە. جێبەجێکردنێکی بچووک بە نیەتێکی گەورەوە دەستی پێ دەکات. ئەگەر حەدیسێکت دەزانی، ئەمڕۆ بۆ کەسێک بیگێڕەوە یان لەسەر خۆت جێی بخە. ئەگەر ئایەتێکی قورئانت فێر بووە، پەیامی ئەو ئایەتە ئەمڕۆ لە یەکێک لە بڕیارەکانتدا نیشان بدە. زانست ئەو کاتە نەک تەنها کاتێک لە مێشکدا هەڵدەگیرێت — کاتێک دلان و ژیانەکان دەخات، بەهای ڕاستەقینەی دۆزێتەوە.",
+    "ar": "فكِّر اليوم في شيءٍ تعلَّمتَه. كيف تستطيع أن تعكسَ هذا العلمَ في حياتك؟ لا يلزم تغييرٌ كبير. تطبيقٌ صغيرٌ يبدأ بنيَّةٍ عظيمة. إن كنتَ تعرف حديثاً فأخبِر به أحداً اليوم أو طبِّقه على نفسك. وإن كنتَ قد تعلَّمتَ آيةً قرآنيَّةً فاعكِس رسالتَها في أحد قراراتك اليوم. لا يجد العلمُ قيمتَه الحقيقيَّةَ حين يُختزَن في العقول فحسب — بل حين يتغلغل في القلوب والأحياء."
+  }
+}

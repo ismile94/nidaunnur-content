@@ -1,0 +1,344 @@
+{
+  "month": 3,
+  "day": 30,
+  "title": {
+    "tr": "Günlük İbadet Planı",
+    "en": "Daily Worship Plan",
+    "es": "El Plan Diario de Adoración",
+    "pt": "O Plano Diário de Adoração",
+    "nl": "Dagelijks Aanbiddingsplan",
+    "de": "Täglicher Gebetsplan",
+    "ku": "Plana Ibadeta Rojane",
+    "ckb": "پلانی عیبادەتی ڕۆژانە",
+    "ar": "خطة العبادة اليومية"
+  },
+  "content": {
+    "tr": "Her gün Allah'a ibadet etmek; yalnızca namaz vakitlerinde değil, günün her dilimine yayılmış bilinçli bir hayat sürme biçimidir. Günlük ibadet planı; bunu tesadüfe bırakmak yerine, kasıtlı ve istekli bir yapıya oturtmaktır. Tıpkı bir hekim randevu takvimi tuttuğu gibi, bir mümin de gün içindeki ibadet zamanlarını planlar.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«Şüphesiz namaz, müminlere vakitli olarak farz kılınmıştır.»**\n*(Nisâ 4:103)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«Allah'a en sevimli amel hangisidir? Namazı vaktinde kılmak.»**\n*(Buhârî, Müslim — Abdullah ibn Mesûd r.a. rivayetiyle)*\n\nGünlük bir ibadet planı şu unsurları içerir: **Sabah** — fecir namazı + sabah zikirleri (5–10 dk). **Öğlen** — öğle namazı + kısa bir dua. **İkindi** — ikindi namazı + birkaç istiğfar. **Akşam** — akşam namazı + akşam zikirleri. **Yatsı** — yatsı namazı + muhasebe + şükür. Bunlara ek olarak gün içinde herhangi bir anda: Kuran'dan birkaç ayet okumak, kısa bir tefekkür anı yaşamak ya da bir zikir çekmek. Bu plan, büyük bir yük değil; aksine her günü anlamlı kılan bir iskelet yapısıdır.",
+    "en": "Worshipping Allah every day is not only at prayer times but a conscious way of living spread across every part of the day. A daily worship plan is about placing this into an intentional and willing structure rather than leaving it to chance. Just as a doctor keeps an appointment calendar, a believer also plans the worship times during the day.\n\nAllah the Most High says:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**\"Indeed, prayer has been decreed upon the believers a decree of specified times.\"**\n*(An-Nisa 4:103)*\n\nOur Prophet ﷺ said:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**\"Which deed is most beloved to Allah? He said: Prayer at its appointed time.\"**\n*(Bukhari, Muslim — narrated by Abdullah ibn Mas'ud r.a.)*\n\nA daily worship plan includes these elements: **Morning** — Fajr prayer + morning adhkar (5–10 min). **Noon** — Dhuhr prayer + a short supplication. **Afternoon** — Asr prayer + a few istighfar. **Evening** — Maghrib prayer + evening adhkar. **Night** — Isha prayer + muhasaba + shukr. In addition, at any moment during the day: Reading a few verses from the Quran, experiencing a short moment of contemplation, or making a dhikr. This plan is not a heavy burden; on the contrary it is a skeletal structure that makes every day meaningful.",
+    "es": "Adorar a Allah todos los días no es solo en los momentos de oración sino una forma consciente de vivir extendida por cada parte del día. Un plan diario de adoración consiste en colocar esto en una estructura intencional y voluntaria en lugar de dejarlo al azar. Al igual que un médico mantiene un calendario de citas un creyente también planifica los tiempos de adoración durante el día.\n\nAllah el Altísimo dice:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«Ciertamente la oración ha sido decretada sobre los creyentes como decreto de tiempos específicos.»**\n*(An-Nisa 4:103)*\n\nNuestro Profeta ﷺ dijo:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«¿Cuál obra es la más amada por Allah? Dijo: La oración en su tiempo señalado.»**\n*(Bujari, Muslim — narrado por Abdullah ibn Mas'ud r.a.)*\n\nUn plan diario de adoración incluye estos elementos: **Mañana** — oración del Fajr + adhkar matutinos (5–10 min). **Mediodía** — oración del Dhuhr + una breve súplica. **Tarde** — oración del Asr + algunos istighfar. **Atardecer** — oración del Maghrib + adhkar vespertinos. **Noche** — oración del Isha + muhasaba + shukr. Además en cualquier momento durante el día: Leer unos pocos versículos del Corán experimentar un breve momento de contemplación o hacer un dhikr. Este plan no es una carga pesada; al contrario es una estructura esquelética que hace que cada día sea significativo.",
+    "pt": "Adorar Allah todos os dias não é apenas nos momentos de oração mas uma forma consciente de viver espalhada por cada parte do dia. Um plano diário de adoração consiste em colocar isto numa estrutura intencional e voluntária em vez de o deixar ao acaso. Assim como um médico mantém um calendário de consultas, um crente também planeia os tempos de adoração durante o dia.\n\nAllah o Altíssimo diz:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«Certamente a oração foi decretada sobre os crentes como decreto de tempos especificados.»**\n*(An-Nisa 4:103)*\n\nO nosso Profeta ﷺ disse:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«Qual obra é a mais amada por Allah? Disse: A oração no seu tempo fixado.»**\n*(Bukhari, Muslim — narrado por Abdullah ibn Mas'ud r.a.)*\n\nUm plano diário de adoração inclui estes elementos: **Manhã** — oração do Fajr + adhkar matinais (5–10 min). **Meio-dia** — oração do Dhuhr + uma breve súplica. **Tarde** — oração do Asr + alguns istighfar. **Anoitecer** — oração do Maghrib + adhkar vespertinos. **Noite** — oração do Isha + muhasaba + shukr. Além disso em qualquer momento durante o dia: Ler alguns versículos do Alcorão, experienciar um breve momento de contemplação ou fazer um dhikr. Este plano não é um fardo pesado; pelo contrário é uma estrutura esquelética que torna cada dia significativo.",
+    "nl": "Allah elke dag aanbidden is niet alleen op gebedstijden maar een bewuste manier van leven verspreid over elk deel van de dag. Een dagelijks aanbiddingsplan gaat over het plaatsen van dit in een intentionele en bereidwillige structuur in plaats van het aan het toeval over te laten. Net zoals een arts een afspraakenkalender bijhoudt, plant een gelovige ook de aanbiddingstijden gedurende de dag.\n\nAllah de Verhevene zegt:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«Waarlijk het gebed is aan de gelovigen opgelegd als een decreet van bepaalde tijden.»**\n*(An-Nisa 4:103)*\n\nOnze Profeet ﷺ zei:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«Welke daad is het meest geliefd bij Allah? Hij zei: Het gebed op zijn aangewezen tijd.»**\n*(Bukhari, Muslim — overgeleverd door Abdullah ibn Mas'ud r.a.)*\n\nEen dagelijks aanbiddingsplan omvat deze elementen: **Ochtend** — Fajr-gebed + ochtend-adhkar (5–10 min). **Middag** — Dhuhr-gebed + een korte smeekbede. **Namiddag** — Asr-gebed + een paar istighfar. **Avond** — Maghrib-gebed + avond-adhkar. **Nacht** — Isha-gebed + muhasaba + shukr. Daarnaast op elk moment gedurende de dag: Een paar verzen uit de Koran lezen, een korte contemplatieve moment ervaren of een dhikr doen. Dit plan is geen zware last; integendeel het is een skeletstructuur die elke dag betekenisvol maakt.",
+    "de": "Allah jeden Tag anzubeten ist nicht nur zu Gebetszeiten sondern eine bewusste Lebensweise die sich ueber jeden Teil des Tages erstreckt. Ein taeglicher Gebetsplan geht darum, dies in eine absichtliche und willige Struktur zu setzen anstatt es dem Zufall zu ueberlassen. Genau wie ein Arzt einen Terminkalender fuehrt plant auch ein Glaeubiger die Anbetungszeiten im Laufe des Tages.\n\nAllah der Erhabene sagt:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**\"Wahrlich das Gebet ist den Glaeubigen als Pflicht zu bestimmten Zeiten vorgeschrieben.\"**\n*(An-Nisa 4:103)*\n\nUnser Prophet ﷺ sagte:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**\"Welche Tat ist Allah am liebsten? Er sagte: Das Gebet zu seiner festgesetzten Zeit.\"**\n*(Bukhari, Muslim — ueberliefert von Abdullah ibn Mas'ud r.a.)*\n\nEin taeglicher Gebetsplan umfasst diese Elemente: **Morgen** — Fajr-Gebet + Morgen-Adhkar (5–10 Min). **Mittag** — Dhuhr-Gebet + eine kurze Bitte. **Nachmittag** — Asr-Gebet + einige Istighfar. **Abend** — Maghrib-Gebet + Abend-Adhkar. **Nacht** — Isha-Gebet + Muhasaba + Schukr. Zusaetzlich zu jedem Zeitpunkt waehrend des Tages: Ein paar Verse aus dem Koran lesen, einen kurzen kontemplativen Moment erleben oder einen Dhikr machen. Dieser Plan ist keine schwere Last; ganz im Gegenteil ist er eine Skelettstruktur die jeden Tag bedeutungsvoll macht.",
+    "ku": "Her roj îbadeta Allahê kirin; ne tenê di wextên nimêjê de, lê şêwazeke jiyaneke biaqilane ye ku li ser her beşa rojê belav e. Plana ibadeta rojane; li şûna hêştina vê ji bextê, danîna wê di çarçoveyeke bi mebest û bi dil e. Mîna bijîşkekî ku salname ya randevuyê dihêle, miminê jî wextên ibadeta di hundurê rojê de plan dike.\n\nAllahê Bilind wiha dibêje:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«Bi rastî nimêj, li ser miminên wekî ferzek di wextekî diyarkirî de hate ferzkirin.»**\n*(Nisâ 4:103)*\n\nPêxemberê me ﷺ wiha ferman kir:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«Kîjan kiryar herî hezkirî ye ji Allahê re? Got: Nimêja di wexta xwe de.»**\n*(Buxarî, Müslim — ji Abdullah ibn Mesûd r.a. ve hatiye şandin)*\n\nPlanek ibadeta rojane van hêmanan dihewîne: **Sibeh** — nimêja fecirê + zikirên sibehê (5–10 dk). **Nîvro** — nimêja nîvroyê + duayeke kurt. **Êvarbêrî** — nimêja êvarbêriyê + çend istiğfar. **Êvar** — nimêja êvarê + zikirên êvarê. **Şev** — nimêja şevê + muhasebe + şukur. Wekî din di her kêliyekê de di hundurê rojê de: Çend ayetên ji Quranê xwendin, xalek tefekkirê ya kurt jiyan kirin an zikirê kirin. Ev plan, bareke giran nîne; berevajî, avahiyeke iskelet e ku her roj watedar dike.",
+    "ckb": "هەموو ڕۆژ عیبادەتی الله کردن؛ نەک تەنها لە کاتی نوێژدا بەڵکو شێوازی ژیانی ئاگادارانەیەکە کە بەسەر هەر بەشێکی ڕۆژدا بڵاوە. پلانی عیبادەتی ڕۆژانە؛ لەجیاتی ئەوەی بیهێڵیت بۆ بەختەوەری، دانانی ئەمە لە جیاتی بەنیەت و بەهەوەسە. وەک چۆن پزیشکێک ڕۆژنامەی نۆبە دەگرێت، مؤمنیش کاتەکانی عیبادەت لە سەرانسەری ڕۆژدا پلان دەکات.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n**«بێگومان نوێژ لەسەر مؤمنەکان فەرزی کاتدار بووە.»**\n*(نیسا ٤:١٠٣)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n**«کام کردار لە الله ئازیزترە؟ فەرمووی: نوێژ لە کاتەکەیدا.»**\n*(بوخاری، موسلیم — بە ڕێوایەتی عەبدوللاه ئیبن مەسعود ڕ.ع)*\n\nپلانی عیبادەتی ڕۆژانە ئەم بنچینانەی تێدایە: **بەیانی** — نوێژی فەجر + زیکرەکانی بەیانی (٥–١٠ خولەک). **نیوەڕۆ** — نوێژی نیوەڕۆ + دوعایەکی کورت. **ئێوارەی بەرد** — نوێژی عەسر + چەند ئیستیغفار. **ئێوارە** — نوێژی مەغریب + زیکرەکانی ئێوارە. **شەو** — نوێژی عیشا + محاسەبە + شوکر. لەم زیادەیشدا لە هەر کاتێکی ڕۆژدا: خوێندنەوەی چەند ئایەت لە قورئان، تەجربەی کاتێکی کورتی تەفەکور یان زیکر کردن. ئەم پلانە باری قووڵ نییە؛ پێچەوانەوە، قاڵبی ئیسکلیتیەکە کە هەموو ڕۆژ مانادار دەکات.",
+    "ar": "العبادةُ اليوميَّة ليست فقط في أوقات الصلاة بل طريقةُ حياةٍ واعيةٌ تنتشر عبر كلِّ جزءٍ من اليوم. الخطَّةُ اليوميَّةُ للعبادة تعني وضعَ هذا في هيكلٍ متعمَّدٍ وطوعيٍّ بدلاً من تركه للمصادفة. كما يحفظ الطبيبُ تقويمَ مواعيد، يُخطِّط المؤمنُ أيضاً أوقاتَ العبادة في اليوم.\n\nيقول الله تعالى:\n\n**﴿إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا﴾**\n*(النساء: ١٠٣)*\n\nوقال النبيُّ ﷺ:\n\n**«أَيُّ الأَعْمَالِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: الصَّلَاةُ عَلَى وَقْتِهَا»**\n*(رواه البخاري ومسلم — عن عبدالله بن مسعود رضي الله عنه)*\n\nتشمل الخطَّةُ اليوميَّةُ للعبادة هذه العناصر: **الصباح** — صلاة الفجر + أذكار الصباح (5-10 دقائق). **الظهر** — صلاةُ الظهر + دعاءٌ قصير. **العصر** — صلاةُ العصر + استغفارات. **المغرب** — صلاةُ المغرب + أذكار المساء. **الليل** — صلاةُ العشاء + محاسبة + شكر. هذه الخطَّةُ ليست حِملاً ثقيلاً؛ بل هيكلٌ يجعل كلَّ يومٍ ذا معنى."
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "\"Allah'a en sevimli amel namazı vaktinde kılmaktır\" hadisini rivayet eden kimdir?",
+        "en": "Who narrated the hadith \"The most beloved deed to Allah is prayer at its appointed time\"?",
+        "es": "¿Quién narró el hadiz «La obra más amada por Allah es la oración en su tiempo señalado»?",
+        "pt": "Quem narrou o hadith «A obra mais amada por Allah é a oração no seu tempo fixado»?",
+        "nl": "Wie overleverde de hadith «Het meest geliefde deed bij Allah is het gebed op zijn aangewezen tijd»?",
+        "de": "Wer ueberlieferte den Hadith «Die Allah liebste Tat ist das Gebet zu seiner festgesetzten Zeit»?",
+        "ku": "Kê hadisa «Kiryara herî hezkirî ya ji Allahê re nimêja di wexta xwe de ye» şand?",
+        "ckb": "کێ حەدیسی «ئازیزترین کردار بۆ الله نوێژ لە کاتەکەیدایە» ڕێوایەت کردووە؟",
+        "ar": "مَن روى حديث «أحب الأعمال إلى الله الصلاة على وقتها»؟"
+      },
+      "options": [
+        {
+          "tr": "Abdullah ibn Mesûd r.a. — Buhârî ve Müslim",
+          "en": "Abdullah ibn Mas'ud r.a. — Bukhari and Muslim",
+          "es": "Abdullah ibn Mas'ud r.a. — Bujari y Muslim",
+          "pt": "Abdullah ibn Mas'ud r.a. — Bukhari e Muslim",
+          "nl": "Abdullah ibn Mas'ud r.a. — Bukhari en Muslim",
+          "de": "Abdullah ibn Mas'ud r.a. — Bukhari und Muslim",
+          "ku": "Abdullah ibn Mesûd r.a. — Buxarî û Müslim",
+          "ckb": "عەبدوللاه ئیبن مەسعود ڕ.ع — بوخاری و موسلیم",
+          "ar": "عبد الله بن مسعود رضي الله عنه — البخاري ومسلم"
+        },
+        {
+          "tr": "Ebû Hureyre r.a. — Tirmizî",
+          "en": "Abu Hurairah r.a. — Tirmidhi",
+          "es": "Abu Hurairah r.a. — Tirmidhi",
+          "pt": "Abu Hurairah r.a. — Tirmidhi",
+          "nl": "Abu Hurairah r.a. — Tirmidhi",
+          "de": "Abu Hurairah r.a. — Tirmidhi",
+          "ku": "Ebû Hureyre r.a. — Tirmizî",
+          "ckb": "ئەبو هورەیرە ڕ.ع — تیرمیزی",
+          "ar": "أبو هريرة رضي الله عنه — الترمذي"
+        },
+        {
+          "tr": "Hz. Ömer r.a. — Nesâî",
+          "en": "Umar r.a. — Nasai",
+          "es": "Umar r.a. — Nasai",
+          "pt": "Umar r.a. — Nasai",
+          "nl": "Umar r.a. — Nasai",
+          "de": "Umar r.a. — Nasai",
+          "ku": "Ömer r.a. — Nesaî",
+          "ckb": "عومەر ڕ.ع — نەسائی",
+          "ar": "عمر رضي الله عنه — النسائي"
+        },
+        {
+          "tr": "Hz. Âişe r.a. — Ebû Dâvûd",
+          "en": "Aisha r.a. — Abu Dawud",
+          "es": "Aisha r.a. — Abu Dawud",
+          "pt": "Aisha r.a. — Abu Dawud",
+          "nl": "Aisha r.a. — Abu Dawud",
+          "de": "Aisha r.a. — Abu Dawud",
+          "ku": "Aişe r.a. — Ebû Dâvûd",
+          "ckb": "عائیشە ڕ.ع — ئەبو داود",
+          "ar": "عائشة رضي الله عنها — أبو داود"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "Nisâ 4:103 ayetine göre namaz müminlere nasıl farz kılınmıştır?",
+        "en": "According to An-Nisa 4:103, how has prayer been made obligatory upon the believers?",
+        "es": "Según An-Nisa 4:103, ¿cómo se ha hecho obligatoria la oración para los creyentes?",
+        "pt": "Segundo An-Nisa 4:103, como a oração foi tornada obrigatória para os crentes?",
+        "nl": "Hoe is het gebed verplicht gesteld aan de gelovigen volgens An-Nisa 4:103?",
+        "de": "Wie ist das Gebet laut An-Nisa 4:103 den Glaeubigen als Pflicht auferlegt worden?",
+        "ku": "Li gorî Nisâ 4:103, nimêj çawa li ser miminên hate ferzkirin?",
+        "ckb": "بەگوێرەی نیسا ٤:١٠٣، نوێژ چۆن لەسەر مؤمنەکان فەرز کراوە؟",
+        "ar": "كيف فُرضت الصلاة على المؤمنين وفق النساء 4:103؟"
+      },
+      "options": [
+        {
+          "tr": "Vakitli olarak farz kılınmıştır",
+          "en": "It has been decreed as a duty at specified times",
+          "es": "Ha sido decretada como un deber en tiempos específicos",
+          "pt": "Foi decretada como obrigação em tempos específicos",
+          "nl": "Het is als plicht op bepaalde tijden opgelegd",
+          "de": "Es ist als Pflicht zu bestimmten Zeiten vorgeschrieben worden",
+          "ku": "Di wextekî diyarkirî de hatiye ferzkirin",
+          "ckb": "وەک فەرزی کاتدار فەرز کراوە",
+          "ar": "فُرضت كتاباً موقوتاً"
+        },
+        {
+          "tr": "İsteğe bağlı olarak emredilmiştir",
+          "en": "It has been commanded optionally",
+          "es": "Ha sido ordenada opcionalmente",
+          "pt": "Foi ordenada opcionalmente",
+          "nl": "Het is optioneel bevolen",
+          "de": "Es ist optional befohlen worden",
+          "ku": "Bi dilxwazî hatiye emr kirin",
+          "ckb": "بە خۆئیختیاری فەرمان کراوە",
+          "ar": "أُمر بها اختياراً"
+        },
+        {
+          "tr": "Yalnızca cuma günleri farz kılınmıştır",
+          "en": "It has been made obligatory only on Fridays",
+          "es": "Solo se ha hecho obligatoria los viernes",
+          "pt": "Foi tornada obrigatória apenas às sextas-feiras",
+          "nl": "Het is alleen op vrijdag verplicht gesteld",
+          "de": "Es ist nur freitags als Pflicht auferlegt worden",
+          "ku": "Tenê roja Înê hatiye ferzkirin",
+          "ckb": "تەنها ڕۆژی ئینێ فەرز کراوە",
+          "ar": "فُرضت يوم الجمعة فحسب"
+        },
+        {
+          "tr": "Yılda bir kez farz kılınmıştır",
+          "en": "It has been made obligatory once a year",
+          "es": "Se ha hecho obligatoria una vez al año",
+          "pt": "Foi tornada obrigatória uma vez por ano",
+          "nl": "Het is één keer per jaar verplicht gesteld",
+          "de": "Es ist einmal im Jahr als Pflicht auferlegt worden",
+          "ku": "Salê carekê hatiye ferzkirin",
+          "ckb": "ساڵێک یەک جار فەرز کراوە",
+          "ar": "فُرضت مرة في العام"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Günlük ibadet planı neden önemlidir?",
+        "en": "Why is a daily worship plan important?",
+        "es": "¿Por qué es importante un plan diario de adoración?",
+        "pt": "Por que razão um plano diário de adoração é importante?",
+        "nl": "Waarom is een dagelijks aanbiddingsplan belangrijk?",
+        "de": "Warum ist ein taeglicher Gebetsplan wichtig?",
+        "ku": "Çima plana ibadeta rojane girîng e?",
+        "ckb": "بۆچی پلانی عیبادەتی ڕۆژانە گرینگە؟",
+        "ar": "لماذا تهم خطة العبادة اليومية؟"
+      },
+      "options": [
+        {
+          "tr": "İbadeti tesadüfe bırakmak yerine bilinçli ve kasıtlı bir yapıya oturtmak için",
+          "en": "To place worship in a conscious and intentional structure instead of leaving it to chance",
+          "es": "Para colocar la adoración en una estructura consciente e intencional en lugar de dejarla al azar",
+          "pt": "Para colocar a adoração numa estrutura consciente e intencional em vez de a deixar ao acaso",
+          "nl": "Om aanbidding in een bewuste en intentionele structuur te plaatsen in plaats van het aan het toeval over te laten",
+          "de": "Um die Anbetung in eine bewusste und absichtliche Struktur zu setzen anstatt sie dem Zufall zu ueberlassen",
+          "ku": "Li şûna hêştina ibadeta ji bextê, danîna wê di çarçoveyeke biaqilane û bi mebest de",
+          "ckb": "بۆ دانانی عیبادەت لە جیاتی بەنیەت و بەئاگا لەجیاتی ئەوەی بیهێڵیت بۆ بەختەوەری",
+          "ar": "لوضع العبادة في إطار واعٍ ومتعمد بدلاً من تركها للصدفة"
+        },
+        {
+          "tr": "Daha çok ibadet yapmak zorunda kalmak için",
+          "en": "To be forced to do more worship",
+          "es": "Para verse obligado a hacer más adoración",
+          "pt": "Para ser obrigado a fazer mais adoração",
+          "nl": "Om gedwongen te worden meer te aanbidden",
+          "de": "Um gezwungen zu werden mehr anzubeten",
+          "ku": "Ji bo mecbûr mûndin ku bêtir îbadet were kirin",
+          "ckb": "بۆ ئەوەی ناچار بیت زیاتر عیبادەت بکەی",
+          "ar": "لإلزام النفس بعبادة أكثر"
+        },
+        {
+          "tr": "Başkalarından daha dindar görünmek için",
+          "en": "To appear more religious than others",
+          "es": "Para parecer más religioso que otros",
+          "pt": "Para parecer mais religioso do que os outros",
+          "nl": "Om religieuzer te lijken dan anderen",
+          "de": "Um religioser zu erscheinen als andere",
+          "ku": "Ji yên din ê zêdetir oldar xuya bûn",
+          "ckb": "بۆ ئەوەی لە کەسانی دیکە ئایینداراnitر بەنظەر بگری",
+          "ar": "للظهور بمظهر أكثر تديناً من الآخرين"
+        },
+        {
+          "tr": "Günlük rutinden kaçmak için",
+          "en": "To escape from daily routine",
+          "es": "Para escapar de la rutina diaria",
+          "pt": "Para escapar da rotina diária",
+          "nl": "Om te ontsnappen aan de dagelijkse routine",
+          "de": "Um der taeglichen Routine zu entkommen",
+          "ku": "Ji rûtîna rojane revê",
+          "ckb": "بۆ ڕەوتن لە ڕووتینی ڕۆژانە",
+          "ar": "للهروب من الروتين اليومي"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "Günlük ibadet planında yatsı namazından sonra yapılması önerilen şeyler nelerdir?",
+        "en": "What are the things suggested to be done after the Isha prayer in the daily worship plan?",
+        "es": "¿Cuáles son las cosas que se sugieren hacer después de la oración del Isha en el plan diario de adoración?",
+        "pt": "Quais são as coisas sugeridas a fazer depois da oração do Isha no plano diário de adoração?",
+        "nl": "Wat zijn de dingen die worden voorgesteld te doen na het Isha-gebed in het dagelijkse aanbiddingsplan?",
+        "de": "Was sind die Dinge, die im taeglichen Gebetsplan nach dem Isha-Gebet empfohlen werden?",
+        "ku": "Di plana ibadeta rojane de piştî nimêja şevê çi tê pêşniyar kirin?",
+        "ckb": "لە پلانی عیبادەتی ڕۆژانەدا دوای نوێژی عیشا چی پێشنیار دەکرێت بکرێت؟",
+        "ar": "ما المقترح فعله بعد صلاة العشاء في خطة العبادة اليومية؟"
+      },
+      "options": [
+        {
+          "tr": "Muhasebe ve şükür",
+          "en": "Muhasaba and shukr",
+          "es": "Muhasaba y shukr",
+          "pt": "Muhasaba e shukr",
+          "nl": "Muhasaba en shukr",
+          "de": "Muhasaba und Schukr",
+          "ku": "Muhasebe û şukur",
+          "ckb": "محاسەبە و شوکر",
+          "ar": "المحاسبة والشكر"
+        },
+        {
+          "tr": "Kuran ezberlemek ve ders çalışmak",
+          "en": "Memorizing Quran and studying",
+          "es": "Memorizar el Corán y estudiar",
+          "pt": "Memorizar o Alcorão e estudar",
+          "nl": "Koran memoriseren en studeren",
+          "de": "Koran auswendig lernen und lernen",
+          "ku": "Quran ji bîr kirin û xwendin",
+          "ckb": "لەبەرکردنی قورئان و تەواندن",
+          "ar": "حفظ القرآن والمذاكرة"
+        },
+        {
+          "tr": "Arkadaşlarla sohbet etmek",
+          "en": "Chatting with friends",
+          "es": "Charlar con amigos",
+          "pt": "Conversar com amigos",
+          "nl": "Kletsen met vrienden",
+          "de": "Mit Freunden plaudern",
+          "ku": "Bi hevalên xwe re sohbet kirin",
+          "ckb": "قسەکردن لەگەڵ هاوڕێکان",
+          "ar": "التحدث مع الأصدقاء"
+        },
+        {
+          "tr": "Sosyal medya takip etmek",
+          "en": "Following social media",
+          "es": "Seguir las redes sociales",
+          "pt": "Seguir as redes sociais",
+          "nl": "Sociale media volgen",
+          "de": "Sozialen Medien folgen",
+          "ku": "Medyaya civakî şopandin",
+          "ckb": "شوپاندنی میدیای کۆمەڵایەتی",
+          "ar": "متابعة وسائل التواصل الاجتماعي"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Günlük ibadet planı nasıl tanımlanmaktadır?",
+        "en": "How is the daily worship plan described?",
+        "es": "¿Cómo se describe el plan diario de adoración?",
+        "pt": "Como é descrito o plano diário de adoração?",
+        "nl": "Hoe wordt het dagelijkse aanbiddingsplan beschreven?",
+        "de": "Wie wird der taegliche Gebetsplan beschrieben?",
+        "ku": "Plana ibadeta rojane çawa tê pênasekirin?",
+        "ckb": "پلانی عیبادەتی ڕۆژانە چۆن پێناسە دەکرێت؟",
+        "ar": "كيف توصف خطة العبادة اليومية؟"
+      },
+      "options": [
+        {
+          "tr": "Her günü anlamlı kılan bir iskelet yapısı; büyük bir yük değil",
+          "en": "A skeletal structure that makes every day meaningful; not a heavy burden",
+          "es": "Una estructura esquelética que hace que cada día sea significativo; no una carga pesada",
+          "pt": "Uma estrutura esquelética que torna cada dia significativo; não um fardo pesado",
+          "nl": "Een skeletstructuur die elke dag betekenisvol maakt; geen zware last",
+          "de": "Eine Skelettstruktur die jeden Tag bedeutungsvoll macht; keine schwere Last",
+          "ku": "Avahiyeke iskelet e ku her roj watedar dike; ne bareke giran",
+          "ckb": "قاڵبی ئیسکلیتیەک کە هەموو ڕۆژ مانادار دەکات؛ نەک باری قووڵ",
+          "ar": "هيكل عظمي يجعل كل يوم له معنى وليس عبئاً ثقيلاً"
+        },
+        {
+          "tr": "Zor ve yorucu bir sorumluluk",
+          "en": "A difficult and tiring responsibility",
+          "es": "Una responsabilidad difícil y agotadora",
+          "pt": "Uma responsabilidade difícil e cansativa",
+          "nl": "Een moeilijke en vermoeiende verantwoordelijkheid",
+          "de": "Eine schwierige und anstrengende Verantwortung",
+          "ku": "Berpirsiyariyeke dijwar û westiyandî",
+          "ckb": "بەرپرسیارییەکی سەخت و ماندوبەخش",
+          "ar": "مسؤولية صعبة ومرهقة"
+        },
+        {
+          "tr": "Yalnızca âlimlerin uygulayabileceği bir sistem",
+          "en": "A system only scholars can implement",
+          "es": "Un sistema que solo los eruditos pueden implementar",
+          "pt": "Um sistema que apenas os eruditos podem implementar",
+          "nl": "Een systeem dat alleen geleerden kunnen implementeren",
+          "de": "Ein System das nur Gelehrte umsetzen koennen",
+          "ku": "Pergalek ku tenê zana dikare pêk bîne",
+          "ckb": "سیستەمێک کە تەنها زانایان دەیتوانن جێبەجێی بکەن",
+          "ar": "منظومة لا يستطيع تطبيقها إلا العلماء"
+        },
+        {
+          "tr": "Sadece ramazan ayına özgü bir uygulama",
+          "en": "A practice exclusive to the month of Ramadan",
+          "es": "Una práctica exclusiva del mes de Ramadán",
+          "pt": "Uma prática exclusiva do mês do Ramadão",
+          "nl": "Een praktijk exclusief voor de maand Ramadan",
+          "de": "Eine Praxis exklusiv fuer den Monat Ramadan",
+          "ku": "Pratîkek bi tenê ji bo meha Remezanê",
+          "ckb": "پراکتیکێک تایبەت بە مانگی ڕەمەزان",
+          "ar": "ممارسة خاصة بشهر رمضان فحسب"
+        }
+      ],
+      "correct": 0
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir kâğıda beş vakit namazın yanına birer küçük kutu çizin ve gün sonunda hangi namazları vaktinde kıldığınızı işaretleyin. Bu basit takip; sizi yargılamak için değil, farkında olmak için yapılır. Farkındalık, değişimin ilk adımıdır. Yarın beş kutunun tamamını doldurmayı hedefleyin. Her doldurulan kutu, Allah'a verilen bir sözün tutulmasıdır.",
+    "en": "Today draw a small box next to each of the five daily prayers on a piece of paper and at the end of the day mark which prayers you prayed on time. This simple tracking is done not to judge yourself but to be aware. Awareness is the first step of change. Tomorrow aim to fill all five boxes. Each box filled is a promise kept to Allah.",
+    "es": "Hoy dibuja una pequeña casilla junto a cada una de las cinco oraciones diarias en un papel y al final del día marca qué oraciones rezaste a tiempo. Este simple seguimiento no se hace para juzgarte sino para ser consciente. La consciencia es el primer paso del cambio. Mañana apunta a llenar las cinco casillas. Cada casilla llena es una promesa cumplida a Allah.",
+    "pt": "Hoje desenha uma pequena caixa ao lado de cada uma das cinco orações diárias num papel e ao final do dia marca quais orações rezaste a tempo. Este simples acompanhamento é feito não para te julgar mas para ter consciência. A consciência é o primeiro passo da mudança. Amanhã tem como objetivo preencher todas as cinco caixas. Cada caixa preenchida é uma promessa cumprida a Allah.",
+    "nl": "Teken vandaag een klein vakje naast elk van de vijf dagelijkse gebeden op een stuk papier en markeer aan het einde van de dag welke gebeden u op tijd heeft gebeden. Dit eenvoudige bijhouden wordt gedaan niet om uzelf te beoordelen maar om bewust te zijn. Bewustzijn is de eerste stap van verandering. Stel morgen als doel alle vijf vakjes in te vullen. Elk ingevuld vakje is een belofte nagekomen aan Allah.",
+    "de": "Zeichnen Sie heute ein kleines Kaestchen neben jedes der fuenf taeglichen Gebete auf ein Stueck Papier und markieren Sie am Ende des Tages welche Gebete Sie pünktlich gebetet haben. Dieses einfache Verfolgen wird nicht gemacht um sich selbst zu beurteilen sondern um sich bewusst zu sein. Bewusstsein ist der erste Schritt der Veraenderung. Streben Sie morgen an alle fuenf Kaestchen auszufuellen. Jedes ausgefuellte Kaestchen ist ein Allah gehaltenes Versprechen.",
+    "ku": "Îro li ser kaxizekê li tenişta her yek ji pênc nimêjan qutiyeke piçûk xêz bikin û di dawiya rojê de nimêjên ku di wexta xwe de xwendin nîşan bikin. Ev şopandina sade; ne ji bo dadweriya we, lê ji bo hişmendiyê tê kirin. Hişmendî, gava yekem a guheztinê ye. Sibê armanc bikin ku hemî pênc qutiyên dagirin. Her qutiyek tijî hatî, sozeke dayî ji Allahê re ye.",
+    "ckb": "ئەمڕۆ لەسەر کاغەزێک لە تەنیشت هەریەکەم لە پێنج نوێژی ڕۆژانە بکسێکی بچووک خشێنە و لە کۆتایی ڕۆژدا نیشان بکە کام نوێژانەت لە کاتەکانیاندا کرد. ئەم شوپاندنە سادەیە نەک بۆ دادوەری خۆت دەکرێت بەڵکو بۆ ئاگادار بوون. ئاگادارییە گامی یەکەمی گۆڕان. سبەی ئامانج بکە هەموو پێنج بکسەکە پڕ بکەیت. هەر بکسێکی پڕکراو، پەیمانێکی پارێزراوە دراوە بۆ الله.",
+    "ar": "اليوم ارسم مربَّعاً صغيراً بجانب كلٍّ من الصلوات الخمس على ورقة، وفي نهاية اليوم ضع علامةً على الصلوات التي صلَّيتَها في وقتها. هذا التتبُّعُ البسيط ليس للحكم على نفسك بل للوعي. الوعيُ أولُ خطوةٍ للتغيير. غداً اهدف إلى ملء المربَّعات الخمسة. كلُّ مربَّعٍ يُملأ وعدٌ يُوفى لله."
+  }
+}
