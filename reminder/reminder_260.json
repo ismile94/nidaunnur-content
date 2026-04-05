@@ -1,0 +1,344 @@
+{
+  "month": 8,
+  "day": 21,
+  "title": {
+    "tr": "Ölçü, İsraf ve Sofra Terbiyesi",
+    "en": "Measure, Avoiding Waste & Table Manners",
+    "es": "Medida, no despilfarro y mesa",
+    "pt": "Medida, sem desperdício e mesa",
+    "nl": "Maat, geen verspilling en tafel",
+    "de": "Maß, keine Verschwendung und Tisch",
+    "ku": "Pîvane, ne fêrçûnî û adabê sofre",
+    "ckb": "پێوانە، نەفیڕۆشی و ئادابی سفرە",
+    "ar": "الْقَدْرُ وَتَجَنُّبُ الإِسْرَافِ وَأَدَبُ السُّفْرَةِ"
+  },
+  "content": {
+    "tr": "Ramazan sofrası yaklaşırken kalp terbiyesi kadar, tabakta da ölçü hatırlanır: yemek ibadetin parçasıdır — ama tabağı düşman belleyip israf etmek değil; nimete saygı ve bedene ve çevreye merhamettir. İsraf; sadece çöpe dökülen yemek değil — fazla alınan, gereksizce tüketilen, «gözüm doysun» diye israf edilen her şeydir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n**«Ey Âdemoğulları! Her mescide giderken süslenin. Yiyin için; ama israf etmeyin. Çünkü O, müsrifleri sevmez.»** *(A'râf 7:31 — meâl özü)*\n\n**﴿وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا﴾**\n**«Onlar harcadıkları zaman ne israf ederler ne de cimrilik ederler; ikisi arasında bir ölçü üzeredirler.»** *(Furkân 25:67 — meâl özü)*\n\nBugün: tabağı bitirmek, suyu bardaktan içmek, «fazlasını almayayım» demek — hepsi aynı cümlenin parçası: «Rabbim, Senin verdiğin nimete hürmet.»",
+    "en": "As the Ramadan table draws near, measure belongs on the plate as much as in the heart: eating is part of worship — not treating the plate as an enemy and wasting, but honoring the blessing and showing mercy to the body and the world around you. Waste is not only food thrown away — it is whatever is taken in excess, consumed needlessly, or squandered to \"feed the eyes alone.\"\n\nAllah the Most High says:\n\n**﴿O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive. Indeed He likes not those who commit excess.﴾** *(Al-A'raf 7:31 — meaning summarized)*\n\n**﴿And [they are] those who, when they spend, are neither extravagant nor stingy, but are between that [as] a moderate course.﴾** *(Al-Furqan 25:67 — meaning summarized)*\n\nToday: finishing what you took, drinking without waste, saying \"I will not take more than I need\" — all part of the same sentence: \"My Lord, I honor what You gave.\"",
+    "es": "A medida que se acerca la mesa del Ramadán, la medida pertenece tanto al plato como al corazón: comer es parte de la adoración: no tratar el plato como un enemigo y un desperdicio, sino honrar la bendición y mostrar misericordia al cuerpo y al mundo que te rodea. El desperdicio no es sólo la comida que se desecha, sino todo lo que se toma en exceso, se consume innecesariamente o se desperdicia para \"alimentar sólo a los ojos\".\n\nAllah el Altísimo dice:\n\n**﴿Oh hijos de Adán, llevad vuestro adorno en cada mezquita, y comed y bebed, pero no seáis excesivos. De hecho, a Él no le gustan los que cometen excesos.﴾** *(Al-A'raf 7:31 — significado resumido)*\n\n**﴿Y [son] aquellos que, cuando gastan, no son ni extravagantes ni tacaños, sino que están entre eso [como] un curso moderado.﴾** *(Al-Furqan 25:67 — significado resumido)*\n\nHoy: terminar lo que tomaste, beber sin desperdiciar, decir \"No tomaré más de lo que necesito\", todo es parte de la misma frase: \"Mi Señor, honro lo que Tú diste\".",
+    "pt": "À medida que a mesa do Ramadã se aproxima, a medida pertence tanto ao prato quanto ao coração: comer faz parte da adoração – não tratar o prato como um inimigo e um desperdício, mas honrar a bênção e mostrar misericórdia ao corpo e ao mundo ao seu redor. Desperdício não é apenas comida jogada fora – é tudo o que é ingerido em excesso, consumido desnecessariamente ou desperdiçado para “alimentar apenas os olhos”.\n\nAllah, o Altíssimo, diz:\n\n**﴿Ó filhos de Adão, levem seu adorno em cada mesquita, e comam e bebam, mas não sejam excessivos. Na verdade, Ele não gosta daqueles que cometem excessos.﴾** *(Al-A'raf 7:31 — significado resumido)*\n\n**﴿E [eles são] aqueles que, quando gastam, não são nem extravagantes nem mesquinhos, mas estão entre isso [como] um curso moderado.﴾** *(Al-Furqan 25:67 - significado resumido)*\n\nHoje: terminar o que você tomou, beber sem desperdiçar, dizer “Não vou levar mais do que preciso” – tudo parte da mesma frase: “Meu Senhor, eu honro o que Tu deste”.",
+    "nl": "Nu de Ramadan-tafel dichterbij komt, hoort de maat net zo goed op het bord als in het hart: eten is onderdeel van aanbidding – het bord niet als vijand en verspilling behandelen, maar de zegen eren en genade tonen aan het lichaam en de wereld om je heen. Afval bestaat niet alleen uit voedsel dat wordt weggegooid; het is alles wat te veel wordt ingenomen, onnodig wordt geconsumeerd of wordt verspild om 'alleen de ogen te voeden'.\n\nAllah de Allerhoogste zegt:\n\n**﴿O kinderen van Adam, draag uw versiering bij elke moskee, en eet en drink, maar wees niet overmatig. Hij houdt inderdaad niet van degenen die excessen begaan.﴾** *(Al-A'raf 7:31 – betekenis samengevat)*\n\n**﴿En [zij zijn] degenen die, als ze geld uitgeven, noch extravagant noch gierig zijn, maar daar tussenin zitten [als] een gematigde handelwijze.﴾** *(Al-Furqan 25:67 – betekenis samengevat)*\n\nVandaag: afmaken wat je hebt ingenomen, drinken zonder verspilling, zeggen: \"Ik zal niet meer nemen dan ik nodig heb\" - het maakt allemaal deel uit van dezelfde zin: \"Mijn Heer, ik eer wat U hebt gegeven.\"",
+    "de": "Wenn der Ramadan-Tisch näher rückt, gehört das Maß sowohl auf den Teller als auch ins Herz: Essen ist Teil der Anbetung – den Teller nicht als Feind und Verschwendung zu betrachten, sondern den Segen zu ehren und dem Körper und der Welt um einen herum Barmherzigkeit zu erweisen. Bei Abfall handelt es sich nicht nur um weggeworfene Lebensmittel, sondern um alles, was im Übermaß aufgenommen, unnötig verzehrt oder verschwendet wird, um „allein die Augen zu ernähren“.\n\nAllah der Allerhöchste sagt:\n\n**﴿O Kinder Adams, nimm deinen Schmuck an jeder Moschee und iss und trink, aber sei nicht übermäßig. Tatsächlich mag Er diejenigen nicht, die Übermaße begehen.﴾** *(Al-A'raf 7:31 – Bedeutung zusammengefasst)*\n\n**﴿Und [sie sind] diejenigen, die, wenn sie Geld ausgeben, weder verschwenderisch noch geizig sind, sondern sich zwischen [als] einem gemäßigten Kurs bewegen.﴾** *(Al-Furqan 25:67 – Bedeutung zusammengefasst)*\n\nHeute: das, was du zu dir genommen hast, zu Ende bringen, ohne Verschwendung trinken, sagen: „Ich werde nicht mehr zu dir nehmen, als ich brauche“ – alles Teile desselben Satzes: „Mein Herr, ich ehre, was du gegeben hast.“",
+    "ku": "Her ku sifreya Remezanê nêzîk dibe, pîvak bi qasî ku di dilê xwe de ye, li ser firaxê ye: xwarin beşek ji îbadetê ye - ne ku sifrê wekî dijmin û îsraf bihesibîne, lê ji bereketê re rêzgirtin û rehmê li laş û cîhana li dora xwe bike. Xwarin ne tenê xwarina ku tê avêtin e - her tiştê ku zêde tê girtin, bêhewce tê vexwarin an jî ji bo \"tenê xwarina çavan\" tê xerc kirin.\n\nAllah Teala dibêje:\n\n**﴿Gelî zarên Adem, hûn di her mizgeftekê de xemlên xwe bigirin û bixwin û vexwin, lê zêde nebin. Bi rastî ew ji yên ku zêde dikin hez nake.* (El-A'raf 7:31)\n\n**﴿Ew ew in ku dema xerc dikin, ne zêde û ne jî pîs in, lê di navbera wê de rêgezek nerm in.» (El-Furqan 25:67)\n\nÎro: qedandina tiştê ku te girt, vexwarina bê îsraf, gotina \"Ez ê ji hewcedariya min zêdetir negirim\" - hemî beşek ji heman hevokê ye: \"Xwedayê min, ez rûmeta tiştê ku te daye.\"",
+    "ckb": "نزیکبوونەوەی سفرەی ڕەمەزاندا پێوانە لەسەر قاپەکەش گرنگە وەک لە دڵ. فیڕۆشتن تەنها خواردن لە زبڵدا نییە — زیاد وەرگرتن و بەکارهێنانی بێ پێویستیشە.\n\nاللە دەفەرموێت:\n\n**﴿يَا بَنِي آدَمَ ۝ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n*(ئەراف: ٣١)*\n\n**﴿وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا﴾**\n*(فورقان: ٦٧)*\n\nئەمڕۆ: ئەوەی لەناو قاپەکەتدایە تەواو بکە — زیاتر مەگرە — «یە ڕەب، نعمەتەکەت ڕێز دەگرم.»",
+    "ar": "مع اقترابِ مائدةِ رمضان، يُذكَرُ القَدْرُ على الطبق كما في القلب: الأكلُ جزءٌ من العبادة — لا عداءً للصحنِ ولا إسرافاً، بل احتراماً للنعمةِ ورحمةً بالبدنِ وبما حولكَ من الخلق.\n\nيقول الله تعالى:\n\n**﴿يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n*(الأعراف: ٣١)*\n\n**﴿وَالَّذِينَ إِذَا أَنفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا﴾**\n*(الفرقان: ٦٧)*\n\nاليوم: إتمامُ ما أخذتَ، وقولُ «لا أزيد على حاجتي» — كلها لغةٌ واحدة: «ربِّ، أُكرّمُ عطاءك.»"
+  },
+  "quiz": [
+    {
+      "id": 1,
+      "question": {
+        "tr": "«Yiyin için; ama israf etmeyin. Çünkü O, müsrifleri sevmez» ayeti hangi sure ve ayettedir?",
+        "en": "In which surah and verse does Allah say to eat and drink but not be wasteful — He does not like those who waste (as cited in the text)?",
+        "es": "¿Dónde está 7:31 sobre no desperdiciar?",
+        "pt": "Onde está 7:31 sobre não desperdiçar?",
+        "nl": "Waar staat 7:31 over niet verspillen?",
+        "de": "Wo steht 7:31 über kein Verschwenden?",
+        "ku": "«Bixwin ve vexwin; lê fêrçûnî nekin» di kîjan sure û ayetê de ye?",
+        "ckb": "«بخۆن و بیخۆنەوە؛ بەڵام فیڕۆش مەکەن» لە کام سورەت و ئایەتدایە؟",
+        "ar": "في أي سورة وآية ﴿وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾؟"
+      },
+      "options": [
+        {
+          "tr": "A'râf 7:31",
+          "en": "Al-A'raf 7:31",
+          "es": "Al-A'raf 7:31",
+          "pt": "Al-A'raf 7:31",
+          "nl": "Al-A'raf 7:31",
+          "de": "Al-A'raf 7:31",
+          "ku": "A'râf 7:31",
+          "ckb": "ئەراف ٣١",
+          "ar": "الأعراف ٣١"
+        },
+        {
+          "tr": "Bakara 2:31",
+          "en": "Al-Baqarah 2:31",
+          "es": "Al-Baqarah 2:31",
+          "pt": "Al-Baqarah 2:31",
+          "nl": "Al-Baqarah 2:31",
+          "de": "Al-Baqarah 2:31",
+          "ku": "Bekere 2:31",
+          "ckb": "بەقەرە ٣١",
+          "ar": "البقرة ٣١"
+        },
+        {
+          "tr": "Tevbe 9:31",
+          "en": "At-Tawbah 9:31",
+          "es": "At-Tawbah 9:31",
+          "pt": "At-Tawbah 9:31",
+          "nl": "At-Tawbah 9:31",
+          "de": "At-Tawbah 9:31",
+          "ku": "Tevbe 9:31",
+          "ckb": "تەوبە ٣١",
+          "ar": "التوبة ٣١"
+        },
+        {
+          "tr": "Yûnus 10:31",
+          "en": "Yunus 10:31",
+          "es": "Yunus 10:31",
+          "pt": "Yunus 10:31",
+          "nl": "Yunus 10:31",
+          "de": "Yunus 10:31",
+          "ku": "Yûnus 10:31",
+          "ckb": "یونس ٣١",
+          "ar": "يونس ٣١"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": {
+        "tr": "«Onlar harcadıkları zaman ne israf ederler ne de cimrilik ederler; ikisi arasında bir ölçü üzeredirler» ayeti hangi surededir?",
+        "en": "In which surah is the verse about spending without extravagance or miserliness (as cited in the text)?",
+        "es": "¿En qué sura está 25:67?",
+        "pt": "Em qual sura está 25:67?",
+        "nl": "In welke soera staat 25:67?",
+        "de": "In welcher Sure steht 25:67?",
+        "ku": "«Ne fêrçûnî ne jî bixil» di kîjan sure de ye?",
+        "ckb": "«نە فیڕۆش و نە خەسیس» لە کام سورەتدایە؟",
+        "ar": "في أي سورة ﴿لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا﴾؟"
+      },
+      "options": [
+        {
+          "tr": "Furkân",
+          "en": "Al-Furqan",
+          "es": "Al-Furqan",
+          "pt": "Al-Furqan",
+          "nl": "Al-Furqan",
+          "de": "Al-Furqan",
+          "ku": "Furkan",
+          "ckb": "فورقان",
+          "ar": "الفرقان"
+        },
+        {
+          "tr": "Nûh",
+          "en": "Nuh",
+          "es": "Nuh",
+          "pt": "Nuh",
+          "nl": "Nuh",
+          "de": "Nuh",
+          "ku": "Nûh",
+          "ckb": "نووح",
+          "ar": "نوح"
+        },
+        {
+          "tr": "Kasas",
+          "en": "Al-Qasas",
+          "es": "Al-Qasas",
+          "pt": "Al-Qasas",
+          "nl": "Al-Qasas",
+          "de": "Al-Qasas",
+          "ku": "Kasas",
+          "ckb": "قەسەس",
+          "ar": "القصص"
+        },
+        {
+          "tr": "Ahzâb",
+          "en": "Al-Ahzab",
+          "es": "Al-Ahzab",
+          "pt": "Al-Ahzab",
+          "nl": "Al-Ahzab",
+          "de": "Al-Ahzab",
+          "ku": "Ahzab",
+          "ckb": "ئەحزاب",
+          "ar": "الأحزاب"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": {
+        "tr": "Metne göre israf yalnızca neyle sınırlı değildir?",
+        "en": "According to the text, waste is not limited to what alone?",
+        "es": "¿El desperdicio no es solo qué?",
+        "pt": "O desperdício não é só o quê?",
+        "nl": "Verspilling is niet alleen wat?",
+        "de": "Verschwendung ist nicht nur was?",
+        "ku": "Li gorî nivîsê fêrçûnî tenê bi çi ve sînordar nîne?",
+        "ckb": "بەپێی دەقەکە فیڕۆشتن تەنها بە چی سنووردار ناکرێت؟",
+        "ar": "أيُّ مظهرٍ للإسراف ذُكر في النص بخلافِ الطعامِ المُهملِ فقط؟"
+      },
+      "options": [
+        {
+          "tr": "Yalnızca çöpe dökülen yemek",
+          "en": "Only food thrown in the trash",
+          "es": "Solo comida a la basura",
+          "pt": "Só comida no lixo",
+          "nl": "Alleen eten in de prullenbak",
+          "de": "Nur Essen im Müll",
+          "ku": "Tenê xwarina li çopê",
+          "ckb": "تەنها خواردن لە زبڵ",
+          "ar": "الطعام المرمي فقط"
+        },
+        {
+          "tr": "Yalnızca oruç bozmak",
+          "en": "Only breaking a fast incorrectly",
+          "es": "Solo romper ayuno",
+          "pt": "Só quebrar jejum",
+          "nl": "Alleen vasten breken",
+          "de": "Nur Fasten brechen",
+          "ku": "Tenê şikandina rojî",
+          "ckb": "تەنها شکاندنی ڕۆژوو",
+          "ar": "إفطارٌ خاطئ فقط"
+        },
+        {
+          "tr": "Yalnızca su içmemek",
+          "en": "Only not drinking water",
+          "es": "Solo no beber agua",
+          "pt": "Só não beber água",
+          "nl": "Alleen geen water drinken",
+          "de": "Nur kein Wasser trinken",
+          "ku": "Tenê av vexwarinê nekirin",
+          "ckb": "تەنها نەخواردنەوەی ئاو",
+          "ar": "عدم شرب الماء فقط"
+        },
+        {
+          "tr": "Yalnızca namazı terk etmek",
+          "en": "Only abandoning prayer",
+          "es": "Solo dejar oración",
+          "pt": "Só abandonar oração",
+          "nl": "Alleen gebed laten",
+          "de": "Nur Gebet aufgeben",
+          "ku": "Tenê nimêjê berdan",
+          "ckb": "تەنها جێهێشتنی نوێژ",
+          "ar": "ترك الصلاة فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": {
+        "tr": "7:31'de Âdemoğullarına hitap edilirken aşağıdakilerden hangisi de birlikte zikredilir?",
+        "en": "In 7:31, alongside eating and drinking without excess, what else is mentioned for the children of Adam?",
+        "es": "En 7:31, además de comer, ¿qué más?",
+        "pt": "Em 7:31, além de comer, o quê mais?",
+        "nl": "In 7:31 naast eten, wat nog meer?",
+        "de": "In 7:31 neben Essen, was noch?",
+        "ku": "Di 7:31 de ji bilî xwarinê çi din jî hatiye gotin?",
+        "ckb": "لە ٣١ی ٧دا جگە لە خواردنەوە چی تر هاتووە؟",
+        "ar": "في ٣١ من الأعراف ماذا ذُكر مع الأكل والشرب؟"
+      },
+      "options": [
+        {
+          "tr": "Her mescide giderken süslenmek (zeinet)",
+          "en": "Taking adornment at every masjid",
+          "es": "Adorno en cada mezquita",
+          "pt": "Adorno em cada mesquita",
+          "nl": "Sieraden bij elke moskee",
+          "de": "Schmuck zu jeder Moschee",
+          "ku": "Li her mizgeftê xweşik kirin",
+          "ckb": "ڕازاوەکردن لە هەر مزگەوتێک",
+          "ar": "الزينة عند كل مسجد"
+        },
+        {
+          "tr": "Sadece oruç tutmak",
+          "en": "Only fasting",
+          "es": "Solo ayuno",
+          "pt": "Só jejum",
+          "nl": "Alleen vasten",
+          "de": "Nur Fasten",
+          "ku": "Tenê rojî",
+          "ckb": "تەنها ڕۆژوو",
+          "ar": "الصوم فقط"
+        },
+        {
+          "tr": "Sadece hac ibadeti",
+          "en": "Only Hajj worship",
+          "es": "Solo hajj",
+          "pt": "Só hajj",
+          "nl": "Alleen hadj",
+          "de": "Nur Haddsch",
+          "ku": "Tenê hec",
+          "ckb": "تەنها حەج",
+          "ar": "الحج فقط"
+        },
+        {
+          "tr": "Sadece zekât vermek",
+          "en": "Only giving zakat",
+          "es": "Solo zakat",
+          "pt": "Só zakat",
+          "nl": "Alleen zakat",
+          "de": "Nur Zakat",
+          "ku": "Tenê zekat",
+          "ckb": "تەنها زەکات",
+          "ar": "الزكاة فقط"
+        }
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": {
+        "tr": "Metne göre aşağıdakilerden hangisi yanlıştır?",
+        "en": "According to the text, which of the following is FALSE?",
+        "es": "¿Cuál es FALSA según el texto?",
+        "pt": "Qual é FALSA segundo o texto?",
+        "nl": "Welke is ONWAAR volgens de tekst?",
+        "de": "Welche Aussage ist laut Text FALSCH?",
+        "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
+        "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
+        "ar": "أيُّ الآتي باطلٌ وفق النص؟"
+      },
+      "options": [
+        {
+          "tr": "25:67, harcamada iki uçtan kaçınmayı öğütler",
+          "en": "25:67 teaches avoiding both extremes in spending",
+          "es": "25:67 evita extremos",
+          "pt": "25:67 evita extremos",
+          "nl": "25:67 vermijdt uitersten",
+          "de": "25:67 meidet Extreme",
+          "ku": "25:67 du dawî dûr dixe",
+          "ckb": "٦٧ی ٢٥ دوو لایەن دوور دەکاتەوە",
+          "ar": "٦٧ يتوسط في الإنفاق"
+        },
+        {
+          "tr": "Metin, yemek ve ibadet arasında bağ kurar",
+          "en": "The text links eating and worship",
+          "es": "Comida y culto",
+          "pt": "Comida e culto",
+          "nl": "Eten en aanbidding",
+          "de": "Essen und Gottesdienst",
+          "ku": "Nivîs xwarin û ibadetê girê dide",
+          "ckb": "دەقەکە خواردن و عیبادەت دەگەڕێت",
+          "ar": "النص يربط الأكل بالعبادة"
+        },
+        {
+          "tr": "Metin, Allah'ın müsrifleri sevdiğini kesin olarak bildirir",
+          "en": "The text states Allah loves those who waste",
+          "es": "El texto dice que Allah ama a derrochadores",
+          "pt": "O texto diz que Allah ama desperdiçadores",
+          "nl": "Tekst zegt Allah houdt van verspillers",
+          "de": "Text sagt Allah liebt Verschwender",
+          "ku": "Nivîs dibêje Allah fêrçûnî hez dike",
+          "ckb": "دەقەکە دەڵێت اللە خۆشدەوێت لە فیڕۆشەکان",
+          "ar": "النص يقر بحب الله للمسرفين"
+        },
+        {
+          "tr": "İsraf, metinde yalnızca tabağa düşmanlık etmek olarak tanımlanmaz",
+          "en": "The text does not define waste as merely hating one's plate",
+          "es": "No es odiar el plato",
+          "pt": "Não é odiar o prato",
+          "nl": "Niet het bord haten",
+          "de": "Nicht den Teller hassen",
+          "ku": "Ne wateya nefreta tabaqê ye",
+          "ckb": "نەفڕێنی قاپ ناکات بە فیڕۆشتن",
+          "ar": "الإسراف ليس عداءً للصحن فقط"
+        }
+      ],
+      "correct": 2
+    }
+  ],
+  "reflection": {
+    "tr": "Bugün bir öğünde tabağını küçült, suyunu israf etme — sonra içinden bir cümle geçsin: «Bu da ibadetin telvesi olabilir.» Ramazan, sofrayı da terbiye eder.",
+    "en": "Today, take a smaller plate for one meal, waste no water — then let one sentence pass through you: \"This too can be the whisper of worship.\" Ramadan disciplines the table as well.",
+    "es": "Hoy, tome un plato más pequeño para una comida, no desperdicie agua y luego deje pasar una frase a través de usted: \"Esto también puede ser el susurro de la adoración\". Ramadán también disciplina la mesa.",
+    "pt": "Hoje, pegue um prato menor para uma refeição, não desperdice água – então deixe uma frase passar por você: “Isso também pode ser o sussurro da adoração”. O Ramadã também disciplina a mesa.",
+    "nl": "Neem vandaag een kleiner bord voor één maaltijd, verspil geen water en laat dan één zin door je heen gaan: 'Ook dit kan het gefluister van aanbidding zijn.' Ramadan disciplineert ook de tafel.",
+    "de": "Nehmen Sie heute für eine Mahlzeit einen kleineren Teller, verschwenden Sie kein Wasser – und lassen Sie dann einen Satz durch sich gehen: „Auch dies kann das Flüstern der Anbetung sein.“ Ramadan diszipliniert auch den Tisch.",
+    "ku": "Îro, ji bo yek xwarinê firaxek piçûktir hildin, avê winda nekin - wê hingê bila hevokek ji we re derbas bibe: \"Ev jî dikare bibe pistîna îbadetê.\" Remezan sifreyê jî terbiye dike.",
+    "ckb": "ئەمڕۆ قاپێکی بچووکتر، ئاو فیڕۆ مەکە — ڕەمەزان سفرەش ڕێکدەخات.",
+    "ar": "اليوم صغّرْ قدرَ طعامٍ، ولا تُهْرِقِ الماءَ — ثم مرّ في قلبك: «هذا أيضاً من أدبِ العبادة». رمضان يؤدّبُ السفرة."
+  }
+}
