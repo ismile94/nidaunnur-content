@@ -2,6 +2,8 @@
 
 Bu klasör GitHub'a yüklenip [https://github.com/ismile94/nidaunnur-content](https://github.com/ismile94/nidaunnur-content) reposunda yayınlanır. Uygulama içeriği JSDelivr CDN üzerinden çeker.
 
+**Destek (Nida uygulaması + bu içerik):** [SUPPORT.md](SUPPORT.md) — App Store **Support URL** için: `https://github.com/ismile94/nidaunnur-content/blob/main/SUPPORT.md`
+
 ## Yapı
 
 - `manifest.json` – Tüm resimlerin listesi (dil, tarih aralığı, URL)
