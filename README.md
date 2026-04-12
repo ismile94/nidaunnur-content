@@ -2,7 +2,7 @@
 
 Bu klasör GitHub'a yüklenip [https://github.com/ismile94/nidaunnur-content](https://github.com/ismile94/nidaunnur-content) reposunda yayınlanır. Uygulama içeriği JSDelivr CDN üzerinden çeker.
 
-**Destek (Nida uygulaması + bu içerik):** [SUPPORT.md](SUPPORT.md) — App Store **Support URL** için: `https://github.com/ismile94/nidaunnur-content/blob/main/SUPPORT.md`
+**Destek (Nida uygulaması + bu içerik):** [SUPPORT.md](SUPPORT.md) — İngilizce, Türkçe, Arapça, Portekizce, İspanyolca, Almanca, Flemenkçe, Kürtçe (Kurmancî / Soranî). App Store **Support URL:** `https://github.com/ismile94/nidaunnur-content/blob/main/SUPPORT.md`
 
 ## Yapı
 
