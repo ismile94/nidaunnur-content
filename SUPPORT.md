@@ -7,6 +7,8 @@ The Nida app UI is available in: **English, Turkish, Arabic, Portuguese, Spanish
 **App Store Support URL:**  
 `https://github.com/ismile94/nidaunnur-content/blob/main/SUPPORT.md`
 
+**Privacy Policy (9 languages):** [PRIVACY.md](PRIVACY.md) — `https://github.com/ismile94/nidaunnur-content/blob/main/PRIVACY.md`
+
 ---
 
 ## English

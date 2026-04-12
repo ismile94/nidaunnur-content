@@ -4,6 +4,8 @@ Bu klasör GitHub'a yüklenip [https://github.com/ismile94/nidaunnur-content](ht
 
 **Destek (Nida uygulaması + bu içerik):** [SUPPORT.md](SUPPORT.md) — İngilizce, Türkçe, Arapça, Portekizce, İspanyolca, Almanca, Flemenkçe, Kürtçe (Kurmancî / Soranî). App Store **Support URL:** `https://github.com/ismile94/nidaunnur-content/blob/main/SUPPORT.md`
 
+**Gizlilik politikası (9 dil):** [PRIVACY.md](PRIVACY.md) — App Store **Privacy Policy URL:** `https://github.com/ismile94/nidaunnur-content/blob/main/PRIVACY.md`
+
 ## Yapı
 
 - `manifest.json` – Tüm resimlerin listesi (dil, tarih aralığı, URL)
