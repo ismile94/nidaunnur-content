@@ -10,7 +10,8 @@
     "de": "Krankheiten des Herzens",
     "ku": "Nexweşiyên Dil",
     "ckb": "نەخۆشییەکانی دڵ",
-    "ar": "أمراضُ القلوب"
+    "ar": "أمراضُ القلوب",
+    "fr": "Maladies du coeur"
   },
   "content": {
     "tr": "Kalp hastalıkları; sadece damar tıkanıklığı değil — kibir, haset, riya, kin ve «ben haklıyım» inatçılığıdır. İslam tıbbında kalp, göğsün solunda değil; niyetin, bakışın ve sessiz öfkenin merkezindedir; tedavisi de sadece ilaçla değil, tövbe ve huşû ile olur.\n\nAllah Teâlâ münafiklikle ilişkilenen bir kalp tablosu çizer:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ﴾**\n**«Kalplerinde hastalık vardır; Allah da onların hastalığını artırdı. Yalan söyledikleri için onlar için acı bir azap vardır.»**\n*(Bakara 2:10 — ayetin öncesinde kalpleri mühürlü olanlar anlatılır.)*\n\nTemizliğe çağıran bir başka ayet şöyle seslenir:\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ۝ وَقَدْ خَابَ مَن دَسَّاهَا﴾**\n**«Onu (kalbi) arındıran kurtuluşa ermiştir; onu (günaha) gömen kimse ise ziyana uğramıştır.»**\n*(Şems 91:9-10)*\n\nPeygamberimiz ﷺ ise şöyle buyurur:\n\n**«أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ أَلَا وَهِيَ الْقَلْبُ»**\n**«Dikkat edin! Bedende bir et parçası vardır; o düzelince bütün beden düzelir; o bozulunca bütün beden bozulur. Dikkat edin! O kalptir.»**\n*(Buhârî, Müslim — «إنما الأعمال بالنيات» hadisinden önce gelen metinle de bilinir.)*\n\nBugün bir kin, bir küçümseme veya bir gösteriş — kalp muayenesinin «ağrı» noktalarıdır; teşhis, sessizlikte başlar.",
@@ -21,7 +22,8 @@
     "de": "Herzkrankheiten sind nicht nur Arterien — es sind Hochmut, Neid, Prahlerei und Groll. Im Islam ist das Herz Zentrum der Absicht; Heilung ist Reue und Demut.\n\nAllah sagt:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ ...﴾**\n*(Al-Baqarah 2:10)*\n\nUnd Reinigung:\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ...﴾**\n*(Ash-Shams 91:9-10)*\n\nUnser Prophet ﷺ:\n\n**«إن في الجسد مضغة ... ألا وهي القلب»**\n*(Bukhari, Muslim)*\n\nHeute: Groll oder Prahlerei — Herzeichen.",
     "ku": "Nexweşiyên dil tenê venayên xwînê nîn in — serbilindî, çavnebarî, serfirazî û kin in. Di îslamê de dil navenda niyetê ye; çareşî tövbe û nizmî ye.\n\nAllah Teala wiha dibêje:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ ...﴾**\n*(Bekara 2:10)*\n\nÛ paqijkirin:\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ...﴾**\n*(Şems 91:9-10)*\n\nPêxember ﷺ:\n\n**«إن في الجسد مضغة ... ألا وهي القلب»**\n*(Buxarî, Muslîm)*\n\nÎro kin an serbilindî — nîşaneyên dil.",
     "ckb": "نەخۆشییەکانی دڵ تەنها تەنگیی ئەژنۆ نییە — بەڵکوو خۆبەرزکردنەوە، چاوبرسی، خۆپیشاندان و ڕەقی. لە ئیسلامدا دڵ ناوەندی نیەتە؛ چارەسەر تۆبە و نزمبوونەوەیە.\n\nاللە دەفەرموێت:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ ...﴾**\n*(بەقەرە: ١٠)*\n\nو پاککردنەوە:\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ...﴾**\n*(شەمس: ٩-١٠)*\n\nپێغەمبەر ﷺ:\n\n**«ألا وإن في الجسد مضغة إذا صلحت صلح الجسد كله ... ألا وهي القلب»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ ڕەقی یان خۆپیشاندان — نیشانەی دڵ.",
-    "ar": "أمراضُ القلوب ليست انسدادَ شرايين فقط — إنها الكِبرُ والحسدُ والرياءُ والبغضُ وعِنادُ «أنا على حق». في خطابِ الإسلامِ القلبُ مركزُ النيةِ والنظرةِ والغضبِ الصامتِ؛ شفاؤه بالتوبةِ والخشوعِ لا بالحبْرِ وحده.\n\nيقول الله تعالى:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ﴾**\n*(البقرة: ١٠)*\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ۝ وَقَدْ خَابَ مَن دَسَّاهَا﴾**\n*(الشمس: ٩-١٠)*\n\nوقال النبي ﷺ:\n\n**«ألا وإن في الجسد مضغة إذا صلحت صلح الجسد كله وإذا فسدت فسد الجسد كله ألا وهي القلب»**\n*(متفق عليه)*\n\nاليوم حِقدٌ أو استعلاءٌ أو سُمْعةٌ — مواضعُ لمسِ القلب؛ والتشخيصُ يبدأُ بصمتِ المواجهةِ مع النفس."
+    "ar": "أمراضُ القلوب ليست انسدادَ شرايين فقط — إنها الكِبرُ والحسدُ والرياءُ والبغضُ وعِنادُ «أنا على حق». في خطابِ الإسلامِ القلبُ مركزُ النيةِ والنظرةِ والغضبِ الصامتِ؛ شفاؤه بالتوبةِ والخشوعِ لا بالحبْرِ وحده.\n\nيقول الله تعالى:\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ﴾**\n*(البقرة: ١٠)*\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ۝ وَقَدْ خَابَ مَن دَسَّاهَا﴾**\n*(الشمس: ٩-١٠)*\n\nوقال النبي ﷺ:\n\n**«ألا وإن في الجسد مضغة إذا صلحت صلح الجسد كله وإذا فسدت فسد الجسد كله ألا وهي القلب»**\n*(متفق عليه)*\n\nاليوم حِقدٌ أو استعلاءٌ أو سُمْعةٌ — مواضعُ لمسِ القلب؛ والتشخيصُ يبدأُ بصمتِ المواجهةِ مع النفس.",
+    "fr": "Les maladies du cœur ne sont pas seulement des artères obstruées – elles sont aussi de l’arrogance, de l’envie, de l’éclat, de la rancune et un « j’ai raison » obstiné. Dans la « médecine » de l'Islam, le cœur n'est pas seulement à gauche de la poitrine ; c'est le centre de l'intention, du regard et de la colère silencieuse ; la guérison ne vient pas seulement par des pilules mais aussi par le repentir et l'humilité.\n\nAllah le Très-Haut peint des cœurs liés à l'hypocrisie :\n\n**﴿فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ﴾**\n**\"Il y a une maladie dans leurs cœurs, alors Allah a accru leur maladie ; et pour eux il y a un châtiment douloureux parce qu'ils mentaient.\"**\n*(Al-Baqarah 2 : 10 — contexte : ceux dont le cœur est scellé.)*\n\nDes versets appelant à la pureté disent :\n\n**﴿قَدْ أَفْلَحَ مَن زَكَّاهَا ۝ وَقَدْ خَابَ مَن دَسَّاهَا﴾**\n** \" Celui qui le purifie a réussi ; et celui qui le couvre de péché a échoué. \" **\n*(Ash-Shams 91 : 9-10)*\n\nNotre Prophète ﷺ a dit :\n\n**«أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ ... أَلَا وَهِيَ الْقَلْبُ»**\n** \"Attention ! Dans le corps il y a un morceau de chair — s'il est sain, tout le corps est sain ; s'il est corrompu, tout le corps est corrompu. Attention ! C'est le cœur. \"**\n*(Bukhari, Muslim — souvent cité avec le hadith des intentions.)*\n\nAujourd’hui, une rancune, un ricanement ou une frimerie – ce sont des points sensibles lors d’un contrôle cardiaque ; le diagnostic commence en silence."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure steht «in ihren Herzen ist Krankheit»?",
         "ku": "Aiyeta «Di dilên wan de nexweşî hebû; Allah jî zêde kir» di kîjan sûreyê de ye?",
         "ckb": "ئایەتی «لە دڵەکانیاندا نەخۆشی هەبوو؛ اللەش زیای کرد» لە کام سورەتدایە؟",
-        "ar": "في أيِّ سورةٍ ﴿في قلوبهم مرض﴾ مع ﴿فزادهم الله مرضا﴾؟"
+        "ar": "في أيِّ سورةٍ ﴿في قلوبهم مرض﴾ مع ﴿فزادهم الله مرضا﴾؟",
+        "fr": "Dans quelle sourate se trouve le verset « Dans leurs cœurs est la maladie, et Allah a accru leur maladie » ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-Baqarah",
           "ku": "Bekara",
           "ckb": "بەقەرە",
-          "ar": "البقرة"
+          "ar": "البقرة",
+          "fr": "Al-Baqarah"
         },
         {
           "tr": "İhlas",
@@ -58,7 +62,8 @@
           "de": "Al-Ikhlas",
           "ku": "Îxlas",
           "ckb": "ئیخلاس",
-          "ar": "الإخلاص"
+          "ar": "الإخلاص",
+          "fr": "Al-Ikhlas"
         },
         {
           "tr": "Nas",
@@ -69,7 +74,8 @@
           "de": "An-Nas",
           "ku": "Nas",
           "ckb": "ناس",
-          "ar": "الناس"
+          "ar": "الناس",
+          "fr": "An-Nas"
         },
         {
           "tr": "Kevser",
@@ -80,7 +86,8 @@
           "de": "Al-Kawthar",
           "ku": "Kevser",
           "ckb": "کەوسەر",
-          "ar": "الكوثر"
+          "ar": "الكوثر",
+          "fr": "Al-Kawthar"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "Worauf bezieht sich «sie» in Asch-Schams 91:9-10?",
         "ku": "Di Şems 91:9-10 de «ew» çi ye?",
         "ckb": "لە شەمس ٩-١٠دا «ئەو» بۆ چی دەگەڕێتەوە؟",
-        "ar": "من المقصود بضمير ﴿زكاها﴾ و﴿دساها﴾ في الشمس ٩-١٠؟"
+        "ar": "من المقصود بضمير ﴿زكاها﴾ و﴿دساها﴾ في الشمس ٩-١٠؟",
+        "fr": "Dans Ash-Shams 91 :9-10, à quoi fait référence « cela » dans « celui qui le purifie a réussi » ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Die Seele / das Herz (im Tefsir)",
           "ku": "Nefs / dil (li gorî tefsîrê)",
           "ckb": "نەفس / دڵ (بەپێی تەفسیر)",
-          "ar": "النفسُ والقلبُ عند أرباب التفسير"
+          "ar": "النفسُ والقلبُ عند أرباب التفسير",
+          "fr": "L'âme/cœur (comme l'interprètent la plupart des exégètes)"
         },
         {
           "tr": "Sadece güneş",
@@ -119,7 +128,8 @@
           "de": "Nur die Sonne",
           "ku": "Tenê roj",
           "ckb": "تەنها خۆر",
-          "ar": "الشمسُ فقط"
+          "ar": "الشمسُ فقط",
+          "fr": "Seulement le soleil"
         },
         {
           "tr": "Sadece deve",
@@ -130,7 +140,8 @@
           "de": "Nur das Kamel",
           "ku": "Tenê heştir",
           "ckb": "تەنها وشتر",
-          "ar": "الناقةُ فقط"
+          "ar": "الناقةُ فقط",
+          "fr": "Seul le chameau"
         },
         {
           "tr": "Mal birikintisi",
@@ -141,7 +152,8 @@
           "de": "Nur Ersparnisse",
           "ku": "Tenê komkirî",
           "ckb": "تەنها پاشەکەوتی پارە",
-          "ar": "الكنزُ فقط"
+          "ar": "الكنزُ فقط",
+          "fr": "Économies uniquement"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Was betont der Hadith über das «Stück Fleisch» / Herz?",
         "ku": "Hedîsa «parçeya goştê di laş de — dil» çi bilind dike?",
         "ckb": "حەدیسی «پارچە گۆشتی لە جەستە — دڵ» چی دەگێڕێتەوە؟",
-        "ar": "ماذا يقرر حديث «مضغةٌ في الجسد»؟"
+        "ar": "ماذا يقرر حديث «مضغةٌ في الجسد»؟",
+        "fr": "Que souligne le hadith sur le « morceau de chair » / cœur ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Herz bestimmt Haltung und Leben",
           "ku": "Tenduristiya dil bandorê li tevgerê dike",
           "ckb": "تەندروستی دڵ کاریگەری لەسەر کردار هەیە",
-          "ar": "سلامةُ القلبِ أساسُ سلوكٍ صالح"
+          "ar": "سلامةُ القلبِ أساسُ سلوكٍ صالح",
+          "fr": "La santé du cœur se reflète dans la conduite et l'ordre de la vie"
         },
         {
           "tr": "Fizik kalp ile manevî kalbi tamamen aynı sayar",
@@ -180,7 +194,8 @@
           "de": "Physisch und geistig identisch",
           "ku": "Dilê fizîkî û manevî yek dibîne",
           "ckb": "دڵی جەستەیی و ڕۆحی یەک دەزانێت",
-          "ar": "تحديدٌ عينيٌ للقلب"
+          "ar": "تحديدٌ عينيٌ للقلب",
+          "fr": "Associe pleinement le cœur physique et spirituel"
         },
         {
           "tr": "Ameliyatla kalp değiştirmeyi emreder",
@@ -191,7 +206,8 @@
           "de": "Gebietet Transplantation",
           "ku": "Ferman dike ku dil were guhertin",
           "ckb": "فەرمانی گۆڕینی دڵ",
-          "ar": "وجوبُ زرعِ القلب"
+          "ar": "وجوبُ زرعِ القلب",
+          "fr": "Ordonne une transplantation cardiaque"
         },
         {
           "tr": "Sadece çocuklara hitap eder",
@@ -202,7 +218,8 @@
           "de": "Nur an Kinder",
           "ku": "Tenê ji bo zarokan e",
           "ckb": "تەنها بۆ منداڵان",
-          "ar": "خطابٌ للصغار فقط"
+          "ar": "خطابٌ للصغار فقط",
+          "fr": "S'adresse uniquement aux enfants"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Was nennt der Text zur Heilung des Herzens?",
         "ku": "Li gorî nivîsê ji bo çareşkirina nexweşiyên dil çi tê navêkirin?",
         "ckb": "بەپێی دەقەکە بۆ چارەسەرکردنی نەخۆشی دڵ چی دەگوترێت؟",
-        "ar": "ما العلاجُ المذكور في النص لأمراض القلب؟"
+        "ar": "ما العلاجُ المذكور في النص لأمراض القلب؟",
+        "fr": "Selon le texte, qu'est-ce qui est directement mentionné pour guérir les maladies cardiaques ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Reue und Demut vor Allah",
           "ku": "Tövbe û nizmî beramberî Allah",
           "ckb": "تۆبە و نزمبوونەوە لەبەردەم اللە",
-          "ar": "التوبةُ والخشوعُ"
+          "ar": "التوبةُ والخشوعُ",
+          "fr": "Repentir et humilité devant Allah"
         },
         {
           "tr": "Sadece spor ve diyet",
@@ -241,7 +260,8 @@
           "de": "Nur Sport und Diät",
           "ku": "Tenê werzîş û xwarin",
           "ckb": "تەنها وەرزش و ڕژیم",
-          "ar": "رياضةٌ وحِمْيةٌ فقط"
+          "ar": "رياضةٌ وحِمْيةٌ فقط",
+          "fr": "Seulement du sport et de l'alimentation"
         },
         {
           "tr": "Kalbi cerrahi olarak çıkarmayı",
@@ -252,7 +272,8 @@
           "de": "Herz operativ entfernen",
           "ku": "Dil bi operasyonê derxe",
           "ckb": "لابردنی دڵ بە نەشتەرگەری",
-          "ar": "استئصالُ القلب"
+          "ar": "استئصالُ القلب",
+          "fr": "Retirer chirurgicalement le cœur"
         },
         {
           "tr": "Hiçbir manevî çaba gerekmez",
@@ -263,7 +284,8 @@
           "de": "Kein spiritueller Einsatz",
           "ku": "Tu hewcedariya manevî tune",
           "ckb": "هیچ هەوڵێکی ڕۆحی پێویست نییە",
-          "ar": "لا مجهودَ روحياً"
+          "ar": "لا مجهودَ روحياً",
+          "fr": "Aucun effort spirituel nécessaire"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Herzkrankheiten nur medizinisch; Koran schweigt",
           "ku": "Nexweşiyên dil tenê pirsgirêkên damar û ritimê ne; Quran li vir naaxe",
           "ckb": "نەخۆشی دڵ تەنها کێشەی دەماری و ڕیتمە؛ قورئان لێرە ناڵێت",
-          "ar": "أمراضُ القلب طبيةٌ فقط بلا خطابٍ قرآني"
+          "ar": "أمراضُ القلب طبيةٌ فقط بلا خطابٍ قرآني",
+          "fr": "Les maladies cardiaques ne sont que des problèmes de vaisseaux médicaux et de rythme ; le Coran n'en parle pas ici"
         },
         {
           "tr": "Bakara 2:10 kalplerde hastalık zikreder",
@@ -302,7 +326,8 @@
           "de": "Al-Baqarah 2:10 nennt Herzerkrankung",
           "ku": "Bekara 2:10 di dil de nexweşî dibêje",
           "ckb": "بەقەرە ١٠ نەخۆشی لە دڵدا دەگێڕێتەوە",
-          "ar": "البقرة ١٠ تذكر مرضَ القلوب"
+          "ar": "البقرة ١٠ تذكر مرضَ القلوب",
+          "fr": "Al-Baqarah 2 : 10 mentionne une maladie du cœur"
         },
         {
           "tr": "Şems suresi nefs/kalbi arındırma ve gömme temasını işler",
@@ -313,7 +338,8 @@
           "de": "Asch-Schams behandelt Reinigung der Seele",
           "ku": "Sûreya Şems pak kirin an veşartinê dibêje",
           "ckb": "سورەتی شەمس پاککردنەوە یان نوقمکردنی نەفس دەگێڕێتەوە",
-          "ar": "الشمسُ تقرر تزكيةَ النفس أو دسْيَها"
+          "ar": "الشمسُ تقرر تزكيةَ النفس أو دسْيَها",
+          "fr": "La sourate Ash-Shams traite de la purification ou de l'enterrement de l'âme/du cœur"
         },
         {
           "tr": "Hadis kalbin bütün bedene tesir ettiğini bildirir",
@@ -324,7 +350,8 @@
           "de": "Der Hadith: Herz wirkt auf den Körper",
           "ku": "Hedîs dibêje dil bandorê li hemû laşê dike",
           "ckb": "حەدیس دەڵێت دڵ کاریگەری لەسەر هەموو جەستە هەیە",
-          "ar": "الحديثُ يربطُ سلامةَ الجسد بسلامةِ القلب"
+          "ar": "الحديثُ يربطُ سلامةَ الجسد بسلامةِ القلب",
+          "fr": "Le hadith déclare que le cœur affecte tout le corps"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Bevor du heute Groll oder Hochmut leicht nimmst — innehalten. Al-Baqarah 2:10 und Herz-Hadith: Diagnose in Stille; Heilung in Reue.",
     "ku": "Berî ku îro kin, serbilindî an xwe-nîşandanê sivik bigire raweste: Bekara 2:10 û hedîsa dil — nexweşiyên dil di bêdengiyê de tên teşxîs kirin; bi tövbe çare dibînin.",
     "ckb": "پێش ئەوەی ئەمڕۆ ڕەقی یان خۆبەرزکردنەوە سووک ببینیت وەستا: بەقەرە ١٠ و حەدیسی دڵ — نەخۆشییەکانی دڵ لە بێدەنگیدا دەردەکەون؛ لە تۆبەدا چارەسەر دەبن.",
-    "ar": "قبل أن تستهِن بحقدٍ أو كِبرٍ أو رياءٍ — تمهَّلْ. ﴿في قلوبهم مرض﴾ وحديثُ «المضغة»: تشخيصُ أمراضِ القلوب في صمتِ المواجهة؛ وشفاؤها بالتوبةِ."
+    "ar": "قبل أن تستهِن بحقدٍ أو كِبرٍ أو رياءٍ — تمهَّلْ. ﴿في قلوبهم مرض﴾ وحديثُ «المضغة»: تشخيصُ أمراضِ القلوب في صمتِ المواجهة؛ وشفاؤها بالتوبةِ.",
+    "fr": "Avant de traiter une rancune, une arrogance ou de vous montrer à la légère aujourd'hui, faites une pause. Al-Baqarah 2 :10 et le hadith du cœur vous le rappellent : les maladies cardiaques sont diagnostiquées en silence ; ils trouvent le remède dans la repentance."
   }
 }

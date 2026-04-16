@@ -10,7 +10,8 @@
     "de": "Erhebung durch Bittgebet",
     "ku": "Bi dua re bilindbûn",
     "ckb": "بەرزبوونەوە بە دعاوە",
-    "ar": "الصُّعُودُ بِالدُّعَاءِ"
+    "ar": "الصُّعُودُ بِالدُّعَاءِ",
+    "fr": "Ascension par la supplication"
   },
   "content": {
     "tr": "Dua ile yükseliş; yalnızca istek listesi okumak değil — aczi kabullenip Rahman'a yönelmek, kalbi yalvarışa açmak ve «cevap»ı yalnızca maddede aramamaktır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾**\n**«Rabbiniz şöyle dedi: Bana dua edin, size cevap vereyim. Bana kulluktan büyüklenenler ise zillete düşerek cehenneme girecekler.»** *(Mü'min 40:60 — meâl özü)*\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ﴾**\n**«Kullarım sana benden sorduğunda şüphesiz ben onlara yakınım; dua edenin duasına icabet ederim. O halde onlar da bana icabet etsinler ve bana iman etsinler ki doğru yolu bulsunlar.»** *(Bakara 2:186 — meâl özü)*\n\n**﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ﴾**\n**«De ki: Allah'a dua edin ya da Rahman'a dua edin; nasıl dua ederseniz edin, güzel isimler O'nundur.»** *(İsrâ 17:110 — meâl özü)*\n\nPeygamberimiz ﷺ buyurur: **«الدُّعَاءُ هُوَ الْعِبَادَةُ»** — **«Dua, ibadetin kendisidir.»** *(Tirmizî, hasen — rivayet özeti)*\n\nBugün: dili yere değil göğe çevir — kısa bir «Yâ Allah», sessiz bir «Rabbena» bile kalbini Allah'a doğru bir nefes kadar yükseltebilir.",
@@ -21,7 +22,8 @@
     "de": "Erhebung durch Du'a: 40:60 *(Ghafir)*; 2:186 *(Al-Baqarah)*; 17:110 *(Al-Isra)*.\n\n**﴿الدعاء هو العبادة﴾** *(Tirmidhi)*\n\nHeute: ein «O Allah».",
     "ku": "Bi dua re bilindbûn ne tenê xwendina lîsteya daxwazan e — ev radestkirina xwe ya hewcedariyê û vegera ber bi Rahman ve ye.\n\n**﴿ادْعُونِي أَسْتَجِبْ لَكُمْ﴾**\n*(Mu'min 40:60)*\n\n**﴿إِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ﴾**\n*(Bekere 2:186)*\n\n**﴿ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ﴾**\n*(İsrâ 17:110)*\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»** *(Tirmizî)*\n\nÎro: devê xwe tenê ber bi erdê neke — kurt jî be «Yâ Allah».",
     "ckb": "بەرزبوونەوە بە دعاوە تەنها خوێندنەوەی لیستی داواکاری نییە — ئەمە قبوڵکردنی پێویستی، ڕووی کردنە بەرەو ڕەحمان و کردنەوەی دڵ بۆ بانگکردن.\n\nاللە دەفەرموێت:\n\n**﴿ادْعُونِي أَسْتَجِبْ لَكُمْ﴾**\n*(مۆمن: ٦٠)*\n\n**﴿إِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(بەقەرە: ١٨٦)*\n\n**﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ﴾**\n*(ئیسرا: ١١٠)*\n\nپێغەمبەر ﷺ دەفەرموێت: **«الدُّعَاءُ هُوَ الْعِبَادَةُ»** *(تیرمیزی، حەسەن)*\n\nئەمڕۆ: زمانت تەنها بەرەو زەوی مەگرە — تەنانەت «یە اللە»ی کورت یان «ڕەببەنا»ی بێدەنگیش دڵەکەت بەرز دەکاتەوە.",
-    "ar": "الصعود بالدعاء ليس تلاوةَ لائحةِ أمانٍ — إنه اعترافٌ بالفقر إلى الله، وفتحُ القلب للابتهال، وألا يُحصَرَ الإجابةُ في المادة فقط.\n\nيقول الله تعالى:\n\n**﴿ادْعُونِي أَسْتَجِبْ لَكُمْ﴾**\n*(غافر: ٦٠)*\n\n**﴿إِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(البقرة: ١٨٦)*\n\n**﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ﴾**\n*(الإسراء: ١١٠)*\n\nوقال النبي ﷺ: **«الدعاء هو العبادة»** *(الترمذي — حسن)*.\n\nاليوم لا تُوجِه اللسان إلى الأرض فقط — قد يرفع «يا الله» قلبك نحوه بلفحةِ نَفَسٍ."
+    "ar": "الصعود بالدعاء ليس تلاوةَ لائحةِ أمانٍ — إنه اعترافٌ بالفقر إلى الله، وفتحُ القلب للابتهال، وألا يُحصَرَ الإجابةُ في المادة فقط.\n\nيقول الله تعالى:\n\n**﴿ادْعُونِي أَسْتَجِبْ لَكُمْ﴾**\n*(غافر: ٦٠)*\n\n**﴿إِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(البقرة: ١٨٦)*\n\n**﴿قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ﴾**\n*(الإسراء: ١١٠)*\n\nوقال النبي ﷺ: **«الدعاء هو العبادة»** *(الترمذي — حسن)*.\n\nاليوم لا تُوجِه اللسان إلى الأرض فقط — قد يرفع «يا الله» قلبك نحوه بلفحةِ نَفَسٍ.",
+    "fr": "L'ascension par la supplication ne consiste pas simplement à lire une liste de souhaits - c'est reconnaître son besoin, se tourner vers le Très Miséricordieux, ouvrir son cœur à la supplication et ne pas limiter la « réponse » uniquement à ce qui est tangible.\n\nAllah le Très-Haut dit :\n\n**﴿Et ton Seigneur dit : Invoque-Moi ; Je vous répondrai...﴾** *(Ghafir 40:60 — signifiant résumé)*\n\n**﴿Et quand Mes serviteurs vous interrogent à mon sujet, en effet, Je suis proche. Je réponds à l'invocation du suppliant lorsqu'il M'invoque...﴾** *(Al-Baqarah 2:186 — signifiant résumé)*\n\n**﴿Dites : Invoquez Allah ou invoquez le Très Miséricordieux – quel que soit celui que vous invoquez, c'est à Lui que appartiennent les meilleurs noms.﴾** *(Al-Isra 17 : 110 – signifiant résumé)*\n\nLe Prophète ﷺ a dit : **\"Du'a est en soi un culte.\"** *(At-Tirmidhi, hasan — formulation résumée)*\n\nAujourd’hui : ne dirigez pas votre langue uniquement vers le sol – même un court « Ô Allah » ou un « Notre Seigneur » silencieux peut élever le cœur vers Lui par une respiration."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure/Aya steht «ادعوني أستجب لكم»?",
         "ku": "«Min biqîre, ez ê bersiv bidim» di kîjan sure û ayetê de ye?",
         "ckb": "«من بانگم بکەن، وەڵامتان دەدەمەوە» لە کام سورەت و ئایەتدایە؟",
-        "ar": "في أي سورة وآية ﴿ادعوني أستجب لكم﴾؟"
+        "ar": "في أي سورة وآية ﴿ادعوني أستجب لكم﴾؟",
+        "fr": "Dans quelle sourate et verset se trouve le commandement « Invoquez-moi ; je vous répondrai » ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Ghafir 40:60",
           "ku": "Mu'min 40:60",
           "ckb": "مۆمن ٦٠",
-          "ar": "غافر ٦٠"
+          "ar": "غافر ٦٠",
+          "fr": "Ghafir 40:60"
         },
         {
           "tr": "Yûnus 10:12",
@@ -58,7 +62,8 @@
           "de": "Yunus 10:12",
           "ku": "Yûnus 10:12",
           "ckb": "یونس ١٢",
-          "ar": "يونس ١٢"
+          "ar": "يونس ١٢",
+          "fr": "Yunus 10:12"
         },
         {
           "tr": "Rûm 30:60",
@@ -69,7 +74,8 @@
           "de": "Ar-Rum 30:60",
           "ku": "Rûm 30:60",
           "ckb": "ڕوم ٦٠",
-          "ar": "الروم ٦٠"
+          "ar": "الروم ٦٠",
+          "fr": "Ar-Rum 30:60"
         },
         {
           "tr": "Nahl 16:48",
@@ -80,7 +86,8 @@
           "de": "An-Nahl 16:48",
           "ku": "Nahl 16:48",
           "ckb": "نەحل ٤٨",
-          "ar": "النحل ٤٨"
+          "ar": "النحل ٤٨",
+          "fr": "An-Nahl 16:48"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "In welcher Sure steht «إني قريب أجيب دعوة الداع»?",
         "ku": "«Ez nêzî me; ez bersiva gazîker didim» di kîjan sure de ye?",
         "ckb": "«من نزیکم؛ وەڵامی بانگکراو دەدەمەوە» لە کام سورەتدایە؟",
-        "ar": "في أي سورة ﴿إني قريب أجيب دعوة الداع إذا دعان﴾؟"
+        "ar": "في أي سورة ﴿إني قريب أجيب دعوة الداع إذا دعان﴾؟",
+        "fr": "Dans quelle sourate se trouve le verset « En effet, je suis proche — je réponds au suppliant lorsqu'il appelle » ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Al-Baqarah",
           "ku": "Bekere",
           "ckb": "بەقەرە",
-          "ar": "البقرة"
+          "ar": "البقرة",
+          "fr": "Al-Baqarah"
         },
         {
           "tr": "Âl İmrân",
@@ -119,7 +128,8 @@
           "de": "Ali 'Imran",
           "ku": "Alî Imran",
           "ckb": "ئالی عمران",
-          "ar": "آل عمران"
+          "ar": "آل عمران",
+          "fr": "Ali 'Imran"
         },
         {
           "tr": "Nisâ",
@@ -130,7 +140,8 @@
           "de": "An-Nisa",
           "ku": "Nisâ",
           "ckb": "نساء",
-          "ar": "النساء"
+          "ar": "النساء",
+          "fr": "An-Nisa"
         },
         {
           "tr": "Mâide",
@@ -141,7 +152,8 @@
           "de": "Al-Ma'idah",
           "ku": "Mâide",
           "ckb": "مائیدە",
-          "ar": "المائدة"
+          "ar": "المائدة",
+          "fr": "Al-Ma'idah"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "In welcher Sammlung steht «الدعاء هو العبادة» (Tirmidhi)?",
         "ku": "«Dua îbadet e» di kîjan pirtûkê de ye?",
         "ckb": "«دعا عیبادەتە» لە کام کۆمەڵدایە؟",
-        "ar": "في أي مجموعة حديث «الدعاء هو العبادة» (غالباً الترمذي)؟"
+        "ar": "في أي مجموعة حديث «الدعاء هو العبادة» (غالباً الترمذي)؟",
+        "fr": "Dans quel recueil le hadith « Du'a est un culte » est-il le plus souvent cité (avec sa classification commune) ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "At-Tirmidhi (hasan)",
           "ku": "Tirmizî",
           "ckb": "تیرمیزی",
-          "ar": "الترمذي"
+          "ar": "الترمذي",
+          "fr": "At-Tirmidhi (hasan)"
         },
         {
           "tr": "Yalnızca Buhârî (bu lafızla müstakil bab)",
@@ -180,7 +194,8 @@
           "de": "Nur Bukhari",
           "ku": "Tenê Buxarî",
           "ckb": "تەنها بوخاری",
-          "ar": "البخاري فقط"
+          "ar": "البخاري فقط",
+          "fr": "Only Bukhari (this wording as standalone chapter)"
         },
         {
           "tr": "Yalnızca Müdevvenner",
@@ -191,7 +206,8 @@
           "de": "Nur Muwatta",
           "ku": "Tenê Muwetta",
           "ckb": "تەنها موەتتا",
-          "ar": "الموطأ فقط"
+          "ar": "الموطأ فقط",
+          "fr": "Seulement Al-Muwwatta"
         },
         {
           "tr": "Yalnızca Nesâî (bu başlıkla)",
@@ -202,7 +218,8 @@
           "de": "Nur Nasa'i",
           "ku": "Tenê Nesaî",
           "ckb": "تەنها نەسائی",
-          "ar": "النسائي فقط"
+          "ar": "النسائي فقط",
+          "fr": "Seulement Nasa'i sous ce titre"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Was betont 17:110 bei «ادعوا الله أو ادعوا الرحمن»?",
         "ku": "Di 17:110 de çi tê bilind kirin?",
         "ckb": "ئیسرا ١١٠ چی بەرز دەکاتەوە لەسەر بانگکردنی اللە یان ڕەحمان؟",
-        "ar": "ماذا يؤكد الإسراء ١١٠ في «ادعوا الله أو ادعوا الرحمن» و«له الأسماء الحسنى»؟"
+        "ar": "ماذا يؤكد الإسراء ١١٠ في «ادعوا الله أو ادعوا الرحمن» و«له الأسماء الحسنى»؟",
+        "fr": "Qu'est-ce qu'Al-Isra 17 : 110 souligne en disant qu'invoquer Allah ou Ar-Rahman – à Lui appartiennent les meilleurs noms ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Schöne Namen; ein Gott",
           "ku": "Navên xweş; yek Xwedê",
           "ckb": "ناوە جوانەکان هی ئەوەن؛ بانگکردن بە اللە یان ڕەحمان جیاکردنەوەی نییە",
-          "ar": "حسن الأسماء وأن الدعاء بلفظ الله أو الرحمن لا يفرق الذات"
+          "ar": "حسن الأسماء وأن الدعاء بلفظ الله أو الرحمن لا يفرق الذات",
+          "fr": "Cette supplication s'aligne sur les beaux noms d'Allah ; appeler Allah ou Rahman ne divise pas Son essence"
         },
         {
           "tr": "İki ayrı ilaha dua etmeyi teşvik",
@@ -241,7 +260,8 @@
           "de": "Zwei Götter",
           "ku": "Du xwedê",
           "ckb": "دوو خودا",
-          "ar": "إلهان منفصلان"
+          "ar": "إلهان منفصلان",
+          "fr": "Encourager dua à deux dieux distincts"
         },
         {
           "tr": "Duanın yasak olduğunu",
@@ -252,7 +272,8 @@
           "de": "Du'a verboten",
           "ku": "Qedexe li dua",
           "ckb": "دعا قەدەغەیە",
-          "ar": "تحريم الدعاء"
+          "ar": "تحريم الدعاء",
+          "fr": "Ce dua est interdit"
         },
         {
           "tr": "Sadece sessiz dua",
@@ -263,7 +284,8 @@
           "de": "Nur leise",
           "ku": "Tenê bê deng",
           "ckb": "تەنها بێدەنگ",
-          "ar": "الدعاء السري فقط"
+          "ar": "الدعاء السري فقط",
+          "fr": "Seulement dua silencieux"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Du'a leugnet Allah",
           "ku": "Dua Allah red dike",
           "ckb": "بەرزبوونەوە بە دعاوە واتای ڕەتکردنەوەی ڕووی کردنە بەرەو اللە و تەنها ئەنجامی دنیاوی وەک دعا دانانە",
-          "ar": "الصعود بالدعاء رفضُ القرب من الله والاكتفاء بالمادة دون قلبٍ ولا يقين"
+          "ar": "الصعود بالدعاء رفضُ القرب من الله والاكتفاء بالمادة دون قلبٍ ولا يقين",
+          "fr": "L'ascension à travers la dua signifie rejeter le recours à Allah et à Sa proximité, et ne compter que les résultats du monde comme \"dua\"."
         },
         {
           "tr": "Mü'min 40:60, duaya icabet vaadini içerir",
@@ -302,7 +326,8 @@
           "de": "40:60 verspricht Antwort",
           "ku": "40:60 soza bersivê dike",
           "ckb": "مۆمن ٦٠ بەڵێندەرەوەی وەڵامی دعا دەکات",
-          "ar": "غافر ٦٠ فيه وعدُ الإجابة"
+          "ar": "غافر ٦٠ فيه وعدُ الإجابة",
+          "fr": "Ghafir 40 :60 contient la promesse de répondre au dua"
         },
         {
           "tr": "Bakara 2:186, Allah'ın duaya yakın olduğunu bildirir",
@@ -313,7 +338,8 @@
           "de": "2:186 sagt «قريب»",
           "ku": "2:186 dibêje nêzîk",
           "ckb": "بەقەرە ١٨٦ دەڵێت نزیکە",
-          "ar": "البقرة ١٨٦ قربُ الله من الداعي"
+          "ar": "البقرة ١٨٦ قربُ الله من الداعي",
+          "fr": "Al-Baqarah 2 : 186 déclare qu'Allah est proche du suppliant"
         },
         {
           "tr": "Metin, duayı ibadet olarak nitelendiren bir rivayete işaret eder",
@@ -324,7 +350,8 @@
           "de": "Der Text verweist auf «الدعاء هو العبادة»",
           "ku": "Nivîs behsa «dua îbadet e» dike",
           "ckb": "دەقەکە ئاماژە بە «دعا عیبادەتە» دەکات",
-          "ar": "النص يشير إلى «الدعاء هو العبادة»"
+          "ar": "النص يشير إلى «الدعاء هو العبادة»",
+          "fr": "Le texte pointe vers une narration appelant au culte dua"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Heute: ein «O Allah» gen Himmel.",
     "ku": "Îro devê xwe tenê ber bi erdê neke — kurt jî be «Yâ Allah».",
     "ckb": "ئەمڕۆ زمانت تەنها بەرەو زەوی مەگرە — تەنانەت «یە اللە»ی کورت.",
-    "ar": "اليوم لا تُوجِه اللسان إلى الأرض فقط — قد يرفع «يا الله» قلبك نحوه بلفحةِ نَفَسٍ."
+    "ar": "اليوم لا تُوجِه اللسان إلى الأرض فقط — قد يرفع «يا الله» قلبك نحوه بلفحةِ نَفَسٍ.",
+    "fr": "Aujourd’hui, ne dirigez pas votre langue uniquement vers le sol – même un court « Ô Allah » ou un « Notre Seigneur » silencieux peut élever le cœur vers Lui par une respiration."
   }
 }

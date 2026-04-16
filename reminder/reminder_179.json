@@ -10,7 +10,8 @@
     "de": "Bewusstsein für Verantwortung",
     "ku": "Hişyariya Berpirsiyariyê",
     "ckb": "هۆشیاری بەرپرسیارێتی",
-    "ar": "وعيٌ بالمسؤولية"
+    "ar": "وعيٌ بالمسؤولية",
+    "fr": "Sens des responsabilités"
   },
   "content": {
     "tr": "Sorumluluk şuuru; başkası halletsin demek değil — emanet edileni zamanında yapmak, sınırını bilmek, «ben değilim» diyerek görevi savurmamak ve hesabın şahsî olduğunu unutmamaktır. İslam, özgürlüğü sorumluluktan ayırmaz; her nefs kendi yükünü taşır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْدِي لِنَفْسِهِ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n**«Kim doğru yolu bulursa yalnızca kendi lehine bulur; kim saparsa sapıklık da yalnızca kendi aleyhinedir. Hiçbir günahkâr başkasının günahını yüklenmez.»**\n*(İsrâ 17:15 — şahsî sorumluluk ilkesi.)*\n\nYüklenilen «amanet»in ağırlığı başka bir ayette şöyle dile getirilir:\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا﴾**\n**«Şüphesiz biz o ağır emaneti göklere, yere ve dağlara arz ettik; onlar onu yüklenmeyi reddettiler ve ondan korktular; insan ise onu yüklendi. Şüphesiz o çok zulmedici, çok cahildi.»**\n*(Ahzâb 33:72 — insana düşen sorumluluğun ağırlığına işaret.)*\n\nPeygamberimiz ﷺ herkesin önünde bir çoban olduğunu bildirir:\n\n**«كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ»**\n**«Hepiniz çobansınız ve hepiniz güttüğünüz sürüden sorumlusunuz.»**\n*(Buhârî, Müslim — Hz. Abdullah b. Ömer r.a. rivayetiyle)*\n\nBugün bir görev, bir çocuk, bir ekip veya bir söz — sorumluluk şuuru, «benim payım» demeyi bilmektir.",
@@ -21,7 +22,8 @@
     "de": "Verantwortungsbewusstsein heißt nicht «andere erledigen es» — es heißt pünktlich liefern, Grenzen kennen und nicht «nicht mein Job» sagen. Der Islam trennt Freiheit nicht von Pflicht; jede Seele trägt ihre Last.\n\nAllah sagt:\n\n**﴿مَنِ اهْتَدَىٰ ... وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n*(Al-Isra 17:15)*\n\nUnd über die Last der Amanah:\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ ... وَحَمَلَهَا الْإِنسَانُ﴾**\n*(Al-Ahzab 33:72)*\n\nUnser Prophet ﷺ:\n\n**«كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ»**\n*(Bukhari, Muslim)*\n\nHeute: Aufgabe, Kind, Team — «mein Anteil».",
     "ku": "Hişyariya berpirsiyariyê ne «kesî din bike» ye — demê xwe de kirin, sînor nasîn û bi «ne karê min e» mil neke. Îslam azadî ji berpirsiyariyê ve cuda nake; her giyan barê xwe dibire.\n\nAllah Teala wiha dibêje:\n\n**﴿مَنِ اهْتَدَىٰ ... وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n*(Îsra 17:15)*\n\nÛ li ser giraniya amanetê:\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ ... وَحَمَلَهَا الْإِنسَانُ﴾**\n*(Ahzab 33:72)*\n\nPêxember ﷺ:\n\n**«كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ»**\n*(Buxarî, Muslîm)*\n\nÎro kar, zarok, ekip an peyv — berpirsiyarî «parça ya min» nasîn e.",
     "ckb": "هۆشیاری بەرپرسیارێتی واتای «کەسێکی تر بیگرێتەوە» نییە — بەڵکوو ئەوەی پێسپێردراوە بە کات ئەنجام بدەیت، سنوور بزانیت و بە «کار من نییە» خۆت ڕەوا نەکەیتەوە و لە بیرت نەچێت کە حیساب کەسییە. ئیسلام ئازادی لە بەرپرسیارێتی جیا ناکاتەوە؛ هەر گیانێک بارەکەی خۆی هەڵدەگرێت.\n\nاللە دەفەرموێت:\n\n**﴿مَنِ اهْتَدَىٰ ... وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n*(ئیسرا: ١٥)*\n\nو قورسی ئەمانەت:\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ ... وَحَمَلَهَا الْإِنسَانُ﴾**\n*(ئەحزاب: ٧٢)*\n\nپێغەمبەر ﷺ:\n\n**«کُلُّکُمْ رَاعٍ وَکُلُّکُمْ مَسْئُولٌ عَنْ رَعِیَّتِهِ»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ کار، منداڵ، تیم یان وشە — بەرپرسیارێتی «پشکی من» دەزانێت.",
-    "ar": "وعيُ المسؤولية ليس التفويضَ بلا حساب — إنه أداءُ الأمانةِ في وقتها، ومعرفةُ الحد، وعدمُ التهرب بـ«ليس من شأني»، وتذكُّر أن الحسابَ شخصيٌ. لا يفصل الإسلامُ الحريةَ عن المسؤولية؛ كلُّ نفسٍ بما كسبت رهينة.\n\nيقول الله تعالى:\n\n**﴿مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْدِي لِنَفْسِهِ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n*(الإسراء: ١٥)*\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا﴾**\n*(الأحزاب: ٧٢)*\n\nوقال النبي ﷺ:\n\n**«كلكم راع وكلكم مسؤول عن رعيته»**\n*(متفق عليه — عن عبد الله بن عمر رضي الله عنهما)*\n\nاليوم مهمةٌ أو طفلٌ أو فريقٌ أو كلمةٌ — المسؤوليةُ أن تعرف «نصيبي»."
+    "ar": "وعيُ المسؤولية ليس التفويضَ بلا حساب — إنه أداءُ الأمانةِ في وقتها، ومعرفةُ الحد، وعدمُ التهرب بـ«ليس من شأني»، وتذكُّر أن الحسابَ شخصيٌ. لا يفصل الإسلامُ الحريةَ عن المسؤولية؛ كلُّ نفسٍ بما كسبت رهينة.\n\nيقول الله تعالى:\n\n**﴿مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْدِي لِنَفْسِهِ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n*(الإسراء: ١٥)*\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا﴾**\n*(الأحزاب: ٧٢)*\n\nوقال النبي ﷺ:\n\n**«كلكم راع وكلكم مسؤول عن رعيته»**\n*(متفق عليه — عن عبد الله بن عمر رضي الله عنهما)*\n\nاليوم مهمةٌ أو طفلٌ أو فريقٌ أو كلمةٌ — المسؤوليةُ أن تعرف «نصيبي».",
+    "fr": "Le sens des responsabilités ne consiste pas à « laisser quelqu'un d'autre s'en charger » : il s'agit de faire ce qui lui est confié à temps, de connaître ses limites, de ne pas hausser les épaules en disant « ce n'est pas mon travail » et de se rappeler que le jugement est personnel. L'Islam ne sépare pas la liberté de la responsabilité ; chaque âme porte son propre fardeau.\n\nAllah le Très-Haut dit :\n\n**﴿مَنِ اهْتَدَىٰ فَإِنَّمَا يَهْدِي لِنَفْسِهِ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ﴾**\n**\"Celui qui est guidé ne l'est que pour [le bénéfice de] son âme. Et celui qui se trompe ne fait que se tromper. Et aucun porteur de fardeaux ne portera le fardeau d'un autre.\"**\n*(Al-Isra 17 :15 — le principe de la responsabilité personnelle.)*\n\nLe poids de la « confiance » que porte l’humanité apparaît ailleurs :\n\n**﴿إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا ... وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا﴾**\n**\"En effet, Nous avons offert le dépôt aux cieux, à la terre et aux montagnes ; ils ont refusé de le porter et l'ont craint - mais l'homme l'a porté. En effet, il a toujours été injuste et ignorant.\"**\n*(Al-Ahzab 33:72)*\n\nNotre Prophète ﷺ enseigne :\n\n**«كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ»**\n**\"Chacun de vous est berger, et chacun de vous est responsable de son troupeau.\"**\n*(Bukhari, Muslim — rapporté par Abdullah ibn Umar r.a.)*\n\nAujourd'hui, une tâche, un enfant, une équipe ou un mot, la responsabilité, c'est connaître « ma part »."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welchem Vers steht «keiner trägt Last eines anderen»?",
         "ku": "Prensîba «kesî gunehê yekî din nake» di kîjan ayetê de ye?",
         "ckb": "ئایەتی «هیچ کەسێک بارەکەی کەسێکی تر ناگرێت» لە کام ئایەتدایە؟",
-        "ar": "في أيِّ آيةٍ ﴿ولا تزر وازرة وزر أخرى﴾؟"
+        "ar": "في أيِّ آيةٍ ﴿ولا تزر وازرة وزر أخرى﴾؟",
+        "fr": "Dans quel verset apparaît le principe « Aucun porteur de fardeaux ne portera le fardeau d'autrui » ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-Isra 17:15",
           "ku": "Îsra 17:15",
           "ckb": "ئیسرا: ١٥",
-          "ar": "الإسراء ١٥"
+          "ar": "الإسراء ١٥",
+          "fr": "Al-Isra 17:15"
         },
         {
           "tr": "Fil 105:1",
@@ -58,7 +62,8 @@
           "de": "Al-Fil 105:1",
           "ku": "Fîl 105:1",
           "ckb": "فیل: ١",
-          "ar": "الفيل ١"
+          "ar": "الفيل ١",
+          "fr": "Al-Fil 105:1"
         },
         {
           "tr": "Kevser 108:1",
@@ -69,7 +74,8 @@
           "de": "Al-Kawthar 108:1",
           "ku": "Kevser 108:1",
           "ckb": "کەوسەر: ١",
-          "ar": "الكوثر ١"
+          "ar": "الكوثر ١",
+          "fr": "Al-Kawthar 108 : 1"
         },
         {
           "tr": "İhlas 112:1",
@@ -80,7 +86,8 @@
           "de": "Al-Ikhlas 112:1",
           "ku": "Îxlas 112:1",
           "ckb": "ئیخلاس: ١",
-          "ar": "الإخلاص ١"
+          "ar": "الإخلاص ١",
+          "fr": "Al-Ikhlas 112:1"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "Was wird in Al-Ahzab 33:72 Himmel und Erde angeboten, aber vom Menschen getragen?",
         "ku": "Di Ahzab 33:72 de ew tiştê ku ji bo ezman û erdê tê pêşkêşkirin lê mirov dibir çiye?",
         "ckb": "لە ئەحزاب ٧٢دا ئەوەی بە ئاسمان و زەوی پێشکەش دەکرێت بەڵام مرۆڤ هەڵدەگرێت چییە؟",
-        "ar": "ما الذي عُرِضَ على السموات والأرض في الأحزاب ٧٢ وحمله الإنسان؟"
+        "ar": "ما الذي عُرِضَ على السموات والأرض في الأحزاب ٧٢ وحمله الإنسان؟",
+        "fr": "Dans Al-Ahzab 33 :72, qu’est-ce qui est offert aux cieux, à la terre et aux montagnes mais porté par l’homme ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Die schwere Amanah",
           "ku": "Emaneta giran",
           "ckb": "ئەمانەتی قورس",
-          "ar": "الأمانةُ الثقيلة"
+          "ar": "الأمانةُ الثقيلة",
+          "fr": "La lourde confiance (amanah)"
         },
         {
           "tr": "Sadece altın define",
@@ -119,7 +128,8 @@
           "de": "Nur Goldschatz",
           "ku": "Tenê zêr",
           "ckb": "تەنها زێڕ",
-          "ar": "كنزٌ من ذهب"
+          "ar": "كنزٌ من ذهب",
+          "fr": "Seulement de l'or enterré"
         },
         {
           "tr": "Dağların taşınması emri",
@@ -130,7 +140,8 @@
           "de": "Berge versetzen",
           "ku": "Fermana guhertina çiyayan",
           "ckb": "فەرمانی جووڵاندنی چیاکان",
-          "ar": "أمرٌ بنقل الجبال"
+          "ar": "أمرٌ بنقل الجبال",
+          "fr": "Ordre de déplacer des montagnes"
         },
         {
           "tr": "Gökyüzünün yaratılışı",
@@ -141,7 +152,8 @@
           "de": "Nur Himmelsschöpfung",
           "ku": "Tenê afirandina ezman",
           "ckb": "تەنها دروستکردنی ئاسمان",
-          "ar": "خلقُ السماء فقط"
+          "ar": "خلقُ السماء فقط",
+          "fr": "Création du ciel uniquement"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Was lehrt der Hadith «ihr seid Hirten für eure Herde»?",
         "ku": "Hedîsa «hemû we çoban in û ji sirdê xwe berpirsiyar in» çi fêr dike?",
         "ckb": "حەدیسەکە «هەمووتان چوپانن و بەرپرسیارن لە سەر مەڕەکەتان» چی فێر دەکات؟",
-        "ar": "ماذا يعلم حديث «كلكم راع»؟"
+        "ar": "ماذا يعلم حديث «كلكم راع»؟",
+        "fr": "Qu'enseigne le hadith « Vous êtes tous des bergers responsables de votre troupeau » ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Jeder hat einen Verantwortungsbereich",
           "ku": "Her kesê xwe deverê berpirsiyariyê heye",
           "ckb": "هەموو کەسێک ناوچەیەکی بەرپرسیارێتی هەیە",
-          "ar": "دائرةُ مسؤوليةٍ لكلِّ إنسان"
+          "ar": "دائرةُ مسؤوليةٍ لكلِّ إنسان",
+          "fr": "Chacun a une sphère de responsabilité"
         },
         {
           "tr": "Sadece çobanların sorumlu olduğunu",
@@ -180,7 +194,8 @@
           "de": "Nur Hirten verantwortlich",
           "ku": "Tenê çoban berpirsiyar in",
           "ckb": "تەنها چوپانەکان بەرپرسیارن",
-          "ar": "المسؤوليةُ للرعاة فقط"
+          "ar": "المسؤوليةُ للرعاة فقط",
+          "fr": "Seuls les bergers sont responsables"
         },
         {
           "tr": "Hayvan gütmeyi herkese farz kıldığını",
@@ -191,7 +206,8 @@
           "de": "Vieh hüten Pflicht für alle",
           "ku": "Maldarî ji bo hemû kesî ferz e",
           "ckb": "مەڕپێکردن فەرزە بۆ هەمووان",
-          "ar": "وجوبُ رعي المواشي على كل أحد"
+          "ar": "وجوبُ رعي المواشي على كل أحد",
+          "fr": "Garder les animaux en troupeau est obligatoire pour tous"
         },
         {
           "tr": "Aile reisinin tek sorumlu olduğunu",
@@ -202,7 +218,8 @@
           "de": "Nur Familienoberhaupt",
           "ku": "Tenê serê malbatê berpirsiyar e",
           "ckb": "تەنها سەرۆکی خێزان بەرپرسیارە",
-          "ar": "المسؤوليةُ للربِّ فقط"
+          "ar": "المسؤوليةُ للربِّ فقط",
+          "fr": "Seul le chef de famille est responsable"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Wie passt «wer sich führen lässt, für sich selbst» (Al-Isra 17:15) zur Botschaft?",
         "ku": "«Kê rê rast bibîne ji bo xwe ye» çawa bi peyamê ve girêdayî ye?",
         "ckb": "«کەسێک ڕێناسێت بۆ خۆییە» چۆن لەگەڵ پەیامەکەدا دەگونجێت؟",
-        "ar": "كيف يربط ﴿من اهتدى فإنما يهدي لنفسه﴾ بالمسؤولية الشخصية؟"
+        "ar": "كيف يربط ﴿من اهتدى فإنما يهدي لنفسه﴾ بالمسؤولية الشخصية؟",
+        "fr": "Comment l'expression « celui qui est guidé le fait pour sa propre âme » d'Al-Isra 17 : 15 se connecte-t-elle à l'idée principale ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Führung und Irrung betreffen zuerst das Selbst",
           "ku": "Rê rast û şaşî encamê xwe di xwe de dibine",
           "ckb": "ڕێناسینی و سەرلێشێوانەکە لە خۆتەوە دەست پێدەکات",
-          "ar": "تخصيصُ ثمرةِ الهدى والضلال بالنفس"
+          "ar": "تخصيصُ ثمرةِ الهدى والضلال بالنفس",
+          "fr": "Souligne que l'orientation et l'erreur reviennent d'abord à soi"
         },
         {
           "tr": "Başkalarının günahına ortak olmanın caiz olduğunu söyler",
@@ -241,7 +260,8 @@
           "de": "Fremde Sünde teilen erlaubt",
           "ku": "Beşdarîya gunehê yekî din caiz e",
           "ckb": "هاوبەشبوون لە گوناهی کەسێکی تر حەڵاڵە",
-          "ar": "مشاركةُ الذنب جائزة"
+          "ar": "مشاركةُ الذنب جائزة",
+          "fr": "Dit que partager les péchés des autres est autorisé"
         },
         {
           "tr": "Şefaatin asla olmayacağını inkâr eder",
@@ -252,7 +272,8 @@
           "de": "Verneinigt Fürsprache",
           "ku": "Şefaet bi tevahî red dike",
           "ckb": "شەفاعەت بە تەواوی ڕەتدەکاتەوە",
-          "ar": "إنكارُ الشفاعة مطلقاً"
+          "ar": "إنكارُ الشفاعة مطلقاً",
+          "fr": "Rejette complètement l’intercession"
         },
         {
           "tr": "Sadece peygamberlerin hidayetinden söz eder",
@@ -263,7 +284,8 @@
           "de": "Nur Prophetenführung",
           "ku": "Tenê rêberiya pêxemberan",
           "ckb": "تەنها ڕێناسینی پێغەمبەران",
-          "ar": "الهدى للأنبياء فقط"
+          "ar": "الهدى للأنبياء فقط",
+          "fr": "Se réfère uniquement aux conseils des prophètes"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Nur Führung rechenschaftspflichtig",
           "ku": "Berpirsiyarî tenê ji bo rêveberan e; karê asan hesab nabe",
           "ckb": "بەرپرسیارێتی تەنها بۆ بەڕێوەبەرانە؛ کارمەندی ئاسایی حیساب ناکرێتەوە",
-          "ar": "المسؤوليةُ للمدراء فقط دون العامة"
+          "ar": "المسؤوليةُ للمدراء فقط دون العامة",
+          "fr": "La responsabilité incombe uniquement aux managers ; les travailleurs ordinaires ne sont pas responsables"
         },
         {
           "tr": "İsrâ 17:15 şahsî sorumluluğu vurgular",
@@ -302,7 +326,8 @@
           "de": "Al-Isra 17:15 betont persönliche Verantwortung",
           "ku": "Îsra 17:15 berpirsiyariya şexsî bilind dike",
           "ckb": "ئیسرا ١٥ بەرپرسیارێتی کەسی دەگێڕێتەوە",
-          "ar": "الإسراء ١٥ يقرر المسؤولية الفردية"
+          "ar": "الإسراء ١٥ يقرر المسؤولية الفردية",
+          "fr": "Al-Isra 17 :15 met l’accent sur la responsabilité personnelle"
         },
         {
           "tr": "Ahzâb 33:72 emaneti yükleme temasını işler",
@@ -313,7 +338,8 @@
           "de": "Al-Ahzab 72 behandelt Last der Amanah",
           "ku": "Ahzab 33:72 barê amanetê dibêje",
           "ckb": "ئەحزاب ٧٢ قورسی ئەمانەت دەگێڕێتەوە",
-          "ar": "الأحزاب ٧٢ يقرر ثقل الأمانة"
+          "ar": "الأحزاب ٧٢ يقرر ثقل الأمانة",
+          "fr": "Al-Ahzab 33 : 72 aborde le fardeau de la confiance"
         },
         {
           "tr": "Çoban hadisi herkesin sorumluluk alanı olduğunu söyler",
@@ -324,7 +350,8 @@
           "de": "Hirten-Hadith: jeder hat Bereich",
           "ku": "Hedîsa çoban dibêje her kesê cihê xwe heye",
           "ckb": "حەدیسی چوپان دەڵێت هەموو کەسێک ناوچەیەکی هەیە",
-          "ar": "حديثُ الراعي يقرر دائرةً لكلِّ أحد"
+          "ar": "حديثُ الراعي يقرر دائرةً لكلِّ أحد",
+          "fr": "Le hadith du berger dit que chacun a une sphère de devoirs"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Bevor du heute Aufgabe abwehrst oder Amanah leicht nimmst — innehalten. Al-Isra 17:15 und Hirten-Hadith: «mein Anteil».",
     "ku": "Berî ku îro karî biavêje, peyvî jibîr bike an emanetê sivik bigire raweste: Îsra 17:15 û hedîsa çoban — hişyariya berpirsiyariyê «parça ya min» nasîn e.",
     "ckb": "پێش ئەوەی ئەمڕۆ کار ڕەتبکەیتەوە، وشە بەرێژیت یان ئەمانەت سووک ببینیت وەستا: ئیسرا ١٥ و حەدیسی چوپان — هۆشیاری بەرپرسیارێتی «پشکی من» دەزانێت.",
-    "ar": "قبل أن تتبرأ من مهمةٍ أو تهينَ أمانةً — تمهَّلْ. ﴿ولا تزر وازرة وزر أخرى﴾ و«كلكم راع»: وعيُ المسؤولية أن تعرف نصيبك."
+    "ar": "قبل أن تتبرأ من مهمةٍ أو تهينَ أمانةً — تمهَّلْ. ﴿ولا تزر وازرة وزر أخرى﴾ و«كلكم راع»: وعيُ المسؤولية أن تعرف نصيبك.",
+    "fr": "Avant d'ignorer une tâche, d'oublier un mot ou de traiter une confiance à la légère aujourd'hui, faites une pause. Al-Isra 17 :15 et le hadith du berger : la responsabilité, c'est connaître « ma part »."
   }
 }

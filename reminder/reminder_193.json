@@ -10,7 +10,8 @@
     "de": "Die Absicht berichtigen",
     "ku": "Niyetê Rast kirin",
     "ckb": "ڕاستکردنەوەی نیەت",
-    "ar": "تَصْحِيحُ النِّيَّةِ"
+    "ar": "تَصْحِيحُ النِّيَّةِ",
+    "fr": "Corriger son intention"
   },
   "content": {
     "tr": "Niyet düzeltmek; her işi sosyal medyada «samimi» ilan etmek değil — kalbi Allah'a çevirmek, riyadan arındırmak ve «kime hizmet ettiğimi» her gün yeniden sormaktır. Niyet bozulduğunda amel görünürde kalsa bile içi çürür.\n\nPeygamberimiz ﷺ ümmete ölçüyü Hz. Ömer r.a. rivayetiyle teslim eder:\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»**\n**«Ameller ancak niyetlere göredir; herkes elde edeceğini ancak niyet ettiği şeydir.»**\n*(Buhârî, Müslim — Hz. Ömer b. el-Hattâb r.a.)*\n\nAllah Teâlâ ihlâsı öne çıkarır:\n\n**﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾**\n**«Onlara yalnızca Allah'a dinde ihlâs üzere kulluk etmeleri emredildi.»**\n*(Beyyine 98:5)*\n\nKorku ve hesap bilinciyle niyeti sıkı tutmak için bir uyarı da şöyledir:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**«Ey iman edenler! Allah'tan korkun ve her nefs yarın için ne hazırladığına baksın. Allah'tan korkun; şüphesiz Allah yaptıklarınızdan haberdardır.»**\n*(Haşr 59:18)*\n\nBugün niyet muhasebesi: bir paylaşımdan önce «kime yazıyorum?», bir yardımda «Allah mı, övgü mü?», bir terkte «tevazu mu, gösteriş mi?» — düzeltmek, bazen cümleyi değil yönü değiştirmektir.",
@@ -21,7 +22,8 @@
     "de": "Die Absicht berichtigen heißt nicht alles posten — Herz zu Allah wenden.\n\n**«إنما الأعمال بالنيات»** *(Bukhari, Muslim — Umar)*\n\n**﴿ليعبدوا الله مخلصين له الدين﴾**\n*(Al-Bayyinah 98:5)*\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Al-Hashr 59:18)*\n\nHeute: Für wen schreibe ich?",
     "ku": "Niyetê rast kirin wateya her tiştî li ser înternetê belav kirin nîne — dil ber bi Allahî ve ye.\n\n**«إنما الأعمال بالنيات»** *(Buxarî, Muslîm — Umer)*\n\n**﴿ليعبدوا الله مخلصين له الدين﴾**\n*(Beyyîne 98:5)*\n\n**﴿ولتنظر نفس ما قدمت لغد﴾**\n*(Haşr 59:18)*\n\nÎro: ev ji bo kê ye?",
     "ckb": "ڕاستکردنەوەی نیەت واتای بڵاوکردنەوەی هەموو کارێک وەک «ڕاستەقینە» لە تۆڕەکۆمەڵایەتی نییە — بەڵکوو گەڕاندنەوەی دڵ بەرەو اللە، پاککردنەوەی لە ڕیا و هەر ڕۆژێک پرسیارکردنەوە «بۆ کێ خزمەت دەکەم». کاتێک نیەت تێکدەچێت، کار لە دەرەوە ڕاست دەردەکەوێت بەڵام لە ناوەوە بۆش دەبێتەوە.\n\nپێغەمبەر ﷺ بە ڕێوایەتی عومەر بن خەتاب دەفەرموێت:\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»**\n*(بوخاری، موسلیم)*\n\nاللە دەفەرموێت:\n\n**﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾**\n*(بەییەنە: ٥)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n*(حەشر: ١٨)*\n\nئەمڕۆ مەحاسەبەی نیەت: پێش بڵاوکردنەوە «بۆ کێ دەنووسم؟»، لە یارمەتی «اللە یان ستایش؟» — ڕاستکردنەوە جاروبار واتای گۆڕینی ئاراستەیە نەک تەنها وشەکان.",
-    "ar": "تصحيحُ النية ليس نشرَ كلِّ عملٍ على أنه «صادق» في الشبكات — إنما هو إقبالُ القلبِ على الله وتطهيرُه من الرياء، وسؤالُ النفسِ كلَّ يومٍ: لمن أخدم؟ إذا فسدتِ النيةُ بدا العملُ حسناً ظاهراً وباطنهُ جوفٌ.\n\nقال النبي ﷺ:\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»**\n*(رواه البخاري ومسلم — عن عمر بن الخطاب رضي الله عنه)*\n\nوقال الله تعالى:\n\n**﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾**\n*(البينة: ٥)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(الحشر: ١٨)*\n\nاليوم محاسبةٌ: قبل منشورٍ — لمن أكتب؟ وعند إحسانٍ — لله أم للمدح؟ — التصحيحُ أحياناً يقلبُ الوجهةَ لا الجملةَ."
+    "ar": "تصحيحُ النية ليس نشرَ كلِّ عملٍ على أنه «صادق» في الشبكات — إنما هو إقبالُ القلبِ على الله وتطهيرُه من الرياء، وسؤالُ النفسِ كلَّ يومٍ: لمن أخدم؟ إذا فسدتِ النيةُ بدا العملُ حسناً ظاهراً وباطنهُ جوفٌ.\n\nقال النبي ﷺ:\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»**\n*(رواه البخاري ومسلم — عن عمر بن الخطاب رضي الله عنه)*\n\nوقال الله تعالى:\n\n**﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾**\n*(البينة: ٥)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(الحشر: ١٨)*\n\nاليوم محاسبةٌ: قبل منشورٍ — لمن أكتب؟ وعند إحسانٍ — لله أم للمدح؟ — التصحيحُ أحياناً يقلبُ الوجهةَ لا الجملةَ.",
+    "fr": "Corriger l’intention ne consiste pas à diffuser chaque acte comme étant « sincère » sur les réseaux sociaux – c’est tourner le cœur vers Allah, le purifier de l’apparence et demander chaque jour à nouveau qui vous servez vraiment. Lorsque l’intention pourrit, l’acte peut paraître beau à l’extérieur alors qu’il est creux à l’intérieur.\n\nLe Prophète ﷺ donne à la Oumma sa mesure à travers le récit d'Umar :\n\n**«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى»**\n**\"Les actions sont jugées par les intentions, et chaque personne n'aura que ce qu'elle avait prévu.\"**\n*(Bukhari, Muslim — Umar ibn al-Khattab.)*\n\nAllah le Très-Haut met en avant la sincérité :\n\n**﴿وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ﴾**\n**\"Il ne leur a été ordonné que d'adorer Allah, sincèrement envers Lui en religion. \"**\n*(Al-Bayyinah 98 : 5)*\n\nUn verset d'Al-Hashr renforce l'intention et la responsabilité :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n**\"Ô vous qui avez cru, craignez Allah et que chaque âme regarde ce qu'elle a proposé pour demain.\"**\n*(Al-Hashr 59 :18)*\n\nL'audit d'intention du jour : avant un post — « pour qui est-ce que j'écris ? » ; en aide — « Allah ou applaudissements ? » ; en prenant du recul - «humilité ou affichage?» — la correction change souvent de direction, pas seulement les mots."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "Wer überlieferte «Taten sind nach Absichten»?",
         "ku": "Kê «kirin bi niyetê ne» şandiye?",
         "ckb": "کێ حەدیسی «کارەکان بەپێی نیەتەکانن» ڕێوایەت کردووە؟",
-        "ar": "من روى «إنما الأعمال بالنيات وإنما لكل امرئ ما نوى»؟"
+        "ar": "من روى «إنما الأعمال بالنيات وإنما لكل امرئ ما نوى»؟",
+        "fr": "Qui a rapporté le hadith « Les actions sont par les intentions ; chacun n'a que ce qu'il veut» ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Umar ibn al-Khattab",
           "ku": "Umer b. el-Xettab",
           "ckb": "عومەر بن خەتاب",
-          "ar": "عمر بن الخطاب"
+          "ar": "عمر بن الخطاب",
+          "fr": "Omar ibn al-Khattab"
         },
         {
           "tr": "Hz. Ebû Bekir",
@@ -58,7 +62,8 @@
           "de": "Abu Bakr",
           "ku": "Ebû Bekir",
           "ckb": "ئەبووبەکر",
-          "ar": "أبو بكر"
+          "ar": "أبو بكر",
+          "fr": "Abou Bakr"
         },
         {
           "tr": "Hz. Ali b. Ebî Tâlib",
@@ -69,7 +74,8 @@
           "de": "Ali ibn Abi Talib",
           "ku": "Elî b. Ebî Tâlib",
           "ckb": "عەلی بن ئەبی تالیب",
-          "ar": "علي بن أبي طالب"
+          "ar": "علي بن أبي طالب",
+          "fr": "Ali ibn Abi Talib"
         },
         {
           "tr": "Hz. Âişe",
@@ -80,7 +86,8 @@
           "de": "Aisha",
           "ku": "Âîşe",
           "ckb": "عائشە",
-          "ar": "عائشة"
+          "ar": "عائشة",
+          "fr": "Aïcha"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "In welcher Sure «nur Allah aufrichtig dienen»?",
         "ku": "«Tenê bi îxlasî ji Allahî re xizmet bikin» di kîjan sûreyê de ye?",
         "ckb": "«تەنها فەرماندراون بە عیبادەتی اللە بە ئیخلاص» لە کام سورەتدایە؟",
-        "ar": "في أي سورة ﴿ما أمروا إلا ليعبدوا الله مخلصين له الدين﴾؟"
+        "ar": "في أي سورة ﴿ما أمروا إلا ليعبدوا الله مخلصين له الدين﴾؟",
+        "fr": "Dans quelle sourate se trouve « Il leur fut ordonné uniquement d’adorer Allah sincèrement en religion » ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Al-Bayyinah",
           "ku": "Beyyîne",
           "ckb": "بەییەنە",
-          "ar": "البينة"
+          "ar": "البينة",
+          "fr": "Al-Bayyinah"
         },
         {
           "tr": "Kadr",
@@ -119,7 +128,8 @@
           "de": "Al-Qadr",
           "ku": "Kedr",
           "ckb": "قەدر",
-          "ar": "القدر"
+          "ar": "القدر",
+          "fr": "Al-Qadr"
         },
         {
           "tr": "Tekâsür",
@@ -130,7 +140,8 @@
           "de": "At-Takathur",
           "ku": "Tekâsûr",
           "ckb": "تەکاسور",
-          "ar": "التكاثر"
+          "ar": "التكاثر",
+          "fr": "At-Takathur"
         },
         {
           "tr": "Asr",
@@ -141,7 +152,8 @@
           "de": "Al-'Asr",
           "ku": "Asr",
           "ckb": "عەسر",
-          "ar": "العصر"
+          "ar": "العصر",
+          "fr": "Al-'Asr"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Wie verbindet «sieh was du für morgen vorbereitest» mit Absicht?",
         "ku": "«Her nefs li ser wê ye ku ji bo sibê amade dike binêre» çawa bi niyetê ve girêdayî ye?",
         "ckb": "لە حەشر ١٨دا «هەر نەفس سەیری ئەوەی بکات بۆ سبەینێ ئامادە دەکات» چۆن پەیوەندی بە ڕاستکردنەوەی نیەتەوە هەیە؟",
-        "ar": "كيف يربط ﴿ولتنظر نفس ما قدمت لغد﴾ بتصحيح النية؟"
+        "ar": "كيف يربط ﴿ولتنظر نفس ما قدمت لغد﴾ بتصحيح النية؟",
+        "fr": "Comment le texte d'Al-Hashr 59 : 18 « que chaque âme regarde à ce qu'elle a proposé pour demain » est-il lié à l'intention de correction ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Absicht prüfen mit Taqwa",
           "ku": "Bi hişyariya hesabê niyetê binirxîne",
           "ckb": "پێداچوونەوەی نیەت بە تەقوا و بیرکردنەوە بۆ دوای ڕۆیشتوو",
-          "ar": "مراجعةُ النيةِ بالتقوى وتوجيهِ العملِ للآخرة"
+          "ar": "مراجعةُ النيةِ بالتقوى وتوجيهِ العملِ للآخرة",
+          "fr": "Réviser l'intention avec la conscience de Dieu ; viser les actes vers l'au-delà"
         },
         {
           "tr": "Yarının haram olduğunu",
@@ -180,7 +194,8 @@
           "de": "Morgen ist verboten",
           "ku": "Sibê haram e",
           "ckb": "سبەینێ حەرامە",
-          "ar": "تحريمُ الغد"
+          "ar": "تحريمُ الغد",
+          "fr": "Demain est interdit"
         },
         {
           "tr": "Geçmişi inkâr etmeyi",
@@ -191,7 +206,8 @@
           "de": "Vergangenheit leugnen",
           "ku": "Borî înkar bike",
           "ckb": "ڕەتکردنەوەی ڕابردوو",
-          "ar": "إنكارُ الماضي"
+          "ar": "إنكارُ الماضي",
+          "fr": "Nier le passé"
         },
         {
           "tr": "Sadece mal biriktirmeyi emrettiğini",
@@ -202,7 +218,8 @@
           "de": "Nur Geld horten",
           "ku": "Tenê komkirina malê ferman dike",
           "ckb": "تەنها کۆکردنەوەی پارە فەرمان دەکات",
-          "ar": "أمراً بالكنز"
+          "ar": "أمراً بالكنز",
+          "fr": "Il commande uniquement la thésaurisation des richesses"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Laut Text, was ändert Absichts-Korrektur meist?",
         "ku": "Li gorî nivîsê niyetê rast kirin piranî çi diguhere?",
         "ckb": "بەپێی دەقەکە ڕاستکردنەوەی نیەت زۆرجار چی دەگۆڕێت؟",
-        "ar": "ماذا يغيّر «تصحيحُ النية» غالباً في النص؟"
+        "ar": "ماذا يغيّر «تصحيحُ النية» غالباً في النص؟",
+        "fr": "D’après le texte, que change le plus souvent l’intention de correction ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Die Richtung des Herzens, nicht nur Worte",
           "ku": "Rêya dil — ber bi Allahî an şanogerî — ne tenê peyv",
           "ckb": "ئاراستەی دڵ — بەرەو اللە یان ڕیا — نەک تەنها وشەکان",
-          "ar": "وجهةَ القلبِ لا صياغةَ الجملةِ فقط"
+          "ar": "وجهةَ القلبِ لا صياغةَ الجملةِ فقط",
+          "fr": "La direction du cœur – vers Allah ou montrer – pas seulement les mots"
         },
         {
           "tr": "Sadece yazım kurallarını",
@@ -241,7 +260,8 @@
           "de": "Nur Rechtschreibung",
           "ku": "Tenê rêziman",
           "ckb": "تەنها ڕێزمانی نووسین",
-          "ar": "الإملاءَ فقط"
+          "ar": "الإملاءَ فقط",
+          "fr": "Seules les règles d'orthographe"
         },
         {
           "tr": "Niyetin farz olmadığını",
@@ -252,7 +272,8 @@
           "de": "Dass Absicht nicht Pflicht ist",
           "ku": "Ku niyet ferz nîne",
           "ckb": "نیەت فەرز نییە",
-          "ar": "عدمُ وجوبِ النية"
+          "ar": "عدمُ وجوبِ النية",
+          "fr": "Cette intention n'est pas obligatoire"
         },
         {
           "tr": "Amelin hiç önemli olmadığını",
@@ -263,7 +284,8 @@
           "de": "Dass Taten egal sind",
           "ku": "Ku kirin girîng nîn",
           "ckb": "کار گرنگ نییە",
-          "ar": "عدمُ اعتبارِ العمل"
+          "ar": "عدمُ اعتبارِ العمل",
+          "fr": "Que les actes n'ont pas d'importance"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Absicht berichtigen heißt alles zur Schau posten",
           "ku": "Niyetê rast kirin wateya her tiştî ji bo şanogeriyê belav kirin e",
           "ckb": "ڕاستکردنەوەی نیەت واتای بڵاوکردنەوەی هەموو کارێک بۆ نمایش و وتنی «ڕاستەقینەیی»ە",
-          "ar": "تصحيحُ النية نشرُ كلِّ عملٍ للرياء وقولُ الصدقِ شعاراً"
+          "ar": "تصحيحُ النية نشرُ كلِّ عملٍ للرياء وقولُ الصدقِ شعاراً",
+          "fr": "Corriger l'intention signifie afficher chaque acte pour l'afficher et la «sincérité» verbale"
         },
         {
           "tr": "Niyet hadisi Buhârî ve Müslim'de geçer",
@@ -302,7 +326,8 @@
           "de": "Absicht-Hadith in Bukhari und Muslim",
           "ku": "Hedîsa niyetê di Buxarî û Muslîm de ye",
           "ckb": "حەدیسی نیەت لە بوخاری و موسلیمدایە",
-          "ar": "حديثُ النية في البخاري ومسلم"
+          "ar": "حديثُ النية في البخاري ومسلم",
+          "fr": "Le hadith d'intention apparaît dans Boukhari et Muslim"
         },
         {
           "tr": "Beyyine 98:5 ihlâsı vurgular",
@@ -313,7 +338,8 @@
           "de": "Al-Bayyinah 98:5 betont Aufrichtigkeit",
           "ku": "Beyyîne 98:5 îxlasê bilind dike",
           "ckb": "بەییەنە ٥ ئیخلاس دەگێڕێتەوە",
-          "ar": "البينة ٥ تقرر الإخلاص"
+          "ar": "البينة ٥ تقرر الإخلاص",
+          "fr": "Al-Bayyinah 98 :5 met l’accent sur la sincérité"
         },
         {
           "tr": "Haşr 59:18 hesap bilinci ister",
@@ -324,7 +350,8 @@
           "de": "Al-Hashr 59:18 fordert Rechenschaft",
           "ku": "Haşr 59:18 hesab dixwaze",
           "ckb": "حەشر ١٨ مەحاسەبە داوا دەکات",
-          "ar": "الحشر ١٨ يقرر التقوى والمراجعة"
+          "ar": "الحشر ١٨ يقرر التقوى والمراجعة",
+          "fr": "Al-Hashr 59 : 18 demande un jugement conscient de Dieu"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Bevor du beginnst — innehalten: für wen? — Umar und Al-Bayyinah 98:5: Richtung korrigieren.",
     "ku": "Berî ku îro dest bi karekî bikî raweste: «Ev ji bo kê dilê xweş dike?» — rivayeta Umer û Beyyîne 98:5 — niyetê rast kirin rêyê rast dike.",
     "ckb": "پێش ئەوەی ئەمڕۆ دەست بەکارێک بکەیت وەستا: «ئەمە بۆ ڕەزایی کێ دەکەم؟» — ڕێوایەتی عومەر و بەییەنە ٥: ڕاستکردنەوەی نیەت زۆرجار ڕاستکردنەوەی ئاراستەیە.",
-    "ar": "قبل أن تبدأ عملاً اليوم — تمهَّلْ: «لرضى من أفعل؟» — حديثُ عمر ﴿إنما الأعمال بالنيات﴾ و﴿ليعبدوا الله مخلصين﴾: تصحيحُ النية يقلبُ الوجهة قبل الجملة."
+    "ar": "قبل أن تبدأ عملاً اليوم — تمهَّلْ: «لرضى من أفعل؟» — حديثُ عمر ﴿إنما الأعمال بالنيات﴾ و﴿ليعبدوا الله مخلصين﴾: تصحيحُ النية يقلبُ الوجهة قبل الجملة.",
+    "fr": "Avant de commencer quelque chose aujourd'hui, faites une pause : « Pour le plaisir de qui est-ce que je fais cela ? » — La narration d'Umar et Al-Bayyinah 98 : 5 vous le rappellent : corriger l'intention corrige souvent la direction, pas seulement les mots."
   }
 }

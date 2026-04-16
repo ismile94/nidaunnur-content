@@ -10,7 +10,8 @@
     "de": "Dankbarkeit entwickeln",
     "ku": "Şukrê Mezin kirin",
     "ckb": "پەرەپێدانی سوپاس",
-    "ar": "تَرْقِيَةُ الشُّكْرِ"
+    "ar": "تَرْقِيَةُ الشُّكْرِ",
+    "fr": "Développer la gratitude (Shukr)"
   },
   "content": {
     "tr": "Şükür geliştirmek; sadece «Elhamdülillah» demek değil — nimeti tanıyıp dilde, bedende ve ilişkide Allah'a döndürmektir. Şükür, hayatın kusursuz olduğunu iddia etmek değil; kusurların ortasında bile verilen nefes ve imkânı görüp kalbi yumuşatmaktır.\n\nAllah Teâlâ şükürle artışı bir arada zikreder:\n\n**﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ﴾**\n**«Hani Rabbiniz şöyle bildirmişti: Şükrederseniz elbette size daha fazlasını veririm; nankörlük ederseniz şüphesiz azabım çetindir.»**\n*(İbrâhîm 14:7)*\n\nBaşka bir ayette şükür, helâl ve temizle beslenmeyle bağlanır:\n\n**﴿فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾**\n**«Öyleyse Allah'ın size helâl ve temiz olarak verdiği rızıklardan yiyin; eğer yalnızca O'na kulluk ediyorsanız Allah'ın nimetine şükredin.»**\n*(Nahl 16:114)*\n\nPeygamberimiz ﷺ şükrün sadece kalbe sıkışmadığını, insanlara karşı vefa ile de ölçüldüğünü hatırlatır:\n\n**«لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ»**\n**«İnsanlara şükretmeyen Allah'a şükretmiş olmaz.»**\n*(Tirmizî, «Birr ve sıfat» — Ebû Saîd el-Hudrî r.a.; Tirmizî «hasen» demiştir.)*\n\nBugün küçük bir şükür pratiği: bir yemeğe «besmele + farkındalık», bir emeğe «teşekkür», bir sıkıntıya «sabır ve hikmete güven» — gelişen şükür, görülen nimet sayısından çok, kalbin Allah'a dönüş sıklığıyla ölçülür.",
@@ -21,7 +22,8 @@
     "de": "Dankbarkeit ist nicht nur alhamdulillah — Gunst erkennen und zu Allah wenden.\n\n**﴿لئن شكرتم لأزيدنكم﴾**\n*(Ibrahim 14:7)*\n\n**﴿واشكروا نعمة الله﴾**\n*(An-Nahl 16:114)*\n\n**«لا يشكر الله من لا يشكر الناس»** *(Tirmidhi — hasen)*\n\nHeute: Danke an einen Menschen, bewusstes Bismillah.",
     "ku": "Şukr tenê gotina elhamdulîllah nîne — wêneya nimetê dîtina û vegera ber bi Allahî ve ye.\n\n**﴿لئن شكرتم لأزيدنكم﴾**\n*(Îbrahîm 14:7)*\n\n**﴿واشكروا نعمة الله﴾**\n*(Nahl 16:114)*\n\n**«لا يشكر الله من لا يشكر الناس»** *(Tirmizî)*\n\nÎro: spasî ji mirovekî, bismîllahê hişyar.",
     "ckb": "پەرەپێدانی سوپاس تەنها وتنی «ئەلحەمدو للە» نییە — ناسینی نەعمەت و گەڕاندنەوەی بەرەو اللە بە زمان و کردار و پەیوەندی. سوپاس واتای ئەوە نییە کە ژیان بێ کەموکوڕە؛ بەڵکوو لە ناو ئاستەنگدا هەناسە و دەرفەت دەبینیت و دڵ نەرم دەکەیتەوە.\n\nاللە دەفەرموێت:\n\n**﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ﴾**\n*(ئیبراهیم: ٧)*\n\n**﴿فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ﴾**\n*(نەحل: ١١٤)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«لا يشكر الله من لا يشكر الناس»**\n*(تیڕمیزی — حەسەن)*\n\nئەمڕۆ وەرزشێکی بچووک: بەسمەلە و ئاگاداری بۆ خواردن، سوپاس بۆ کەسێک کە زەحمەتێک دەکێشێت — سوپاسی گەشەکردوو کەمتر لە ژماردنی نەعمەت و زیاتر لە جارەکانی گەڕاندنەوەی دڵ بەرەو اللە دەپێورێت.",
-    "ar": "ترقيةُ الشكر ليست قولَ «الحمد لله» وحدَه — إنها معرفةُ النِّعَمِ وإرجاعُها إلى الله باللسانِ والجوارحِ والعِلْقِ بالخلق. الشكرُ ليس إنكارَ الهموم؛ بل رؤيةَ النَّفَسِ والسَّبِيلِ حتى وسط الخطأ.\n\nيقول الله تعالى:\n\n**﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ﴾**\n*(إبراهيم: ٧)*\n\n**﴿فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾**\n*(النحل: ١١٤)*\n\nوقال النبي ﷺ:\n\n**«لا يشكر الله من لا يشكر الناس»**\n*(رواه الترمذي في «البر والصلة» — عن أبي سعيد الخدري؛ وقال: حسن)*\n\nاليوم عادةٌ صغيرةٌ: بسم الله على لقمةٍ، وشكرٌ لمن سعى، وثقةٌ بالحكمةِ في البلاء — يُقاسُ الشكرُ بكثرةِ انقلابِ القلبِ إلى الله لا بعددِ ما عددتَ من عطايا."
+    "ar": "ترقيةُ الشكر ليست قولَ «الحمد لله» وحدَه — إنها معرفةُ النِّعَمِ وإرجاعُها إلى الله باللسانِ والجوارحِ والعِلْقِ بالخلق. الشكرُ ليس إنكارَ الهموم؛ بل رؤيةَ النَّفَسِ والسَّبِيلِ حتى وسط الخطأ.\n\nيقول الله تعالى:\n\n**﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ﴾**\n*(إبراهيم: ٧)*\n\n**﴿فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ﴾**\n*(النحل: ١١٤)*\n\nوقال النبي ﷺ:\n\n**«لا يشكر الله من لا يشكر الناس»**\n*(رواه الترمذي في «البر والصلة» — عن أبي سعيد الخدري؛ وقال: حسن)*\n\nاليوم عادةٌ صغيرةٌ: بسم الله على لقمةٍ، وشكرٌ لمن سعى، وثقةٌ بالحكمةِ في البلاء — يُقاسُ الشكرُ بكثرةِ انقلابِ القلبِ إلى الله لا بعددِ ما عددتَ من عطايا.",
+    "fr": "Développer la gratitude ne consiste pas seulement à dire « Alhamdulillah » : c'est reconnaître les bénédictions et les rendre à Allah dans la parole, le corps et les relations. Shukr ne prétend pas que la vie est parfaite ; c'est adoucir le cœur en voyant le souffle et la provision même au milieu des fautes.\n\nAllah le Très-Haut lie la gratitude pour augmenter :\n\n**﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ﴾**\n**\"Et quand ton Seigneur proclama : Si vous êtes reconnaissants, je vous augmenterai sûrement ; mais si vous êtes ingrats, en effet, mon châtiment est sévère.\"**\n*(Ibrahim 14:7)*\n\nUn autre verset lie la gratitude au fait de manger ce qui est licite et bon :\n\n**﴿فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا وَاشْكُرُوا نِعْمَتَ اللَّهِ﴾**\n** \" Mangez donc de ce qu'Allah vous a prévu de licite et de bon, et soyez reconnaissants pour la faveur d'Allah. \" **\n*(An-Nahl 16:114)*\n\nLe Prophète ﷺ nous rappelle que la gratitude ne s'enferme pas seulement dans le cœur ; elle se mesure également par la loyauté envers les gens :\n\n**«لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ»**\n**\"Celui qui ne remercie pas les gens n'a pas remercié Allah.\"**\n*(At-Tirmidhi, « Birr » — Abu Sa'id al-Khudri ; Tirmidhi l'a noté hasan.)*\n\nLa petite pratique du jour : bismillah et conscience autour d'un repas, remerciement pour l'effort de quelqu'un, confiance dans la sagesse malgré les épreuves — la gratitude croissante se mesure moins en comptant les cadeaux qu'en fonction de la fréquence à laquelle le cœur se tourne vers Allah."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure steht «wenn ihr dankt, mehre Ich; wenn ihr ingrat seid, hart die Strafe»?",
         "ku": "«Heke şukr bikin zêde dikin; heke nankor bin ceza giran e» di kîjan sûreyê de ye?",
         "ckb": "«ئەگەر سوپاس بژن زیادم دەکەم؛ ئەگەر نەشکۆر بن سزام سەختە» لە کام سورەتدایە؟",
-        "ar": "في أي سورة ﴿لئن شكرتم لأزيدنكم وإن كفرتم إن عذابي لشديد﴾؟"
+        "ar": "في أي سورة ﴿لئن شكرتم لأزيدنكم وإن كفرتم إن عذابي لشديد﴾؟",
+        "fr": "Dans quelle sourate est « Si tu es reconnaissant, je t'augmenterai ; si ingrat, ma punition est sévère»?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Ibrahim",
           "ku": "Îbrahîm",
           "ckb": "ئیبراهیم",
-          "ar": "إبراهيم"
+          "ar": "إبراهيم",
+          "fr": "Ibrahim"
         },
         {
           "tr": "Yâsîn",
@@ -58,7 +62,8 @@
           "de": "Ya-Sin",
           "ku": "Yasîn",
           "ckb": "یس",
-          "ar": "يس"
+          "ar": "يس",
+          "fr": "Ya-Sin"
         },
         {
           "tr": "Kâfirûn",
@@ -69,7 +74,8 @@
           "de": "Al-Kafirun",
           "ku": "Kâfirûn",
           "ckb": "کافرون",
-          "ar": "الكافرون"
+          "ar": "الكافرون",
+          "fr": "Al-Kafirun"
         },
         {
           "tr": "Tekvîr",
@@ -80,7 +86,8 @@
           "de": "At-Takwir",
           "ku": "Tekvîr",
           "ckb": "تەکویر",
-          "ar": "التكوير"
+          "ar": "التكوير",
+          "fr": "At-Takwir"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "In An-Nahl 16:114, womit wird Dankbarkeit verbunden?",
         "ku": "Di Nahl 16:114 de şukr bi çi re tê bîrkirin?",
         "ckb": "لە نەحل ١١٤دا سوپاس لەگەڵ کام کردارەوە دەگێڕدرێتەوە؟",
-        "ar": "بماذا قرن ﴿واشكروا نعمة الله﴾ في النحل ١١٤؟"
+        "ar": "بماذا قرن ﴿واشكروا نعمة الله﴾ في النحل ١١٤؟",
+        "fr": "Dans An-Nahl 16 : 114, la gratitude est mentionnée avec quel comportement ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Halal Gutes essen und Allah dienen",
           "ku": "Xwarina rizqê helal û pak û jiyana bi niyeta ibadetê",
           "ckb": "خواردنی ڕیزقی حەڵاڵ و پاک و نیەت بۆ تەنها اللە",
-          "ar": "أكلُ الحلالِ الطيبِ مع قصدِ العبادة"
+          "ar": "أكلُ الحلالِ الطيبِ مع قصدِ العبادة",
+          "fr": "Manger de bonnes provisions licites et vivre pour adorer Allah Seul"
         },
         {
           "tr": "Sadece oruç tutmayı",
@@ -119,7 +128,8 @@
           "de": "Nur Fasten",
           "ku": "Tenê rojî",
           "ckb": "تەنها ڕۆژوو",
-          "ar": "الصومُ فقط"
+          "ar": "الصومُ فقط",
+          "fr": "Seulement le jeûne"
         },
         {
           "tr": "Haram mal biriktirmeyi",
@@ -130,7 +140,8 @@
           "de": "Unrechtes horten",
           "ku": "Komkirina malê haram",
           "ckb": "کۆکردنەوەی حەرام",
-          "ar": "كنزُ الحرام"
+          "ar": "كنزُ الحرام",
+          "fr": "Accusation de richesses illégales"
         },
         {
           "tr": "İbadeti tamamen terk etmeyi",
@@ -141,7 +152,8 @@
           "de": "Gottesdienst ganz aufgeben",
           "ku": "Îbadet bi tevahî terik bike",
           "ckb": "جێهێشتنی تەواوی عیبادەت",
-          "ar": "تركُ العبادةِ كلها"
+          "ar": "تركُ العبادةِ كلها",
+          "fr": "Abandonner complètement le culte"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Was lehrt «wer Menschen nicht dankt, dankt Allah nicht»?",
         "ku": "«Kê mirovan şukr neke Allahî şukr nekir» çi fêr dike?",
         "ckb": "حەدیسی «کەسێک سوپاسی مرۆڤەکان نەکات سوپاسی اللە نەکردووە» چی فێر دەکات؟",
-        "ar": "ماذا يفيد حديث «لا يشكر الله من لا يشكر الناس»؟"
+        "ar": "ماذا يفيد حديث «لا يشكر الله من لا يشكر الناس»؟",
+        "fr": "Qu'enseigne le hadith « Celui qui ne remercie pas les gens n'a pas remercié Allah » ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Dank schließt Anerkennung fremder Mühe ein",
           "ku": "Şukr beşek ji vefa û rêzê li keda mirovan e",
           "ckb": "سوپاس بەشێکە لە ڕێزگرتن لە کۆششی کەسانی تر",
-          "ar": "أن الشكرَ يشملُ حقَّ الخلقِ في الأدب"
+          "ar": "أن الشكرَ يشملُ حقَّ الخلقِ في الأدب",
+          "fr": "Cette gratitude inclut la loyauté et le respect des efforts des autres"
         },
         {
           "tr": "İnsanlara şükür etmeyi haram kıldığını",
@@ -180,7 +194,8 @@
           "de": "Menschen danken ist verboten",
           "ku": "Şukra mirovan haram e",
           "ckb": "سوپاسی مرۆڤ حەرامە",
-          "ar": "تحريمُ شكرِ الإنسان"
+          "ar": "تحريمُ شكرِ الإنسان",
+          "fr": "Que remercier les gens est interdit"
         },
         {
           "tr": "Sadece mal ile şükredilebileceğini",
@@ -191,7 +206,8 @@
           "de": "Nur mit Geld dankt man",
           "ku": "Tenê bi pere şukr dikir",
           "ckb": "تەنها بە پارە سوپاس دەکرێت",
-          "ar": "الشكرُ بالمالِ فقط"
+          "ar": "الشكرُ بالمالِ فقط",
+          "fr": "Merci ne peut être qu'avec de l'argent"
         },
         {
           "tr": "Allah'ın şükürü önemsemediğini",
@@ -202,7 +218,8 @@
           "de": "Allah achtet Dank nicht",
           "ku": "Allah şukrê girîng nake",
           "ckb": "اللە گرنگی بە سوپاس نادات",
-          "ar": "استهانةُ الله بالشكر"
+          "ar": "استهانةُ الله بالشكر",
+          "fr": "Allah ne se soucie pas de la gratitude"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Laut Text, woran misst man «Dankbarkeit entwickeln»?",
         "ku": "Li gorî nivîsê «şukr mezinkirin» bi çi tê pîvanîn?",
         "ckb": "بەپێی دەقەکە «پەرەپێدانی سوپاس» بە چی دەپێورێت؟",
-        "ar": "كيف يُقاس «ترقية الشكر» في النص؟"
+        "ar": "كيف يُقاس «ترقية الشكر» في النص؟",
+        "fr": "D’après le texte, comment se mesure principalement le « développement de la gratitude » ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Wie oft das Herz zu Allah kehrt",
           "ku": "Caran dil ber bi Allahî ve digere û nimet bi hişyariyê radest dike",
           "ckb": "زۆرجار گەڕاندنەوەی دڵ بەرەو اللە و ئاگاداری لە نەعمەت",
-          "ar": "كثرةُ انقلابِ القلبِ إلى الله وتوجيهِ النعمةِ إليه بوعي"
+          "ar": "كثرةُ انقلابِ القلبِ إلى الله وتوجيهِ النعمةِ إليه بوعي",
+          "fr": "Combien de fois le cœur se tourne vers Allah et Lui dirige consciemment les bénédictions"
         },
         {
           "tr": "Sadece sosyal medyada paylaşılan günlük sayısıyla",
@@ -241,7 +260,8 @@
           "de": "Nur durch Social-Media-Posts",
           "ku": "Tenê bi hejmara postên înternetê",
           "ckb": "تەنها بە ژمارەی پۆستی تۆڕەکۆمەڵایەتی",
-          "ar": "عددُ المنشوراتِ في الشبكات"
+          "ar": "عددُ المنشوراتِ في الشبكات",
+          "fr": "Uniquement par publication quotidienne, comptez sur les réseaux sociaux"
         },
         {
           "tr": "Hiç sıkıntı yaşamamakla",
@@ -252,7 +272,8 @@
           "de": "Ohne jede Prüfung",
           "ku": "Bi tunebûna tu astengê",
           "ckb": "بەبێ هیچ تاقیکردنەوەیەک",
-          "ar": "عدمُ ابتلاءٍ أصلاً"
+          "ar": "عدمُ ابتلاءٍ أصلاً",
+          "fr": "En n'ayant aucune difficulté"
         },
         {
           "tr": "Başkalarından daha çok mala sahip olmakla",
@@ -263,7 +284,8 @@
           "de": "Mehr Besitz als andere",
           "ku": "Ji kesên din zêdetir mal",
           "ckb": "زۆرتر مال لە کەسانی تر",
-          "ar": "كثرةُ المالِ على الغير"
+          "ar": "كثرةُ المالِ على الغير",
+          "fr": "En possédant plus de richesse que les autres"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Dank entwickeln heißt Sorgen leugnen",
           "ku": "Şukr mezinkirin wateya gotina jiyan bêkêmasî ye an înkara êşan e",
           "ckb": "پەرەپێدانی سوپاس واتای ئەوەیە کە ژیان بێ کەموکوڕە یان ئینکاری نەخۆشییەکانە",
-          "ar": "ترقيةُ الشكر ادعاءُ كمالِ الحياة أو إنكارُ الهموم"
+          "ar": "ترقيةُ الشكر ادعاءُ كمالِ الحياة أو إنكارُ الهموم",
+          "fr": "Développer la gratitude signifie affirmer que la vie est parfaite ou nier les inquiétudes"
         },
         {
           "tr": "İbrâhîm 14:7 şükürle artışı zikreder",
@@ -302,7 +326,8 @@
           "de": "Ibrahim 14:7 verbindet Dank und Mehr",
           "ku": "Îbrahîm 14:7 şukr û zêdebûnê girê dide",
           "ckb": "ئیبراهیم ٧ سوپاس و زیادکردن دەگەڕێتەوە",
-          "ar": "إبراهيم ٧ يقرن الشكر بالزيادة"
+          "ar": "إبراهيم ٧ يقرن الشكر بالزيادة",
+          "fr": "Ibrahim 14 : 7 relie la gratitude à l’augmentation"
         },
         {
           "tr": "Nahl 16:114 şükür ve helâl rızık bağını kurar",
@@ -313,7 +338,8 @@
           "de": "An-Nahl 16:114 verbindet Dank und halal",
           "ku": "Nahl 16:114 şukr û rizqê helal girê dide",
           "ckb": "نەحل ١١٤ سوپاس و ڕیزقی حەڵاڵ دەگەڕێتەوە",
-          "ar": "النحل ١١٤ يقرن الشكر بالحلال الطيب"
+          "ar": "النحل ١١٤ يقرن الشكر بالحلال الطيب",
+          "fr": "An-Nahl 16 : 114 lie la gratitude à une disposition légale"
         },
         {
           "tr": "İnsanlara şükür etmeyenin Allah'a şükretmediği hadisi vardır",
@@ -324,7 +350,8 @@
           "de": "Hadith über Menschen danken existiert",
           "ku": "Hedîsa şukra mirovan heye",
           "ckb": "حەدیسی سوپاسی مرۆڤ هەیە",
-          "ar": "ثبوتُ حديثِ شكرِ الناس"
+          "ar": "ثبوتُ حديثِ شكرِ الناس",
+          "fr": "Le hadith existe : ne pas remercier les gens, c'est ne pas remercier Allah"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Heute: Bismillah zum Bissen, Danke an jemand — Ibrahim 14:7: Dank stärkt das Herz.",
     "ku": "Îro: bismîllah li ser nîvalekê, spasî ji karekî, an nefeseke ku di tengasiyê de jî dibêje elhamdulîllah — Îbrahîm 14:7 û hedîsa şukra mirovan: şukr girêya dil mezin dike.",
     "ckb": "ئەمڕۆ: بەسمەلە لەسەر نێوەک، سوپاس بۆ کەسێک، یان هەناسەیەک کە لە ناخۆشیشدا دەڵێت ئەلحەمدو للە — ئیبراهیم ٧ و حەدیسی سوپاسی مرۆڤ: سوپاس بەستنەوەی دڵ درێژ دەکاتەوە.",
-    "ar": "اليوم: بسم الله على لقمةٍ، وشكرٌ لمن سعى، أو نفسٌ تقول الحمد لله في البلاء — ﴿لئن شكرتم لأزيدنكم﴾ وحديثُ شكرِ الناس: الشكرُ يوسِّعُ صدرَ القلبِ لا حجمَ المنشور."
+    "ar": "اليوم: بسم الله على لقمةٍ، وشكرٌ لمن سعى، أو نفسٌ تقول الحمد لله في البلاء — ﴿لئن شكرتم لأزيدنكم﴾ وحديثُ شكرِ الناس: الشكرُ يوسِّعُ صدرَ القلبِ لا حجمَ المنشور.",
+    "fr": "Aujourd'hui : bismillah pour une bouchée, merci pour le travail de quelqu'un, ou une respiration qui peut dire alhamdulillah à travers l'épreuve — Ibrahim 14 :7 et le hadith sur le remerciement des gens vous le rappellent : la gratitude développe le lien du cœur, pas la nourriture."
   }
 }

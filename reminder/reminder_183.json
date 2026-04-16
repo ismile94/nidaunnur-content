@@ -10,7 +10,8 @@
     "de": "Das Gefühl des Neids",
     "ku": "Hesta Çavnebariyê",
     "ckb": "هەستی چاوبرسی",
-    "ar": "شعورُ الحسد"
+    "ar": "شعورُ الحسد",
+    "fr": "Le sentiment d'envie"
   },
   "content": {
     "tr": "Haset duygusu; başkasının hayrına sevinmemek değil — onun düşmesini, eksilmesini veya payının azalmasını içten istemektir. İslam, gıpta ile (aynı hayır için dua ve çaba) hasedi ayırır; birine Allah'ın verdiği nimete içten razı olmak, kalbi genişletir.\n\nMümin, sabah-akşam okuduğu dua ile şerrinden sığınır:\n\n**﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِن شَرِّ مَا خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾**\n**«De ki: Tan yerinin Rabbine sığınırım... düğümlere üfleyenlerin şerrinden... haset ettiğinde hasetçinin şerrinden.»**\n*(Felak 113:1-5)*\n\nBaşka bir ayette hasedin kaynağına işaret edilir:\n\n**﴿أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُم مُّلْكًا عَظِيمًا﴾**\n**«Yoksa insanlar, Allah'ın lütfundan kendilerine verdiği şey yüzünden mi haset ediyorlar?»**\n*(Nisâ 4:54 — bağlam; İbrahim ailesine verilenle karşılaştırma.)*\n\nPeygamberimiz ﷺ ümmetini birbirine düşürmemesi için uyarıyor:\n\n**«لَا تَحَاسَدُوا»**\n**«Birbirinize haset etmeyin.»**\n*(Buhârî, «Edebü'l-müfred»; Müslim, «Birr» — Hz. Ebû Hureyre r.a. rivayetiyle; benzeri «لا تباغضوا...» ile birlikte geçer.)*\n\nBaşka bir rivayette hasedin amellere etkisi hatırlatılır: **hasedin salih amelleri tükettiği** teması hadis külliyatında sıkça zikredilir — kalbi yakan, önce haset edendir.\n\nBugün bir paylaşım, bir terfi veya bir mutluluk haberi — haset mi yoksa «Allah daha çoğunu nasip etsin» duası mı; fark, kalbin sırrıdır.",
@@ -21,7 +22,8 @@
     "de": "Neid ist nicht nur Mangel an Freude — es ist Wunsch nach dem Sturz des anderen. Der Islam unterscheidet zerstörerischen Neid und guten Wunsch.\n\n**﴿ومن شر حاسد إذا حسد﴾**\n*(Al-Falaq 113:5)*\n\n**﴿أم يحسدون الناس على ما آتاهم الله من فضله﴾**\n*(An-Nisa 4:54)*\n\n**«لا تحاسدوا»** *(Bukhari, Muslim)*\n\nHeute: Neid oder Gebet für den Bruder?",
     "ku": "Çavnebarî tenê kêfa xweşîya yekî din tune ne — windakirina wî dixwaze. Îslam navbera çavnebariya wêranker û xwestina baş cuda dike.\n\n**﴿ومن شر حاسد إذا حسد﴾**\n*(Feleq 113:5)*\n\n**﴿أم يحسدون الناس على ما آتاهم الله من فضله﴾**\n*(Nisa 4:54)*\n\n**«لا تحاسدوا»** *(Buxarî, Muslîm)*\n\nÎro parvekirin an kêfxweşî — çavnebarî an dua?",
     "ckb": "چاوبرسی تەنها خۆش نەبوون بە خۆشەویستی نییە — بەڵکوو ویستنی کەمبوونەوە یان لەدەستچوونی بەهرەی کەسێکی تر. ئیسلام جیاوازی نێوان چاوبرسی تێکدەر و ئارەزووی ڕەوای بەشداربوون لە چاکەدا دەنێت.\n\n**﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾**\n*(فەلەق: ١-٥)*\n\n**﴿أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ﴾**\n*(نسا: ٥٤)*\n\n**«لا تحاسدوا»** *(بوخاری، موسلیم)*\n\nئەمڕۆ بڵاوکراوەوە، پلە بەرزبوونەوە یان خۆشەویستی — چاوبرسییە یان دعا بۆ زیادبوونی بەخششی خودا؟",
-    "ar": "الحسدُ ليس غيابَ الفرحِ بخيرِ الغير فقط — إنه تمنِّي زوالِ نعمته أو نقصانها. يفرقُ الإسلامُ بين الحسدِ المدمِّر والغِبْطةِ الحميدةِ باجتهادٍ ودعاءٍ؛ والرضاُ بما آتاه اللهُ لعبده يوسِّعُ الصدر.\n\n**﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾**\n*(الفلق: ١-٥)*\n\n**﴿أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ﴾**\n*(النساء: ٥٤)*\n\nوقال النبي ﷺ:\n\n**«لا تحاسدوا»**\n*(رواه البخاري في «الأدب المفرد» ومسلم في «البِر والصلة» — عن أبي هريرة رضي الله عنه)*\n\nويُذكَر في السنةِ أنَّ الحسدَ يَأْكُلُ الحسناتِ كما تأكلُ النارُ الحطبَ — فالضررُ أولاً على صاحبِ الحسد.\n\nاليوم منشورٌ أو ترقيةٌ أو بشرى — حسدٌ أم دعاءٌ «بارك الله له»؟ السرُّ في القلب."
+    "ar": "الحسدُ ليس غيابَ الفرحِ بخيرِ الغير فقط — إنه تمنِّي زوالِ نعمته أو نقصانها. يفرقُ الإسلامُ بين الحسدِ المدمِّر والغِبْطةِ الحميدةِ باجتهادٍ ودعاءٍ؛ والرضاُ بما آتاه اللهُ لعبده يوسِّعُ الصدر.\n\n**﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾**\n*(الفلق: ١-٥)*\n\n**﴿أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ﴾**\n*(النساء: ٥٤)*\n\nوقال النبي ﷺ:\n\n**«لا تحاسدوا»**\n*(رواه البخاري في «الأدب المفرد» ومسلم في «البِر والصلة» — عن أبي هريرة رضي الله عنه)*\n\nويُذكَر في السنةِ أنَّ الحسدَ يَأْكُلُ الحسناتِ كما تأكلُ النارُ الحطبَ — فالضررُ أولاً على صاحبِ الحسد.\n\nاليوم منشورٌ أو ترقيةٌ أو بشرى — حسدٌ أم دعاءٌ «بارك الله له»؟ السرُّ في القلب.",
+    "fr": "Le sentiment d'envie ne consiste pas simplement à ne pas se réjouir du bien d'autrui - c'est à souhaiter intérieurement sa perte, sa diminution ou sa part plus petite. L'Islam distingue l'envie destructrice (hasad) du désir sain de partager le bien (ghibtah) par l'effort et la prière ; être satisfait de la bonté d'Allah envers quelqu'un élargit le cœur.\n\nLe croyant cherche refuge matin et soir :\n\n**﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾**\n**\"Dis : Je cherche refuge auprès du Seigneur de l'aube... contre le mal de l'envieux quand il envie.\"**\n*(Al-Falaq 113 : 1-5)*\n\nUn autre verset pointe vers la racine de l’envie :\n\n**﴿أضْلِهِ﴾**\n**\"Ou est-ce qu'ils envient les gens pour ce qu'Allah leur a donné de Sa générosité ?\"**\n*(An-Nisa 4:54)*\n\nNotre Prophète ﷺ avertit la Oumma :\n\n**«لَا تَحَاسَدُوا»**\n**\"Ne vous enviez pas les uns les autres.\"**\n*(Bukhari « Al-Adab Al-Mufrad » ; Muslim, « Birr » — rapporté par Abu Hurairah r.a. ; souvent avec « ne haïssez pas... ».)*\n\nLa tradition rappelle également que l'envie peut consumer les bonnes actions : le feu brûle d'abord le cœur de l'envieux.\n\nAujourd'hui, un poste, une promotion ou une bonne nouvelle — l'envie ou la prière « qu'Allah accorde encore plus » ; la différence est le secret du cœur."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure steht «vom Übel des Neidenden wenn er neidet»?",
         "ku": "«Dema çavnebarî çavnebarî dike şerrê wî» di kîjan sûreyê de ye?",
         "ckb": "«لە شەڕی چاوبرس کاتێک چاوبرسی دەکات» لە کام سورەتدایە؟",
-        "ar": "في أيِّ سورةٍ ﴿ومن شر حاسد إذا حسد﴾؟"
+        "ar": "في أيِّ سورةٍ ﴿ومن شر حاسد إذا حسد﴾؟",
+        "fr": "Dans quelle sourate apparaît « du mal de l'envieux quand il envie » ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-Falaq",
           "ku": "Feleq",
           "ckb": "فەلەق",
-          "ar": "الفلق"
+          "ar": "الفلق",
+          "fr": "Al-Falaq"
         },
         {
           "tr": "Nas",
@@ -58,7 +62,8 @@
           "de": "An-Nas",
           "ku": "Nas",
           "ckb": "ناس",
-          "ar": "الناس"
+          "ar": "الناس",
+          "fr": "An-Nas"
         },
         {
           "tr": "İhlas",
@@ -69,7 +74,8 @@
           "de": "Al-Ikhlas",
           "ku": "Îxlas",
           "ckb": "ئیخلاس",
-          "ar": "الإخلاص"
+          "ar": "الإخلاص",
+          "fr": "Al-Ikhlas"
         },
         {
           "tr": "Kevser",
@@ -80,7 +86,8 @@
           "de": "Al-Kawthar",
           "ku": "Kevser",
           "ckb": "کەوسەر",
-          "ar": "الكوثر"
+          "ar": "الكوثر",
+          "fr": "Al-Kawthar"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "Worauf weist An-Nisa 4:54 mit Neid auf Allahs Huld?",
         "ku": "Di Nisa 4:54 de «ji bo tiştê ku Allah daye çavnebarî dikin» çi nîşan dide?",
         "ckb": "لە نسا ٥٤دا «ئایا بەهۆی ئەوەی اللە پێی داوە چاوبرسی دەکەن» بۆ چی دەگەڕێتەوە؟",
-        "ar": "إلى ماذا يشير ﴿أم يحسدون الناس على ما آتاهم الله من فضله﴾؟"
+        "ar": "إلى ماذا يشير ﴿أم يحسدون الناس على ما آتاهم الله من فضله﴾؟",
+        "fr": "Que signifie la phrase d'An-Nisa 4 : 54 : « Envient-ils les gens pour ce qu'Allah leur a donné de Sa générosité » ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Neid wurzelt in Ablehnung göttlicher Verteilung",
           "ku": "Nekêşandina qismeta xweda ya Allahî — rişeya çavnebariyê",
           "ckb": "نەڕازیبوون لە دابەشکردنی فەزڵی خودا — ڕەگەی چاوبرسی",
-          "ar": "عدمِ الرضا بقسمةِ الله سببٌ للحسد"
+          "ar": "عدمِ الرضا بقسمةِ الله سببٌ للحسد",
+          "fr": "Refus intérieur d'accepter la distribution de la générosité d'Allah - racine de l'envie"
         },
         {
           "tr": "İnsanların hiç nimeti olmadığını söyler",
@@ -119,7 +128,8 @@
           "de": "Sagt es gibt keine Gunst",
           "ku": "Dibêje mirov tişt tune",
           "ckb": "دەڵێت هیچ بەخششێک نییە",
-          "ar": "إنكارُ الفضل تماماً"
+          "ar": "إنكارُ الفضل تماماً",
+          "fr": "Il dit que les gens n'ont aucune prime"
         },
         {
           "tr": "Hasedin caiz olduğunu ilan eder",
@@ -130,7 +140,8 @@
           "de": "Erklärt Neid für erlaubt",
           "ku": "Çavnebarî wekî helal radigihîne",
           "ckb": "چاوبرسی وەک حەڵاڵ ڕادەگەیەنێت",
-          "ar": "إباحةُ الحسد"
+          "ar": "إباحةُ الحسد",
+          "fr": "Déclare l'envie licite"
         },
         {
           "tr": "Sadece İbrahim ailesine özel bir ruhsattır",
@@ -141,7 +152,8 @@
           "de": "Nur Lizenz für Ibrahim",
           "ku": "Tenê ji bo malbata Îbrahîm e",
           "ckb": "تەنها بۆ خێزانی ئیبراهیم",
-          "ar": "خصوصيةٌ لآل إبراهيم فقط"
+          "ar": "خصوصيةٌ لآل إبراهيم فقط",
+          "fr": "Licence spéciale uniquement pour la famille d'Ibrahim"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Mit welchem Thema steht «neidet nicht» oft zusammen?",
         "ku": "Hedîsa «ji hev re çavnebarî nekin» bi kîjan mijarê re bi hev re tê?",
         "ckb": "حەدیسی «یەکتر چاوبرسی مەکەن» بە گشتی لەگەڵ کام بابەتدا دەگوترێتەوە؟",
-        "ar": "مع ماذا يُقرن عادةً «لا تحاسدوا»؟"
+        "ar": "مع ماذا يُقرن عادةً «لا تحاسدوا»؟",
+        "fr": "Le hadith « Ne vous enviez pas les uns les autres » est souvent cité avec quel thème ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Verbot von Hass und Entfremdung",
           "ku": "Qedexeya nefret û dûrketinê",
           "ckb": "قەدەغەکردنی نەفرەت و دوورکەوتنەوە",
-          "ar": "النهي عن البغض والهجرة بين المسلمين"
+          "ar": "النهي عن البغض والهجرة بين المسلمين",
+          "fr": "Interdictions de l'aversion mutuelle, de la haine et du détournement"
         },
         {
           "tr": "Sadece ticareti yasaklamayı",
@@ -180,7 +194,8 @@
           "de": "Nur Handel verbieten",
           "ku": "Tenê kirîn-firoştin qedexe dike",
           "ckb": "تەنها قەدەغەکردنی بازرگانی",
-          "ar": "تحريمُ التجارة فقط"
+          "ar": "تحريمُ التجارة فقط",
+          "fr": "Seulement interdire le commerce"
         },
         {
           "tr": "Yalnızca oruç konusunu",
@@ -191,7 +206,8 @@
           "de": "Nur Fasten",
           "ku": "Tenê mijara rojî",
           "ckb": "تەنها بابەتی ڕۆژوو",
-          "ar": "الصومُ فقط"
+          "ar": "الصومُ فقط",
+          "fr": "Seul sujet de jeûne"
         },
         {
           "tr": "Sadece haccı emretmeyi",
@@ -202,7 +218,8 @@
           "de": "Nur Hadsch gebieten",
           "ku": "Tenê hecê ferman dike",
           "ckb": "تەنها فەرمانی حەج",
-          "ar": "وجوبُ الحج فقط"
+          "ar": "وجوبُ الحج فقط",
+          "fr": "Commander seulement le Hajj"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Wie unterscheidet der Text Neid vom Wunsch nach demselben Guten?",
         "ku": "Di nivîsê de navbera çavnebarî û xwestina heman başî bi dua û xebatê çawa tê veqetandin?",
         "ckb": "لە دەقەکەدا چاوبرسی چۆن جیا دەکرێتەوە لە ئارەزووی هەمان چاکە بە dua و هەوڵ؟",
-        "ar": "كيف يفرق النص بين الحسد والغبطة؟"
+        "ar": "كيف يفرق النص بين الحسد والغبطة؟",
+        "fr": "Comment le texte distingue-t-il l’envie du fait de souhaiter le même bien avec la prière et l’effort ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Neid will wegnehmen; Ghibtah will dasselbe Gute",
           "ku": "Çavnebarî dixwaze ya yê din winda bibe; gıbte heman başî ji xwe re dixwaze",
           "ckb": "چاوبرسی دەوێت نەعمەتی کەسەکە بڕوات؛ غِبطە هەمان چاکە بۆ خۆی دەوێت بە ڕەوایی",
-          "ar": "الحسدُ تمنِّي زوالِ نعمةِ الغير؛ والغبطةُ رغبةٌ في مثلها بلا أذى"
+          "ar": "الحسدُ تمنِّي زوالِ نعمةِ الغير؛ والغبطةُ رغبةٌ في مثلها بلا أذى",
+          "fr": "L'envie veut que la bénédiction de l'autre soit supprimée ; ghibtah veut le même bien pour lui-même avec droiture"
         },
         {
           "tr": "İkisi de aynı şeydir",
@@ -241,7 +260,8 @@
           "de": "Sind gleich",
           "ku": "Her du yek in",
           "ckb": "هەردووکیان یەکسانن",
-          "ar": "لا فرق بينهما"
+          "ar": "لا فرق بينهما",
+          "fr": "Ce sont les mêmes"
         },
         {
           "tr": "Gıpta İslam'da haramdır",
@@ -252,7 +272,8 @@
           "de": "Ghibtah ist verboten",
           "ku": "Gıbte di îslamê de haram e",
           "ckb": "غِبطە حەرامە",
-          "ar": "الغبطةُ محرمة"
+          "ar": "الغبطةُ محرمة",
+          "fr": "Ghibtah est interdit"
         },
         {
           "tr": "Haset sadece kadınlara özgüdür",
@@ -263,7 +284,8 @@
           "de": "Neid nur für Frauen",
           "ku": "Çavnebarî tenê ji bo jinan e",
           "ckb": "چاوبرسی تەنها بۆ ژنانە",
-          "ar": "الحسدُ للنساء فقط"
+          "ar": "الحسدُ للنساء فقط",
+          "fr": "L'envie est réservée aux femmes"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Neid schadet nur dem Beneideten",
           "ku": "Çavnebarî tenê li yê din dizîne; dilê çavnebar nakeve",
           "ckb": "چاوبرسی تەنها زیان بە کەسە چاوبرسکراوەکە دەگەیەنێت نەک دڵی چاوبرس",
-          "ar": "الحسدُ يضرُّ المحسودَ دون الحاسد"
+          "ar": "الحسدُ يضرُّ المحسودَ دون الحاسد",
+          "fr": "L'envie ne fait que blesser ceux qui sont enviés ; ça ne nuit pas au cœur de l'envieux"
         },
         {
           "tr": "Felak 113:5 hasetçinin şerrinden sığınmayı içerir",
@@ -302,7 +326,8 @@
           "de": "Al-Falaq 113:5 Zuflucht vor Neid",
           "ku": "Feleq 113:5 ji şerrê çavnebarî ve penaberî dixwaze",
           "ckb": "فەلەق ٥ پەنابردن لە شەڕی چاوبرس دەگرێتەوە",
-          "ar": "الفلق ٥ يستعيذ من شر الحاسد"
+          "ar": "الفلق ٥ يستعيذ من شر الحاسد",
+          "fr": "Al-Falaq 113 : 5 inclut le refuge contre le mal de l'envieux"
         },
         {
           "tr": "Nisâ 4:54 hasede işaret eden bir soru taşır",
@@ -313,7 +338,8 @@
           "de": "An-Nisa 4:54 fragt nach Neid",
           "ku": "Nisa 4:54 pirsekî ber bi çavnebarî ve ye",
           "ckb": "نسا ٥٤ پرسیارێک دەهێنێتەوە بۆ چاوبرسی",
-          "ar": "النساء ٥٤ تساءل عن سبب الحسد"
+          "ar": "النساء ٥٤ تساءل عن سبب الحسد",
+          "fr": "An-Nisa 4:54 porte une question pointant vers l'envie"
         },
         {
           "tr": "«Birbirinize haset etmeyin» emri ümmetin birliğini korur",
@@ -324,7 +350,8 @@
           "de": "«Neidet nicht» bewahrt Einheit",
           "ku": "«Ji hev re çavnebarî nekin» yekîtiyê diparêze",
           "ckb": "«یەکتر چاوبرسی مەکەن» یەکێتی دەپارێزێت",
-          "ar": "«لا تحاسدوا» يصون ودَّ الأمة"
+          "ar": "«لا تحاسدوا» يصون ودَّ الأمة",
+          "fr": "« Ne vous enviez pas les uns les autres » protège l'unité de la Oumma"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Bevor du fremde Freude übersiehst — innehalten. Al-Falaq 113: Feuer zuerst in dir; Heilung: Zufriedenheit.",
     "ku": "Berî ku parvekirin, nûçe an kêfxweşiya yekî din bibîne raweste: Feleq 113 û «لا تحاسدوا» — çavnebarî pêşî dilê te dişewitîne; çare razîbûna fezla Allahî ye.",
     "ckb": "پێش ئەوەی بڵاوکراوەوە یان خۆشەویستی کەسێکی تر بە سووک ببینیت وەستا: فەلەق ١١٣ و «لا تحاسدوا» — چاوبرسی یەکەم دڵەکەت دەکواژێت؛ چارەسەر ڕەزامەندییە لەسەر فەزڵی اللە.",
-    "ar": "قبل أن تمرَّ على فرحٍ بغيرِ مباركةٍ — تمهَّلْ. ﴿ومن شر حاسد إذا حسد﴾ و«لا تحاسدوا»: الحسدُ يأكلُ صاحبَه قبل المحسود؛ والشفاءُ بالرضا بقضاءِ الله."
+    "ar": "قبل أن تمرَّ على فرحٍ بغيرِ مباركةٍ — تمهَّلْ. ﴿ومن شر حاسد إذا حسد﴾ و«لا تحاسدوا»: الحسدُ يأكلُ صاحبَه قبل المحسود؛ والشفاءُ بالرضا بقضاءِ الله.",
+    "fr": "Avant de faire défiler une publication, une actualité ou la joie d'autrui aujourd'hui, faites une pause. Al-Falaq 113 et « n'envie pas » : l'envie brûle d'abord ton cœur ; Le remède est la satisfaction de la grâce d'Allah."
   }
 }

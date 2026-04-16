@@ -10,7 +10,8 @@
     "de": "Reinigung durch Du'a",
     "ku": "Bi Dua re Paqijkirin",
     "ckb": "پاکبوونەوە بە دوعا",
-    "ar": "التَّطْهِيرُ بِالدُّعَاءِ"
+    "ar": "التَّطْهِيرُ بِالدُّعَاءِ",
+    "fr": "Purification par Du'a"
   },
   "content": {
     "tr": "Dua ile arınmak; sadece liste okumak veya «sihirli söz» beklemek değil — kalbi Allah'a boşaltmak, günah yükünü itiraf edip af dileyerek hafiflemektir. Dua, bazen cevap geldikten sonra değil; dilin Allah'a dönüşünde başlar.\n\nAllah Teâlâ çağrıya yakınlığı şöyle duyurur:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ﴾**\n**«Kullarım sana Beni sorduğunda şüphesiz Ben yakınım. Davet eden duasıyla Bana yöneldiğinde duasına icabet ederim. O halde onlar da Bana icabet etsinler ve Bana iman etsinler ki doğruya eresinler.»**\n*(Bakara 2:186)*\n\nBaşka bir ayette dua doğrudan bağlanır:\n\n**﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۗ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾**\n**«Rabbiniz dedi ki: Bana dua edin, size icabet edeyim. Şüphesiz kulluğumdan büyüklenenler zelil olarak cehenneme girecekler.»**\n*(Ğâfir 40:60)*\n\nPeygamberimiz ﷺ duayı ibadetin özüne yerleştirir:\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**«Dua, ibadetin ta kendisidir.»**\n*(Tirmizî, «Daavât» — Nu'mân b. Beşîr r.a.; Tirmizî «hasen sahih» demiştir.)*\n\nBugün arınma duası: bir istiğfar, bir «Yâ Hannân Yâ Mannân», bir sessiz «Rabbena âtinâ» — temizlik bazen sözün çokluğunda değil; kalbin teslimiyetindedir.",
@@ -21,7 +22,8 @@
     "de": "Reinigung durch Du'a ist keine Zauberliste — Herz vor Allah ausschütten.\n\n**﴿إني قريب أجيب دعوة الداعي﴾**\n*(Al-Baqarah 2:186)*\n\n**﴿ادعوني أستجب لكم﴾**\n*(Ghafir 40:60)*\n\n**«الدعاء هو العبادة»** *(Tirmidhi — hasen sahih)*\n\nHeute: still istighfar.",
     "ku": "Bi dua re paqijkirin wateya lîsteya sîhrî nîne — dil ber bi Allahî ve vala bike.\n\n**﴿إني قريب أجيب دعوة الداعي﴾**\n*(Bekere 2:186)*\n\n**﴿ادعوني أستجب لكم﴾**\n*(Ğâfir 40:60)*\n\n**«الدعاء هو العبادة»** *(Tirmizî)*\n\nÎro: istiğfarek bê deng.",
     "ckb": "پاکبوونەوە بە دوعا تەنها خوێندنەوەی لیست یان چاوەڕوانی «وشەی سیحر» نییە — بەڵکوو بەتاڵکردنەوەی دڵ بەرەو اللە، قبوڵکردنی گوناه و داوای لێبوردن. دوعا زۆرجار لە وەڵام هاتن پێشووتر دەست پێدەکات — کاتێک زمان بەرەو اللە دەگەڕێتەوە.\n\nاللە دەفەرموێت:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(بەقەرە: ١٨٦)*\n\n**﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ﴾**\n*(غافر: ٦٠)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«الدعاء هو العبادة»**\n*(تیڕمیزی — حەسەن سەحیح)*\n\nئەمڕۆ دوعایەکی پاککردنەوە: ئیستیغفارێک، «یا حنان یا منان»، «ربنا آتنا»ی بێدەنگ — پاکی زۆرجار لە وشەی زۆر نییە، لە تەسلیمی دڵدایە.",
-    "ar": "التطهيرُ بالدعاء ليس تلاوةَ قائمةٍ ولا انتظارَ «كلمةٍ سحرية» — إنما هو إفراغُ القلبِ بين يدي الله، والاستخفافُ بذنبٍ بعد الاعترافِ والاستغفار. وقد يبدأ الدعاءُ حين يميلُ اللسانُ إلى الله قبل أن يأتيَ الجواب.\n\nيقول الله تعالى:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(البقرة: ١٨٦)*\n\n**﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۗ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾**\n*(غافر: ٦٠)*\n\nوقال النبي ﷺ:\n\n**«الدعاء هو العبادة»**\n*(رواه الترمذي في «الدعوات» — عن النعمان بن بشير؛ قال: حسن صحيح)*\n\nاليوم دعاءٌ: استغفارٌ، وذكرٌ رقيقٌ، و«ربنا آتنا» بصمتٍ — الطهارةُ أحياناً في انكسارِ القلب لا في كثرةِ اللفظ."
+    "ar": "التطهيرُ بالدعاء ليس تلاوةَ قائمةٍ ولا انتظارَ «كلمةٍ سحرية» — إنما هو إفراغُ القلبِ بين يدي الله، والاستخفافُ بذنبٍ بعد الاعترافِ والاستغفار. وقد يبدأ الدعاءُ حين يميلُ اللسانُ إلى الله قبل أن يأتيَ الجواب.\n\nيقول الله تعالى:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(البقرة: ١٨٦)*\n\n**﴿وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۗ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ﴾**\n*(غافر: ٦٠)*\n\nوقال النبي ﷺ:\n\n**«الدعاء هو العبادة»**\n*(رواه الترمذي في «الدعوات» — عن النعمان بن بشير؛ قال: حسن صحيح)*\n\nاليوم دعاءٌ: استغفارٌ، وذكرٌ رقيقٌ، و«ربنا آتنا» بصمتٍ — الطهارةُ أحياناً في انكسارِ القلب لا في كثرةِ اللفظ.",
+    "fr": "La purification par la du'a ne consiste pas seulement à réciter des listes ou à attendre des « paroles magiques » — c'est vider son cœur vers Allah, se sentir plus léger en confessant son péché et en demandant pardon. La du'a commence souvent lorsque la langue se tourne vers Allah, et pas seulement lorsque la réponse arrive.\n\nAllah annonce la proximité de celui qui appelle :\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**\"Et quand Mes serviteurs vous interrogent à mon sujet, en effet, Je suis proche. Je réponds à l'invocation du suppliant lorsqu'il M'invoque.\"**\n*(Al-Baqarah 2:186)*\n\nUn autre verset relie directement du'a à la servitude :\n\n**﴿ادْعُونِي أَسْتَجِبْ لَكُمْ ۗ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي﴾**\n**\"Invoquez-moi, je vous répondrai. En effet, ceux qui dédaignent mon culte...\"**\n*(Ghafir 40:60)*\n\nLe Prophète ﷺ place la du'a au cœur du culte :\n\n**«Ad-du'au huwa al-ibadah»**\n**\"La supplication est en soi une adoration.\"**\n*(At-Tirmidhi, « Supplications » — Nu'man ibn Bashir ; noté hasan sahih par Tirmidhi.)*\n\nLa supplication purificatrice d'aujourd'hui : un istighfar, un ya Hannan ya Mannan, un \"Rabbana atina\" silencieux - la pureté est parfois dans l'abandon du cœur, pas dans le nombre de mots."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure «Ich bin nah; Ich erhöre den Rufer»?",
         "ku": "«Ez nêz im; kê bangî min bike ez bersiv didim» di kîjan sûreyê de ye?",
         "ckb": "«من نزیکم؛ بانگەکار بانگم کرد ئەوەڵام دەدەمەوە» لە کام سورەتدایە؟",
-        "ar": "في أي سورة ﴿إني قريب أجيب دعوة الداعي إذا دعان﴾؟"
+        "ar": "في أي سورة ﴿إني قريب أجيب دعوة الداعي إذا دعان﴾؟",
+        "fr": "Dans quelle sourate est «Je suis proche; Je réponds quand le suppliant appelle»?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-Baqarah",
           "ku": "Bekere",
           "ckb": "بەقەرە",
-          "ar": "البقرة"
+          "ar": "البقرة",
+          "fr": "Al-Baqarah"
         },
         {
           "tr": "Yâsîn",
@@ -58,7 +62,8 @@
           "de": "Ya-Sin",
           "ku": "Yasîn",
           "ckb": "یس",
-          "ar": "يس"
+          "ar": "يس",
+          "fr": "Ya-Sin"
         },
         {
           "tr": "Kevser",
@@ -69,7 +74,8 @@
           "de": "Al-Kawthar",
           "ku": "Kevser",
           "ckb": "کەوسەر",
-          "ar": "الكوثر"
+          "ar": "الكوثر",
+          "fr": "Al-Kawthar"
         },
         {
           "tr": "Felak",
@@ -80,7 +86,8 @@
           "de": "Al-Falaq",
           "ku": "Feleq",
           "ckb": "فەڵەق",
-          "ar": "الفلق"
+          "ar": "الفلق",
+          "fr": "Al-Falaq"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "In Ghafir 60, neben «ruft Mich», wer wird gewarnt?",
         "ku": "Di Ğâfir 40:60 de ligel «bangî min bike» kê hişyar dibe?",
         "ckb": "لە غافر ٦٠دا لەگەڵ «من بانگ بکەن» کێ ئاگادار دەکرێتەوە؟",
-        "ar": "من ينذر في غافر ٦٠ مع ﴿ادعوني أستجب لكم﴾؟"
+        "ar": "من ينذر في غافر ٦٠ مع ﴿ادعوني أستجب لكم﴾؟",
+        "fr": "Dans Ghafir 40 :60, à côté de « Invoquez-moi, je répondrai », qui est prévenu ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Wer über Gottesdienst hochmütig ist",
           "ku": "Yên ku ji ibadeta Allahî serbilind dibin",
           "ckb": "ئەوانەی لە عیبادەت گەورە دەبن",
-          "ar": "المستكبرين عن عبادة الله"
+          "ar": "المستكبرين عن عبادة الله",
+          "fr": "Ceux qui méprisent l'adoration d'Allah"
         },
         {
           "tr": "Sadece fakirleri",
@@ -119,7 +128,8 @@
           "de": "Nur Arme",
           "ku": "Tenê feqîr",
           "ckb": "تەنها هەژاران",
-          "ar": "الفقراء فقط"
+          "ar": "الفقراء فقط",
+          "fr": "Seuls les pauvres"
         },
         {
           "tr": "Hiç kimsenin uyarılmadığını",
@@ -130,7 +140,8 @@
           "de": "Niemand wird gewarnt",
           "ku": "Tu kes tên hişyar kirin",
           "ckb": "هیچ کەس ئاگادار ناکرێتەوە",
-          "ar": "عدمُ الإنذار"
+          "ar": "عدمُ الإنذار",
+          "fr": "Personne n'est prévenu"
         },
         {
           "tr": "Sadece peygamberleri",
@@ -141,7 +152,8 @@
           "de": "Nur Propheten",
           "ku": "Tenê pêxember",
           "ckb": "تەنها پێغەمبەران",
-          "ar": "الأنبياء فقط"
+          "ar": "الأنبياء فقط",
+          "fr": "Seuls les prophètes"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Was lehrt «Du'a ist Anbetung»?",
         "ku": "«Dua îbadet e» çi fêr dike?",
         "ckb": "حەدیسی «دوعا عیبادەتە» چی فێر دەکات؟",
-        "ar": "ماذا يفيد حديث «الدعاء هو العبادة»؟"
+        "ar": "ماذا يفيد حديث «الدعاء هو العبادة»؟",
+        "fr": "Qu'enseigne le hadith « Du'a est un culte » ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Du'a ist Kern der Anbetung",
           "ku": "Dua wekî navenda îbadetê",
           "ckb": "دوعا وەک ناوەندی عیبادەت",
-          "ar": "أن الدعاءَ قلبَ العبادة"
+          "ar": "أن الدعاءَ قلبَ العبادة",
+          "fr": "Ce du'a est une mesure de dévotion du cœur et d'adoration fondamentale"
         },
         {
           "tr": "Duanın farz olmadığını",
@@ -180,7 +194,8 @@
           "de": "Du'a nicht Pflicht",
           "ku": "Dua ferz nîne",
           "ckb": "دوعا فەرز نییە",
-          "ar": "عدمُ وجوبِ الدعاء"
+          "ar": "عدمُ وجوبِ الدعاء",
+          "fr": "Du'a n'est pas obligatoire"
         },
         {
           "tr": "Sadece Arapça okunabileceğini",
@@ -191,7 +206,8 @@
           "de": "Nur Arabisch",
           "ku": "Tenê bi Erebî",
           "ckb": "تەنها بە عەرەبی",
-          "ar": "اختصاصُه بالعربية"
+          "ar": "اختصاصُه بالعربية",
+          "fr": "Il ne peut être lu qu'en arabe"
         },
         {
           "tr": "Namazın dua ile değiştirildiğini",
@@ -202,7 +218,8 @@
           "de": "Gebet ersetzt durch Du'a",
           "ku": "Nimêj bi dua tê guhartin",
           "ckb": "نوێژ بە دوعا دەگۆڕدرێتەوە",
-          "ar": "إبدالُ الصلاة بالدعاء"
+          "ar": "إبدالُ الصلاة بالدعاء",
+          "fr": "La prière est remplacée par du'a"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Laut Text, wo beginnt Reinigung durch Du'a?",
         "ku": "Li gorî nivîsê paqijkirin bi dua piranî li ku derê dest pê dike?",
         "ckb": "بەپێی دەقەکە پاکبوونەوە بە دوعا زۆرجار لە کوێ دەست پێدەکات؟",
-        "ar": "أين يبدأ «التطهير بالدعاء» في النص؟"
+        "ar": "أين يبدأ «التطهير بالدعاء» في النص؟",
+        "fr": "D'après le texte, où commence le plus souvent la purification par du'a ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Zunge und Herz zu Allah wenden",
           "ku": "Di vegera ziman û dil ber bi Allahî ve — berî bersivê radestî",
           "ckb": "لە گەڕاندنەوەی زمان و دڵ بەرەو اللە — تەسلیم پێش وەڵام",
-          "ar": "في انعطافِ اللسانِ والقلبِ قبل وصولِ الإجابة"
+          "ar": "في انعطافِ اللسانِ والقلبِ قبل وصولِ الإجابة",
+          "fr": "En tournant la langue et le cœur vers Allah – abandonnez-vous avant la réponse"
         },
         {
           "tr": "Sadece maddi dilek yerine gelince",
@@ -241,7 +260,8 @@
           "de": "Nur wenn materieller Wunsch eintrifft",
           "ku": "Tenê dema daxwaza madî tê cih",
           "ckb": "تەنها کاتێک داوای مادی جێبەجێ دەبێت",
-          "ar": "عند تحققِ المطالبِ الدنيوية"
+          "ar": "عند تحققِ المطالبِ الدنيوية",
+          "fr": "Seulement quand les souhaits matériels se réalisent"
         },
         {
           "tr": "Hiç dua etmemekle",
@@ -252,7 +272,8 @@
           "de": "Durch nie Bitten",
           "ku": "Bi tu caran dua nekirin",
           "ckb": "بە بێ دوعا کردن",
-          "ar": "بتركِ الدعاء"
+          "ar": "بتركِ الدعاء",
+          "fr": "En ne suppliant jamais"
         },
         {
           "tr": "Sadece toplu duada",
@@ -263,7 +284,8 @@
           "de": "Nur in Gruppe",
           "ku": "Tenê di dua ya kom de",
           "ckb": "تەنها لە دوعای کۆمەڵایەتی",
-          "ar": "في الجماعة فقط"
+          "ar": "في الجماعة فقط",
+          "fr": "Uniquement en supplication de groupe"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Reinigen heißt Zauberworte wiederholen",
           "ku": "Bi dua paqijkirin wateya tenê gotinên sîhrî dubare kirin e",
           "ckb": "پاکبوونەوە بە دوعا واتای تەنها دووبارەکردنەوەی وشەی سیحر یان چاوەڕوانی ئەنجامی مادی لە هەمان کاتدا",
-          "ar": "التطهيرُ بالدعاء تكرارُ كلماتٍ سحريةٍ أو انتظارُ دنيا فورية"
+          "ar": "التطهيرُ بالدعاء تكرارُ كلماتٍ سحريةٍ أو انتظارُ دنيا فورية",
+          "fr": "La purification par du'a signifie répéter des mots magiques ou attendre des résultats matériels instantanés"
         },
         {
           "tr": "Bakara 2:186 Allah'ın duaya yakın olduğunu bildirir",
@@ -302,7 +326,8 @@
           "de": "Al-Baqarah 2:186 sagt Allah ist nah",
           "ku": "Bekere 2:186 dibêje Allah nêz e",
           "ckb": "بەقەرە ١٨٦ دەڵێت اللە نزیکە",
-          "ar": "البقرة ١٨٦ تقرر قربَ الله من الداعي"
+          "ar": "البقرة ١٨٦ تقرر قربَ الله من الداعي",
+          "fr": "Al-Baqarah 2 : 186 déclare qu'Allah est proche de du'a"
         },
         {
           "tr": "Ğâfir 40:60 dua ve kulluk ilişkisini kurar",
@@ -313,7 +338,8 @@
           "de": "Ghafir 40:60 verbindet Du'a und Dienst",
           "ku": "Ğâfir 40:60 dua û xizmet girê dide",
           "ckb": "غافر ٦٠ دوعا و عیبادەت دەگەڕێتەوە",
-          "ar": "غافر ٦٠ يقرن الدعاء بالعبادة"
+          "ar": "غافر ٦٠ يقرن الدعاء بالعبادة",
+          "fr": "Ghafir 40:60 relie la du'a et la servitude"
         },
         {
           "tr": "«Dua ibadettir» hadisi duayı önemser",
@@ -324,7 +350,8 @@
           "de": "Hadith ehrt Du'a",
           "ku": "Hedîsa «dua îbadet e» rêzê li dua digire",
           "ckb": "حەدیسی «دوعا عیبادەتە» گرنگی دەدات بە دوعا",
-          "ar": "حديثُ العبادة يقدر الدعاء"
+          "ar": "حديثُ العبادة يقدر الدعاء",
+          "fr": "Le hadith «du'a est un culte» honore du'a"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Zehn Istighfar oder leises «Ya Rahman» — Al-Baqarah 2:186: Reinigung ist Herzwendung.",
     "ku": "Îro deh car istiğfar an «Rabbena âtinâ» an «Ya Rahman»yekî bê deng — Bekere 2:186 — paqijkirin tenê dîtina bersivê nine; vegera ziman û dil e.",
     "ckb": "ئەمڕۆ دە جار ئیستیغفار یان «ربنا آتنا» یان «یا رەحمان»ێکی بێدەنگ — بەقەرە ١٨٦: پاکبوونەوە زۆرجار واتای گەڕاندنەوەی زمان و دڵە نەک تەنها بینینی وەڵام.",
-    "ar": "اليوم عشرُ استغفاراتٍ، أو «ربنا آتنا»، أو «يا رحمن» بصمتٍ — ﴿إني قريب أجيب دعوة الداعي﴾: الطهارةُ انعطافُ القلبِ واللسانِ لا انتظارَ ظهورِ النتيجةِ فقط."
+    "ar": "اليوم عشرُ استغفاراتٍ، أو «ربنا آتنا»، أو «يا رحمن» بصمتٍ — ﴿إني قريب أجيب دعوة الداعي﴾: الطهارةُ انعطافُ القلبِ واللسانِ لا انتظارَ ظهورِ النتيجةِ فقط.",
+    "fr": "Dix istighfar aujourd'hui, ou un « Rabbana atina », ou un « Ya Rahman » silencieux — Al-Baqarah 2 : 186 vous le rappelle : la purification est souvent le fait de tourner la langue et le cœur, et pas seulement de voir la réponse."
   }
 }

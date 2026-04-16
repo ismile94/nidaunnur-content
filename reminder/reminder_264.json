@@ -10,7 +10,8 @@
     "de": "Die Zeit (Al-Asr) und dem Verlust entgehen",
     "ku": "Dem û rizgarî ji ziyanê",
     "ckb": "کات (عەصر) و دوورکەوتنەوە لە زەرەر",
-    "ar": "الْعَصْرِ وَالنَّجَاةُ مِنَ الْخُسْرَانِ"
+    "ar": "الْعَصْرِ وَالنَّجَاةُ مِنَ الْخُسْرَانِ",
+    "fr": "Temps (Al-'Asr) et fuite de la perte"
   },
   "content": {
     "tr": "Şaban'ın son günlerinde «zaman» daha görünür hale gelir: Ramazan kapıda, günler kısılıyor, kalp ise hâlâ erteliyor olabilir. Asr suresi kısa ama ağır bir terazidir: insan, tek başına ve şartsız olarak değil — iman, salih amel ve karşılıklı nasihatle «hüsrandan çıkış» bulur.\n\nAllah Teâlâ şöyle yemin eder ve buyurur:\n\n**﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n**«Asra yemin olsun ki insan gerçekten hüsrandadır — ancak iman edip salih amel işleyenler, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler müstesna.»** *(Asr 103:1–3 — meâl özü)*\n\nBugün: bir doğruluk hatırlatması, bir sabır telkini, bir küçük salih amel — hepsi aynı cümlenin parçası: «Ben hüsranda kalmak zorunda değilim; Rabbim bir çıkış tarif etti.» Ramazan, bu tarifin pratiğini yoğunlaştıran mevsimdir; ama ilk adım bugün atılabilir.",
@@ -21,7 +22,8 @@
     "de": "In den letzten Tagen des Sha'ban wird die „Zeit“ deutlicher sichtbar: Der Ramadan steht vor der Tür, die Tage fühlen sich kürzer an, aber das Herz schiebt vielleicht noch weiter. Die Sure Al-'Asr ist kurz, aber umfangreich: Es wird nicht beschrieben, dass die Menschheit ausnahmslos nur im Verlust steckt – die Flucht vor dem Verlust erfolgt durch Glauben, rechtschaffene Taten und gegenseitigen Rat in Wahrheit und Geduld.\n\nAllah der Allerhöchste schwört und sagt:\n\n**﴿Mit der Zeit ist die Menschheit tatsächlich in Verlust geraten, außer denen, die geglaubt und rechtschaffene Taten getan haben und sich gegenseitig zur Wahrheit und zur Geduld geraten haben.﴾** *(Al-'Asr 103:1–3 – Bedeutung zusammengefasst)*\n\nHeute: eine Erinnerung an die Wahrheit, eine Ermutigung zur Geduld, eine kleine gerechte Tat – alles Teil desselben Satzes: „Ich muss nicht im Verlust bleiben; mein Herr hat einen Ausweg beschrieben.“ Der Ramadan intensiviert die Praxis dieser Karte; Der erste Schritt kann heute getan werden.",
     "ku": "Di rojên dawî yên Şe'banê de, \"dem\" bêtir xuya dibe: Remezan li ber derî ye, roj kurttir dibe, lê dîsa jî dibe ku dil bi paş ve biçe. Sureye esr kurt e, le tewafeke giran e: mirovatiye bi tene bi wendakirine be istisna naye wesifkirin, xilasbüna ji windahiye bi îman, bi emelê rast û bi şîreta bi heqîqet û sebirê pêk tê.\n\nXwedayê mezin sond dixwe û dibêje:\n\n**﴿Bi rastî mirov di xisaretê de ye, ji bilî wan ên ku bawerî anîne û karên qenc kirine û hevdû bi rastiyê şîret kirine û hevdû bi sebirê şîret kirine.» (Asr 103:1-3)\n\nÎro: yek bîranîna rastiyê, yek cesareta bîhnfirehiyê, yek emelek piçûk a rast - hemî beşek ji heman hevokê ne: \"Ez neçar im ku di windabûnê de bimînim; Rebbê min rêyek diyar kir.\" Remezan tetbîqata wê nexşeyê xurtir dike; gava yekem îro dikare bê avêtin.",
     "ckb": "کۆتایی شەعباندا «کات» دیارتر دەبێت — ڕەمەزان نزیکە. سورەتی عەصر کورتە بەڵام قورسە: مرۆڤ لە زەرەردایە مەگەر باوەڕ و کارێکی چاک و ئامۆژگاری ڕاست و ئارامگرایی.\n\nاللە دەفەرموێت:\n\n**﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n*(عەصر: ١–٣)*\n\nئەمڕۆ: یاداشتێک بۆ ڕاستی، فەرموون بۆ ئارامگرایی، کارێکی بچووکی چاک — «من ناچار نیم لە زەرەر بمێنمەوە.»",
-    "ar": "في أواخر شعبان يتجلّى «الوقت» أوضح: رمضانُ على الباب، والأيامُ تضيق، وقد يؤجّل القلبُ. سورةُ العصر قصيرةٌ لكنها ميزانٌ ثقيلٌ: الإنسانُ في خسرانٍ — إلا من اجتمع فيه الإيمانُ والعملُ الصالحُ والتواصي بالحقّ والصبر.\n\nيقول الله تعالى:\n\n**﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n*(العصر: ١–٣)*\n\nاليوم: تذكرةُ حقٍ، وتواصٍ بصبرٍ، وعملٌ صالحٌ صغيرٌ — كلها جزءٌ من جملةٍ واحدة: «لستُ محكوماً بالخسران؛ ربّي رسمَ مخرجاً.» رمضانُ يكثّفُ التمرين؛ والخطوةُ الأولى اليوم."
+    "ar": "في أواخر شعبان يتجلّى «الوقت» أوضح: رمضانُ على الباب، والأيامُ تضيق، وقد يؤجّل القلبُ. سورةُ العصر قصيرةٌ لكنها ميزانٌ ثقيلٌ: الإنسانُ في خسرانٍ — إلا من اجتمع فيه الإيمانُ والعملُ الصالحُ والتواصي بالحقّ والصبر.\n\nيقول الله تعالى:\n\n**﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ﴾**\n*(العصر: ١–٣)*\n\nاليوم: تذكرةُ حقٍ، وتواصٍ بصبرٍ، وعملٌ صالحٌ صغيرٌ — كلها جزءٌ من جملةٍ واحدة: «لستُ محكوماً بالخسران؛ ربّي رسمَ مخرجاً.» رمضانُ يكثّفُ التمرين؛ والخطوةُ الأولى اليوم.",
+    "fr": "Dans les derniers jours de Sha'ban, le « temps » devient plus visible : le Ramadan est à la porte, les jours semblent plus courts, mais le cœur peut encore reporter. La sourate Al-'Asr est courte mais d'une envergure lourde : l'humanité n'est pas décrite comme étant seule en perte, sans exception – l'évasion de la perte passe par la foi, l'action juste et le conseil mutuel dans la vérité et la patience.\n\nAllah le Très-Haut jure et dit :\n\n**﴿Avec le temps, en effet, l'humanité est en perte, à l'exception de ceux qui ont cru et accompli des actions justes et se sont conseillé mutuellement la vérité et se sont conseillé mutuellement la patience.﴾** *(Al-'Asr 103 : 1-3 — sens résumé)*\n\nAujourd'hui : un rappel de la vérité, un encouragement à la patience, une petite action juste — tout cela fait partie de la même phrase : « Je ne dois pas rester dans la perte ; mon Seigneur a décrit une issue. » Le Ramadan intensifie la pratique de cette carte ; le premier pas peut être fait aujourd’hui."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welcher Sure stehen 103:1–3?",
         "ku": "«Bi demê re... mirov di ziyanê de ye» di kîjan sure de ye?",
         "ckb": "«سوێند بە کات... مرۆڤ لە زەرەردایە» لە کام سورەتدایە؟",
-        "ar": "في أي سورة ﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ﴾؟"
+        "ar": "في أي سورة ﴿وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ﴾؟",
+        "fr": "Dans quelle sourate se trouvent les versets « Avec le temps, l'humanité est en effet en perte… » (tels que cités dans le texte) ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-'Asr",
           "ku": "Asr",
           "ckb": "عەصر",
-          "ar": "العصر"
+          "ar": "العصر",
+          "fr": "Al-'Asr"
         },
         {
           "tr": "Karia",
@@ -58,7 +62,8 @@
           "de": "Al-Qari'ah",
           "ku": "Qaria",
           "ckb": "قارعە",
-          "ar": "القارعة"
+          "ar": "القارعة",
+          "fr": "Al-Qari'ah"
         },
         {
           "tr": "Tekâsür",
@@ -69,7 +74,8 @@
           "de": "At-Takathur",
           "ku": "Tekasûr",
           "ckb": "تەکاسور",
-          "ar": "التكاثر"
+          "ar": "التكاثر",
+          "fr": "At-Takathur"
         },
         {
           "tr": "İhlâs",
@@ -80,7 +86,8 @@
           "de": "Al-Ikhlas",
           "ku": "İxlas",
           "ckb": "ئیخلاس",
-          "ar": "الإخلاص"
+          "ar": "الإخلاص",
+          "fr": "Al-Ikhlas"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "In 103:2, der Mensch?",
         "ku": "Li gorî Asr rewşa giştî ya mirov çi ye?",
         "ckb": "لە عەصردا ڕەوشی گشتی مرۆڤ چییە؟",
-        "ar": "ما حالُ الإنسان في ٢ من العصر قبل الاستثناء؟"
+        "ar": "ما حالُ الإنسان في ٢ من العصر قبل الاستثناء؟",
+        "fr": "Selon la sourate Al-'Asr, quel est l'état général de l'humanité (avant l'exception) ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Immer im Gewinn",
           "ku": "Her dem qezenc",
           "ckb": "هەمیشە قازانج",
-          "ar": "في ربح دائم"
+          "ar": "في ربح دائم",
+          "fr": "Toujours dans le profit et le salut"
         },
         {
           "tr": "Hüsrandadır (zarar/ziyan içindedir)",
@@ -119,7 +128,8 @@
           "de": "Im Verlust",
           "ku": "Di ziyanê de ye",
           "ckb": "لە زەرەردایە",
-          "ar": "في خسران"
+          "ar": "في خسران",
+          "fr": "En perte"
         },
         {
           "tr": "Ne kâr ne zarar; tam nötr",
@@ -130,7 +140,8 @@
           "de": "Neutral",
           "ku": "Nê kêr nê ziyan",
           "ckb": "نە قازانج نە زەرەر",
-          "ar": "محايد"
+          "ar": "محايد",
+          "fr": "Ni profit ni perte ; neutre"
         },
         {
           "tr": "Sadece melekler için geçerlidir",
@@ -141,7 +152,8 @@
           "de": "Nur Engel",
           "ku": "Tenê ji bo fîrişteyan",
           "ckb": "تەنها بۆ فریشتەکان",
-          "ar": "للملائكة فقط"
+          "ar": "للملائكة فقط",
+          "fr": "S'applique uniquement aux anges"
         }
       ],
       "correct": 1
@@ -157,7 +169,8 @@
         "de": "In 103:3, was steht NICHT?",
         "ku": "Li gorî 103:3 kîjan nehatiye gotin?",
         "ckb": "لە ٣ی ١٠٣دا کام لەمانە نەهاتووە؟",
-        "ar": "في ٣ من العصر ما الذي لم يُذكر؟"
+        "ar": "في ٣ من العصر ما الذي لم يُذكر؟",
+        "fr": "D'après 103 : 3 dans le texte, lequel des éléments suivants n'est PAS mentionné dans le cadre de l'évasion de la perte ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Glaube",
           "ku": "Bawerî",
           "ckb": "باوەڕ",
-          "ar": "الإيمان"
+          "ar": "الإيمان",
+          "fr": "Avoir la foi"
         },
         {
           "tr": "Salih amel işlemek",
@@ -180,7 +194,8 @@
           "de": "Gute Taten",
           "ku": "Kirinên baş",
           "ckb": "کارە چاکەکان",
-          "ar": "العمل الصالح"
+          "ar": "العمل الصالح",
+          "fr": "Faire des actions justes"
         },
         {
           "tr": "Birbirine hakkı ve sabrı tavsiye etmek",
@@ -191,7 +206,8 @@
           "de": "Sich gegenseitig Recht und Geduld raten",
           "ku": "Hev re rastî û sabir telkin kirin",
           "ckb": "ئامۆژگاری ڕاست و ئارامگرایی",
-          "ar": "التواصي بالحق والصبر"
+          "ar": "التواصي بالحق والصبر",
+          "fr": "Conseiller mutuellement la vérité et la patience"
         },
         {
           "tr": "Yalnızca mal biriktirmek ve dünyada şöhret kazanmak",
@@ -202,7 +218,8 @@
           "de": "Nur Reichtum und Ruhm",
           "ku": "Tenê mal û navdarî",
           "ckb": "تەنها ماڵ وناوداری",
-          "ar": "جمع المال والشهرة فقط"
+          "ar": "جمع المال والشهرة فقط",
+          "fr": "Seulement accumuler richesse et renommée dans le monde"
         }
       ],
       "correct": 3
@@ -218,7 +235,8 @@
         "de": "Ramadan und der Ausweg im Text?",
         "ku": "Li gorî nivîsê Remezan û «derketinê» çawa girê didin?",
         "ckb": "بەپێی دەقەکە ڕەمەزان چ پەیوەندییەکی لەگەڵ ڕێگای دەرچوون هەیە؟",
-        "ar": "كيف يربط النصُّ رمضانَ بطريقِ الخروج من الخسران؟"
+        "ar": "كيف يربط النصُّ رمضانَ بطريقِ الخروج من الخسران؟",
+        "fr": "Selon le texte, quel est le lien entre le Ramadan et la « sortie » décrite dans la sourate Al-'Asr ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Ramadan vertieft die Übung",
           "ku": "Remezan pratîkê zêde dike; gav îro",
           "ckb": "ڕەمەزان پراکتیزەکە توند دەکاتەوە؛ هەنگاو ئەمڕۆ",
-          "ar": "رمضان يكثّف التمرين والخطوة اليوم"
+          "ar": "رمضان يكثّف التمرين والخطوة اليوم",
+          "fr": "Le Ramadan intensifie la pratique de cette carte ; le premier pas peut être fait aujourd'hui"
         },
         {
           "tr": "Ramazan, Asr suresini tamamen geçersiz kılar",
@@ -241,7 +260,8 @@
           "de": "Ramadan hebt Asr auf",
           "ku": "Remezan Asrê betal dike",
           "ckb": "ڕەمەزان عەصر هەڵدەوەشێنێتەوە",
-          "ar": "رمضان يلغي العصر"
+          "ar": "رمضان يلغي العصر",
+          "fr": "Le Ramadan invalide complètement la sourate Al-'Asr"
         },
         {
           "tr": "Metin, ikisinin hiç ilgisi olmadığını söyler",
@@ -252,7 +272,8 @@
           "de": "Kein Zusammenhang",
           "ku": "Nivîs dibêje têkîlî tune",
           "ckb": "دەقەکە دەڵێت پەیوەندی نییە",
-          "ar": "لا علاقة"
+          "ar": "لا علاقة",
+          "fr": "Le texte dit qu'ils n'ont aucun rapport"
         },
         {
           "tr": "Sadece oruç tutanlar Asr'dan muaf tutulur",
@@ -263,7 +284,8 @@
           "de": "Befreiung durch Fasten",
           "ku": "Tenê rojîdar muaf in",
           "ckb": "تەنها ڕۆژووداران لە عەصر بێبەشن",
-          "ar": "إعفاءٌ بالصوم فقط"
+          "ar": "إعفاءٌ بالصوم فقط",
+          "fr": "Seuls ceux qui jeûnent sont exemptés d'Al-'Asr"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Welche Aussage ist laut Text FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفق النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفق النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Asr betont Glauben und Werke",
           "ku": "Asr bawerî û kare baş bilind dike",
           "ckb": "عەصر باوەڕ و کارە چاکەکان بەرز دەکاتەوە",
-          "ar": "العصر يبرز الإيمان والعمل"
+          "ar": "العصر يبرز الإيمان والعمل",
+          "fr": "Al-'Asr met en lumière la foi et l'action juste"
         },
         {
           "tr": "Metin, karşılıklı hak ve sabır tavsiyesini önemli sayar",
@@ -302,7 +326,8 @@
           "de": "Gegenseitig Recht und Geduld",
           "ku": "Nivîs tevsiya rastî û sabirê girîng dike",
           "ckb": "دەقەکە ئامۆژگاری ڕاست و ئارامگرایی گرنگ دەکات",
-          "ar": "النص يقدّر التواصي"
+          "ar": "النص يقدّر التواصي",
+          "fr": "Le texte valorise le conseil mutuel dans la vérité et la patience"
         },
         {
           "tr": "Metin, insanın hiçbir şartla hüsranda olmayacağını kesin olarak bildirir",
@@ -313,7 +338,8 @@
           "de": "Text leugnet jeden Verlust",
           "ku": "Nivîs dibêje mirov qet ziyanê de nine",
           "ckb": "دەقەکە دەڵێت مرۆڤ هەرگیز لە زەرەردا نییە",
-          "ar": "النص ينفي الخسران مطلقاً"
+          "ar": "النص ينفي الخسران مطلقاً",
+          "fr": "Le texte déclare que l'humanité n'est jamais en perte, quelles que soient les conditions."
         },
         {
           "tr": "Kalbin ertelemesi, metinde zaman baskısıyla birlikte anılır",
@@ -324,7 +350,8 @@
           "de": "Aufschub des Herzens",
           "ku": "Şûndeketina dil",
           "ckb": "دواخستنی دڵ",
-          "ar": "تأجيل القلب مع ضيق الوقت"
+          "ar": "تأجيل القلب مع ضيق الوقت",
+          "fr": "Le report du cœur est évoqué à côté de la pression du temps"
         }
       ],
       "correct": 2
@@ -339,6 +366,7 @@
     "de": "Eine kurze Sure, eine lange Abrechnung: Heute reicht eine gerechte Tat, ein wahres Wort, eine Erinnerung an Geduld – schon eine der drei reicht aus, um zu beginnen.",
     "ku": "Sureyek kurt, hesabek dirêj: îro yek kirinek rast, yek peyva rast, yek bîranînek sebirê - yek ji sêyan jî ji bo destpêkirinê bes e.",
     "ckb": "سورەت کورتە — ئەمڕۆ یەکێک لەمانە بەسە بۆ دەستپێکردن.",
-    "ar": "سورةٌ قصيرةٌ وحسابٌ طويلٌ: اليوم عملٌ صالحٌ، أو كلمةُ حقٍ، أو تواصٍ بصبرٍ — ويكفي واحدٌ لتبدأ."
+    "ar": "سورةٌ قصيرةٌ وحسابٌ طويلٌ: اليوم عملٌ صالحٌ، أو كلمةُ حقٍ، أو تواصٍ بصبرٍ — ويكفي واحدٌ لتبدأ.",
+    "fr": "Une courte sourate, un long compte rendu : aujourd’hui, une action juste, une parole vraie, un rappel de patience – même une des trois suffit pour commencer."
   }
 }

@@ -10,7 +10,8 @@
     "de": "Umgang mit Wut",
     "ku": "Rêvebirina Hêrsê",
     "ckb": "بەڕێوەبردنی تووڕەیی",
-    "ar": "ضبطُ الغضب"
+    "ar": "ضبطُ الغضب",
+    "fr": "Gestion de la colère"
   },
   "content": {
     "tr": "Öfke yönetimi; duyguyu yok saymak değil — öfkeyi tanımak, sözü ve eli durdurmak, kin biriktirmeden «istiaze» ile sığınmak ve Allah'ın rızasına uygun tepkiyi seçmektir. İslam, mazlumu korumayı emreder; ama gücü, kin ve sövgüye çevirmeyi yasaklar.\n\nAllah Teâlâ takva sahiplerinin sıfatlarını şöyle sayar:\n\n**﴿الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n**«Bollukta ve darlıkta harcayanlar, öfkelerini yutanlar ve insanları affedenler... Allah iyilik edenleri sever.»**\n*(Âl-i İmrân 3:134)*\n\nBaşka bir ayette affedici tutum övülür:\n\n**﴿وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ﴾**\n**«Büyük günahlardan ve çirkin fiillerden kaçınırlar; öfkelendiklerinde bile bağışlarlar.»**\n*(Şûrâ 42:37)*\n\nPeygamberimiz ﷺ ise gücü yeniden tanımlar:\n\n**«لَيْسَ الشَّدِيدُ بِالصُّرْعَةِ إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ»**\n**«Güçlü, güreşte yenendir demek değildir. Asıl güçlü, öfkelendiğinde nefsine hükmedendir.»**\n*(Buhârî, Müslim — Hz. Ebû Hureyre r.a. rivayetiyle)*\n\nBugün bir mesaj, bir sıra veya bir hakaret — öfke yönetimi, önce nefesi, sonra sözü teslim almaktır.",
@@ -21,7 +22,8 @@
     "de": "Mit Wut umgehen heißt das Gefühl nicht leugnen — Zunge und Hand stoppen, vergeben, Zuflucht bei Allah suchen.\n\n**﴿والكاظمين الغيظ والعافين عن الناس﴾**\n*(Ali Imran 3:134)*\n\n**﴿وإذا ما غضبوا هم يغفرون﴾**\n*(Ash-Shura 42:37)*\n\n**«ليس الشديد بالصرعة...»** *(Bukhari, Muslim)*\n\nHeute: zuerst Atem, dann Wort.",
     "ku": "Rêvebirina hêrsê ne wateya wî hîsê tune ne — ziman û dest rawestînin, lê nefretê kom nekin, bi «eûzû» re penaber bibin û bersiva li rêzê ya Allahî bixin. Îslam mafê parastina mizlûmê ferman dike; lê hêzê di nefret û sondan re venagerîne.\n\nAllah Teala wiha dibêje:\n\n**﴿والكاظمين الغيظ والعافين عن الناس﴾**\n*(Al-i Imran 3:134)*\n\n**﴿وإذا ما غضبوا هم يغفرون﴾**\n*(Şûra 42:37)*\n\nPêxember ﷺ:\n\n**«ليس الشديد بالصرعة...»** *(Buxarî, Muslîm)*\n\nÎro peyam, rêz an sond — pêşî nefes, paşê peyv.",
     "ckb": "بەڕێوەبردنی تووڕەیی واتای پشتگوێخستنی هەست نییە — بەڵکوو تووڕەیی بناسیتەوە، زمان و دەست ڕابگرێت، کینە کۆ نەکاتەوە، لەگەڵ «ئەعووز»دا پەناببێتەوە و وەڵامێکی پەسەند بە خوای گەورە هەڵبژێرێت.\n\nاللە دەفەرموێت:\n\n**﴿الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ﴾**\n*(ئالی عمران: ١٣٤)*\n\n**﴿وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ ... وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ﴾**\n*(شورا: ٣٧)*\n\nپێغەمبەر ﷺ:\n\n**«ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب»**\n*(بوخاری، موسلیم)*\n\nئەمڕۆ پەیام، ڕیز یان سووککردنەوە — یەکەم ئەنفەس، دواتر وشە.",
-    "ar": "ضبطُ الغضب ليس إنكارَ الشعور — إنه إيقافُ اللسانِ واليدِ، وعدمُ تخزينِ الضغينةِ، والاستعاذةُ، واختيارُ الردِّ المرضي لله. يأمرُ الإسلامُ بنصرِ المظلوم؛ وينهى عن تحويلِ القوةِ إلى بغضاءٍ وسبٍّ.\n\nيقول الله تعالى:\n\n**﴿الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n*(آل عمران: ١٣٤)*\n\n**﴿وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ﴾**\n*(الشورى: ٣٧)*\n\nوقال النبي ﷺ:\n\n**«ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب»**\n*(متفق عليه — عن أبي هريرة رضي الله عنه)*\n\nاليوم رسالةٌ أو طابورٌ أو إهانةٌ — فَضَبطُ الغضبِ يبدأُ بالنفسِ ثم بالكلمةِ."
+    "ar": "ضبطُ الغضب ليس إنكارَ الشعور — إنه إيقافُ اللسانِ واليدِ، وعدمُ تخزينِ الضغينةِ، والاستعاذةُ، واختيارُ الردِّ المرضي لله. يأمرُ الإسلامُ بنصرِ المظلوم؛ وينهى عن تحويلِ القوةِ إلى بغضاءٍ وسبٍّ.\n\nيقول الله تعالى:\n\n**﴿الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n*(آل عمران: ١٣٤)*\n\n**﴿وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ﴾**\n*(الشورى: ٣٧)*\n\nوقال النبي ﷺ:\n\n**«ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب»**\n*(متفق عليه — عن أبي هريرة رضي الله عنه)*\n\nاليوم رسالةٌ أو طابورٌ أو إهانةٌ — فَضَبطُ الغضبِ يبدأُ بالنفسِ ثم بالكلمةِ.",
+    "fr": "Gérer la colère ne consiste pas à prétendre que ce sentiment n'existe pas, c'est reconnaître la colère, arrêter sa langue et sa main, ne pas entretenir de rancune, chercher refuge auprès de « a'udhu billahi » et choisir une réponse qui plaise à Allah. L'Islam ordonne de défendre les injustes ; mais il interdit de transformer la force en méchanceté et en insulte.\n\nAllah le Très-Haut énumère les qualités de celui qui est conscient de Dieu :\n\n**﴿الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n** \"Ceux qui dépensent dans l'aisance et dans la misère, qui retiennent leur colère et pardonnent aux gens - et Allah aime ceux qui font le bien. \"**\n*(Ali Imran 3:134)*\n\nUn autre verset loue le pardon même en cas de colère :\n\n**﴿وَالَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ﴾**\n**\"Qui évite les péchés majeurs et l'immoralité ; et quand ils sont en colère, ils pardonnent.\"**\n*(Ach-Shura 42:37)*\n\nNotre Prophète ﷺ redéfinit la force :\n\n**«لَيْسَ الشَّدِيدُ بِالصُّرْعَةِ إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ»**\n**\"Le fort n'est pas celui qui bat en lutte, mais plutôt celui qui se contrôle dans la colère.\"**\n*(Bukhari, Muslim — rapporté par Abu Hurairah r.a.)*\n\nAujourd'hui, un message, une file d'attente ou une insulte : la gestion de la colère, c'est d'abord reprendre le souffle, puis les mots."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "In welchem Vers stehen «Zorn bändigen und vergeben»?",
         "ku": "«Hêrşê xwe dişopînin û mirovan dişopînin» di kîjan ayetê de ye?",
         "ckb": "«تووڕەیی خۆیان دەگرنەوە و لێخۆشبوون» لە کام ئایەتدایە؟",
-        "ar": "في أيِّ آيةٍ ﴿الكاظمين الغيظ والعافين عن الناس﴾؟"
+        "ar": "في أيِّ آيةٍ ﴿الكاظمين الغيظ والعافين عن الناس﴾؟",
+        "fr": "Dans quel verset apparaissent « ceux qui retiennent la colère et pardonnent aux gens » ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Ali Imran 3:134",
           "ku": "Al-i Imran 3:134",
           "ckb": "ئالی عمران: ١٣٤",
-          "ar": "آل عمران ١٣٤"
+          "ar": "آل عمران ١٣٤",
+          "fr": "Ali Imran 3:134"
         },
         {
           "tr": "Fil 105:1",
@@ -58,7 +62,8 @@
           "de": "Al-Fil 105:1",
           "ku": "Fîl 105:1",
           "ckb": "فیل: ١",
-          "ar": "الفيل ١"
+          "ar": "الفيل ١",
+          "fr": "Al-Fil 105:1"
         },
         {
           "tr": "Kevser 108:1",
@@ -69,7 +74,8 @@
           "de": "Al-Kawthar 108:1",
           "ku": "Kevser 108:1",
           "ckb": "کەوسەر: ١",
-          "ar": "الكوثر ١"
+          "ar": "الكوثر ١",
+          "fr": "Al-Kawthar 108 : 1"
         },
         {
           "tr": "İhlas 112:1",
@@ -80,7 +86,8 @@
           "de": "Al-Ikhlas 112:1",
           "ku": "Îxlas 112:1",
           "ckb": "ئیخلاس: ١",
-          "ar": "الإخلاص ١"
+          "ar": "الإخلاص ١",
+          "fr": "Al-Ikhlas 112:1"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "Was wird in Ash-Shura 42:37 bei Zorn gelobt?",
         "ku": "Di Şûra 42:37 de dema hêrs bûn çi tê sitayiş kirin?",
         "ckb": "لە شورا ٣٧دا کاتێک تووڕە دەبن چی ستایش دەکرێت؟",
-        "ar": "ماذا يُمدح في الشورى ٣٧ عند الغضب؟"
+        "ar": "ماذا يُمدح في الشورى ٣٧ عند الغضب؟",
+        "fr": "Qu'est-ce qui est loué dans Ash-Shura 42 : 37 lorsqu'ils sont en colère ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Dass sie vergeben",
           "ku": "Ku dişopînin",
           "ckb": "لێخۆشبوونەوە",
-          "ar": "المغفرةُ رغم الغضب"
+          "ar": "المغفرةُ رغم الغضب",
+          "fr": "Qu'ils pardonnent"
         },
         {
           "tr": "Hemen karşı saldırıya geçmeleri",
@@ -119,7 +128,8 @@
           "de": "Sofort angreifen",
           "ku": "Derhal êrîşê bikin",
           "ckb": "یەکسەر هێرش بکەن",
-          "ar": "الانقضاضُ فوراً"
+          "ar": "الانقضاضُ فوراً",
+          "fr": "Attaquer immédiatement"
         },
         {
           "tr": "Öfkeyi hiç hissetmemeleri",
@@ -130,7 +140,8 @@
           "de": "Nie Zorn fühlen",
           "ku": "Tu car hêrs nebin",
           "ckb": "هەرگیز تووڕە نەبن",
-          "ar": "عدمُ الغضب أصلاً"
+          "ar": "عدمُ الغضب أصلاً",
+          "fr": "Ne jamais ressentir de colère"
         },
         {
           "tr": "Sadece yalnız kalmaları",
@@ -141,7 +152,8 @@
           "de": "Nur allein bleiben",
           "ku": "Tenê tenê bimînin",
           "ckb": "تەنها تەنها بمێننەوە",
-          "ar": "العزلةُ وحدها"
+          "ar": "العزلةُ وحدها",
+          "fr": "Je reste seulement seul"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Was misst der Hadith über Ringer und Selbstbeherrschung?",
         "ku": "Hedîsa «qewî di gureşê de tune, li dema hêrsê nefsê xwe digire dest» çi pîvan dike?",
         "ckb": "حەدیسەکە «قەوی لە گەڕەکدا نییە، بەڵکوو لە تووڕەییدا خۆی دەگرێتەوە» چی دەپێوێت؟",
-        "ar": "ماذا يقيس حديث «ليس الشديد بالصرعة»؟"
+        "ar": "ماذا يقيس حديث «ليس الشديد بالصرعة»؟",
+        "fr": "Que mesure le hadith « Le fort n'est pas le lutteur mais celui qui se maîtrise dans la colère » ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Wahre Stärke: Selbstbeherrschung im Zorn",
           "ku": "Hêza rastîn: li dema hêrsê nefsê xwe kontrol kirin",
           "ckb": "هێزی ڕاستەقینە: کۆنترۆڵکردنی خۆ لە کاتی تووڕەیی",
-          "ar": "القوةَ الحقيقيةَ بملكِ النفس عند الغضب"
+          "ar": "القوةَ الحقيقيةَ بملكِ النفس عند الغضب",
+          "fr": "La vraie force : la maîtrise de soi au sommet de la colère"
         },
         {
           "tr": "Sadece bedenî spor başarısını",
@@ -180,7 +194,8 @@
           "de": "Nur sportlicher Erfolg",
           "ku": "Tenê serkeftina werzîşê",
           "ckb": "تەنها سەرکەوتنی وەرزشی",
-          "ar": "الرياضةَ البدنية فقط"
+          "ar": "الرياضةَ البدنية فقط",
+          "fr": "Que du succès athlétique"
         },
         {
           "tr": "Öfkeyi günah saydığını",
@@ -191,7 +206,8 @@
           "de": "Dass Zorn immer Sünde ist",
           "ku": "Ku hêrsî her guneh e",
           "ckb": "کە تووڕەیی هەمیشە گوناحە",
-          "ar": "تحريمُ الغضب مطلقاً"
+          "ar": "تحريمُ الغضب مطلقاً",
+          "fr": "Cette colère est toujours un péché"
         },
         {
           "tr": "Güreşi haram kıldığını",
@@ -202,7 +218,8 @@
           "de": "Dass Ringen verboten ist",
           "ku": "Ku gureş haram e",
           "ckb": "کە گەڕەک حەرامە",
-          "ar": "تحريمُ المصارعة"
+          "ar": "تحريمُ المصارعة",
+          "fr": "Cette lutte est interdite"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Welchen ersten Schritt nennt der Text?",
         "ku": "Li gorî nivîsê kîjan gavê yekem e?",
         "ckb": "بەپێی دەقەکە یەکەم هەنگاو کامەیە؟",
-        "ar": "ما أولُ خطوةٍ لضبطِ الغضب في النص؟"
+        "ar": "ما أولُ خطوةٍ لضبطِ الغضب في النص؟",
+        "fr": "Selon le texte, quelle est la première étape dans la gestion de la colère ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Atem und Reaktion verlangsamen",
           "ku": "Nefes û bersivê hêdî kirin; peyvê kontrol kirin",
           "ckb": "هەڵم و وەڵام هێواش بکەرەوە؛ زمان بگرێ",
-          "ar": "إيقافُ الانفعالِ بالنفسِ ثم بالكلمة"
+          "ar": "إيقافُ الانفعالِ بالنفسِ ثم بالكلمة",
+          "fr": "Ralentissement de la respiration et de la réponse ; contrôler la parole"
         },
         {
           "tr": "Hemen mesaj atmak",
@@ -241,7 +260,8 @@
           "de": "Sofort schreiben",
           "ku": "Derhal peyam bişîne",
           "ckb": "یەکسەر پەیام بنێرە",
-          "ar": "الرسائل الفورية"
+          "ar": "الرسائل الفورية",
+          "fr": "Envoyer immédiatement des SMS"
         },
         {
           "tr": "Kimseyi dinlememek",
@@ -252,7 +272,8 @@
           "de": "Niemand hören",
           "ku": "Tu kesî guh neke",
           "ckb": "گوێ لە هیچ کەسێک نەگیرێت",
-          "ar": "صممٌ عن الناس"
+          "ar": "صممٌ عن الناس",
+          "fr": "N'écouter personne"
         },
         {
           "tr": "Öfkeyi her ortamda dışa vurmak",
@@ -263,7 +284,8 @@
           "de": "Wut immer ausleben",
           "ku": "Hêrsî her derê derxe",
           "ckb": "تووڕەیی هەردەم دەرببڕێت",
-          "ar": "إطلاقُ الغضب دائماً"
+          "ar": "إطلاقُ الغضب دائماً",
+          "fr": "Exprimer toujours sa colère"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Laut Text ist welche der folgenden Aussagen FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Zorn fühlen ist immer Sünde; Fromme nie wütend",
           "ku": "Hêrsî bînin her guneh e; takvawend tu car hêrs nabin",
           "ckb": "هەستکردن بە تووڕەیی هەمیشە گوناحە؛ تەقەوا هەرگیز تووڕە نابن",
-          "ar": "الغضبُ حرامٌ دائماً ولا يغضبُ المتقون"
+          "ar": "الغضبُ حرامٌ دائماً ولا يغضبُ المتقون",
+          "fr": "Ressentir de la colère est toujours un péché ; les pieux ne se mettent jamais en colère"
         },
         {
           "tr": "Âl-i İmrân 3:134 öfkeyi yutanları ve affedenleri över",
@@ -302,7 +326,8 @@
           "de": "Ali Imran 3:134 lobt Zornbändigung und Vergehen",
           "ku": "Al-i Imran 3:134 yên ku hêrsê dişopînin û dişopînin sitayiş dike",
           "ckb": "ئالی عمران ١٣٤ ستایشی کەسانی دەکات کە تووڕەیی دەگرنەوە و دەبەخشن",
-          "ar": "آل عمران ١٣٤ يثني على الكاظمين والعافين"
+          "ar": "آل عمران ١٣٤ يثني على الكاظمين والعافين",
+          "fr": "Ali Imran 3 : 134 fait l'éloge de ceux qui retiennent leur colère et pardonnent"
         },
         {
           "tr": "Şûrâ 42:37 öfke hâlinde affı övüyor",
@@ -313,7 +338,8 @@
           "de": "Ash-Shura 42:37 lobt Vergeben trotz Zorn",
           "ku": "Şûra 42:37 di dema hêrsê de lêborînê sitayiş dike",
           "ckb": "شورا ٣٧ لێخۆشبوون لە تووڕەییدا ستایش دەکات",
-          "ar": "الشورى ٣٧ يمدح الغفرانَ مع الغضب"
+          "ar": "الشورى ٣٧ يمدح الغفرانَ مع الغضب",
+          "fr": "Ash-Shura 42 : 37 loue le pardon en cas de colère"
         },
         {
           "tr": "Hadis gerçek gücü öfke anında nefse hükmetmekte görür",
@@ -324,7 +350,8 @@
           "de": "Hadith sieht Stärke in Selbstbeherrschung",
           "ku": "Hedîs hêza rastîn li dema hêrsê di nefsê xwe de dibîne",
           "ckb": "حەدیس هێزی ڕاستەقینە لە کۆنترۆڵکردنی خۆ لە تووڕەییدا دەبینێت",
-          "ar": "الحديثُ يعرف القوةَ بملكِ النفس عند الغضب"
+          "ar": "الحديثُ يعرف القوةَ بملكِ النفس عند الغضب",
+          "fr": "Le hadith voit la vraie force dans la maîtrise de soi dans la colère"
         }
       ],
       "correct": 0
@@ -339,6 +366,7 @@
     "de": "Bevor du heute mit Wut antwortest — innehalten. Ali Imran 3:134 und Hadith: Atem und Wort Allah übergeben.",
     "ku": "Berî ku îro bi hêrsî bersivê peyvek, peyam an rêzê bidî raweste: Al-i Imran 3:134 û hedîsa gureşê — rêvebirina hêrsê nefes û peyvê radestê razîbûna Allahî dike.",
     "ckb": "پێش ئەوەی ئەمڕۆ بە تووڕەیی وەڵام بدەیتەوە وەستا: ئالی عمران ١٣٤ و حەدیسی گەڕەک — بەڕێوەبردنی تووڕەیی سپاردنی هەڵم و وشە بە ڕەزامەندییە.",
-    "ar": "قبل أن تلقى جملةً أو رسالةً أو طابورًا بالغضب — تمهَّلْ. ﴿الكاظمين الغيظ والعافين عن الناس﴾ و«ليس الشديد بالصرعة»: ضبطُ الغضبِ تسليمُ النفسِ والكلمةِ لرضا الله."
+    "ar": "قبل أن تلقى جملةً أو رسالةً أو طابورًا بالغضب — تمهَّلْ. ﴿الكاظمين الغيظ والعافين عن الناس﴾ و«ليس الشديد بالصرعة»: ضبطُ الغضبِ تسليمُ النفسِ والكلمةِ لرضا الله.",
+    "fr": "Avant de répondre à une phrase, un message ou une file d'attente avec rage aujourd'hui, faites une pause. Ali Imran 3 : 134 et le hadith de lutte : la gestion de la colère consiste à abandonner son souffle et sa parole au plaisir d'Allah."
   }
 }

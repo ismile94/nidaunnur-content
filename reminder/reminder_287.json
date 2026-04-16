@@ -10,7 +10,8 @@
     "de": "Achtzehnter Ramadan-Tag: Rezitation, Gebet und was es verbietet",
     "ku": "Roja hejdehem a Remezanê: Xwendin, nimêj û qedexekirin",
     "ckb": "ڕۆژی هەژدەیەم ڕەمەزان: خوێندنەوە، نوێژ و قەدەغەکردن",
-    "ar": "يومُ رمضان الثامن عشر: التلاوةُ والصلاةُ والنهيُ عن الفحشاء"
+    "ar": "يومُ رمضان الثامن عشر: التلاوةُ والصلاةُ والنهيُ عن الفحشاء",
+    "fr": "Dix-huitième jour du Ramadan : récitation, prière et ce que la prière interdit"
   },
   "content": {
     "tr": "On sekizinci gün, Kur'an ve namaz yan yana yürür; biri dil ve kulakla, diğeri beden ve huşû ile. Ankebût suresi bu ikisini bir cümlede birleştirir: sana vahyedilenden kitabı oku, namazı ikame et — çünkü namaz, fuhşiyattan ve münkerden men eder. Sonra bir üst perde açılır: Allah'ı anmak daha büyüktür; O, yaptıklarınızı bilir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ﴾**\n**«Sana vahyedilenden Kitab'ı oku ve namazı dosdoğru kıl. Çünkü namaz, hayasızlıktan ve kötülükten men eder. Allah'ı anmak elbette daha büyüktür. Allah yaptıklarınızı bilir.»** *(Ankebût 29:45 — meâl özü)*\n\nBugünün küçük adımı: bir vakit namazını acele etmeden bitir; ardından bir ayet veya bir sayfa — namaz kalbi dik tutar, Kur'an ona istikamet verir.",
@@ -21,7 +22,8 @@
     "de": "Am achtzehnten Tag gehen Koran und Gebet Seite an Seite – einer mit Zunge und Ohr, der andere mit Körper und Präsenz. Sure Al-Ankabut schließt sich ihnen in einem Satz an: Rezitiere, was dir im Buch offenbart wurde, und bete zum Gebet – denn das Gebet verbietet schändliche Taten und Unrecht. Dann beginnt eine höhere Note: Die Erinnerung an Allah ist größer; Er weiß, was Sie tun.\n\nAllah der Allerhöchste sagt:\n\n**﴿Rezitieren Sie, was Ihnen über das Buch offenbart wurde, und verrichten Sie das Gebet. Tatsächlich verbietet das Gebet Unmoral und Unrecht, und die Erinnerung an Allah ist größer. Und Allah weiß, was du tust.﴾** *(Al-Ankabut 29:45 – Bedeutung zusammengefasst)*\n\nEin kleiner Schritt heute: Vervollständigen Sie ein Gebet ohne Eile; dann ein Vers oder eine Seite – das Gebet stärkt das Herz, der Koran gibt ihm die Richtung.",
     "ku": "Di roja hîjdehan de Qur'an û nimêj li kêleka hev dimeşin - yek bi ziman û guh, yê din bi laş û hebûn. Sureye Enkebut di hevokek de bi wan ve dibejin: Tişta ku ji kitêbê ji te re hatiye hinartin bixwîne û nimêj bike, ji ber ku nimêj ji emel û sikatiyan heram dike. Paşê noteke bilind vedibe: zikrê Xwedê mezintir e; Ew dizane ku hûn çi dikin.\n\nAllah Teala dibêje:\n\n**﴿Tiştê ku ji kitêbê ji te re hatiye hinartin bixwîne û nimêj bike. Bi rastî nimêj ji fuhûşî û situyê heram dike û zikrê Xwedê mezintir e. Û Xwedê bi tiştên ku hûn dikin dizane.﴾** *(El-Ankebut 29:45 - bi kurtî)\n\nÎro gavek piçûk: yek nimêjê bêyî lezkirinê temam bikin; paşî ayetek an rûpelek - nimêj dil dihejîne, Quran rê dide wî.",
     "ckb": "ڕۆژی هەژدەیەم — قورئان و نوێژ لەگەڵ یەکدا دەڕۆن. قورئان دەفەرموێت: ئەوەی لە کتێبدا دابەزێنراوە بخوێنەرەوە و نوێژ بکە — چونکە نوێژ ڕێگری لە فەحشا و نەشیاو دەکات؛ یادکردنەوەی اللەش گەورەترە.\n\nاللە دەفەرموێت:\n\n**﴿اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ﴾**\n*(عەنکەبوت: ٤٥)*\n\nئەمڕۆ: یەک نوێژی بە بێ پەلە؛ دواتر ئایەتێک یان لاپەڕەیەک.",
-    "ar": "في اليوم الثامن عشر يمشي القرآنُ والصلاةُ جنبًا إلى جنب… ويجمعُ العنكبوتُ بينهما: اتلُ ما أوحي إليك من الكتاب وأقم الصلاة؛ إن الصلاة تنهى عن الفحشاء والمنكر. ثم يعلو ذكرُ الله — وهو أعلمُ بما تصنعون.\n\nيقول الله تعالى:\n\n**﴿اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ﴾**\n*(العنكبوت: ٤٥)*\n\nخطوةُ اليوم: أتمَّ صلاةً بلا عجلةٍ، ثم آيةٌ أو صفحةٌ — فالصلاةُ تثبتُ القلبَ والقرآنُ يهديه."
+    "ar": "في اليوم الثامن عشر يمشي القرآنُ والصلاةُ جنبًا إلى جنب… ويجمعُ العنكبوتُ بينهما: اتلُ ما أوحي إليك من الكتاب وأقم الصلاة؛ إن الصلاة تنهى عن الفحشاء والمنكر. ثم يعلو ذكرُ الله — وهو أعلمُ بما تصنعون.\n\nيقول الله تعالى:\n\n**﴿اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ﴾**\n*(العنكبوت: ٤٥)*\n\nخطوةُ اليوم: أتمَّ صلاةً بلا عجلةٍ، ثم آيةٌ أو صفحةٌ — فالصلاةُ تثبتُ القلبَ والقرآنُ يهديه.",
+    "fr": "Le dix-huitième jour, le Coran et la prière marchent côte à côte – l'un avec la langue et l'oreille, l'autre avec le corps et la présence. La sourate Al-Ankabut les rejoint en une phrase : récitez ce qui vous a été révélé du Livre et établissez la prière – car la prière interdit les actes honteux et le mal. Puis une note plus élevée s'ouvre : le souvenir d'Allah est plus grand ; Il sait ce que tu fais.\n\nAllah le Très-Haut dit :\n\n**﴿Récitez ce qui vous a été révélé du Livre et établissez la prière. En effet, la prière interdit l'immoralité et le mal, et le rappel d'Allah est plus grand. Et Allah sait ce que vous faites.﴾** *(Al-Ankabut 29 :45 — signifiant résumé)*\n\nUn petit pas aujourd'hui : accomplissez une prière sans vous précipiter ; puis un verset ou une page – la prière stabilise le cœur, le Coran lui donne la direction."
   },
   "quiz": [
     {
@@ -35,7 +37,8 @@
         "de": "Wo steht 29:45?",
         "ku": "Ev gotin di kîjan sure û ayetê de ye?",
         "ckb": "ئەم دەقە لە کام سورەت و ئایەتدایە؟",
-        "ar": "في أي سورة وآية ﴿إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ﴾؟"
+        "ar": "في أي سورة وآية ﴿إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ﴾؟",
+        "fr": "Dans quelle sourate et verset la récitation du Livre, la prière, la prière interdisant l'immoralité et le mal, et le dhikr étant plus grand (tel que cité) ?"
       },
       "options": [
         {
@@ -47,7 +50,8 @@
           "de": "Al-Ankabut 29:45",
           "ku": "Ankebût 29:45",
           "ckb": "عەنکەبوت ٤٥",
-          "ar": "العنكبوت ٤٥"
+          "ar": "العنكبوت ٤٥",
+          "fr": "Al-Ankabut 29:45"
         },
         {
           "tr": "Neml 27:45",
@@ -58,7 +62,8 @@
           "de": "An-Naml 27:45",
           "ku": "Neml 27:45",
           "ckb": "نەمل ٤٥",
-          "ar": "النمل ٤٥"
+          "ar": "النمل ٤٥",
+          "fr": "An-Naml 27:45"
         },
         {
           "tr": "Rûm 30:45",
@@ -69,7 +74,8 @@
           "de": "Ar-Rum 30:45",
           "ku": "Rûm 30:45",
           "ckb": "ڕۆم ٤٥",
-          "ar": "الروم ٤٥"
+          "ar": "الروم ٤٥",
+          "fr": "Ar-Rum 30h45"
         },
         {
           "tr": "Lokman 31:45",
@@ -80,7 +86,8 @@
           "de": "Luqman 31:45",
           "ku": "Lokman 31:45",
           "ckb": "لقمانی ٤٥",
-          "ar": "لقمان ٤٥"
+          "ar": "لقمان ٤٥",
+          "fr": "Louqman 31:45"
         }
       ],
       "correct": 0
@@ -96,7 +103,8 @@
         "de": "Was verbietet das Gebet (29:45)?",
         "ku": "Nimêj ji çi qedexe dike (29:45)?",
         "ckb": "نوێژ لە چی ڕێگری دەکات (٤٥)؟",
-        "ar": "ماذا تنهى الصلاة في ٤٥؟"
+        "ar": "ماذا تنهى الصلاة في ٤٥؟",
+        "fr": "D’après 29 :45, qu’est-ce que la prière interdit ?"
       },
       "options": [
         {
@@ -108,7 +116,8 @@
           "de": "Fahsha und Munkar",
           "ku": "Fuhş û munker",
           "ckb": "فەحشا و نەشیاو",
-          "ar": "الفحشاء والمنكر"
+          "ar": "الفحشاء والمنكر",
+          "fr": "Immoralité et méfaits (al-fahsha wa al-munkar)"
         },
         {
           "tr": "Sadece namaz kılmayı",
@@ -119,7 +128,8 @@
           "de": "Nur Gebet",
           "ku": "Tenê nimêjkirin",
           "ckb": "تەنها نوێژکردن",
-          "ar": "الصلاة فقط"
+          "ar": "الصلاة فقط",
+          "fr": "Effectuer uniquement la prière"
         },
         {
           "tr": "Kur'an okumayı",
@@ -130,7 +140,8 @@
           "de": "Qur'an lesen",
           "ku": "Xwendina Qur'anê",
           "ckb": "خوێندنەوەی قورئان",
-          "ar": "قراءة القرآن"
+          "ar": "قراءة القرآن",
+          "fr": "Lire le Coran"
         },
         {
           "tr": "Adaleti ve merhameti",
@@ -141,7 +152,8 @@
           "de": "Gerechtigkeit",
           "ku": "Dad û rehm",
           "ckb": "داد و میهرەبانی",
-          "ar": "العدل والرحمة"
+          "ar": "العدل والرحمة",
+          "fr": "Justice et miséricorde"
         }
       ],
       "correct": 0
@@ -157,7 +169,8 @@
         "de": "Dhikr akbar (Kern)?",
         "ku": "«Zikra Allah mezintir e» çi ye?",
         "ckb": "«ذِكْرُ اللَّهِ أَكْبَرُ» چی دەگەیەنێت؟",
-        "ar": "ماذا يؤكد ﴿لذكر الله أكبر﴾؟"
+        "ar": "ماذا يؤكد ﴿لذكر الله أكبر﴾؟",
+        "fr": "Dans le résumé du texte, que souligne « le souvenir d’Allah est plus grand » ?"
       },
       "options": [
         {
@@ -169,7 +182,8 @@
           "de": "Größe des Dhikr",
           "ku": "Mezintiya zikra Allah",
           "ckb": "گەورەیی یادکردنەوەی اللە",
-          "ar": "عظمة الذكر"
+          "ar": "عظمة الذكر",
+          "fr": "La grandeur et la supériorité du souvenir d’Allah"
         },
         {
           "tr": "Zikrin namaztan daha az olduğunu",
@@ -180,7 +194,8 @@
           "de": "Dhikr geringer",
           "ku": "Zikr ji nimêjê kêmtir e",
           "ckb": "زیکر کەمترە لە نوێژ",
-          "ar": "الذكر أصغر من الصلاة"
+          "ar": "الذكر أصغر من الصلاة",
+          "fr": "Ce dhikr est inférieur à la prière"
         },
         {
           "tr": "Allah'ın unutulması gerektiğini",
@@ -191,7 +206,8 @@
           "de": "Allah vergessen",
           "ku": "Allah ji bîr bike",
           "ckb": "لەبیرکردنەوەی اللە",
-          "ar": "نسيان الله"
+          "ar": "نسيان الله",
+          "fr": "Qu'Allah devrait être oublié"
         },
         {
           "tr": "Sadece ses seviyesini",
@@ -202,7 +218,8 @@
           "de": "Nur Lautstärke",
           "ku": "Tenê asta deng",
           "ckb": "تەنها پلەی دەنگ",
-          "ar": "مستوى الصوت"
+          "ar": "مستوى الصوت",
+          "fr": "Uniquement le volume sonore"
         }
       ],
       "correct": 0
@@ -218,7 +235,8 @@
         "de": "Zwei Anfangsgebote (29:45)?",
         "ku": "Du ferman di destpêka 29:45 de çi ne?",
         "ckb": "دوو فەرمان لە سەرەتای ٤٥دا چین؟",
-        "ar": "ما الأمران في افتتاح ٤٥؟"
+        "ar": "ما الأمران في افتتاح ٤٥؟",
+        "fr": "Au début de 29h45, quels sont les deux commandements qui se rejoignent ?"
       },
       "options": [
         {
@@ -230,7 +248,8 @@
           "de": "Rezitation und Gebet",
           "ku": "Xwendina kitêbê û rakirina nimêjê",
           "ckb": "خوێندنەوەی کتێب و نوێژ",
-          "ar": "تلاوةٌ وإقامة صلاة"
+          "ar": "تلاوةٌ وإقامة صلاة",
+          "fr": "Récitez le Livre et établissez la prière"
         },
         {
           "tr": "Orucu terk etmek ve yemek yemek",
@@ -241,7 +260,8 @@
           "de": "Fasten brechen",
           "ku": "Rojîyê şikandin",
           "ckb": "شکاندنی ڕۆژوو",
-          "ar": "فطرٌ إجباري"
+          "ar": "فطرٌ إجباري",
+          "fr": "Abandonnez le jeûne et mangez"
         },
         {
           "tr": "Sadece ticaret yapmak",
@@ -252,7 +272,8 @@
           "de": "Nur Handel",
           "ku": "Tenê bazirganî",
           "ckb": "تەنها بازرگانی",
-          "ar": "تجارة فقط"
+          "ar": "تجارة فقط",
+          "fr": "Seul le commerce"
         },
         {
           "tr": "Kur'an'ı yasaklamak",
@@ -263,7 +284,8 @@
           "de": "Qur'an verbieten",
           "ku": "Qur'an qedexe bike",
           "ckb": "قەدەغەکردنی قورئان",
-          "ar": "تحريم القرآن"
+          "ar": "تحريم القرآن",
+          "fr": "Interdire le Coran"
         }
       ],
       "correct": 0
@@ -279,7 +301,8 @@
         "de": "Welche Aussage ist laut Text FALSCH?",
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
-        "ar": "أيُّ الآتي باطلٌ وفق النص؟"
+        "ar": "أيُّ الآتي باطلٌ وفق النص؟",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -291,7 +314,8 @@
           "de": "Gebet und Qur'an",
           "ku": "Nimêj û Qur'an",
           "ckb": "نوێژ و قورئان",
-          "ar": "صلاةٌ وقرآن"
+          "ar": "صلاةٌ وقرآن",
+          "fr": "Le texte rappelle que la prière stabilise le cœur et que le Coran donne la direction"
         },
         {
           "tr": "Metin, acele etmeden namaz ve ardından ayet/sayfa önerir",
@@ -302,7 +326,8 @@
           "de": "Ohne Hast",
           "ku": "Bê pelle",
           "ckb": "بێ پەلە",
-          "ar": "بلا عجلة"
+          "ar": "بلا عجلة",
+          "fr": "Le texte suggère une prière sans précipitation puis un verset ou une page"
         },
         {
           "tr": "Metin, namazın fuhşi ve münkeri engellemediğini ve Kur'an ile ilişkisinin olmadığını kesin bildirir",
@@ -313,7 +338,8 @@
           "de": "Leugnet tanha",
           "ku": "Dibêje nimêj fuhşê qedexe nake",
           "ckb": "دەڵێت نوێژ ڕێگری لە فەحشا ناکات",
-          "ar": "ينفي نهي الصلاة عن الفحشاء"
+          "ar": "ينفي نهي الصلاة عن الفحشاء",
+          "fr": "Le texte déclare que la prière n'interdit pas l'immoralité et le mal et n'a aucun rapport avec le Coran."
         },
         {
           "tr": "Metin, Allah'ın yaptıklarınızı bildiğini ayetle bağlar",
@@ -324,7 +350,8 @@
           "de": "Allah weiß",
           "ku": "Allah dizane",
           "ckb": "اللە دەزانێت",
-          "ar": "يعلم الله"
+          "ar": "يعلم الله",
+          "fr": "Le texte lie Allah sachant ce que vous faites au verset"
         }
       ],
       "correct": 2
@@ -339,6 +366,7 @@
     "de": "Das Gebet stärkt das Herz; Der Koran gibt ihm Tragweite. Wenn beide zusammen sind, mag die Zunge verstummen – und doch spricht Khushu.",
     "ku": "Nimêj dil sax dike; Quran jê re dide der. Gava her du bi hev re bin, dibe ku ziman bêdeng bibe - lê xuşû diaxive.",
     "ckb": "نوێژ دڵ ڕەوان دەکات، قورئان ئاراستە دەدات — پێکەوە خۆشووش قسە دەکات.",
-    "ar": "الصلاةُ تثبتُ القلبَ والقرآنُ يهديه. ومعًا قد يسكتُ اللسانُ — ويتكلّمُ الخشوع."
+    "ar": "الصلاةُ تثبتُ القلبَ والقرآنُ يهديه. ومعًا قد يسكتُ اللسانُ — ويتكلّمُ الخشوع.",
+    "fr": "La prière stabilise le cœur ; le Coran lui donne une orientation. Quand les deux sont ensemble, la langue peut se taire – pourtant Khushu parle."
   }
 }
