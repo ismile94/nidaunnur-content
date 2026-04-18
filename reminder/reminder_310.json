@@ -11,7 +11,7 @@
     "ku": "Roja yanzdehem a Şewwalê: Dua bi tazarru û veşartî",
     "ckb": "ڕۆژی یانزەهەمی شەووال: دعای نزم و نهێنی",
     "ar": "يومُ شوَّال الحادي عشر: الدُّعَاءُ تَضَرُّعًا وخُفْيَةً",
-    "fr": "Onzième jour de Shawwal : supplication humble et cachée"
+    "ru": "Одиннадцатый день Шавваля: смиренная и сокровенная мольба"
   },
   "content": {
     "tr": "Şevvalin on birinci günü, kalbin bazen gürültüde kaybolduğu; dilin ise «dua ettim mi?» diye tereddüt ettiği günlerdendir. Dua yalnızca ses değil; edep de ister. Allah Teâlâ şöyle buyurur:\n\n**﴿ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ﴾**\n**«Rabbinize yalvara yakara ve gizlice dua edin. Şüphesiz O, haddi aşanları sevmez.»** *(A'râf 7:55 — meâl özü)*\n\n«Tazarru» kalbin kırık sesidir; «hafi» ise gösterişe kapalı olanı hatırlatır. İhlas, bazen en yüksek sesin tersidir. Bugünün küçük adımı: Bir dua — önce içerden, kısa ve edepli — «Rabbim, Sen beni görüyorsun.»",
@@ -23,7 +23,7 @@
     "ku": "Roja yanzdehem a Şewwalê — deng dikare dil vemirîne dema ziman dipirse: «Ez rastî dua kirim?» Dua tenê deng nîne — edeb dixwaze. Allah dibêje:\n\n**﴿Xuda xwe bi tazarru û veşartî ve gazî bikin. Bê guman Ew ji kesên li ser sînor derketî hez nake.﴾** *(A'raf 7:55 — wateya kurtkirî)*\n\n«Tedarru» dengê şikestî ya dil e; «xufye» tiştê ji nîşanî ve veşartî bi bîr dixe. Îxlas carinan berevajî bilindtirîn deng e. Gavekî piçûk îro: duayek — pêşî hundur, kurt û bi edeb — «Ya Rabbî, Tu min dibînî».",
     "ckb": "ڕۆژی یانزەهەمی شەووال — دەنگی دەرەوە دەکرێتە سەر دڵ. لە ئەعراف ٥٥:٧:\n\n**﴿ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ﴾**\n**«پەروەردگارتان بانگ بکەن بە نزمبوون و بە نهێنی؛ بە دڵنیایی ئەو کەسانە خۆشی ناوێت کە سنوور دەپەڕێنن.»**\n\nئەمڕۆ: دعایەکی کورت، ناوەکی.",
     "ar": "في اليوم الحادي عشر من شوَّال قد يغطّي الضجيجُ القلبَ فيبقى السؤالُ: أدعو بإخلاصٍ أم بصوتٍ فقط؟ الدُّعَاءُ أدبٌ قبل أن يكونَ صدىً. يقول الله تعالى:\n\n**﴿ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ﴾**\n*(الأعراف: ٥٥)*\n\nالتضرُّعُ صوتُ القلبِ المنكسر؛ والخفيةُ تذكيرٌ بأنَّ المحبوبَ ليسَ الجهرَ الاستعراضي. خطوةُ اليوم: دعوةٌ تبدأُ من الداخلِ — قصيرةٌ لبقةٌ — «ربِّ أنت تراني.»",
-    "fr": "Le onzième jour de Shawwal est le moment où le bruit peut engloutir le cœur tandis que la langue se demande si elle a vraiment prié. La supplication n’est pas seulement saine – elle nécessite de l’adab. Allah dit :\n\n**﴿Invoquez votre Seigneur avec humilité et en privé. En effet, Il n'aime pas ceux qui transgressent au-delà des limites.﴾** *(Al-A'raf 7:55 — signifiant résumé)*\n\n\"Tadarru\" est la voix brisée du cœur ; \"khufyah\" vous rappelle ce qui est caché. La sincérité est parfois à l’opposé de la voix la plus forte. Un petit pas aujourd'hui : un dua — d'abord intérieur, court, courtois — « Mon Seigneur, tu me vois »."
+    "ru": "В одиннадцатый день Шавваля шум может поглотить сердце, а язык задается вопросом, действительно ли он молился. Мольба не только здрава, она требует адаба. Аллах говорит:\n\n**﴿Призывайте своего Господа со смирением и конфиденциально. Воистину, Он не любит тех, кто преступает границы.﴾** *(Аль-Араф 7:55 — смысл вкратце)*\n\n«Тадарру» — голос разбитого сердца; «Хуфья» напоминает о том, что скрыто от показа. Искренность иногда является противоположностью самого громкого голоса. Маленький шаг сегодня: одно дуа — сначала внутрь, короткое, вежливое — «Мой Господь, Ты видишь меня»."
   },
   "quiz": [
     {
@@ -38,7 +38,7 @@
         "ku": "Ev ayet di kîjan sure û ayetê de ye?",
         "ckb": "ئەم ئایەتە لە کام سورەت و ئایەتدایە؟",
         "ar": "في أي سورةٍ وآيةٍ ﴿ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً﴾؟",
-        "fr": "Dans quelle sourate et verset ce verset apparaît-il (tel que cité) ?"
+        "ru": "В какой суре и аяте встречается этот аят (цитируемый)?"
       },
       "options": [
         {
@@ -51,7 +51,7 @@
           "ku": "Enam 6:55",
           "ckb": "ئەنئام ٥٥",
           "ar": "الأنعام ٥٥",
-          "fr": "Al-An'am 6:55"
+          "ru": "Аль-Анам 6:55"
         },
         {
           "tr": "Yûnus 10:55",
@@ -63,7 +63,7 @@
           "ku": "Yûnus 10:55",
           "ckb": "یونس ٥٥",
           "ar": "يونس ٥٥",
-          "fr": "Yunus 10:55"
+          "ru": "Юнус 10:55"
         },
         {
           "tr": "A'râf 7:55",
@@ -75,7 +75,7 @@
           "ku": "A'raf 7:55",
           "ckb": "ئەعراف ٥٥",
           "ar": "الأعراف ٥٥",
-          "fr": "Al-A'raf 7:55"
+          "ru": "Аль-Араф 7:55"
         },
         {
           "tr": "Tevbe 9:55",
@@ -87,7 +87,7 @@
           "ku": "Tevbe 9:55",
           "ckb": "توبە ٥٥",
           "ar": "التوبة ٥٥",
-          "fr": "At-Tawbah 9:55"
+          "ru": "Ат-Тауба 9:55"
         }
       ],
       "correct": 2
@@ -104,7 +104,7 @@
         "ku": "Du şêwey gazîkirina di destpêka ayetê de çi ne?",
         "ckb": "دو شێوازی بانگکردن لە سەرەتای ئایەتەکەدا کامانن؟",
         "ar": "ما الوجهان المقرنان للدعاء في افتتاح الآية؟",
-        "fr": "Au début du verset, quelles sont les deux manières d’invoquer ensemble ?"
+        "ru": "Какие два способа призывания названы вместе в начале стиха?"
       },
       "options": [
         {
@@ -117,7 +117,7 @@
           "ku": "Tedarru û xufye (veşartî)",
           "ckb": "تەضەرڕوع و خوفیە",
           "ar": "تَضَرُّعًا وَخُفْيَةً",
-          "fr": "Tadarru (humilité/supplication) et khufyah (en privé)"
+          "ru": "Тадарру (смирение/мольба) и хуфья (лично)"
         },
         {
           "tr": "Sadece bağırarak ve hakaret ederek",
@@ -129,7 +129,7 @@
           "ku": "Tenê bilind û heqaret",
           "ckb": "تەنها هاوکردن و سووکایەتی",
           "ar": "صياحٌ وسبٌ فقط",
-          "fr": "Seulement des cris et des insultes"
+          "ru": "Только кричать и оскорблять"
         },
         {
           "tr": "Yalnızca müzik ve dans",
@@ -141,7 +141,7 @@
           "ku": "Tenê mûzîk",
           "ckb": "تەنها مۆسیقا",
           "ar": "موسيقى ورقصٌ فقط",
-          "fr": "Seulement de la musique et de la danse"
+          "ru": "Только музыка и танцы"
         },
         {
           "tr": "Hiç dua etmemek",
@@ -153,7 +153,7 @@
           "ku": "Tu dua nekin",
           "ckb": "هیچ دعا نەکەن",
           "ar": "عدم الدعاء",
-          "fr": "Je ne supplie pas du tout"
+          "ru": "Совсем не умоляю"
         }
       ],
       "correct": 0
@@ -170,7 +170,7 @@
         "ku": "Di dawiya ayetê de Allah kî hez nake?",
         "ckb": "لە کۆتایی ئایەتەکەدا اللە خۆشی ناوێت لە کێ؟",
         "ar": "من لا يحبُّ الله في ختام الآية؟",
-        "fr": "À la fin du verset, qui Allah dit-Il n’aime-t-il pas ?"
+        "ru": "В конце аята, кого Аллах говорит, что Он не любит?"
       },
       "options": [
         {
@@ -183,7 +183,7 @@
           "ku": "Mu'tedîn (kesên li ser sînor derketî)",
           "ckb": "سنووردەرکەران (مُعْتَدِین)",
           "ar": "الْمُعْتَدِينَ",
-          "fr": "Al-mu'tadin - ceux qui transgressent les limites"
+          "ru": "Аль-мутадин — те, кто преступает границы"
         },
         {
           "tr": "Yalnızca dua edenleri",
@@ -195,7 +195,7 @@
           "ku": "Tenê dua dikin",
           "ckb": "تەنها دعاکاران",
           "ar": "الداعين فقط",
-          "fr": "Seulement ceux qui supplient"
+          "ru": "Только те, кто молится"
         },
         {
           "tr": "Sadece yetimleri",
@@ -207,7 +207,7 @@
           "ku": "Tenê yetîm",
           "ckb": "تەنها هەتیوان",
           "ar": "الأيتام فقط",
-          "fr": "Seulement les orphelins"
+          "ru": "Только сироты"
         },
         {
           "tr": "Hiç kimseyi",
@@ -219,7 +219,7 @@
           "ku": "Tu kes",
           "ckb": "هیچ کەس",
           "ar": "لا أحد",
-          "fr": "Personne"
+          "ru": "Никто"
         }
       ],
       "correct": 0
@@ -236,7 +236,7 @@
         "ku": "«Tedarru» çi dibêje?",
         "ckb": "«تەضەرڕوع» چی دەگەیەنێت؟",
         "ar": "ماذا يقصدُ النصُّ بالتضرُّعِ معنويًّا؟",
-        "fr": "D’après le texte, qu’évoque spirituellement « tadarru » ?"
+        "ru": "Согласно тексту, что духовно вызывает «тадарру»?"
       },
       "options": [
         {
@@ -249,7 +249,7 @@
           "ku": "Dengê dilê şikandî û tazarruker",
           "ckb": "دەنگی نزم و پاڕاوانی دڵ",
           "ar": "صوتُ القلبِ المنكسرِ والفقيرِ إلى الله",
-          "fr": "La voix humble et suppliante du cœur (besoin et adab)"
+          "ru": "Смиренный, умоляющий голос сердца (нужда и адаб)"
         },
         {
           "tr": "Kibir ve başkalarını küçümseme",
@@ -261,7 +261,7 @@
           "ku": "Serkeftî û piçûk dîtina kesên din",
           "ckb": "خۆبەزلزڵی",
           "ar": "الكبر والاستهزاء",
-          "fr": "Arrogance et dépréciation des autres"
+          "ru": "Высокомерие и унижение других"
         },
         {
           "tr": "Sadece uyumamak",
@@ -273,7 +273,7 @@
           "ku": "Tenê rabûn",
           "ckb": "تەنها نەخەوتن",
           "ar": "السهر فقط",
-          "fr": "Rester seulement éveillé"
+          "ru": "Только бодрствовать"
         },
         {
           "tr": "Yalnızca yemek yemek",
@@ -285,7 +285,7 @@
           "ku": "Tenê xwarin",
           "ckb": "تەنها خواردن",
           "ar": "الأكل فقط",
-          "fr": "Seulement manger"
+          "ru": "Только еда"
         }
       ],
       "correct": 0
@@ -302,7 +302,7 @@
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفق النص؟",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?"
       },
       "options": [
         {
@@ -315,7 +315,7 @@
           "ku": "Nivîs duayê bi edeb û îxlas ve girê dide, ne tenê bi bilindî",
           "ckb": "دعا نەک تەنها دەنگ",
           "ar": "الدعاء أدبٌ لا صوتٌ وحده",
-          "fr": "Le texte lie le dua à l'adab et à la sincérité, pas seulement au volume"
+          "ru": "Текст связывает дуа с адабом и искренностью, а не только с объемом."
         },
         {
           "tr": "Metin, önce içerden kısa ve edepli dua önerir",
@@ -327,7 +327,7 @@
           "ku": "Nivîs pêşniyar dike ku pêşî hundur, kurt û bi edeb dest pê bike",
           "ckb": "پێشتر ناوەوە",
           "ar": "من الداخل أولًا",
-          "fr": "Le texte suggère de commencer intérieurement, court et courtois"
+          "ru": "В тексте предлагается начать внутрь, коротко и вежливо."
         },
         {
           "tr": "Metin, 7:55'in yalnızca gösteriş için yüksek sesle ve herkese açık dua emrettiğini, gizlilik ve tevazoyu hiç saymadığını kesin bildirir",
@@ -339,7 +339,7 @@
           "ku": "Nivîs dibêje 7:55 tenê dua ya bilind a nîşanî ferman dike û nizm û veşartî tune dike",
           "ckb": "تەنها دعای بەرز و پیشانکاری",
           "ar": "يجزم أن الآية تأمر بالجهر الاستعراضي وتلغي الخفية والتضرع",
-          "fr": "Le texte indique que 7h55 n'ordonne qu'un show-dua public bruyant et ignore l'humilité et le secret."
+          "ru": "В тексте говорится, что 7:55 требует только громкого публичного шоу-дуа и игнорирует смирение и секретность."
         },
         {
           "tr": "Metin, «hafi» ile gösterişe kapalı olanı hatırlatır",
@@ -351,7 +351,7 @@
           "ku": "Nivîs xufyeyê bi dûrxistina tenê nîşanî ve girê dide",
           "ckb": "خوفیە — نەک تەنها پیشانکاری",
           "ar": "الخفيةُ تباعدُ الرياء",
-          "fr": "Le texte lie Khufya à éviter le simple affichage"
+          "ru": "Текст связывает хуфью с необходимостью избегать простой демонстрации."
         }
       ],
       "correct": 2
@@ -367,6 +367,6 @@
     "ku": "Carinan dua ji dengê herî bilind dûr e — li cihê ku dil dizî. Allah ji kesên li ser sînor derketî hez nake — edeb sînor nas kirin e.",
     "ckb": "هەندێکجار دعا دوورە لە بەرزترین دەنگ — نزیکە لە دڵ.",
     "ar": "الدعاءُ أحيانًا أبعدُ من الصخبِ — وأقربُ إلى السجودِ الداخلي. واللهُ لا يحبُّ المعتدي؛ والأدبُ حفظُ الحدود.",
-    "fr": "Parfois, le dua est le plus éloigné de la voix la plus forte ; il atterrit là où le cœur s'agenouille. Allah n'aime pas la transgression – Adab connaît la limite."
+    "ru": "Иногда дуа дальше всего от самого громкого голоса; он приземляется там, где сердце преклоняет колени. Аллах не любит беззакония – адаб знает предел."
   }
 }

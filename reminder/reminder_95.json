@@ -11,7 +11,7 @@
     "ku": "Hestiyariya Paqijiyê",
     "ckb": "هەستیاریی پاکیزەیی",
     "ar": "الحساسية للنظافة",
-    "fr": "Sensibilité à la propreté"
+    "ru": "Чувствительность к чистоте"
   },
   "content": {
     "tr": "İslam'da temizlik; yalnızca bedensel bir hijyen meselesi değil, imanın parçasıdır. Temizlik hassasiyeti; hem bedeni hem ruhu hem de çevreyi kapsayan kapsamlı bir bilinçtir. Müslüman temiz olur, çevresini temiz tutar ve temizliği bir ibadet gözüyle görür.\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n**«Temizlik imanın yarısıdır.»**\n*(Müslim — Ebû Mâlik el-Eş'arî r.a. rivayetiyle)*\n\nAllah Teâlâ da şöyle buyurur:\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n**«Elbiseni temizle (temiz tut).»**\n*(Müddessir 74:4)*\n\nTemizlik hassasiyeti; giysilerde, mekânda, bedende ve kalpte kendini gösterir. Kirli bir çevrenin ruhu kirleteceğini bilen Müslüman, evini, mahallesini ve kalbini de temiz tutar. Bir sokaği süpüren, bir çöpü kaldıran, bir çocuğun ellerini yıkayan insan da bu bilinçle hareket eder. Temizlik; görünür kiri temizlemek kadar, kalpteki kin, haset ve kibri de temizlemektir. Bugün bedeninizi ve çevrenizi temizlediğiniz gibi, kalbinizi de bir kez temizleyin.",
@@ -23,7 +23,7 @@
     "ku": "Di Îslamê de paqijî; ne tenê meseleyeke tenduristiya laşî ye, lê beşeke îmanê ye. Hestiyariya paqijiyê; hişmendiyeke berfireh e ku hem beden, hem ruh hem jî hawîrdorê digire. Misilman paqij e, hawîrdora xwe paqij digire û paqijiyê wekî ibadetê dibîne.\n\nPêxemberê me ﷺ wiha ferman kir:\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n**«Paqijî nîvê îmanê ye.»**\n*(Müslim — ji Ebû Mâlik el-Eş'arî r.a. ve hatiye şandin)*\n\nAllahê Bilind jî wiha dibêje:\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n**«Cil û bergên xwe paqij bike.»**\n*(Müddessir 74:4)*\n\nHestiyariya paqijiyê; di kincên, di cihan, di beden û di dilê de xwe nîşan dide. Misilmanê ku dizane ku hawîrdoreke qirêj ruhê jî qirêj dike, malê, taxê û dilê xwe jî paqij digire. Mirovê ku kolanan jî mêrê dike, qirêjek hildide, destên zarokê dişo jî bi vê hişmendiyê tevdigere. Paqijî; qirêja xuya paqijkirin e û qirêja kin, çavnehêrî û kibrê di dilê de paqijkirin e. Îro wekî ku laş û hawîrdora xwe paqij dikin, dilê xwe jî carekê paqij bikin.",
     "ckb": "لە ئیسلامدا پاکیزەیی؛ تەنها مەسەلەی تەندروستیی جەستەیی نییە، بەڵکو بەشێکی ئیمانە. هەستیاریی پاکیزەیی هۆشمەندییەکی فراوانە کە جەستە، ڕوح و ژینگە دەگرێتەوە. موسڵمان پاکیزەیە، دەوروبەری پاک دەگرێت و پاکیزەیی وەک شێوەیەک لە عیبادەت دەبینێت.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n**«پاکیزەیی نیوەی ئیمانە.»**\n*(موسلیم — بە ڕێوایەتی ئەبو مالیک ئەل-ئەشعاری ڕ.ع)*\n\nاللەی بەرز هەروەها دەفەرمووێت:\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n**«جلوبەرگەکانت پاک بکە.»**\n*(مودەسیر ٧٤:٤)*\n\nهەستیاریی پاکیزەیی لە جلوبەرگ، شوێن، جەستە و دڵدا دەردەکەوێت. موسڵمانێک کە دەزانێت ژینگەیەکی پیس ڕوحیشی پیس دەکات، ماڵ، گەڕەک و دڵیشی پاک دەگرێت. کەسێک کە کۆڵانێک ڕووف دەکات، گەندڵێک هەڵدەڵێت، یان دەستەکانی منداڵێک دەشۆ بە ئەم هۆشمەندییە کار دەکات. پاکیزەیی بەقەدری پاکی پیسی ئاشکرا، پاکی کین، حەسەد و کبر لە دڵیشە. ئەمڕۆ وەک بەدەن و دەوروبەرت پاک دەکەیت، دڵتیشت یەک جار پاک بکە.",
     "ar": "في الإسلام، الطهارةُ ليست مجرَّد نظافةٍ جسديَّةٍ بل جزءٌ من الإيمان. والحساسيَّةُ تجاه النظافة وعيٌ شاملٌ يمسُّ الجسدَ والروحَ والبيئة. المسلمُ نظيفٌ، ويُبقي محيطَه نظيفاً، ويرى في النظافة عبادة.\n\nقال النبيُّ ﷺ:\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n*(رواه مسلم — عن أبي مالك الأشعري رضي الله عنه)*\n\nويقول الله تعالى:\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n*(المدَّثِّر: ٤)*\n\nتتجلَّى الحساسيَّةُ تجاه النظافة في الملبس والمكان والجسد والقلب. المسلمُ الذي يعلم أنَّ البيئةَ القذرةَ تُلوِّث الروح يُبقي بيتَه وحيَّه وقلبَه نظيفاً. من يكنس شارعاً أو يلتقط نفايةً أو يغسل يدَي طفلٍ يتصرَّف بهذا الوعي. النظافةُ تعني تنظيفَ الأوساخ الظاهرة بقدر ما تعني تنظيفَ الحقد والحسد والكبرياء في القلب.",
-    "fr": "En Islam, la propreté n’est pas simplement une question d’hygiène physique mais fait partie de la foi. La sensibilité à la propreté est une conscience globale qui englobe le corps, l'âme et l'environnement. Un musulman est propre, garde son environnement propre et considère la propreté comme une forme d’adoration.\n\nNotre Prophète ﷺ a dit :\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n**\"La propreté est la moitié de la foi.\"**\n*(Musulman — rapporté par Abu Malik al-Ash'ari r.a.)*\n\nAllah le Très-Haut dit aussi :\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n**\"Et vos vêtements purifient.\"**\n*(Al-Muddaththir 74:4)*\n\nLa sensibilité à la propreté se manifeste dans les vêtements, dans les espaces, dans le corps et dans le cœur. Un musulman qui sait qu’un environnement sale salit l’âme garde également sa maison, son quartier et son cœur propres. Une personne qui balaie une rue, ramasse un déchet ou lave les mains d'un enfant agit avec cette conscience. La propreté consiste autant à nettoyer la saleté visible qu’à nettoyer le ressentiment, l’envie et la fierté du cœur. Aujourd’hui, tout comme vous nettoyez votre corps et votre environnement, nettoyez également votre cœur une fois."
+    "ru": "В исламе чистота – это не просто вопрос физической гигиены, а часть веры. Чувствительность к чистоте — это всеобъемлющее сознание, охватывающее тело, душу и окружающую среду. Мусульманин чист, поддерживает чистоту вокруг себя и рассматривает чистоту как форму поклонения.\n\nНаш Пророк ﷺ сказал:\n\n**«الطُّهُورُ شَطْرُ الْإِيمَانِ»**\n**\"Чистота – половина веры.\"**\n*(Муслим — передал Абу Малик аль-Ашари r.a.)*\n\nАллах Всевышний также говорит:\n\n**﴿وَثِيَابَكَ فَطَهِّرْ﴾**\n**\"И одежды ваши очищают\".**\n*(Аль-Муддатсир 74:4)*\n\nЧувствительность к чистоте проявляется в одежде, в помещениях, в теле и в сердце. Мусульманин, который знает, что грязная окружающая среда загрязняет душу, также сохраняет в чистоте свой дом, окрестности и сердце. С этим сознанием действует человек, подметающий улицу, подбирающий мусор или моющий руки ребенка. Чистота – это как очистка видимой грязи, так и очищение сердца от обиды, зависти и гордости. Сегодня, так же, как вы очищаете свое тело и окружение, очистите еще раз и свое сердце."
   },
   "quiz": [
     {
@@ -38,7 +38,7 @@
         "ku": "Kîjan sahabi hadisa «Paqijî nîvê îmanê ye» şand?",
         "ckb": "کێ حەدیسی «پاکیزەیی نیوەی ئیمانە» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «الطهور شطر الإيمان»؟",
-        "fr": "Quel compagnon a rapporté le hadith « La propreté est la moitié de la foi » ?"
+        "ru": "Какой сподвижник передал хадис «Чистота – половина веры»?"
       },
       "options": [
         {
@@ -51,7 +51,7 @@
           "ku": "Ebû Mâlik el-Eş'arî r.a. — Müslim",
           "ckb": "ئەبو مالیک ئەل-ئەشعاری ڕ.ع — موسلیم",
           "ar": "أبو مالك الأشعري رضي الله عنه — مسلم",
-          "fr": "Abu Malik al-Ash'ari r.a. -Musulman"
+          "ru": "Абу Малик аль-Ашари r.a. — Мусульманин"
         },
         {
           "tr": "Ebû Hureyre r.a. — Buhârî",
@@ -63,7 +63,7 @@
           "ku": "Ebû Hureyre r.a. — Buxarî",
           "ckb": "ئەبو هورەیرە ڕ.ع — بوخاری",
           "ar": "أبو هريرة رضي الله عنه — البخاري",
-          "fr": "Abu Hurairah r.a. — Boukhari"
+          "ru": "Абу Хурайра r.a. — Бухари"
         },
         {
           "tr": "İbn Ömer r.a. — Tirmizî",
@@ -75,7 +75,7 @@
           "ku": "Ibni Ömer r.a. — Tirmizî",
           "ckb": "ئیبن عومەر ڕ.ع — تیرمیزی",
           "ar": "ابن عمر رضي الله عنه — الترمذي",
-          "fr": "Ibn Umar r.a. — Tirmidhi"
+          "ru": "Ибн Умар r.a. — Тирмизи"
         },
         {
           "tr": "Hz. Ali r.a. — Nesâî",
@@ -87,7 +87,7 @@
           "ku": "Ali r.a. — Nesaî",
           "ckb": "عەلی ڕ.ع — نەسائی",
           "ar": "علي رضي الله عنه — النسائي",
-          "fr": "Ali r.a. — Nasaï"
+          "ru": "Али р.а. — Насаи"
         }
       ],
       "correct": 0
@@ -104,7 +104,7 @@
         "ku": "Emra «Cil û bergên xwe paqij bike» di kîjan sûreyê de ye?",
         "ckb": "فەرمانی «جلوبەرگەکانت پاک بکە» لە کام سووڕەتدا دەردەکەوێت؟",
         "ar": "في أي سورة ورد الأمر ﴿وَثِيَابَكَ فَطَهِّرْ﴾؟",
-        "fr": "Dans quelle sourate apparaît le commandement « Purifiez vos vêtements » ?"
+        "ru": "В какой суре встречается повеление «Очистите свои одежды»?"
       },
       "options": [
         {
@@ -117,7 +117,7 @@
           "ku": "Müddessir 74:4",
           "ckb": "مودەسیر ٧٤:٤",
           "ar": "المدثر: ٤",
-          "fr": "Al-Muddaththir 74:4"
+          "ru": "Аль-Муддатсир 74:4"
         },
         {
           "tr": "Nûr 24:21",
@@ -129,7 +129,7 @@
           "ku": "Nûr 24:21",
           "ckb": "نور ٢٤:٢١",
           "ar": "النور: ٢١",
-          "fr": "An-Nour 24:21"
+          "ru": "Ан-Нур 24:21"
         },
         {
           "tr": "Mâide 5:90",
@@ -141,7 +141,7 @@
           "ku": "Maide 5:90",
           "ckb": "مائیدە ٥:٩٠",
           "ar": "المائدة: ٩٠",
-          "fr": "Al-Ma'idah 5:90"
+          "ru": "Аль-Маида 5:90"
         },
         {
           "tr": "Âl-i İmrân 3:97",
@@ -153,7 +153,7 @@
           "ku": "Âl-i Imrân 3:97",
           "ckb": "ئالی عیمران ٣:٩٧",
           "ar": "آل عمران: ٩٧",
-          "fr": "Ali Imran 3:97"
+          "ru": "Али Имран 3:97"
         }
       ],
       "correct": 0
@@ -170,7 +170,7 @@
         "ku": "Di Îslamê de paqijî kîjan aliyên xwe digire?",
         "ckb": "پاکیزەیی لە ئیسلامدا چ ئەندازەیەکانی دەگرێتەوە؟",
         "ar": "ما أبعاد النظافة في الإسلام؟",
-        "fr": "Quelles dimensions couvre la propreté en Islam ?"
+        "ru": "Какие аспекты чистоты охватывает в Исламе?"
       },
       "options": [
         {
@@ -183,7 +183,7 @@
           "ku": "Paqijiya beden, ruh, kinc û hawîrdorê",
           "ckb": "پاکیزەیی جەستە، ڕوح، جلوبەرگ و ژینگە",
           "ar": "نظافة الجسد والروح والملبس والبيئة",
-          "fr": "Propreté du corps, de l'âme, des vêtements et de l'environnement"
+          "ru": "Чистота тела, души, одежды и окружающей среды"
         },
         {
           "tr": "Yalnızca bedensel temizlik",
@@ -195,7 +195,7 @@
           "ku": "Tenê paqijiya laşî",
           "ckb": "تەنها پاکیزەیی جەستەیی",
           "ar": "النظافة الجسدية فحسب",
-          "fr": "Uniquement la propreté physique"
+          "ru": "Только физическая чистота"
         },
         {
           "tr": "Yalnızca elbise temizliği",
@@ -207,7 +207,7 @@
           "ku": "Tenê paqijiya kincên",
           "ckb": "تەنها پاکیزەیی جلوبەرگ",
           "ar": "نظافة الملبس فحسب",
-          "fr": "Uniquement la propreté des vêtements"
+          "ru": "Только чистота одежды"
         },
         {
           "tr": "Yalnızca ibadet öncesi temizlik",
@@ -219,7 +219,7 @@
           "ku": "Tenê paqijiya berî ibadetê",
           "ckb": "تەنها پاکیزەیی پێش عیبادەت",
           "ar": "النظافة قبل العبادة فحسب",
-          "fr": "Seulement la propreté avant le culte"
+          "ru": "Только предпоклонение чистоте"
         }
       ],
       "correct": 0
@@ -236,7 +236,7 @@
         "ku": "Paqijiya dilê çi paqijkirinê dide nîşankirin?",
         "ckb": "پاکیزەیی دڵ پاکیی چی دەگەیەنێت؟",
         "ar": "ما المقصود بنظافة القلب؟",
-        "fr": "À quoi fait référence la pureté du cœur ?"
+        "ru": "Что означает чистота сердца?"
       },
       "options": [
         {
@@ -249,7 +249,7 @@
           "ku": "Kin, çavnehêrî û kibrê ji dilê paqijkirin",
           "ckb": "پاک کردنی دڵ لە کین، حەسەد و کبر",
           "ar": "تطهير القلب من الحقد والحسد والكبر",
-          "fr": "Nettoyer le cœur du ressentiment, de l'envie et de la fierté"
+          "ru": "Очищение сердца от обиды, зависти и гордости"
         },
         {
           "tr": "Kalbi cerrahi yöntemle temizlemek",
@@ -261,7 +261,7 @@
           "ku": "Dil bi rêya emeliyatê paqijkirin",
           "ckb": "پاک کردنی دڵ بە ڕێگای نەشتەرگەری",
           "ar": "تطهير القلب جراحيًا",
-          "fr": "Nettoyer le cœur grâce à la chirurgie"
+          "ru": "Очищение сердца хирургическим путем"
         },
         {
           "tr": "Kalp hastalıklarından korunmak",
@@ -273,7 +273,7 @@
           "ku": "Ji nexweşiyên dil parastin",
           "ckb": "پاراستن لە نەخۆشیەکانی دڵ",
           "ar": "الوقاية من أمراض القلب",
-          "fr": "Se protéger contre les maladies cardiaques"
+          "ru": "Защита от болезней сердца"
         },
         {
           "tr": "Kalbi sadece dua ile temizlemek",
@@ -285,7 +285,7 @@
           "ku": "Dil tenê bi duayê paqijkirin",
           "ckb": "پاک کردنی دڵ تەنها بە دوا",
           "ar": "تطهير القلب بالدعاء فحسب",
-          "fr": "Nettoyer le cœur uniquement par la supplication"
+          "ru": "Очищение сердца только молитвой"
         }
       ],
       "correct": 0
@@ -302,7 +302,7 @@
         "ku": "Ji van kîjan nîşaneya hestiyariya paqijiyê ye?",
         "ckb": "کامێک لەوانەی خوارەوە نیشانەی هەستیاریی پاکیزەییە؟",
         "ar": "أيّ مما يلي من مؤشرات الحساسية للنظافة؟",
-        "fr": "Lequel des éléments suivants est un indicateur de sensibilité à la propreté ?"
+        "ru": "Что из перечисленного является показателем чувствительности к чистоте?"
       },
       "options": [
         {
@@ -315,7 +315,7 @@
           "ku": "Qirêja kolanan hilanîn û hawîrdorê paqij hilanîn",
           "ckb": "هەڵگرتنی گەندڵ لە کۆڵان و پاک گرتنی ژینگە",
           "ar": "رفع القمامة من الطريق والحفاظ على نظافة البيئة",
-          "fr": "Ramasser les déchets de la rue et garder l'environnement propre"
+          "ru": "Собирать мусор с улиц и поддерживать чистоту окружающей среды"
         },
         {
           "tr": "Yalnızca camide temiz olmak",
@@ -327,7 +327,7 @@
           "ku": "Tenê di mizgeftê de paqij bûn",
           "ckb": "تەنها لە مزگەوتدا پاک بوون",
           "ar": "النظافة في المسجد فحسب",
-          "fr": "Être propre uniquement à la mosquée"
+          "ru": "Быть чистым только в мечети"
         },
         {
           "tr": "Evde temizlik yapıp sokağı dağınık bırakmak",
@@ -339,7 +339,7 @@
           "ku": "Malê paqij kirin û kolanan kêşav hiştin",
           "ckb": "ماڵ پاک کردن بەڵام کۆڵان بەهەرج و مەرج هێشتن",
           "ar": "تنظيف البيت وترك الشارع قذرًا",
-          "fr": "Nettoyer la maison mais laisser la rue en désordre"
+          "ru": "Убираем дом, но оставляем беспорядок на улице"
         },
         {
           "tr": "Kalabalık ortamlarda temizliği önemsememek",
@@ -351,7 +351,7 @@
           "ku": "Di hawîrdorên bi komel de girîngiyê nedane paqijiyê",
           "ckb": "گرنگی نەدانی پاکیزەیی لە شوێنی قەڵەباڵغدا",
           "ar": "إهمال النظافة في الأماكن المزدحمة",
-          "fr": "Ne pas se soucier de la propreté dans les environnements surpeuplés"
+          "ru": "Не заботятся о чистоте в людных местах."
         }
       ],
       "correct": 0
@@ -367,6 +367,6 @@
     "ku": "Îro hestiyariya xwe ya paqijiyê binirxînin. Ma hûn hawîrdora xwe bi qasî laşê xwe paqij digirin? Di dilê we de kin, çavnehêrî yan kibr heye? Paqijî ji ya xuya dest pê dike lê bi ya nuxuya temam dibe. Îro quncikekî malê xwe, dargiriyekê di dilê xwe de yan qirêjek li kolanan paqij bikin. Allah paqiz e û paqiziyê hez dike. Misilmanekî paqij bûn; yek ji xweştirîn şêweyên îfadeya îmanê ye.",
     "ckb": "ئەمڕۆ هەستیارییت بۆ پاکیزەیی بۆ خۆت چەک بکەرەوە. ئایا دەوروبەرت بەقەدری جەستەکەت پاک دەگریت؟ ئایا کین، حەسەد یان کبر لە دڵتدا هەیە؟ پاکیزەیی بە ئاشکرا دەستپێدەکات بەڵام بە نهێنیشەوە تەواو دەبێت. ئەمڕۆ گۆشەیەک لە ماڵت، کینەیەک لە دڵت یان گەندڵێک لە کۆڵان پاک بکە. اللە پاکیزەیە و پاکیزەییش خۆشی دێت. موسڵمانێکی پاک بوون یەکێکە لە جوانترین ڕێگەکانی دەرببڕینی ئیمان.",
     "ar": "اليوم راجع حساسيَّتك تجاه النظافة. هل تُبقي محيطَك نظيفاً كما تُبقي جسدَك؟ هل ثمَّةَ حقدٌ أو حسدٌ أو كبرياءٌ في قلبك؟ النظافةُ تبدأ بالمرئيِّ وتكتمل بغير المرئيِّ. اليوم نظِّف زاويةً من بيتك، أو حقداً في قلبك، أو نفايةً في الشارع. اللهُ طيِّبٌ ويُحبُّ الطيِّبين. أن تكون مسلماً نظيفاً من أجمل تعبيرات الإيمان.",
-    "fr": "Aujourd’hui, révisez votre sensibilité à la propreté. Gardez-vous votre environnement aussi propre que votre corps ? Y a-t-il du ressentiment, de l’envie ou de la fierté dans votre cœur ? La propreté commence par le visible mais se termine par l'invisible. Aujourd'hui, nettoyez un coin de votre maison, un ressentiment dans votre cœur ou un déchet dans la rue. Allah est pur et aime la pureté. Être un musulman pur est l’une des plus belles expressions de la foi."
+    "ru": "Сегодня пересмотрите свою чувствительность к чистоте. Содержите ли вы свое окружение в такой же чистоте, как и свое тело? Есть ли в вашем сердце обида, зависть или гордость? Чистота начинается с видимого, но завершается невидимым. Сегодня очистите уголок дома, обиду в сердце или мусор на улице. Аллах чист и любит чистоту. Быть чистым мусульманином – одно из самых прекрасных проявлений веры."
   }
 }
