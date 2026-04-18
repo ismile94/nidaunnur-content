@@ -11,7 +11,8 @@
     "ku": "Roja şeşem a Remezanê: Bar ji bilî hêzê tune",
     "ckb": "ڕۆژی شەشەمی ڕەمەزان: بارێک لە توانات زیاتر نییە",
     "ar": "يومُ رمضان السادس: لا تكليفَ فوق الطاقةِ",
-    "ru": "Рамадан, день шестой: никакого бремени сверх ваших возможностей"
+    "ru": "Рамадан, день шестой: никакого бремени сверх ваших возможностей",
+    "fr": "Sixième jour du Ramadan : aucun fardeau au-delà de vos capacités"
   },
   "content": {
     "tr": "Altıncı gün, beden «alıştım» derken yine de yorulabilir: erken kalkma, uzun gün, geç iftar… Kalp bazen «yetişemiyorum» diye fısıldar. Bakara'nın son ayetleri ise şefkatle sınır çizer: Allah, hiçbir nefse gücünün üstünde bir şükletmez; kazandığın sana, yüklediğin de sana yazılır — sonra da kul, Rabbinden af ve kolaylık diler.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ﴾**\n**«Allah hiçbir nefse gücünün üstünde bir şükletmez. Onun kazandığı kendisine, yüklendiği de kendisinedir. Rabbimiz! Unutursak veya hataya düşersek bizi sorumlu tutma. Rabbimiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Bize gücümüzün yetmeyeceği şeyi yükleme. Bizi affet, bizi bağışla, bize merhamet et. Sen bizim Mevla'mızsın; kâfir topluma karşı bize yardım et.»** *(Bakara 2:286 — meâl özü; ayet kulun duasıyla sona erer)*\n\nBugünün küçük adımı: «gücüm yettiği kadar» deyip kalbini ferahlat; bir fazlayı ertelemek bazen daha çok takvadır — mükemmeliyet değil, süreklilik hedeftir.",
@@ -23,7 +24,8 @@
     "ku": "Di roja şeşan de dibe ku beden westiya be jî wek ku adet çêdibin: zû rabûn, ronahiya rojê dirêj, îftara dereng… Dibe ku dil bi pistepistê bike, \"Ez nikarim xwe bidomînim.\" Di ayetên dawî yên Beqere de xêzeke dilovanî xêz dike: Xwedê ji canekî pê ve ji bi qasî îmkana wî bar nake; Tiştê ku bi dest dixe ji bo wê ye û tiştê ku dike jî li ser wê ye - paşê xulam ji Rebbê efû û hêsaniyê dixwaze.\n\nXuda Teala wiha dibêje:\n\n** ﴿Yezdan ji canekî pê ve, bi qasî hêza wî, fermanê nade. Tiştê ku bi dest xistiye wê [encama] wê hebe û ya ku [xerabiya] bi dest xistiye jî wê hilgire. \"Xwedayê me, eger me ji bîr kiribe yan jî xeletî kiribe, li me gunehbar neke... û li me bibexşîne û li me bibexşîne û li me were rehmê. Tu parêzvanê me yî, îdî tu me li ser gelê kafir biserkeve.\" (El Beqere 2:286)*\n\nÎro gavek piçûk: \"bi qasî ku ez rabim\" bêje û dilê xwe rehet bike; paşxistina barekî zêde carinan dikare bibe hişmendiya Xwedê mezintir - armanc ji hevgirtinê re, ne kamilbûnê.",
     "ckb": "ڕۆژی شەشەم — لەوانەیە جەستە هێشتا ماندوو بێت. دڵ دەڵێت «ناتوانم هەمووی بکەم» — کۆتایی بەقەرە سنوورێکی میهرەبان دەکێشێت: اللە هیچ کەسێک بارێک لەسەر ناکات کە لە توانای نییە.\n\nاللە دەفەرموێت (لەگەڵ داواکاری کۆتایی ئایەتەکە):\n\n**﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا …﴾**\n*(بەقەرە: ٢٨٦ — دەقەکە درێژە و بە دوعا کۆتایی دێت)*\n\nئەمڕۆ: «ئەوەی لە توانامدایە» بڵێ؛ جێگیربوون باشترە لە کامڵییەکی ناتەندروست.",
     "ar": "في اليوم السادس قد يُرهقُ الجسدُ مع الاعتياد: السحرُ والنهارُ الطويلُ والإفطارُ المتأخر… ويهمسُ القلبُ: لا أطيقُ كلَّ شيءٍ. وخاتمةُ البقرةِ ترسمُ حدًّا رحيمًا: لا يُكَلِّفُ اللهُ نفسًا إلا وسعها؛ لها ما كسبت وعليها ما اكتسبت — ثم يتضرعُ العبدُ.\n\nيقول الله تعالى:\n\n**﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا … أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ﴾**\n*(البقرة: ٢٨٦ — معنىً مجملًا)*\n\nخطوةُ اليوم: قل «بقدر طاقتي»؛ وأجِلْ زيادةً واحدةً إن احتجتَ — فالثباتُ أحيانًا أعظمُ من استعجالِ الكمالِ.",
-    "ru": "К шестому дню тело может устать, хотя формируются привычки: ранний подъем, длинный световой день, поздний ифтар… Сердце может шепнуть: «Я не успеваю». Заключительные аяты «Аль-Бакара» проводят милосердную линию: Аллах не взимает с души плату, кроме как в пределах ее возможностей; что он зарабатывает, то ему, и что он несет, то и на нем, — тогда раб просит у Господа прощения и облегчения.\n\nВсевышний Аллах говорит (включая молитву слуги, завершающую аят):\n\n**﴿Аллах не взимает плату с души, кроме как [в пределах] ее способностей. Оно будет иметь [последствия] того, что [добро] оно приобрело, и оно будет нести [последствия] того, что [зло] оно заслужило. «Господь наш, не возлагай на нас вину, если мы забыли или ошиблись… и прости нас, и прости нас, и помилуй нас. Ты наш защитник, так дай нам победу над неверующими людьми». ﴾** *(Аль-Бакара 2:286 — смысл вкратце)*\n\nМаленький шаг сегодня: скажите «столько, сколько я могу вынести» и облегчите свое сердце; откладывание одного дополнительного бремени иногда может способствовать большему осознанию Бога — стремитесь к последовательности, а не к совершенству."
+    "ru": "К шестому дню тело может устать, хотя формируются привычки: ранний подъем, длинный световой день, поздний ифтар… Сердце может шепнуть: «Я не успеваю». Заключительные аяты «Аль-Бакара» проводят милосердную линию: Аллах не взимает с души плату, кроме как в пределах ее возможностей; что он зарабатывает, то ему, и что он несет, то и на нем, — тогда раб просит у Господа прощения и облегчения.\n\nВсевышний Аллах говорит (включая молитву слуги, завершающую аят):\n\n**﴿Аллах не взимает плату с души, кроме как [в пределах] ее способностей. Оно будет иметь [последствия] того, что [добро] оно приобрело, и оно будет нести [последствия] того, что [зло] оно заслужило. «Господь наш, не возлагай на нас вину, если мы забыли или ошиблись… и прости нас, и прости нас, и помилуй нас. Ты наш защитник, так дай нам победу над неверующими людьми». ﴾** *(Аль-Бакара 2:286 — смысл вкратце)*\n\nМаленький шаг сегодня: скажите «столько, сколько я могу вынести» и облегчите свое сердце; откладывание одного дополнительного бремени иногда может способствовать большему осознанию Бога — стремитесь к последовательности, а не к совершенству.",
+    "fr": "Au sixième jour, le corps peut se fatiguer même si des habitudes se forment : lever tôt, journée longue, iftar tardif… Le cœur peut murmurer : « Je n'arrive pas à suivre ». Les derniers versets d'Al-Baqarah tracent une ligne miséricordieuse : Allah ne charge une âme que dans la mesure de ses capacités ; ce qu'il gagne est pour lui, et ce qu'il rapporte lui appartient – ​​alors le serviteur demande pardon et facilité au Seigneur.\n\nAllah le Très-Haut dit (y compris la prière du serviteur qui conclut le verset) :\n\n**﴿Allah ne charge une âme que [de ce qui correspond à] sa capacité. Il aura [la conséquence de] ce [bien] qu'il a gagné, et il supportera [la conséquence de] ce [mal] qu'il a gagné. \"Notre Seigneur, ne nous impute pas de blâme si nous avons oublié ou commis une erreur… et pardonne-nous et pardonne-nous et aie pitié de nous. Tu es notre protecteur, alors donne-nous la victoire sur les gens mécréants.\"﴾** *(Al-Baqarah 2:286 - signifiant résumé)*\n\nUn petit pas aujourd'hui : dites « autant que je peux supporter » et apaisez votre cœur ; reporter un fardeau supplémentaire peut parfois être une plus grande conscience de Dieu – viser la cohérence et non la perfection."
   },
   "quiz": [
     {
@@ -38,7 +40,8 @@
         "ku": "«Allah tu nefşê ji bilî wes'ê bar nakê» di kîjan sure û ayetê de ye?",
         "ckb": "«اللە هیچ کەسێک بارێک لەسەر ناکات کە لە توانای نییە» لە کام سورەت و ئایەتدایە؟",
         "ar": "في أي سورة وآية ﴿لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾؟",
-        "ru": "В какой суре и аяте Аллах говорит, что Он не взимает плату с души, кроме как в пределах ее возможностей (как указано в тексте)?"
+        "ru": "В какой суре и аяте Аллах говорит, что Он не взимает плату с души, кроме как в пределах ее возможностей (как указано в тексте)?",
+        "fr": "Dans quelle sourate et verset Allah dit-il qu'il ne charge une âme que dans la mesure de ses capacités (comme cité dans le texte) ?"
       },
       "options": [
         {
@@ -51,7 +54,8 @@
           "ku": "Bekere 2:286",
           "ckb": "بەقەرە ٢٨٦",
           "ar": "البقرة ٢٨٦",
-          "ru": "Аль-Бакара 2:286"
+          "ru": "Аль-Бакара 2:286",
+          "fr": "Al-Baqarah 2:286"
         },
         {
           "tr": "Âl İmrân 3:286",
@@ -63,7 +67,8 @@
           "ku": "Alî Imran 3:286",
           "ckb": "ئالی عمران ٢٨٦",
           "ar": "آل عمران ٢٨٦",
-          "ru": "Али Имран 3:286"
+          "ru": "Али Имран 3:286",
+          "fr": "Ali 'Imran 3:286"
         },
         {
           "tr": "Nisâ 4:286",
@@ -75,7 +80,8 @@
           "ku": "Nisa 4:286",
           "ckb": "نسا ٢٨٦",
           "ar": "النساء ٢٨٦",
-          "ru": "Ан-Ниса 4:286"
+          "ru": "Ан-Ниса 4:286",
+          "fr": "An-Nisa 4:286"
         },
         {
           "tr": "Mâide 5:286",
@@ -87,7 +93,8 @@
           "ku": "Maide 5:286",
           "ckb": "مائدە ٢٨٦",
           "ar": "المائدة ٢٨٦",
-          "ru": "Аль-Маида 5:286"
+          "ru": "Аль-Маида 5:286",
+          "fr": "Al-Ma'idah 5:286"
         }
       ],
       "correct": 0
@@ -104,7 +111,8 @@
         "ku": "Li gorî 2:286 Allah çawa barê nefşê dike?",
         "ckb": "بەپێی ٢٨٦ اللە چۆن بار دەخاتە سەر نەفس؟",
         "ar": "كيف يكلف الله النفس في ٢٨٦؟",
-        "ru": "Как Аллах взимает плату с души, согласно 2:286?"
+        "ru": "Как Аллах взимает плату с души, согласно 2:286?",
+        "fr": "D’après 2 :286, comment Allah charge-t-il une âme ?"
       },
       "options": [
         {
@@ -117,7 +125,8 @@
           "ku": "Tenê di çarçoveya wes'ê wê de",
           "ckb": "تەنها لە چوارچێوەی توانادا",
           "ar": "إلا وسعها",
-          "ru": "Только в пределах своих возможностей (вусаха)"
+          "ru": "Только в пределах своих возможностей (вусаха)",
+          "fr": "Seulement dans la mesure de ses capacités (wus'aha)"
         },
         {
           "tr": "Her zaman gücün çok üstünde",
@@ -129,7 +138,8 @@
           "ku": "Her gav ji bilî hêzê",
           "ckb": "هەمیشە لەسەر توانا",
           "ar": "فوق الطاقة دائماً",
-          "ru": "Всегда далеко за пределами способностей"
+          "ru": "Всегда далеко за пределами способностей",
+          "fr": "Toujours bien au-delà de mes capacités"
         },
         {
           "tr": "Hiç yük yüklemez",
@@ -141,7 +151,8 @@
           "ku": "Tu bar nake",
           "ckb": "هیچ بارێک ناکات",
           "ar": "لا يكلف شيئاً",
-          "ru": "Он ничего не взимает"
+          "ru": "Он ничего не взимает",
+          "fr": "Il ne facture rien"
         },
         {
           "tr": "Sadece başkalarına yükler, nefse değil",
@@ -153,7 +164,8 @@
           "ku": "Tenê ji bo kesên din",
           "ckb": "تەنها بۆ کەسانی تر",
           "ar": "للغير فقط",
-          "ru": "Только другие, а не сама душа"
+          "ru": "Только другие, а не сама душа",
+          "fr": "Seulement les autres, pas l'âme elle-même"
         }
       ],
       "correct": 0
@@ -170,7 +182,8 @@
         "ku": "«Laha ma kesebet…» çi vê dike?",
         "ckb": "«لَهَا مَا كَسَبَتْ» چی دەگەیەنێت؟",
         "ar": "ماذا تعني «لها ما كسبت وعليها ما اكتسبت» في الملخص؟",
-        "ru": "Что в кратком изложении текста отражает фраза «ибо то, что он заслужил, и на нем то, что он заслужил»?"
+        "ru": "Что в кратком изложении текста отражает фраза «ибо то, что он заслужил, и на нем то, что он заслужил»?",
+        "fr": "Dans la synthèse du texte, que reflète « car c'est ce qu'il a gagné, et c'est grâce à lui que c'est ce qu'il a gagné » ?"
       },
       "options": [
         {
@@ -183,7 +196,8 @@
           "ku": "Qezenc û barê xwe",
           "ckb": "ئەنجامی کارەکانی خۆی",
           "ar": "لها ثمرةُ كسبها وعليها وزرُ اكتسابها",
-          "ru": "Его благо для него, и то, что он несет против себя, то на нем (значение обобщенное)"
+          "ru": "Его благо для него, и то, что он несет против себя, то на нем (значение обобщенное)",
+          "fr": "Son bien est pour lui, et ce qu'il porte contre lui-même est sur lui (c'est-à-dire résumé)"
         },
         {
           "tr": "Kazanç tamamen başkasına yazılır",
@@ -195,7 +209,8 @@
           "ku": "Tenê ji bo kesên din",
           "ckb": "تەنها بۆ کەسانی تر",
           "ar": "للغير دون النفس",
-          "ru": "Доходы начисляются только другим"
+          "ru": "Доходы начисляются только другим",
+          "fr": "Les gains ne sont crédités qu'à d'autres"
         },
         {
           "tr": "Hiçbir sorumluluk yoktur",
@@ -207,7 +222,8 @@
           "ku": "Bê berpirsiyarî",
           "ckb": "بێ بەرپرسیاری",
           "ar": "لا مسؤولية",
-          "ru": "Нет никакой ответственности"
+          "ru": "Нет никакой ответственности",
+          "fr": "Il n'y a aucune responsabilité"
         },
         {
           "tr": "Sadece dünya malı kastedilir, ahiret yoktur",
@@ -219,7 +235,8 @@
           "ku": "Tenê mala dinyayê",
           "ckb": "تەنها سامانی دنیا",
           "ar": "الدنيا فقط بلا آخرة",
-          "ru": "Имеется в виду только мирское богатство; нет В дальнейшем"
+          "ru": "Имеется в виду только мирское богатство; нет В дальнейшем",
+          "fr": "Il ne s'agit que de la richesse du monde ; non par la suite"
         }
       ],
       "correct": 0
@@ -236,7 +253,8 @@
         "ku": "Li gorî nivîsê 2:286 çawa diqede?",
         "ckb": "بەپێی دەقەکە ٢٨٦ چۆن کۆتایی دێت؟",
         "ar": "كيف ينتهي ٢٨٦ وفق النص؟",
-        "ru": "Чем заканчивается 2:286 согласно тексту?"
+        "ru": "Чем заканчивается 2:286 согласно тексту?",
+        "fr": "D’après le texte, quelle est la conclusion de 2 :286 ?"
       },
       "options": [
         {
@@ -249,7 +267,8 @@
           "ku": "Bi dua ya bendê",
           "ckb": "بە دوعای بەندە",
           "ar": "بدعاء العبدِ طلبًا للعفو والنصر",
-          "ru": "С рабской молитвой, просящей прощение, прощение, милость и помощь"
+          "ru": "С рабской молитвой, просящей прощение, прощение, милость и помощь",
+          "fr": "Avec la prière du serviteur demandant pardon, pardon, miséricorde et aide"
         },
         {
           "tr": "Sure birden kesilir, dua yoktur",
@@ -261,7 +280,8 @@
           "ku": "Bê dua qede dibe",
           "ckb": "بە شێوەیەکی ناگەڕاوە",
           "ar": "انقطاع بلا دعاء",
-          "ru": "Сура резко обрывается без просьб."
+          "ru": "Сура резко обрывается без просьб.",
+          "fr": "La sourate s'arrête brusquement sans supplication"
         },
         {
           "tr": "Sadece bir uyarı cümlesiyle, dua içermez",
@@ -273,7 +293,8 @@
           "ku": "Tenê girtin",
           "ckb": "تەنها ئاگادارکردنەوە",
           "ar": "تحذير فقط",
-          "ru": "Только предупредительное предложение, никакого дуа"
+          "ru": "Только предупредительное предложение, никакого дуа",
+          "fr": "Seulement une phrase d'avertissement, pas de dua"
         },
         {
           "tr": "Başka bir sureye geçiş cümlesiyle",
@@ -285,7 +306,8 @@
           "ku": "Bi derbasbûna sureyekê din",
           "ckb": "بە گواستنەوە بۆ سورەتێکی تر",
           "ar": "جسرٌ إلى سورةٍ أخرى",
-          "ru": "С переходом на другую суру"
+          "ru": "С переходом на другую суру",
+          "fr": "Avec une transition vers une autre sourate"
         }
       ],
       "correct": 0
@@ -302,7 +324,8 @@
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفق النص؟",
-        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?"
+        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -315,7 +338,8 @@
           "ku": "Domdarî ji bêkêmasî girîngtir",
           "ckb": "بەردەوامی لەسەر کامڵی",
           "ar": "الثباتُ أهمُّ من استعجالِ الكمال",
-          "ru": "В тексте предлагается стремиться к последовательности, а не к совершенству."
+          "ru": "В тексте предлагается стремиться к последовательности, а не к совершенству.",
+          "fr": "Le texte suggère de viser la cohérence plutôt que la perfection"
         },
         {
           "tr": "Metin, bir fazlayı gerektiğinde ertelemenin bazen daha fazla takva olabileceğini hatırlatır",
@@ -327,7 +351,8 @@
           "ku": "Şûndaxistina yek tiştî carinan takwa ye",
           "ckb": "دواخستنی کارێک زۆرجار تەقوای زیاترە",
           "ar": "تأجيل زائدةٍ قد يكون تقوى",
-          "ru": "В тексте говорится, что откладывание одной дополнительной задачи иногда может означать большую богобоязненность."
+          "ru": "В тексте говорится, что откладывание одной дополнительной задачи иногда может означать большую богобоязненность.",
+          "fr": "Le texte rappelle que reporter une tâche supplémentaire peut parfois signifier un plus grand taqwa"
         },
         {
           "tr": "Metin, Allah'ın her nefse daima gücünün çok üstünde yük yüklediğini kesin bildirir",
@@ -339,7 +364,8 @@
           "ku": "Dibêje Allah her dem barê zêde datîne ser nefşê",
           "ckb": "دەڵێت اللە هەمیشە بارێکی زۆر لەسەر دەکات لە توانا",
           "ar": "يقول إن الله يكلف دائماً فوق الطاقة",
-          "ru": "В тексте говорится, что Аллах всегда обременяет каждую душу сверх ее сил."
+          "ru": "В тексте говорится, что Аллах всегда обременяет каждую душу сверх ее сил.",
+          "fr": "Le texte déclare qu'Allah impose toujours à chaque âme un fardeau bien au-delà de ses forces."
         },
         {
           "tr": "Metin, yorgunluğu ve uzun günü ramazan bağlamında hatırlatır",
@@ -351,7 +377,8 @@
           "ku": "Zehmetî di Remezanê de",
           "ckb": "ماندوویی لە ڕەمەزان",
           "ar": "التعب في رمضان",
-          "ru": "В тексте упоминается усталость и долгие дни в контексте Рамадана."
+          "ru": "В тексте упоминается усталость и долгие дни в контексте Рамадана.",
+          "fr": "Le texte évoque la fatigue et les longues journées dans un contexte de Ramadan"
         }
       ],
       "correct": 2
@@ -367,6 +394,7 @@
     "ku": "Gotina \"bi qasî ku ez dikarim\" ne tembelî ye; ew naskirina sînorê ku Rebbê te ji te re danî ye. Ne hewce ye ku hûn xwe bi zorê derbas bikin - Ew efû dike.",
     "ckb": "«ئەوەی لە توانامدایە» تەنها تەمبەلێتی نییە — ناسینی سنووری پەروەردگارە.",
     "ar": "«بقدر طاقتي» ليس كسلًا؛ هو أن تعرف حدَّ ربك. ولستَ مُلزَمًا أن تتعدّاه — وهو غفورٌ.",
-    "ru": "Сказать «сколько смогу» — это не лень; это признание предела, который твой Господь установил для тебя. Вам не нужно заставлять себя преодолевать это — Он прощает."
+    "ru": "Сказать «сколько смогу» — это не лень; это признание предела, который твой Господь установил для тебя. Вам не нужно заставлять себя преодолевать это — Он прощает.",
+    "fr": "Dire « autant que je peux » n’est pas de la paresse ; c’est reconnaître la limite que votre Seigneur vous a fixée. Vous n’avez pas besoin de vous forcer à dépasser cela – Il pardonne."
   }
 }

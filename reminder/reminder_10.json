@@ -11,7 +11,8 @@
     "ku": "Serrastkirina Tengasiyan",
     "ckb": "بەرامبەر بوون لەگەڵ سەختییەکان",
     "ar": "التعامل مع الصعوبات",
-    "ru": "Как справиться с трудностями"
+    "ru": "Как справиться с трудностями",
+    "fr": "Faire face aux difficultés"
   },
   "content": {
     "tr": "Hayat zorluklardan arındırılmış bir yol değildir — zaten öyle olması da beklenmez. Zorluklar, bizim için bir sınav değil aynı zamanda bir yükseliş fırsatıdır.\n\nAllah Teâlâ bu gerçeği açıkça ortaya koyar:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**«Şüphesiz güçlükle birlikte bir kolaylık vardır; evet, güçlükle birlikte bir kolaylık vardır.»**\n*(İnşirâh 94:5-6)*\n\nAyetin iki kez tekrarlanması tesadüf değildir. Arapça'da \"el-usr\" (zorluk) belirli, \"yüsr\" (kolaylık) ise belirsiz gelir — bu da her zorluğun yanında birden fazla kolaylığın gizlendiğine işaret eder.\n\nPeygamberimiz ﷺ ise şöyle buyurdu:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n**«Müminin işi ne şaşılacak şeydir! İşlerinin tamamı onun için hayırdır.»**\n*(Müslim — Suheyb er-Rûmî r.a. rivayetiyle)*\n\nZorlukla karşılaştığında önce nefes al. Sonra sor: Bu beni ne öğretiyor? Allah bu kapıyı kapatırken hangi pencereyi açıyor?",
@@ -23,7 +24,8 @@
     "ku": "Jiyan rêyeke ku ji tengasiyan paqij e nîne — û jî ne tê xwestin. Zehmetî ne tenê îmtîhanek in; di heman demê de fersendên jibo bilindkirina me jî ne.\n\nAllah ê Bilind vê rastiyê bi eşkereyî dide zanîn:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**«Bi rastî bi zehmetiyê re hêsanî heye; erê, bi zehmetiyê re hêsanî heye.»**\n*(El-İnşirah 94:5-6)*\n\nDubarekirin ne tesaduf e. Di Erebî de «el-usr» (zehmetî) bi guhartvana diyar tê, lê «yüsr» (hêsanî) neyênderkirî ye — ev nîşan dide ku di nav her zehmetiyê de ji yek zêdetir hêsanî veşartî ye.\n\nPêxember ﷺ wiha ferman kir:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n**«Karê mirovê bawermend çi ecêb e! Hemû karên wî ji bo wî xêr in.»**\n*(Muslîm — ji Suheyb er-Rûmî ve hatiye şandin)*\n\nDema bi zehmetiyê re rûbirû dibî, pêşî nefes bigire. Paşê bipirse: Ev çi fêrî min dike? Allah dema vê deriyî digire, kîjan pencere vedike?",
     "ckb": "ژیان ڕێگایەکی خاوێن لە سەختی نییە — چاوەڕوانیشی نییە. سەختییەکان تەنها تاقیکردنەوەمان نین؛ هەروەها دەرفەتی بەرزبوونمانیش هەیە.\n\nاللەی بەرز ئەم ڕاستیانە بە ئاشکرایی دەگەیەنێت:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**«بە ڕاستی لەگەڵ سەختیدا ئاسانی هەیە؛ بەڵێ، لەگەڵ سەختیدا ئاسانی هەیە.»**\n*(ئەلئینشیراح: ٥-٦)*\n\nدووبارەکردنەوە هەڕەمەکی نییە. لە عەرەبیدا «ئەلعوسر» (سەختی) ئەلفی ناسایی هەیەتی بەڵام «یوسر» (ئاسانی) نەناسراوە — ئەمەش نیشان دەدات کە لە ناو هەر سەختییەکدا زیاتر لە یەک ئاسانی شاراوەیە.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n**«ئەمری باوەڕداری چەندە سەیرە! هەموو کارەکانی بۆی باشن.»**\n*(موسلیم — بە ڕێوایەتی سوهەیب ئەلڕومی)*\n\nکاتێک بە سەختییەک ڕووبەڕوو دەبیتەوە، پێشتر نەفەس بکێش. دواتریش بپرسە: ئەمە چی فێرم دەکات؟ کاتێک اللە ئەم دەرگایە دادەخات، کام پەنجەرە دەکاتەوە؟",
     "ar": "الحياةُ ليست طريقاً خالياً من الصعاب — ولا يُتوقع أن تكون كذلك. الصعوبات ليست اختباراً لنا وحسب، بل هي أيضاً فرصةٌ للارتقاء.\n\nيُبيِّن الله تعالى هذه الحقيقة بجلاء:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n*(الشرح: ٥-٦)*\n\nالتكرار ليس عبثاً. في العربية «العُسر» معرَّف و«يُسر» نكرة — مما يشير إلى أن مع كل عسرٍ يُسريْن.\n\nوقال النبيُّ ﷺ:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n*(رواه مسلم — عن صهيب الرومي رضي الله عنه)*\n\nحين تواجه صعوبةً، تنفَّس أولاً. ثم اسأل: ماذا يُعلِّمني هذا؟ وأيَّ نافذة يفتحها الله وهو يُغلق هذا الباب؟",
-    "ru": "Жизнь — это не путь, свободный от трудностей, и этого не ожидается. Трудности — это не только испытание для нас; они также являются возможностью для роста.\n\nАллах Всевышний ясно говорит об этой реальности:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ ِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**\"Ибо действительно, при тяготах будет легкость, истинно, при тяготах будет облегчение.\"**\n*(Аль-Иншира 94:5-6)*\n\nПовторение не случайно. В арабском языке «аль-уср» (трудность) имеет определенный артикль, а «йуср» (легкость) имеет неопределенный артикль, что указывает на то, что внутри каждой трудности скрыто более одного облегчения.\n\nПророк ﷺ сказал:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n**\"Дивно дело верующего: все дела его хороши для него\".**\n*(Муслим — передал Сухайб ар-Руми)*\n\nКогда вы сталкиваетесь с трудностью, сначала дышите. Затем спросите: чему это меня учит? Когда Аллах закрывает эту дверь, какое окно Он открывает?"
+    "ru": "Жизнь — это не путь, свободный от трудностей, и этого не ожидается. Трудности — это не только испытание для нас; они также являются возможностью для роста.\n\nАллах Всевышний ясно говорит об этой реальности:\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ ِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**\"Ибо действительно, при тяготах будет легкость, истинно, при тяготах будет облегчение.\"**\n*(Аль-Иншира 94:5-6)*\n\nПовторение не случайно. В арабском языке «аль-уср» (трудность) имеет определенный артикль, а «йуср» (легкость) имеет неопределенный артикль, что указывает на то, что внутри каждой трудности скрыто более одного облегчения.\n\nПророк ﷺ сказал:\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n**\"Дивно дело верующего: все дела его хороши для него\".**\n*(Муслим — передал Сухайб ар-Руми)*\n\nКогда вы сталкиваетесь с трудностью, сначала дышите. Затем спросите: чему это меня учит? Когда Аллах закрывает эту дверь, какое окно Он открывает?",
+    "fr": "La vie n’est pas un chemin sans difficultés – et on ne s’attend pas à ce qu’elle le soit. Les difficultés ne sont pas seulement une épreuve pour nous ; ils sont aussi une opportunité de croissance.\n\nAllah le Très-Haut énonce clairement cette réalité :\n\n**﴿فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا﴾**\n**\"Car en effet, dans les difficultés sera la facilité ; en effet, dans les difficultés sera la facilité.\"**\n*(Al-Inshirah 94 : 5-6)*\n\nLa répétition n’est pas une coïncidence. En arabe, « al-usr » (difficulté) porte l'article défini tandis que « yusr » (facilité) est indéfini – indiquant que dans chaque difficulté, plus d'une facilité est cachée.\n\nLe Prophète ﷺ a dit :\n\n**«عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ»**\n** \" L'affaire du croyant est merveilleuse : toutes ses affaires sont bonnes pour lui. \" **\n*(Musulman — rapporté par Suhayb ar-Rumi)*\n\nLorsque vous faites face à une difficulté, respirez d’abord. Demandez ensuite : qu’est-ce que cela m’apprend ? Alors qu’Allah ferme cette porte, quelle fenêtre ouvre-t-Il ?"
   },
   "quiz": [
     {
@@ -38,7 +40,8 @@
         "ku": "Di El-İnşirah 94:5-6 de bi zehmetiyê re çi dibe?",
         "ckb": "لە ئەلئینشیراح ٩٤:٥-٦دا چی دەڵێت لەگەڵ سەختیدا هێندە?",
         "ar": "ماذا يُذكر أنه يصاحب العسر في الآيتين ٥-٦ من سورة الشرح؟",
-        "ru": "Что говорится о трудностях в Аль-Иншира 94:5-6?"
+        "ru": "Что говорится о трудностях в Аль-Иншира 94:5-6?",
+        "fr": "Qu'est-ce qui accompagne les difficultés dans Al-Inshirah 94 : 5-6 ?"
       },
       "options": [
         {
@@ -51,7 +54,8 @@
           "ku": "Zehmetiyek bêtir",
           "ckb": "سەختییەکی زیاتر",
           "ar": "مزيد من العسر",
-          "ru": "Больше трудностей"
+          "ru": "Больше трудностей",
+          "fr": "Plus de difficultés"
         },
         {
           "tr": "Kolaylık / Rahatlık",
@@ -63,7 +67,8 @@
           "ku": "Hêsanî / Rehetî",
           "ckb": "ئاسانی / ئارامی",
           "ar": "اليُسر",
-          "ru": "Легкость/облегчение"
+          "ru": "Легкость/облегчение",
+          "fr": "Facilité / Soulagement"
         },
         {
           "tr": "Sabır",
@@ -75,7 +80,8 @@
           "ku": "Sebat",
           "ckb": "سەبر",
           "ar": "الصبر",
-          "ru": "Терпение"
+          "ru": "Терпение",
+          "fr": "Patience"
         },
         {
           "tr": "Bir uyarı",
@@ -87,7 +93,8 @@
           "ku": "Hişyariyekê",
           "ckb": "ئاگاداریکردنەوەیەک",
           "ar": "تحذير",
-          "ru": "Предупреждение"
+          "ru": "Предупреждение",
+          "fr": "Un avertissement"
         }
       ],
       "correct": 1
@@ -104,7 +111,8 @@
         "ku": "Hedîsa «Karê mirovê bawermend çi ecêb e!» ji kê re tê gotin?",
         "ckb": "حەدیسی «ئەمری باوەڕداری چەندە سەیرە!» بە کێ دەگەڕێتەوە؟",
         "ar": "إلى مَن يُنسب حديث «عجباً لأمر المؤمن»؟",
-        "ru": "Кому приписывают хадис «Дивное дело верующего»?"
+        "ru": "Кому приписывают хадис «Дивное дело верующего»?",
+        "fr": "À qui est attribué le hadith « L’affaire du croyant est merveilleuse » ?"
       },
       "options": [
         {
@@ -117,7 +125,8 @@
           "ku": "Ebû Hureyra r.a.",
           "ckb": "ئەبو هورەیرە",
           "ar": "أبو هريرة",
-          "ru": "Абу Хурайра"
+          "ru": "Абу Хурайра",
+          "fr": "Abou Hurayrah"
         },
         {
           "tr": "Hz. Suheyb er-Rûmî r.a.",
@@ -129,7 +138,8 @@
           "ku": "Suheyb er-Rûmî r.a.",
           "ckb": "سوهەیب ئەلڕومی",
           "ar": "صهيب الرومي",
-          "ru": "Сухайб ар-Руми"
+          "ru": "Сухайб ар-Руми",
+          "fr": "Suhayb ar-Rumi"
         },
         {
           "tr": "Hz. Enes b. Mâlik r.a.",
@@ -141,7 +151,8 @@
           "ku": "Enes b. Mâlik r.a.",
           "ckb": "ئەنەس بن مالیک",
           "ar": "أنس بن مالك",
-          "ru": "Анас ибн Малик"
+          "ru": "Анас ибн Малик",
+          "fr": "Anas ibn Malik"
         },
         {
           "tr": "Hz. Ömer r.a.",
@@ -153,7 +164,8 @@
           "ku": "Umer b. el-Xettab r.a.",
           "ckb": "عومەر بن خەتاب",
           "ar": "عمر بن الخطاب",
-          "ru": "Умар ибн аль-Хаттаб"
+          "ru": "Умар ибн аль-Хаттаб",
+          "fr": "Omar ibn al-Khattab"
         }
       ],
       "correct": 1
@@ -170,7 +182,8 @@
         "ku": "Di El-İnşirah de çima îfadeya «bi zehmetiyê re hêsanî heye» du caran tê dubarekirin?",
         "ckb": "بۆچی دەقەی «لەگەڵ سەختیدا ئاسانی هەیە» لە ئەلئینشیراحدا دوو جار دووبارە دەکرێتەوە؟",
         "ar": "لماذا تُكرَّر عبارة «مع العسر يُسر» مرتين في سورة الشرح؟",
-        "ru": "Почему фраза «За трудностями приходит облегчение» дважды повторяется в «Аль-Иншире»?"
+        "ru": "Почему фраза «За трудностями приходит облегчение» дважды повторяется в «Аль-Иншире»?",
+        "fr": "Pourquoi l'expression « avec les difficultés vient la facilité » est-elle répétée deux fois dans Al-Inshirah ?"
       },
       "options": [
         {
@@ -183,7 +196,8 @@
           "ku": "Ji bo hêsankirina jibêrkirinê",
           "ckb": "بۆ ئاسانکردنی لەبەرکردن",
           "ar": "لتسهيل الحفظ",
-          "ru": "Чтобы было легче запомнить"
+          "ru": "Чтобы было легче запомнить",
+          "fr": "Pour faciliter la mémorisation"
         },
         {
           "tr": "Her zorlukta birden fazla kolaylığın gizlendiğini vurgulamak için",
@@ -195,7 +209,8 @@
           "ku": "Ji bo xêzkirina ku di nav her zehmetiyê de ji yek zêdetir hêsanî heye",
           "ckb": "بۆ سەرنجدان کە لە ناو هەر سەختییەکدا زیاتر لە یەک ئاسانی شاراوەیە",
           "ar": "للتأكيد على أن مع كل عسر يُسريْن",
-          "ru": "Подчеркнуть, что внутри каждой трудности скрыто более одной легкости."
+          "ru": "Подчеркнуть, что внутри каждой трудности скрыто более одной легкости.",
+          "fr": "Souligner que dans chaque difficulté se cache plus d’une facilité"
         },
         {
           "tr": "Kur'an'ın özgün yazım biçimi olduğu için",
@@ -207,7 +222,8 @@
           "ku": "Çimkî ew şêwaza bingehîn a Quranê ye",
           "ckb": "چونکە ئەمە شێوازی بنەڕەتی قورئانەکەیە",
           "ar": "لأنه أسلوب القرآن الأصلي",
-          "ru": "Потому что это оригинальный стиль Корана."
+          "ru": "Потому что это оригинальный стиль Корана.",
+          "fr": "Parce que c'est le style original du Coran"
         },
         {
           "tr": "İki ayrı kolaylığa işaret etmek için",
@@ -219,7 +235,8 @@
           "ku": "Ji bo nîşandana du hêsaniyên cuda",
           "ckb": "بۆ ئامانجکردنی دوو ئاسانی جیاواز",
           "ar": "للإشارة إلى يُسريْن مستقلَّين",
-          "ru": "Чтобы указать на две отдельные легкости"
+          "ru": "Чтобы указать на две отдельные легкости",
+          "fr": "Pour pointer vers deux facilités distinctes"
         }
       ],
       "correct": 1
@@ -236,7 +253,8 @@
         "ku": "Sûreta El-İnşirah ya çendê ya Quranê ye?",
         "ckb": "سورەتی ئەلئینشیراح چەندەمین سورەتی قورئانەکەیە؟",
         "ar": "ما رقم سورة الشرح في القرآن الكريم؟",
-        "ru": "Какого числа сура «Аль-Иншира» в Коране?"
+        "ru": "Какого числа сура «Аль-Иншира» в Коране?",
+        "fr": "Quel numéro est la sourate Al-Inshirah dans le Coran ?"
       },
       "options": [
         {
@@ -249,7 +267,8 @@
           "ku": "90",
           "ckb": "٩٠",
           "ar": "٩٠",
-          "ru": "90"
+          "ru": "90",
+          "fr": "90"
         },
         {
           "tr": "92",
@@ -261,7 +280,8 @@
           "ku": "92",
           "ckb": "٩٢",
           "ar": "٩٢",
-          "ru": "92"
+          "ru": "92",
+          "fr": "92"
         },
         {
           "tr": "94",
@@ -273,7 +293,8 @@
           "ku": "94",
           "ckb": "٩٤",
           "ar": "٩٤",
-          "ru": "94"
+          "ru": "94",
+          "fr": "94"
         },
         {
           "tr": "96",
@@ -285,7 +306,8 @@
           "ku": "96",
           "ckb": "٩٦",
           "ar": "٩٦",
-          "ru": "96"
+          "ru": "96",
+          "fr": "96"
         }
       ],
       "correct": 2
@@ -302,7 +324,8 @@
         "ku": "Li gorî hedîsê, çima hemû karên mirovê bawermend ji bo wî xêr in?",
         "ckb": "بەپێی حەدیسەکە، بۆچی هەموو کارەکانی باوەڕداری بۆی باشن؟",
         "ar": "لماذا كل أمور المؤمن خير له وفق الحديث؟",
-        "ru": "Согласно хадису, почему все дела верующего хороши для него?"
+        "ru": "Согласно хадису, почему все дела верующего хороши для него?",
+        "fr": "Selon le hadith, pourquoi toutes les affaires du croyant sont-elles bonnes pour lui ?"
       },
       "options": [
         {
@@ -315,7 +338,8 @@
           "ku": "Çimkî bawermendan xeletiyan nakin",
           "ckb": "چونکە باوەڕداران هەڵە ناکەن",
           "ar": "لأن المؤمنين لا يخطئون",
-          "ru": "Потому что верующие не совершают ошибок"
+          "ru": "Потому что верующие не совершают ошибок",
+          "fr": "Parce que les croyants ne font pas d'erreurs"
         },
         {
           "tr": "Çünkü iyilik de sıkıntı da Allah'a şükür ve sabırla hayra dönüşür",
@@ -327,7 +351,8 @@
           "ku": "Çimkî hem xêr hem jî tengasî bi şikir û sebatê ber bi Allahî ve diguhere xêrê",
           "ckb": "چونکە هەم باشی هەم سەختی بە شوکر و سەبر بەرەو اللە دەگۆڕدرێن بۆ باشی",
           "ar": "لأن النعمة والشدة كلتيهما تتحول إلى خير بالشكر والصبر",
-          "ru": "Потому что и блага, и невзгоды превращаются в благо благодаря благодарности и терпению по отношению к Аллаху."
+          "ru": "Потому что и блага, и невзгоды превращаются в благо благодаря благодарности и терпению по отношению к Аллаху.",
+          "fr": "Parce que les bénédictions et les difficultés se transforment en bien grâce à la gratitude et à la patience envers Allah."
         },
         {
           "tr": "Çünkü müminler Allah'ın özel koruması altındadır",
@@ -339,7 +364,8 @@
           "ku": "Çimkî bawermendan di bin parastina taybetî ya Allahî de ne",
           "ckb": "چونکە باوەڕداران لە ژێر پاراستنی تایبەتی اللەداین",
           "ar": "لأن المؤمنين تحت حماية الله الخاصة",
-          "ru": "Потому что верующие находятся под особой защитой Аллаха"
+          "ru": "Потому что верующие находятся под особой защитой Аллаха",
+          "fr": "Parce que les croyants sont sous la protection particulière d'Allah"
         },
         {
           "tr": "Çünkü müminler cennete gidecek",
@@ -351,7 +377,8 @@
           "ku": "Çimkî bawermendan dê biçin bihiştê",
           "ckb": "چونکە باوەڕداران دەچنە بەهەشت",
           "ar": "لأن المؤمنين سيدخلون الجنة",
-          "ru": "Потому что верующие попадут в рай"
+          "ru": "Потому что верующие попадут в рай",
+          "fr": "Parce que les croyants iront au paradis"
         }
       ],
       "correct": 1
@@ -367,6 +394,7 @@
     "ku": "Niha di jiyana te de tiştê ku herî zêde te îmtihan dike çi ye? Têkiliyeke, kar, pirsgirêkek tenduristî, nezelalbûn? Ew zehmetî çiqas giran xuya bike, bîra peyva «mea» bike — «bi». Hêsanî ne piştî zehmetiyê tê — bi kêleka wê tê. Belkî ew hêsanî hîn xuya nake — lê ew li wir e.",
     "ckb": "ئێستا لە ژیانتدا ئەوەی کە زیاتریت تاقی دەکاتەوە چییە؟ پەیوەندییەک، کار، کێشەی تەندروستی، نادیاری؟ ئەو سەختییە چەندە قورس دیاردەکات، بیری وشەی «مەعَ» بکەرەوە — «لەگەڵ». ئاسانی دوای سەختی نانێت — لەگەڵ دانێت. ئەگەر ئەو ئاسانییە هێشتا دیار نییە — بەڵام ئەوێیە.",
     "ar": "ما الذي يُثقل كاهلك أكثر في حياتك الآن؟ علاقة، أم عمل، أم مشكلة صحية، أم ضبابية؟ مهما بدا ذلك العسر ثقيلاً، تذكَّر كلمة «مع» — فالله لم يقل «بعد العسر يُسر»، بل «مع العسر يُسر». ربما لا يظهر ذلك اليُسر بعد — لكنه موجود.",
-    "ru": "Что сейчас больше всего бросает вам вызов в жизни? Отношения, работа, проблемы со здоровьем, неопределённость? Какой бы тяжелой ни казалась эта трудность, помните слово «маа» — «с». Легкость не приходит после трудностей, она приходит вместе с ними. Возможно, этой легкости пока не видно — но она есть."
+    "ru": "Что сейчас больше всего бросает вам вызов в жизни? Отношения, работа, проблемы со здоровьем, неопределённость? Какой бы тяжелой ни казалась эта трудность, помните слово «маа» — «с». Легкость не приходит после трудностей, она приходит вместе с ними. Возможно, этой легкости пока не видно — но она есть.",
+    "fr": "Qu’est-ce qui vous défie le plus dans votre vie en ce moment ? Une relation, un travail, un problème de santé, une incertitude ? Aussi lourde que puisse paraître cette difficulté, souvenez-vous du mot « ma'a » – « avec ». La facilité ne vient pas après les difficultés, elle vient à leurs côtés. Peut-être que cette facilité n’est pas encore visible – mais elle est là."
   }
 }

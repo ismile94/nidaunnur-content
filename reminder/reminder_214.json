@@ -11,7 +11,8 @@
     "ku": "Şiyana Empatiyê",
     "ckb": "توانای هەمدەمی",
     "ar": "مَهَارَةُ التَّعَاطُفِ",
-    "ru": "Способность сопереживать"
+    "ru": "Способность сопереживать",
+    "fr": "La capacité de faire preuve d'empathie"
   },
   "content": {
     "tr": "Empati; karşı tarafı dinlemeden hüküm vermek veya her duruma «ben olsam kesinlikle böyle yapardım» diye dayatmak değil — öfkeyi yumuşatan bir kalp, kardeşi için kendisinin istediğini istemek ve ihtiyaç varken başkasını kendine tercih edebilmektir.\n\nPeygamberimiz ﷺ şöyle buyurur:\n\n**«لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»** — **«Sizden biriniz, kardeşi için kendisinin sevdiğini sevmedikçe gerçek anlamda iman etmiş olmaz.»**\n*(Buhârî, Müslim — rivayet zinciri özetle)*\n\nAllah Teâlâ öfkesini yutan ve affedenleri över:\n\n**﴿وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n**«Öfkelerini yutan, insanları affeden kimselerdir; Allah iyilik edenleri sever.»**\n*(Âl-i İmrân 3:134 — meâl özü)*\n\nİhtiyaç varken başkasını öne almanın da örneği vardır:\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**«Kendilerinde ihtiyaç olsa bile önce başkalarını düşünürler...»**\n*(Haşr 59:9 — meâl özü)*\n\nBugün: bir soruyu merakla dinlemek — Âl-i İmrân 3:134 ve Haşr 59:9: empati, yargıda değil; dinlemede ve kardeşe iyi dilekte büyür.",
@@ -23,7 +24,8 @@
     "ku": "Empatî ne ew e ku bêyî guhdarîkirin û israrkirina \"ger ez li şûna we bûm ez ê her gav vî karî bikira\" - ew dil e ku hêrsê nerm dike, tiştê ku meriv ji xwe re dixwaze ji birayê xwe re bixwaze û gava hewcedar be jî yekî din tercîh dike.\n\nPêxember ﷺ gotiye:\n\n**\"Tu kes ji we bi rastî bawer nake, heya ku ji bo birayê xwe ji tiştê ku ji bo xwe hez dike hez neke.\"**\n*(El-Buxarî, Muslim - zincîre bi kurtî)*\n\nXweda pesnê wan kesên ku hêrsê dadiqurtînin û efû dikin dike:\n\n**Yên ku hêrsê ditemirînin û ji mirovan diborînin û Xwedê ji qenciyan hez dike.\n*(Alî Îmran 3:134 - bi kurtî)*\n\nMînaka tercîhkirina kesên din dema ku hewcedar in jî heye:\n\n**﴿Ew wana li ser xwe dipejirînin, her çiqas hewcedar bin jî.\n*(El-Heşr 59:9 - bi kurtî)*\n\nÎro: bi meraq li pirsekê guhdarî bikin - Ali Imran 3:134 û Al-Hashr 59:9: empatî di guhdarîkirin û qenciya li hember kesên din, ne di dadkirinê de mezin dibe.",
     "ckb": "هەمدەمی واتای دادگەری بە بێ گوێگرتن یان سەپاندنی «ئەگەر من بوومایە» نییە — بەڵکوو دڵێکە تووڕەیی تێدا نەرم دەبێتەوە، بۆ برای خۆی ئەوەی خۆی دەوێت دەوێت و لە کاتی پێویستیشدا کەسێکی تر لە خۆی پێشتر دەکات.\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه»**\n*(بوخاری، موسلیم)*\n\n**﴿وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ﴾**\n*(ئالی عمران: ١٣٤)*\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n*(حەشر: ٩)*\n\nئەمڕۆ: پرسیارێک بە حەز و سەرنجامێکی ڕاستەقینە ببیستەوە — عمران ١٣٤ و حەشر ٩: هەمدەمی لە گوێگرتن و چاکخوازی بۆ کەسەکاندا گەشە دەکات نەک لە حوکمداندا.",
     "ar": "التعاطفُ ليس حكماً بلا استماع ولا إلزاماً بقول «لو كنت مكانك لفعلت كذا» — إنما قلبٌ يريقُ الغضب، ومحبةٌ للأخ ما يحبُّ لنفسه، وإيثارٌ لغيره مع الحاجة.\n\nقال النبي ﷺ:\n\n**«لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه»**\n*(متفق عليه)*\n\nوقال الله تعالى:\n\n**﴿وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾**\n*(آل عمران: ١٣٤)*\n\n**﴿وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n*(الحشر: ٩)*\n\nاليوم: استمعْ سؤالاً بصدقٍ فضولٍ — آل عمران ١٣٤ والحشر ٩: التعاطفُ ينمو بالاستماع والإحسان لا بالقضاء السريع.",
-    "ru": "Сочувствие – это не суждение, не выслушав, и не настаивание «на твоем месте я бы всегда так делал» – это сердце, которое смягчает гнев, желая своему брату того, чего желаешь себе, и предпочитая другого, даже когда он в нужде.\n\nПророк ﷺ сказал:\n\n**\"Никто из вас не уверует по-настоящему, пока не возлюбит для брата своего то, что любит для себя\".**\n*(Аль-Бухари, Муслим — краткое изложение цепочки)*\n\nАллах хвалит тех, кто проглатывает гнев и прощает:\n\n**﴿которые сдерживают гнев и прощают людей – а Аллах любит делающих добро﴾**\n*(Али Имран 3:134 — смысл краткое)*\n\nЕсть также пример предпочтения других, когда они в нужде:\n\n**﴿Они отдают [им] предпочтение перед собой, даже если они в нужде﴾**\n*(Аль-Хашр 59:9 — смысл краткое)*\n\nСегодня: с любопытством послушайте один вопрос — Али Имран 3:134 и Аль-Хашр 59:9: сочувствие растет в слушании и доброжелательности по отношению к другим, а не в осуждении."
+    "ru": "Сочувствие – это не суждение, не выслушав, и не настаивание «на твоем месте я бы всегда так делал» – это сердце, которое смягчает гнев, желая своему брату того, чего желаешь себе, и предпочитая другого, даже когда он в нужде.\n\nПророк ﷺ сказал:\n\n**\"Никто из вас не уверует по-настоящему, пока не возлюбит для брата своего то, что любит для себя\".**\n*(Аль-Бухари, Муслим — краткое изложение цепочки)*\n\nАллах хвалит тех, кто проглатывает гнев и прощает:\n\n**﴿которые сдерживают гнев и прощают людей – а Аллах любит делающих добро﴾**\n*(Али Имран 3:134 — смысл краткое)*\n\nЕсть также пример предпочтения других, когда они в нужде:\n\n**﴿Они отдают [им] предпочтение перед собой, даже если они в нужде﴾**\n*(Аль-Хашр 59:9 — смысл краткое)*\n\nСегодня: с любопытством послушайте один вопрос — Али Имран 3:134 и Аль-Хашр 59:9: сочувствие растет в слушании и доброжелательности по отношению к другим, а не в осуждении.",
+    "fr": "L'empathie, ce n'est pas juger sans écouter ou insister : « si j'étais toi, je ferais toujours ça » : c'est un cœur qui adoucit la colère, souhaiter pour son frère ce qu'on souhaite pour soi-même et en préférer un autre même lorsqu'on en a besoin.\n\nLe Prophète ﷺ a dit :\n\n**\"Aucun de vous ne croit vraiment tant qu'il n'aime pas pour son frère ce qu'il aime pour lui-même.\"**\n*(Al-Bukhari, Muslim — résumé de la chaîne)*\n\nAllah loue ceux qui ravalent la colère et le pardon :\n\n**﴿qui retiennent la colère et pardonnent aux gens – et Allah aime ceux qui font le bien﴾**\n*(Ali Imran 3:134 — signifiant résumé)*\n\nIl y a aussi l’exemple de la préférence aux autres lorsqu’on en a besoin :\n\n**﴿Ils [leur] donnent la préférence sur eux-mêmes, même s'ils sont dans le besoin﴾**\n*(Al-Hashr 59 : 9 — signifiant résumé)*\n\nAujourd'hui : écoutez une question avec curiosité — Ali Imran 3 :134 et Al-Hashr 59 :9 : l'empathie grandit dans l'écoute et la bonne volonté envers les autres, pas dans le jugement."
   },
   "quiz": [
     {
@@ -38,7 +40,8 @@
         "ku": "Gotina «pêşîyê xwe didin kesên din dema ku hewce jî heye» di kîjan sureyê de ye?",
         "ckb": "«کەسانی تر لەسەر خۆیانەوە پێش دەکەن هەرچەند پێویستی خۆیان هەبێت» لە کام سورەتدایە؟",
         "ar": "في أي سورة ﴿ويؤثرون على أنفسهم ولو كان بهم خصاصة﴾؟",
-        "ru": "В какой суре появляется аят о предпочтении других, даже когда они в нужде?"
+        "ru": "В какой суре появляется аят о предпочтении других, даже когда они в нужде?",
+        "fr": "Dans quelle sourate apparaît le verset sur la préférence aux autres même en cas de besoin ?"
       },
       "options": [
         {
@@ -51,7 +54,8 @@
           "ku": "Haşr",
           "ckb": "حەشر",
           "ar": "الحشر",
-          "ru": "Аль-Хашр"
+          "ru": "Аль-Хашр",
+          "fr": "Al-Hashr"
         },
         {
           "tr": "Felak",
@@ -63,7 +67,8 @@
           "ku": "Feleq",
           "ckb": "فەڵەق",
           "ar": "الفلق",
-          "ru": "Аль-Фалак"
+          "ru": "Аль-Фалак",
+          "fr": "Al-Falaq"
         },
         {
           "tr": "Nâs",
@@ -75,7 +80,8 @@
           "ku": "Nas",
           "ckb": "ناس",
           "ar": "الناس",
-          "ru": "Ан-Нас"
+          "ru": "Ан-Нас",
+          "fr": "An-Nas"
         },
         {
           "tr": "Tekâsür",
@@ -87,7 +93,8 @@
           "ku": "Tekasûr",
           "ckb": "تەکاسور",
           "ar": "التكاثر",
-          "ru": "Ат-Такатур"
+          "ru": "Ат-Такатур",
+          "fr": "At-Takathur"
         }
       ],
       "correct": 0
@@ -104,7 +111,8 @@
         "ku": "Li gorî nivîsê Îmrân 3:134 Allah kî hez dike?",
         "ckb": "بەپێی دەقەکە عمران ١٣٤ اللە کێ خۆش دەوێت؟",
         "ar": "من يحبهم الله في آل عمران ١٣٤ وفق النص؟",
-        "ru": "Согласно тексту, кого Али Имран 3:134 говорит, что Аллах любит?"
+        "ru": "Согласно тексту, кого Али Имран 3:134 говорит, что Аллах любит?",
+        "fr": "D'après le texte, qui, selon Ali Imran 3 : 134, Allah aime-t-il ?"
       },
       "options": [
         {
@@ -117,7 +125,8 @@
           "ku": "Kesên başî dikin",
           "ckb": "چاکەکاران",
           "ar": "المُحْسِنِينَ",
-          "ru": "Те, кто делает добро (мухсинун)"
+          "ru": "Те, кто делает добро (мухсинун)",
+          "fr": "Ceux qui font le bien (muhsinun)"
         },
         {
           "tr": "Sadece yalancıları",
@@ -129,7 +138,8 @@
           "ku": "Tenê derewan",
           "ckb": "تەنها درۆزنەکان",
           "ar": "الكاذبين فقط",
-          "ru": "Только лжецы"
+          "ru": "Только лжецы",
+          "fr": "Seulement des menteurs"
         },
         {
           "tr": "Sadece kıskançları",
@@ -141,7 +151,8 @@
           "ku": "Tenê çavnebar",
           "ckb": "تەنها چاوبرسیەکان",
           "ar": "الحاسدين فقط",
-          "ru": "Только завистники"
+          "ru": "Только завистники",
+          "fr": "Seuls les envieux"
         },
         {
           "tr": "Sadece haram yiyenleri",
@@ -153,7 +164,8 @@
           "ku": "Tenê kesên qedexe xwarin",
           "ckb": "تەنها ئەوانەی حەرام دەخوەن",
           "ar": "آكلي الحرام فقط",
-          "ru": "Только те, кто ест запретное"
+          "ru": "Только те, кто ест запретное",
+          "fr": "Seulement ceux qui mangent l'interdit"
         }
       ],
       "correct": 0
@@ -170,7 +182,8 @@
         "ku": "Hedîsa hezkirina ji bo birayê wek ji bo xwe di kîjan kitêban de ye?",
         "ckb": "حەدیسی خۆشەوێستنی بۆ براکە وەک خۆی لە کام کتێبەکاندا هەیە؟",
         "ar": "في أي كتب يوجد حديث «يحب لأخيه ما يحب لنفسه»؟",
-        "ru": "В каких сборниках найден хадис о том, что любишь для брата то, что любишь для себя?"
+        "ru": "В каких сборниках найден хадис о том, что любишь для брата то, что любишь для себя?",
+        "fr": "Dans quels recueils se trouve le hadith sur l'amour pour son frère ce qu'on aime pour soi-même ?"
       },
       "options": [
         {
@@ -183,7 +196,8 @@
           "ku": "Buxarî û Muslîm",
           "ckb": "بوخاری و موسلیم",
           "ar": "البخاري ومسلم",
-          "ru": "Бухари и Муслим"
+          "ru": "Бухари и Муслим",
+          "fr": "Boukhari et Muslim"
         },
         {
           "tr": "Sadece Muvatta",
@@ -195,7 +209,8 @@
           "ku": "Tenê Muwetta",
           "ckb": "تەنها موەتتا",
           "ar": "الموطأ فقط",
-          "ru": "Только Муватта"
+          "ru": "Только Муватта",
+          "fr": "Seulement Muwatta"
         },
         {
           "tr": "Sadece Nesâî",
@@ -207,7 +222,8 @@
           "ku": "Tenê Nesai",
           "ckb": "تەنها نەسائی",
           "ar": "النسائي فقط",
-          "ru": "Только ан-Насаи"
+          "ru": "Только ан-Насаи",
+          "fr": "Seulement al-Nasa'i"
         },
         {
           "tr": "Sadece İbn Mâce",
@@ -219,7 +235,8 @@
           "ku": "Tenê Îbn Mace",
           "ckb": "تەنها ئیبن ماجە",
           "ar": "ابن ماجه فقط",
-          "ru": "Только Ибн Маджа"
+          "ru": "Только Ибн Маджа",
+          "fr": "Seulement Ibn Majah"
         }
       ],
       "correct": 0
@@ -236,7 +253,8 @@
         "ku": "Li gorî nivîsê Îmrân 3:134 kî li ser hêrsê bilind dike?",
         "ckb": "بەپێی دەقەکە عمران ١٣٤ کێ لەسەر تووڕەیی بەرز دەکاتەوە؟",
         "ar": "من يبرز آل عمران ١٣٤ في الغضب وفق النص؟",
-        "ru": "Согласно тексту, кого Али Имран 3:134 выделяет в отношении гнева?"
+        "ru": "Согласно тексту, кого Али Имран 3:134 выделяет в отношении гнева?",
+        "fr": "Selon le texte, qui Ali Imran 3:134 met-il en évidence concernant la colère ?"
       },
       "options": [
         {
@@ -249,7 +267,8 @@
           "ku": "Kesên hêrsê digirin",
           "ckb": "ئەوانەی تووڕەیی دەگرنەوە",
           "ar": "الكاظمين للغيظ",
-          "ru": "Те, кто сдерживает гнев"
+          "ru": "Те, кто сдерживает гнев",
+          "fr": "Ceux qui retiennent la colère"
         },
         {
           "tr": "Öfkeyi körükleyenleri",
@@ -261,7 +280,8 @@
           "ku": "Kesên hêrsê şûndekin",
           "ckb": "ئەوانەی تووڕەیی توند دەکەنەوە",
           "ar": "مؤججي الغضب",
-          "ru": "Те, кто разжигает гнев"
+          "ru": "Те, кто разжигает гнев",
+          "fr": "Ceux qui alimentent la colère"
         },
         {
           "tr": "Sadece dış görünüşü",
@@ -273,7 +293,8 @@
           "ku": "Tenê derî",
           "ckb": "تەنها ڕووخسار",
           "ar": "المظهر فقط",
-          "ru": "Только внешний вид"
+          "ru": "Только внешний вид",
+          "fr": "Uniquement l'apparence extérieure"
         },
         {
           "tr": "Sadece mal biriktirenleri",
@@ -285,7 +306,8 @@
           "ku": "Tenê komker",
           "ckb": "تەنها کۆکەرەوەکان",
           "ar": "المكنزون فقط",
-          "ru": "Только те, кто копит богатство"
+          "ru": "Только те, кто копит богатство",
+          "fr": "Seuls ceux qui accumulent des richesses"
         }
       ],
       "correct": 0
@@ -302,7 +324,8 @@
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
-        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?"
+        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -315,7 +338,8 @@
           "ku": "Empatî pêwîstî bi piçûkkirin û biçûk dîtinê ji kesên din heye",
           "ckb": "هەمدەمی پێویستی بە بچووککردنەوە و سووککردنەوەی کەسانی تر هەیە",
           "ar": "التعاطف يقتضي احتقار الناس واستصغارهم",
-          "ru": "Эмпатия требует унижения и презрения других."
+          "ru": "Эмпатия требует унижения и презрения других.",
+          "fr": "L'empathie nécessite de rabaisser et de mépriser les autres"
         },
         {
           "tr": "Hadis kardeş için kendine duyduğun sevgiyi istemeyi anlatır",
@@ -327,7 +351,8 @@
           "ku": "Hedîs ji bo birayê wek ji bo xwe dixwazî radike",
           "ckb": "حەدیس دەڵێت بۆ براکەت ئەوەی خۆت دەوێت بیەوێت",
           "ar": "الحديث يقرّب محبة الأخ كمحبة النفس",
-          "ru": "В хадисе говорится о желании своему брату того, чего желаешь себе."
+          "ru": "В хадисе говорится о желании своему брату того, чего желаешь себе.",
+          "fr": "Le hadith parle de souhaiter pour son frère ce qu'on souhaite pour soi-même"
         },
         {
           "tr": "Haşr 59:9 ihtiyaç varken başkasını öne almayı örnekler",
@@ -339,7 +364,8 @@
           "ku": "Haşr 59:9 mînak e ku kesê din pêşîyê xwe dide dema hewce",
           "ckb": "حەشر ٩ نموونەی پێشخستنی کەسێکە لە کاتی پێویستیدا",
           "ar": "الحشر ٩ يمثل الإيثار مع الحاجة",
-          "ru": "Аль-Хашр 59:9 иллюстрирует предпочтение другого, когда он в нужде."
+          "ru": "Аль-Хашр 59:9 иллюстрирует предпочтение другого, когда он в нужде.",
+          "fr": "Al-Hashr 59 : 9 illustre le fait de préférer un autre en cas de besoin."
         },
         {
           "tr": "Âl-i İmrân 3:134 affedenleri sever",
@@ -351,7 +377,8 @@
           "ku": "Îmrân 3:134 ji lêborînan hez dike dibêje",
           "ckb": "عمران ١٣٤ دەڵێت اللە خۆشەوێستی لێبوردەکان دەکات",
           "ar": "آل عمران ١٣٤ يقرن المحبة بالعافين",
-          "ru": "В Али Имране 3:134 упоминается, что Аллах любит тех, кто прощает."
+          "ru": "В Али Имране 3:134 упоминается, что Аллах любит тех, кто прощает.",
+          "fr": "Ali Imran 3 : 134 mentionne qu'Allah aime ceux qui pardonnent"
         }
       ],
       "correct": 0
@@ -367,6 +394,7 @@
     "ku": "Pirsek îro bi Ali Imran 3:134 ve girêbide û yek jî guhdarîkirina Al-Hashr 59:9 - empatî di guhdana meraqê de, ne di dadkirinê de mezin dibe.",
     "ckb": "ئەمڕۆ پرسیارێک بە عمران ١٣٤ەوە و گوێگرتنێک بە حەشر ٩ەوە بەستەوە — هەمدەمی لە گوێگرتنی سەرنجامدا ناگەشێتەوە.",
     "ar": "اليوم اربطْ سؤالاً بآل عمران ١٣٤ واستماعًا بالحشر ٩ — التعاطفُ بالإنصات لا بالحكم السريع.",
-    "ru": "Свяжите сегодня один вопрос с Али Имраном 3:134 и один момент слушания с Аль-Хашр 59:9 — сочувствие растет в любопытном слушании, а не в осуждении."
+    "ru": "Свяжите сегодня один вопрос с Али Имраном 3:134 и один момент слушания с Аль-Хашр 59:9 — сочувствие растет в любопытном слушании, а не в осуждении.",
+    "fr": "Reliez aujourd'hui une question à Ali Imran 3 : 134 et un moment d'écoute à Al-Hashr 59 : 9 : l'empathie grandit dans l'écoute curieuse, et non dans le jugement."
   }
 }

@@ -11,7 +11,8 @@
     "ku": "Alîkariya Zikrê",
     "ckb": "بهێنانی ئاداتی زیکر",
     "ar": "اكْتِسَابُ عَادَةِ الذِّكْرِ",
-    "ru": "Выработка привычки к зикру"
+    "ru": "Выработка привычки к зикру",
+    "fr": "Construire l'habitude du Dhikr"
   },
   "content": {
     "tr": "Zikir alışkanlığı; sadece tesbih çevirmek veya rakam yarışına girmek değil — dilin kalbi Allah'ın isimleriyle tazelemek, unutunca hatırlatmak ve boş anları O'na teslim etmektir. Alışkanlık, bir gecede oluşmaz; aynı kapıdan her gün geçmek gibidir.\n\nAllah Teâlâ sık zikri emreder:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n**«Ey iman edenler! Allah'ı çokça anın; sabah akşam O'nu tesbih edin.»**\n*(Ahzâb 33:41-42)*\n\nKalbin huzuru da zikre bağlanır:\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n**«Bilin ki kalpler ancak Allah'ı anmakla huzura erer.»**\n*(Ra'd 13:28)*\n\nPeygamberimiz ﷺ unutkanlığa karşı pratik hatırlatır:\n\n**«قُلْ: رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَأَنْتَ خَيْرُ الرَّاحِمِينَ»** — **«Rabbim beni bağışla, bana merhamet et; Sen merhamet edenlerin en hayırlısısın»** de.\n*(Tirmizî, «Daavât» — İbn Mes'ûd r.a.; Tirmizî «hasen sahih» demiştir.)*\n\nBaşka bir rivayette zikir yapan ile yapmayanın durumu benzetilir — kalp ya O'nunla doludur ya boşluğa açılır.\n\nBugün zikir alışkanlığı: sabah bir «Subhânallâhi ve bi hamdih», iş arası bir istiğfar, yatarken bir «Allâhumme bismike...» — küçük tekrarlar, büyük sadakat toplar.",
@@ -23,7 +24,8 @@
     "ku": "Çêkirina adetên zikirê ne tenê zivirîna mişkan an hevrikiya di hejmaran de ye - ew e ku dil bi navên Xwedê teze bike, dema ku hûn ji bîr bikin bi bîr bînin û kêliyên bêkariyê bidin wî. Adet di şevekê de çê nabe; mîna ku her roj di heman derî re derbas bibe.\n\nXuda Teala emrê pir zikir dike:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**.\n**\"Gelî bawermendan, Xwedê bi pir zikir bikin û sibe û êvarê bilind bikin.\"**\n*(Ehzab 33:41-42)*\n\nBêhna dil bi zikrê ve girêdayî ye:\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n**\"Bêguman bi bîranîna Xwedê dil rihet dibin.\"**\n*(Er-Ra'd 13:28)*\n\nHz.\n\n** Bibêje: \"Xwedayê min, li min bibore û li min were rehmê û tu herî qencê dilovan î.\"**\n*(Et-Tirmizî, \"Dua\" - Ibn Mes'ud; ji hêla Tirmizî ve hesen sehîh nirxand.)*\n\nAdetên zikrê yên îroyîn: Sibehê yek «subhanAllahî we bihemdîh», di navbera karan de îstighfar, du'a dema razanê - dûbarekirina piçûk wefadariyek mezin berhev dike.",
     "ckb": "بهێنانی ئاداتی زیکر تەنها گەڕاندنەوەی تەسبیح یان پێشبڕکێ لە ژماردن نییە — بەڵکوو نوێکردنەوەی دڵ بە ناوەکانی اللە، بیرخستنەوە کاتێک لەبیر دەکەیت و سپاردنی کاتە بەتاڵەکان بە ئەو. ئادات لە یەک شەودا دروست نابێت.\n\nاللە دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n*(احزاب: ٤١-٤٢)*\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n*(رەعد: ٢٨)*\n\nپێغەمبەر ﷺ دەفەرموێت کاتێک لەبیر دەکەیت بڵێ:\n\n**«رب اغفر لي وارحمني وأنت خير الراحمين»**\n*(تیڕمیزی — حەسەن سەحیح)*\n\nئەمڕۆ ئاداتێکی زیکر: بەیانی «سبحان الله وبحمده»، لە نێوان کارەکاندا ئیستیغفار، پێش خەوتن دوعایەک — دووبارەبوونەوەی بچووک، وەفای گەورە کۆدەکاتەوە.",
     "ar": "اكتسابُ عادةِ الذكر ليس تقليبَ السُّبْحَةِ ولا مباراةَ عددٍ — إنما هو تجديدُ القلبِ بأسماءِ الله، وتذكيرُ النفسِ عند الغفلة، وتسليمُ الفراغِ إليه. العادةُ لا تُبنى ليلةً؛ كمَرورِك ببابٍ واحدٍ كلَّ يومٍ.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n*(الأحزاب: ٤١-٤٢)*\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n*(الرعد: ٢٨)*\n\nوقال النبي ﷺ لابن مسعود:\n\n**«قل: رب اغفر لي وارحمني وأنت خير الراحمين»**\n*(رواه الترمذي في «الدعوات» — وقال: حسن صحيح)*\n\nاليوم عادةٌ: «سبحان الله وبحمده» عند الصباحِ، واستغفارٌ بين العملِ، ودعاءٌ عند النومِ — القليلُ المُتَكَرِّرُ يجمعُ وفاءً كبيراً.",
-    "ru": "Формирование привычки к зикру — это не только переворачивание четок или соревнование в количестве — это освежение сердца именами Аллаха, напоминание, когда вы забываете, и передача Ему праздных моментов. Привычка не формируется в одночасье; это все равно что проходить через одну и ту же дверь каждый день.\n\nАллах Всевышний повелевает обильное поминание:\n\n** ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n**\"О вы, уверовавшие, поминайте Аллаха памятованием и превозносите Его утром и вечером.\"**\n*(Аль-Ахзаб 33:41-42)*\n\nОтдых сердца связан с зикром:\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n**\"Несомненно, в поминании Аллаха сердца находят покой.\"**\n*(Ар-Раад 13:28)*\n\nПророк ﷺ дает практичную фразу о забывчивости:\n\n**Скажи: «Господь мой, прости меня и помилуй меня, и Ты лучший из милосердных».**\n*(Ат-Тирмизи, «Мольбы» — Ибн Масуд; Тирмизи оценил как хасан сахих.)*\n\nСегодняшняя привычка зикра: одно «СубханАллахи ва бихамдих» утром, между делами, дуа перед сном — небольшие повторения собирают большую преданность."
+    "ru": "Формирование привычки к зикру — это не только переворачивание четок или соревнование в количестве — это освежение сердца именами Аллаха, напоминание, когда вы забываете, и передача Ему праздных моментов. Привычка не формируется в одночасье; это все равно что проходить через одну и ту же дверь каждый день.\n\nАллах Всевышний повелевает обильное поминание:\n\n** ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n**\"О вы, уверовавшие, поминайте Аллаха памятованием и превозносите Его утром и вечером.\"**\n*(Аль-Ахзаб 33:41-42)*\n\nОтдых сердца связан с зикром:\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n**\"Несомненно, в поминании Аллаха сердца находят покой.\"**\n*(Ар-Раад 13:28)*\n\nПророк ﷺ дает практичную фразу о забывчивости:\n\n**Скажи: «Господь мой, прости меня и помилуй меня, и Ты лучший из милосердных».**\n*(Ат-Тирмизи, «Мольбы» — Ибн Масуд; Тирмизи оценил как хасан сахих.)*\n\nСегодняшняя привычка зикра: одно «СубханАллахи ва бихамдих» утром, между делами, дуа перед сном — небольшие повторения собирают большую преданность.",
+    "fr": "Prendre l'habitude du dhikr, ce n'est pas seulement tourner des perles ou rivaliser en nombre, c'est rafraîchir le cœur avec les noms d'Allah, vous rappeler quand vous oubliez et lui confier des moments d'inactivité. L'habitude ne se forme pas du jour au lendemain ; c'est comme passer quotidiennement la même porte.\n\nAllah le Très-Haut ordonne un souvenir abondant :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا ۝ وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا﴾**\n**\"Ô vous qui avez cru, souvenez-vous d'Allah avec beaucoup de souvenir et exaltez-Le matin et soir.\"**\n*(Al Ahzab 33 :41-42)*\n\nLe repos du cœur est lié au dhikr :\n\n**﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾**\n** \" Incontestablement, c'est dans l'évocation d'Allah que les cœurs trouvent le repos. \" **\n*(Ar-Ra'd 13:28)*\n\nLe Prophète ﷺ donne une phrase pratique pour l'oubli :\n\n**Dis : « Mon Seigneur, pardonne-moi et aie pitié de moi, et Tu es le meilleur des miséricordieux. »**\n*(At-Tirmidhi, « Supplications » — Ibn Mas'ud ; classé hasan sahih par Tirmidhi.)*\n\nL'habitude du dhikr d'aujourd'hui : un « subhanAllahi wa bihamdih » le matin, un istighfar entre les tâches, un du'a au coucher — de petites répétitions suscitent une grande fidélité."
   },
   "quiz": [
     {
@@ -38,7 +40,8 @@
         "ku": "«Allahî gelek bînin; sibê û êvar wî tesbîh bikin» di kîjan sûreyê de ye?",
         "ckb": "«زۆر یادکردنەوەی اللە؛ بەیانی و ئێوارە تەسبیح» لە کام سورەتدایە؟",
         "ar": "في أي سورة ﴿اذكروا الله ذكرا كثيرا وسبحوه بكرة وأصيلا﴾؟",
-        "ru": "В какой суре говорится: «Помни Аллаха много; прославляйте Его утром и вечером»?"
+        "ru": "В какой суре говорится: «Помни Аллаха много; прославляйте Его утром и вечером»?",
+        "fr": "Dans quelle sourate sont « Souvenez-vous beaucoup d'Allah ; glorifier-le matin et soir»?"
       },
       "options": [
         {
@@ -51,7 +54,8 @@
           "ku": "Ahzâb",
           "ckb": "احزاب",
           "ar": "الأحزاب",
-          "ru": "Аль-Ахзаб"
+          "ru": "Аль-Ахзаб",
+          "fr": "Al Ahzab"
         },
         {
           "tr": "Mücâdele",
@@ -63,7 +67,8 @@
           "ku": "Mucâdele",
           "ckb": "موجادەلە",
           "ar": "المجادلة",
-          "ru": "Аль-Муджадилах"
+          "ru": "Аль-Муджадилах",
+          "fr": "Al-Mujadilah"
         },
         {
           "tr": "Haşr",
@@ -75,7 +80,8 @@
           "ku": "Haşr",
           "ckb": "حەشر",
           "ar": "الحشر",
-          "ru": "Аль-Хашр"
+          "ru": "Аль-Хашр",
+          "fr": "Al-Hashr"
         },
         {
           "tr": "Tahrîm",
@@ -87,7 +93,8 @@
           "ku": "Tahrîm",
           "ckb": "تەحریم",
           "ar": "التحريم",
-          "ru": "Ат-Тахрим"
+          "ru": "Ат-Тахрим",
+          "fr": "At-Tahrim"
         }
       ],
       "correct": 0
@@ -104,7 +111,8 @@
         "ku": "Ra'd 13:28 bi alîkariya zikrê re di nivîsê de çawa girê dide?",
         "ckb": "لە دەقەکەدا رەعد ٢٨ چۆن پەیوەندی بە ئاداتی زیکرەوە هەیە؟",
         "ar": "كيف يربط الرعد ٢٨ بعادة الذكر في النص؟",
-        "ru": "Как текст связывает Ар-Раад 13:28 с привычкой к зикру?"
+        "ru": "Как текст связывает Ар-Раад 13:28 с привычкой к зикру?",
+        "fr": "Comment le texte relie-t-il Ar-Ra'd 13 :28 à l'habitude du dhikr ?"
       },
       "options": [
         {
@@ -117,7 +125,8 @@
           "ku": "Aştiya dil bi bîrkirina Allahî",
           "ckb": "ئارامی دڵ بە یادکردنەوەی اللە",
           "ar": "ربطَ السكينة بالذكر",
-          "ru": "Связывает отдых сердца с поминанием Аллаха — духовный эффект зикра"
+          "ru": "Связывает отдых сердца с поминанием Аллаха — духовный эффект зикра",
+          "fr": "Lie le repos du cœur au souvenir d'Allah - l'effet spirituel du dhikr"
         },
         {
           "tr": "Zikrin haram olduğunu",
@@ -129,7 +138,8 @@
           "ku": "Zikr haram e",
           "ckb": "زیکر حەرامە",
           "ar": "تحريمُ الذكر",
-          "ru": "Зикр запрещен"
+          "ru": "Зикр запрещен",
+          "fr": "Le dhikr est interdit"
         },
         {
           "tr": "Sadece gece zikir yapılabileceğini",
@@ -141,7 +151,8 @@
           "ku": "Tenê şevê",
           "ckb": "تەنها شەو",
           "ar": "اختصاصُ الليل",
-          "ru": "Зикр только ночью"
+          "ru": "Зикр только ночью",
+          "fr": "Le dhikr n'a lieu que la nuit"
         },
         {
           "tr": "Kalbin zikre ihtiyacı olmadığını",
@@ -153,7 +164,8 @@
           "ku": "Dil pêwîstiya bi zikrê tune",
           "ckb": "دڵ پێویستی بە زیکر نییە",
           "ar": "استغناءُ القلب عن الذكر",
-          "ru": "Сердцу не нужен зикр"
+          "ru": "Сердцу не нужен зикр",
+          "fr": "Le cœur n'a pas besoin de dhikr"
         }
       ],
       "correct": 0
@@ -170,7 +182,8 @@
         "ku": "«Rabbi lêborînê bide» di nivîsê de ji bo çi rewşê ye?",
         "ckb": "«رب اغفر لی» لە دەقەکەدا بۆ چ دۆخێک چارەسەرە؟",
         "ar": "لأي حالٍ جاء ﴿رب اغفر لي وارحمني﴾ في النص؟",
-        "ru": "В тексте «Господи мой, прости меня, помилуй...» в какой ситуации предлагается практическое средство?"
+        "ru": "В тексте «Господи мой, прости меня, помилуй...» в какой ситуации предлагается практическое средство?",
+        "fr": "Dans le texte « Mon Seigneur, pardonne-moi, aie pitié... » propose un remède pratique à quelle situation ?"
       },
       "options": [
         {
@@ -183,7 +196,8 @@
           "ku": "Dema ji Allahî tê jibîrkirin",
           "ckb": "کاتێک لەبیر دەکەیت و غەفلەت — گەڕاندنەوەی زمان بەرەو اللە",
           "ar": "عند الغفلةِ والنسيانِ",
-          "ru": "Обращение языка к Аллаху по забывчивости и невнимательности"
+          "ru": "Обращение языка к Аллаху по забывчивости и невнимательности",
+          "fr": "Tourner la langue vers Allah dans l'oubli et l'insouciance"
         },
         {
           "tr": "Sadece cenaze namazında",
@@ -195,7 +209,8 @@
           "ku": "Tenê di nimêja cenazeyê de",
           "ckb": "تەنها لە نوێژی جنازە",
           "ar": "اختصاصُه بالجنازة",
-          "ru": "Только на заупокойной молитве"
+          "ru": "Только на заупокойной молитве",
+          "fr": "Uniquement lors de la prière funéraire"
         },
         {
           "tr": "Başkalarını suçlamayı",
@@ -207,7 +222,8 @@
           "ku": "Kesên din sûcdan bike",
           "ckb": "تۆمەتبارکردنی کەسانی تر",
           "ar": "لائمةُ الغير",
-          "ru": "Обвинение других"
+          "ru": "Обвинение других",
+          "fr": "Blâmer les autres"
         },
         {
           "tr": "Namazı terk etmeyi",
@@ -219,7 +235,8 @@
           "ku": "Nimêj terikandin",
           "ckb": "جێهێشتنی نوێژ",
           "ar": "تركُ الصلاة",
-          "ru": "Отказ от молитвы"
+          "ru": "Отказ от молитвы",
+          "fr": "Abandonner la prière"
         }
       ],
       "correct": 0
@@ -236,7 +253,8 @@
         "ku": "Li gorî nivîsê alîkariya zikrê çawa xurt dibe?",
         "ckb": "بەپێی دەقەکە ئاداتی زیکر چۆن بەهێز دەبێت؟",
         "ar": "كيف يتقوى «عادة الذكر» في النص؟",
-        "ru": "Согласно тексту, как укрепляется привычка к зикру?"
+        "ru": "Согласно тексту, как укрепляется привычка к зикру?",
+        "fr": "D’après le texte, comment l’habitude du dhikr se renforce-t-elle ?"
       },
       "options": [
         {
@@ -249,7 +267,8 @@
           "ku": "Dubarekirina biçûk û her roj",
           "ckb": "دووبارەبوونەوەی بچووک و بەستن بە کاتە ڕۆژانەکان",
           "ar": "التكرارِ الصغيرِ وربطِه بأوقاتٍ ثابتة",
-          "ru": "Небольшие повторения, привязанные к ежедневным моментам — последовательность."
+          "ru": "Небольшие повторения, привязанные к ежедневным моментам — последовательность.",
+          "fr": "Petites répétitions ancrées aux moments quotidiens – cohérence"
         },
         {
           "tr": "Sadece büyük törenlerde",
@@ -261,7 +280,8 @@
           "ku": "Tenê di merasîmên mezin de",
           "ckb": "تەنها لە ئاهەنگی گەورە",
           "ar": "في المحافل الكبرى فقط",
-          "ru": "Только на больших церемониях"
+          "ru": "Только на больших церемониях",
+          "fr": "Seulement lors des grandes cérémonies"
         },
         {
           "tr": "Hiç tekrar etmeden",
@@ -273,7 +293,8 @@
           "ku": "Bê dubarekirin",
           "ckb": "بێ دووبارەکردنەوە",
           "ar": "دون تكرار",
-          "ru": "Без всякого повторения"
+          "ru": "Без всякого повторения",
+          "fr": "Sans aucune répétition"
         },
         {
           "tr": "Sadece başkalarını dinleyerek",
@@ -285,7 +306,8 @@
           "ku": "Tenê bi guhdanîkirina kesên din",
           "ckb": "تەنها بە گوێگرتن لە کەسانی تر",
           "ar": "بالاستماع للناس فقط",
-          "ru": "Только слушая других"
+          "ru": "Только слушая других",
+          "fr": "Seulement en écoutant les autres"
         }
       ],
       "correct": 0
@@ -302,7 +324,8 @@
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
-        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?"
+        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -315,7 +338,8 @@
           "ku": "Alîkariya zikrê tenê tesbîh e",
           "ckb": "ئاداتی زیکر تەنها گەڕاندنەوەی تەسبیح یان پێشبڕکێ لە ژمارەیە",
           "ar": "عادةُ الذكر تقليبُ السُّبْحَةِ ومباراةُ العددِ فقط",
-          "ru": "Привычка к зикру заключается только в переворачивании бус или соревновании в количестве."
+          "ru": "Привычка к зикру заключается только в переворачивании бус или соревновании в количестве.",
+          "fr": "L'habitude du dhikr consiste uniquement à tourner des perles ou à rivaliser en nombre."
         },
         {
           "tr": "Ahzâb 33:41-42 çok zikri emreder",
@@ -327,7 +351,8 @@
           "ku": "Ahzâb 33:41-42 zikra gelek ferman dike",
           "ckb": "احزاب ٤١-٤٢ زۆر زیکر فەرمان دەکات",
           "ar": "الأحزاب ٤١-٤٢ تأمر بالذكر الكثير",
-          "ru": "Аль-Ахзаб 33:41-42 предписывает обильный зикр."
+          "ru": "Аль-Ахзаб 33:41-42 предписывает обильный зикр.",
+          "fr": "Al-Ahzab 33 : 41-42 commande un dhikr abondant"
         },
         {
           "tr": "Ra'd 13:28 zikri kalbe bağlar",
@@ -339,7 +364,8 @@
           "ku": "Ra'd 13:28 zikr bi dil ve girê dide",
           "ckb": "رەعد ٢٨ زیکر بە دڵ دەگەڕێتەوە",
           "ar": "الرعد ٢٨ يربط الذكر بالقلب",
-          "ru": "Ар-Раад 13:28 связывает зикр с сердцем"
+          "ru": "Ар-Раад 13:28 связывает зикр с сердцем",
+          "fr": "Ar-Ra'd 13 :28 lie le dhikr au cœur"
         },
         {
           "tr": "Unutunca söylenen dua zikre yardımcı olur",
@@ -351,7 +377,8 @@
           "ku": "Dua ya jibîrkirinê alîkariya zikrê dike",
           "ckb": "دوعای لەبیرچوون یارمەتی زیکر دەدات",
           "ar": "دعاءُ النسيان يعين على الذكر",
-          "ru": "Дуа забывчивости помогает зикру"
+          "ru": "Дуа забывчивости помогает зикру",
+          "fr": "L'oubli du'a aide au dhikr"
         }
       ],
       "correct": 0
@@ -367,6 +394,7 @@
     "ku": "Îro sê deqe vala bi sê zikrê ve girêde: sibê tesbîh, nîvro istiğfar, şev Fetîha — Ahzâb 33:41-42 û Ra'd 13:28 — alîkarî di dubarekirinê de mezin dibe ne di şanogeriyê de.",
     "ckb": "ئەمڕۆ سێ خولەکی بەتاڵ بە سێ زیکرەوە بەستەوە: بەیانی تەسبیح، نیوەڕۆ ئیستیغفار، شەو فاتیحە — احزاب ٤١-٤٢ و رەعد ٢٨: ئادات لە دووبارەبوونەوە گەشە دەکات نەک لە نمایش.",
     "ar": "اليوم اربطْ ثلاث دقائقَ فارغةً بثلاثةِ أذكارٍ: تسبيحٌ عند الصباحِ، واستغفارٌ عند الظهيرة، وفاتحةٌ عند النومِ — ﴿اذكروا الله ذكرا كثيرا﴾ و﴿بذكر الله تطمئن القلوب﴾: العادةُ تكبرُ بالتكرار لا بالعرض.",
-    "ru": "Свяжите сегодня три пустые минуты с тремя азкарами: утренний тасбих, полуденный истигфар, ночной Фатиха - Аль-Ахзаб 33:41-42 и Ар-Раад 13:28 напоминают вам: привычка растет в повторении, а не в проявлении."
+    "ru": "Свяжите сегодня три пустые минуты с тремя азкарами: утренний тасбих, полуденный истигфар, ночной Фатиха - Аль-Ахзаб 33:41-42 и Ар-Раад 13:28 напоминают вам: привычка растет в повторении, а не в проявлении.",
+    "fr": "Attachez trois minutes vides à trois adhkar aujourd'hui : tasbih du matin, istighfar de midi, Fatihah du soir — Al-Ahzab 33 : 41-42 et Ar-Ra'd 13 :28 vous le rappellent : l'habitude se développe dans la répétition, pas dans l'affichage."
   }
 }

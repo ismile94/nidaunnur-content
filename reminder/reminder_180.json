@@ -11,7 +11,8 @@
     "ku": "Nirxandina Meha 6an",
     "ckb": "هەڵسەنگاندنی مانگی شەشەم",
     "ar": "تقييم الشهر السادس",
-    "ru": "Обзор шестого месяца"
+    "ru": "Обзор шестого месяца",
+    "fr": "Examen du sixième mois"
   },
   "content": {
     "tr": "Altıncı ayın eşiğinde durmak; takvimi çevirmekten ibaret değil — geçen haftaları kalple muhasebe etmek, niyeti tazelemek, eksik kalan namazı, sözü veya tövbeyi «sonra»ya bırakmadan bir adım atmaktır. İslam, ümmetini uyku modunda bırakmaz; mümin, kendi nefsinin muhasebecisidir.\n\nAllah Teâlâ dünya ile âhiret ümidi arasındaki farkı şöyle çizer:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيْرٌ أَمَلًا﴾**\n**«Bilin ki dünya hayatı ancak bir oyun, bir eğlence, bir süs... Allah'ın mükâfatı daha hayırlı ve ümit edilecek şey daha hayırlıdır.»**\n*(Hadîd 57:20-21)*\n\nNefse dönük bir uyarı ise Haşr suresinde gelir:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**«Ey iman edenler! Allah'tan korkun; herkes yarın için ne gönderdiğine baksın. Allah'tan korkun; şüphesiz Allah, yaptıklarınızdan haberdardır.»**\n*(Haşr 59:18)*\n\nPeygamberimiz ﷺ de şöyle buyurur:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**«Hesaba çekilmeden önce kendinizi hesaba çekin.»**\n*(Tirmizî, «Kıyamet rivayetleri» — hasen; benzeri lafızlar başka kaynaklarda da geçer.)*\n\nBugün kısa bir liste: hangi söz tutuldu, hangi gönül kırıldı, hangi namaz kaçtı — altıncı ay, iç muhasebenin «şimdi»sidir.",
@@ -23,7 +24,8 @@
     "ku": "Rawestandina li ber devê meha şeşan ne tenê zivirîna salnameyê ye - ew e ku dilê we bihesibîne ji bo hefteyên borî, nûkirina niyet û avêtina gavekê bêyî ku dev ji dua, soz an tobekirina \"paşê\" berde. Îslam ummetê bi otopîlotê nahêle; bawermend hesabkerê canê xwe ye.\n\nXwedayê mezin vê dinyayê bi hêviya axretê re berovajî dike:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيٌٌْ.\n**\"Bizanin ku jiyana dinya ji bilî seyrangeh û xemilandin û xemilandin e... Û xelata herî baş û hêviya herî baş ji Xwedê re heye.\"**\n*(El-Hadid 57:20-21)*\n\nHişyariyek ku di hundurê xwe de zivirî di El-Hashr de xuya dike:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ الَّهَ إَِِنَّ. تَعْمَلُونَ﴾**\n**\"Gelî bawermendan, hûn ji Xwedê bitirsin. Û bila her kes li sibe çi daye ber çavan û ji Xuda bitirsin. Bi rastî Yezdan bi tiþtê hûn dikin agahdar e.\"**\n*(El-Heşr 59:18)*\n\nPêxemberê me ﷺ gotiye:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**\"Berî ku tu hesab bikî hesabê xwe bihesibîne.\"**\n*(Tirmizî - Hesen; di çavkaniyên din de peyvên bi vî rengî hene.)*\n\nÎro lîsteyek kurt: kîjan peyv hate girtin, kîjan dil êşiya, kîjan dua hate paşguh kirin - meha şeşan hesabê weya hundurîn «niha» ye.",
     "ckb": "گەیشتن بە مانگی شەشەم تەنها گۆڕینی ڕۆژژمێر نییە — بەڵکوو لەگەڵ دڵدا حیساب بکەیتەوە، نیەت نوێ بکەیتەوە و هەنگاوێک بەبێ «دواتر» بنێیت. ئیسلام ئوممەتەکەی لە خەو ناهێڵێت؛ باوەڕدار ژمێریاری نەفسەکەی خۆیەتی.\n\nاللە دەفەرموێت:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا﴾**\n*(حەدید: ٢٠-٢١)*\n\nو:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ﴾**\n*(حەشر: ١٨)*\n\nپێغەمبەر ﷺ:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(تیرمیزی — حەسەن)*\n\nئەمڕۆ لیستێکی کورت: کام وشە، کام دڵ، کام نوێژ — مانگی شەشەم «ئێستا»ی حیسابکردنەوەی ناوەوەیە.",
     "ar": "وقوفُك عند بابِ الشهرِ السادس ليس تقليبَ التقويم وحده — إنه محاسبةُ القلبِ لما مضى، وتجديدُ النية، وخطوةٌ بلا تأجيلٍ للصلاة أو الوعد أو التوبة. لا يتركُ الإسلامُ الأمةَ سباتاً؛ المؤمنُ محاسبٌ لنفسه.\n\nيقول الله تعالى:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيْرٌ أَمَلًا﴾**\n*(الحديد: ٢٠-٢١)*\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(الحشر: ١٨)*\n\nوقال النبي ﷺ:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(رواه الترمذي — حسن)*\n\nاليوم قائمةٌ قصيرة: أيُّ عهدٍ وُفي، وأيُّ قلبٍ جُرح، وأيُّ صلاةٍ فُوتت — الشهرُ السادس «الآن» لمحاسبةِ الضمير.",
-    "ru": "Стоять на пороге шестого месяца — это не только переворачивать календарь, но и отчитываться перед своим сердцем за прошедшие недели, обновлять намерение и делать ни шагу, не оставляя молитвы, обещания или покаяния «на потом». Ислам не оставляет умму на автопилоте; верующий является счетоводом своей души.\n\nАллах Всевышний противопоставляет этот мир надежде на будущую жизнь:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيْرٌ أَمَلًا﴾**\n** «Знайте, что жизнь в этом мире — всего лишь развлечение, развлечение и украшение… И что у Аллаха лучшая награда и лучшая надежда». **\n*(Аль-Хадид 57:20-21)*\n\nВ «Аль-Хашре» появляется предупреждение, обращенное внутрь:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**\"О вы, которые веруют, бойтесь Аллаха. И пусть каждая душа смотрит на то, что она приготовила для завтрашнего дня - и бойтесь Аллаха. Воистину, Аллах осведомлен о том, что вы делаете.\"**\n*(Аль-Хашр 59:18)*\n\nНаш Пророк ﷺ сказал:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**\"Возьмите ответ за себя, прежде чем вас призовут к ответу\".**\n*(Тирмизи — хасан; аналогичная формулировка встречается и в других источниках.)*\n\nСегодня краткий список: какое слово сдержано, какое сердце ранено, какая молитва пропущена — шестой месяц — это ваш внутренний отсчет «сейчас»."
+    "ru": "Стоять на пороге шестого месяца — это не только переворачивать календарь, но и отчитываться перед своим сердцем за прошедшие недели, обновлять намерение и делать ни шагу, не оставляя молитвы, обещания или покаяния «на потом». Ислам не оставляет умму на автопилоте; верующий является счетоводом своей души.\n\nАллах Всевышний противопоставляет этот мир надежде на будущую жизнь:\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيْرٌ أَمَلًا﴾**\n** «Знайте, что жизнь в этом мире — всего лишь развлечение, развлечение и украшение… И что у Аллаха лучшая награда и лучшая надежда». **\n*(Аль-Хадид 57:20-21)*\n\nВ «Аль-Хашре» появляется предупреждение, обращенное внутрь:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**\"О вы, которые веруют, бойтесь Аллаха. И пусть каждая душа смотрит на то, что она приготовила для завтрашнего дня - и бойтесь Аллаха. Воистину, Аллах осведомлен о том, что вы делаете.\"**\n*(Аль-Хашр 59:18)*\n\nНаш Пророк ﷺ сказал:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**\"Возьмите ответ за себя, прежде чем вас призовут к ответу\".**\n*(Тирмизи — хасан; аналогичная формулировка встречается и в других источниках.)*\n\nСегодня краткий список: какое слово сдержано, какое сердце ранено, какая молитва пропущена — шестой месяц — это ваш внутренний отсчет «сейчас».",
+    "fr": "Se tenir au seuil du sixième mois, ce n'est pas seulement tourner le calendrier, c'est prendre en compte son cœur des semaines passées, renouveler son intention et faire un pas sans laisser la prière, la promesse ou le repentir pour «plus tard». L’Islam ne laisse pas la Oumma en pilote automatique ; le croyant est comptable de sa propre âme.\n\nAllah le Très-Haut oppose ce monde à l'espoir dans l'au-delà :\n\n**﴿اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ ... وَأَنَّ اللَّهَ خَيْرٌ ثَوَابًا وَخَيْرٌ أَمَلًا﴾**\n** \" Sachez que la vie de ce monde n'est qu'amusement, divertissement et parure... Et qu'Allah a la meilleure récompense et le meilleur espoir. \" **\n*(Al-Hadid 57 :20-21)*\n\nUn avertissement tourné vers l’intérieur apparaît dans Al-Hashr :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n** \"Ô vous qui croyez, craignez Allah. Et que chaque âme regarde ce qu'elle a proposé pour demain - et craignez Allah. En effet, Allah est Connaisseur de ce que vous faites. \"**\n*(Al-Hashr 59 :18)*\n\nNotre Prophète ﷺ a dit :\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»**\n**\"Prenez compte de vous-mêmes avant d'être pris en compte.\"**\n*(Tirmidhi — hasan ; une formulation similaire apparaît dans d'autres sources.)*\n\nAujourd'hui, une courte liste : quelle parole a été respectée, quel cœur a été blessé, quelle prière a été manquée — le sixième mois est votre jugement intérieur « maintenant »."
   },
   "quiz": [
     {
@@ -38,7 +40,8 @@
         "ku": "«Jiyana dinyayî lîstik e... mucîzata Allahî baştir e» di kîjan sûreyê de ye?",
         "ckb": "«ژیانی دونیا یارییە... پاداشی اللە باشترە» لە کام سورەتدایە؟",
         "ar": "في أيِّ سورةٍ ﴿إنما الحياة الدنيا لعبٌ ولهوٌ﴾ مع ذكرِ ثوابِ الله؟",
-        "ru": "В какой суре звучит тема «Мирская жизнь — это игра и развлечение; Награда Аллаха лучше» кажется?"
+        "ru": "В какой суре звучит тема «Мирская жизнь — это игра и развлечение; Награда Аллаха лучше» кажется?",
+        "fr": "Dans quelle sourate reprend le thème « La vie mondaine est jeu et divertissement ; La récompense d'Allah est meilleure» apparaît-il ?"
       },
       "options": [
         {
@@ -51,7 +54,8 @@
           "ku": "Hadîd",
           "ckb": "حەدید",
           "ar": "الحديد",
-          "ru": "Аль-Хадид"
+          "ru": "Аль-Хадид",
+          "fr": "Al-Hadid"
         },
         {
           "tr": "Felak",
@@ -63,7 +67,8 @@
           "ku": "Feleq",
           "ckb": "فەلەق",
           "ar": "الفلق",
-          "ru": "Аль-Фалак"
+          "ru": "Аль-Фалак",
+          "fr": "Al-Falaq"
         },
         {
           "tr": "Kevser",
@@ -75,7 +80,8 @@
           "ku": "Kevser",
           "ckb": "کەوسەر",
           "ar": "الكوثر",
-          "ru": "Аль-Каусар"
+          "ru": "Аль-Каусар",
+          "fr": "Al-Kawthar"
         },
         {
           "tr": "Nasr",
@@ -87,7 +93,8 @@
           "ku": "Nasr",
           "ckb": "نەسر",
           "ar": "النصر",
-          "ru": "Ан-Наср"
+          "ru": "Ан-Наср",
+          "fr": "An-Nasr"
         }
       ],
       "correct": 0
@@ -104,7 +111,8 @@
         "ku": "«Her giyan bibîne ji bo sibê çi şandiye» çi pêşniyaz dike?",
         "ckb": "«هەر گیانێک بڕوانێتەوە چی ناردووە بۆ سبەینێ» چی پێشنیار دەکات؟",
         "ar": "ماذا يقرر ﴿ولتنظر نفس ما قدمت لغد﴾؟",
-        "ru": "Что советует в Аль-Хашр 59:18 «пусть каждая душа смотрит на то, что она приготовила на завтра»?"
+        "ru": "Что советует в Аль-Хашр 59:18 «пусть каждая душа смотрит на то, что она приготовила на завтра»?",
+        "fr": "Que conseille le passage d'Al-Hashr 59 : 18 « que chaque âme regarde à ce qu'elle a proposé pour demain » ?"
       },
       "options": [
         {
@@ -117,7 +125,8 @@
           "ku": "Bifikire ji bo âhiretê çi şandî; muhasebeya hundir",
           "ckb": "بیری لەوە بکەرەوە چی بۆ دواڕۆژ دەنێریت؛ حیسابکردنەوەی ناوەوە",
           "ar": "التفقدُ لما قُدِّمَ للآخرة والمحاسبةُ",
-          "ru": "Думать о том, что вы отправляете в Будущую жизнь; внутренний расчет"
+          "ru": "Думать о том, что вы отправляете в Будущую жизнь; внутренний расчет",
+          "fr": "Penser à ce que vous envoyez pour l’au-delà ; jugement intérieur"
         },
         {
           "tr": "Sadece mal biriktirmeyi emreder",
@@ -129,7 +138,8 @@
           "ku": "Tenê pere kom kirin ferman dike",
           "ckb": "تەنها پاشەکەوتی پارە",
           "ar": "وجوبُ كنزِ المال فقط",
-          "ru": "Команды только для экономии денег"
+          "ru": "Команды только для экономии денег",
+          "fr": "Commandes permettant uniquement d'économiser de l'argent"
         },
         {
           "tr": "Yarının iftar menüsünü planlamayı kasteder",
@@ -141,7 +151,8 @@
           "ku": "Sibê menû plan bike",
           "ckb": "پلانی مێنیو بۆ سبەینێ",
           "ar": "تخطيطُ الطعام",
-          "ru": "Означает планирование завтрашнего меню"
+          "ru": "Означает планирование завтрашнего меню",
+          "fr": "C'est planifier le menu de demain"
         },
         {
           "tr": "Dünkü günahları unutmayı emreder",
@@ -153,7 +164,8 @@
           "ku": "Ferman dike ku gunehên doh ji bîr bike",
           "ckb": "فەرمانی لەبیرکردنەوەی گوناهەکان",
           "ar": "أمرٌ بنسيانِ الذنب",
-          "ru": "Приказывает забыть вчерашние грехи"
+          "ru": "Приказывает забыть вчерашние грехи",
+          "fr": "Ordres oubliant les péchés d'hier"
         }
       ],
       "correct": 0
@@ -170,7 +182,8 @@
         "ku": "«Berî ku were hesab kirin xwe hesab bikin» çi teşwîq dike?",
         "ckb": "«پێش ئەوەی حیساب بکرێنەوە خۆتان حیساب بکەنەوە» چی پێشنیار دەکات؟",
         "ar": "ماذا يحثُّ «حاسبوا أنفسكم قبل أن تحاسبوا»؟",
-        "ru": "Что поощряет лозунг «Берите ответственность за себя, прежде чем вас призовут к ответу»?"
+        "ru": "Что поощряет лозунг «Берите ответственность за себя, прежде чем вас призовут к ответу»?",
+        "fr": "Qu’encourage « Tenez compte de vous-mêmes avant d’être pris en compte » ?"
       },
       "options": [
         {
@@ -183,7 +196,8 @@
           "ku": "Xwe-nirxandinê birêkûpêk ji bo rastkirinê",
           "ckb": "خۆهەڵسەنگاندنی بەردەوام بۆ چاککردنەوە",
           "ar": "مراجعةُ النفسِ لتصحيحِ السلوك",
-          "ru": "Регулярный самоконтроль для корректировки курса"
+          "ru": "Регулярный самоконтроль для корректировки курса",
+          "fr": "Auto-évaluation régulière pour corriger le cap"
         },
         {
           "tr": "Başkalarını yargılamayı yasaklar",
@@ -195,7 +209,8 @@
           "ku": "Dadgehkirina kesên din qedexe dike",
           "ckb": "قەدەغەکردنی حوکمدان بە کەسانی تر",
           "ar": "تحريمُ الحكم على الغير",
-          "ru": "Запрещает осуждать других"
+          "ru": "Запрещает осуждать других",
+          "fr": "Interdit de juger les autres"
         },
         {
           "tr": "Resmi mali müşavire gitmeyi emreder",
@@ -207,7 +222,8 @@
           "ku": "Ferman dike ku here muhasebeyê",
           "ckb": "فەرمانی چوونە لای ژمێریار",
           "ar": "وجوبُ مراجعةِ المحاسب القانوني",
-          "ru": "Заказы идут к бухгалтеру"
+          "ru": "Заказы идут к бухгалтеру",
+          "fr": "Commandes adressées à un comptable"
         },
         {
           "tr": "Kıyametin yakın olduğunu haber verir",
@@ -219,7 +235,8 @@
           "ku": "Dibêje kıyamet nêz e",
           "ckb": "هەواڵی نزیکبوونەوەی قیامەت دەدات",
           "ar": "إخبارٌ بقربِ القيامة",
-          "ru": "Объявляет, что Судный день близок"
+          "ru": "Объявляет, что Судный день близок",
+          "fr": "Annonce que le jour du jugement dernier est proche"
         }
       ],
       "correct": 0
@@ -236,7 +253,8 @@
         "ku": "Kîjan helwest bi «nirxandina meha 6an» re tê?",
         "ckb": "کام هەڵسوکەوت لەگەڵ «هەڵسەنگاندنی مانگی شەشەم»دا دەگونجێت؟",
         "ar": "أيُّ سلوكٍ يناسب «تقييم الشهر السادس» في النص؟",
-        "ru": "Какое отношение соответствует «обзору шестого месяца» в тексте?"
+        "ru": "Какое отношение соответствует «обзору шестого месяца» в тексте?",
+        "fr": "Quelle attitude correspond à la « révision du sixième mois » dans le texte ?"
       },
       "options": [
         {
@@ -249,7 +267,8 @@
           "ku": "Rojên derbasî bi dil ve binirxînin û niyetê nû bikin",
           "ckb": "ڕۆژانی ڕابردوو لە دڵدا پێداچوونەوە و نوێکردنەوەی نیەت",
           "ar": "مراجعةُ الأيامِ الماضية وتجديدُ النية",
-          "ru": "Анализ прошлых дней в сердце и обновление намерения"
+          "ru": "Анализ прошлых дней в сердце и обновление намерения",
+          "fr": "Revoir les jours passés dans le cœur et renouveler l'intention"
         },
         {
           "tr": "Sadece takvimde sayfa çevirmek",
@@ -261,7 +280,8 @@
           "ku": "Tenê rûpelê salnameyê biguhezîne",
           "ckb": "تەنها پەڕەی ڕۆژژمێر بگۆڕێت",
           "ar": "تقليبُ الورق فقط",
-          "ru": "Только перелистывая страницы календаря"
+          "ru": "Только перелистывая страницы календаря",
+          "fr": "Tourner seulement les pages du calendrier"
         },
         {
           "tr": "Hiçbir şeyi değiştirmemek",
@@ -273,7 +293,8 @@
           "ku": "Tiştî naguhêre",
           "ckb": "هیچ نەگۆڕێت",
           "ar": "جمودٌ تام",
-          "ru": "Ничего не меняя"
+          "ru": "Ничего не меняя",
+          "fr": "Ne rien changer"
         },
         {
           "tr": "Sadece maddî hedefleri kovalamak",
@@ -285,7 +306,8 @@
           "ku": "Tenê armancên madî",
           "ckb": "تەنها ئامانجی ماددی",
           "ar": "السعيُ للدنيا فقط",
-          "ru": "Преследуя только материальные цели"
+          "ru": "Преследуя только материальные цели",
+          "fr": "Poursuivre uniquement des objectifs matériels"
         }
       ],
       "correct": 0
@@ -302,7 +324,8 @@
         "ku": "Li gorî nivîsê kîjan ji jêrîn şaş e?",
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
-        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?"
+        "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
       },
       "options": [
         {
@@ -315,7 +338,8 @@
           "ku": "Nirxandina mehane ji jiyana dînî cuda ye; bi Quran û sûnetê ve girêdayî nine",
           "ckb": "هەڵسەنگاندنی مانگانە لە ژیانی ئایینیدا جیاوە؛ پەیوەندی نییە بە قورئان و سوننەتەوە",
           "ar": "التقييمُ الشهري عادةٌ دنيويةٌ بلا أصلٍ شرعي",
-          "ru": "Ежемесячный обзор — светская привычка, не связанная с Кораном и Сунной."
+          "ru": "Ежемесячный обзор — светская привычка, не связанная с Кораном и Сунной.",
+          "fr": "La révision mensuelle est une habitude laïque sans rapport avec le Coran et la sunna"
         },
         {
           "tr": "Hadîd 57:20-21 dünya hayatının geçiciliğini hatırlatır",
@@ -327,7 +351,8 @@
           "ku": "Hadîd 57:20-21 jiyana dinyayî bi bîr dixe",
           "ckb": "حەدید ٢٠-٢١ گەڕاندنەوەی بیر لە نەپای جیانی دونیا",
           "ar": "الحديد ٢٠-٢١ يقرر زوالَ الدنيا",
-          "ru": "Аль-Хадид 57:20-21 напоминает, что мирская жизнь скоротечна."
+          "ru": "Аль-Хадид 57:20-21 напоминает, что мирская жизнь скоротечна.",
+          "fr": "Al-Hadid 57 : 20-21 rappelle que la vie mondaine est éphémère"
         },
         {
           "tr": "Haşr 59:18 yarın için ne gönderildiğine bakmayı öğütler",
@@ -339,7 +364,8 @@
           "ku": "Haşr 59:18 ji bo sibê çi hat şandin bibîne pêşniyaz dike",
           "ckb": "حەشر ١٨ ئامۆژگاری سەیرکردنی ئەوەی بۆ سبەینێ دەنێردرێت",
           "ar": "الحشر ١٨ يأمر بالنظر لما قدم لغد",
-          "ru": "Аль-Хашр 59:18 советует посмотреть, что будет отправлено на завтра."
+          "ru": "Аль-Хашр 59:18 советует посмотреть, что будет отправлено на завтра.",
+          "fr": "Al-Hashr 59 : 18 conseille de regarder ce qui est envoyé pour demain"
         },
         {
           "tr": "Hadis öz-değerlendirmeyi teşvik eder",
@@ -351,7 +377,8 @@
           "ku": "Hedîs xwe-nirxandinê teşwîq dike",
           "ckb": "حەدیس خۆهەڵسەنگاندن پێشنیار دەکات",
           "ar": "الحديثُ يحثُّ على مراجعةِ الذات",
-          "ru": "Хадис призывает к самоанализу"
+          "ru": "Хадис призывает к самоанализу",
+          "fr": "Le hadith encourage l'auto-révision"
         }
       ],
       "correct": 0
@@ -367,6 +394,7 @@
     "ku": "Îro ne tenê rûpelek lê hesabek dil bikin. El-Hadid 57:20-21 û El-Hashr 59:18 tîne bîra we: meha şeşan derfetek e ku hûn îro tiştên ku hûn ji bo \"sibê\" dişînin rast rast bikin.",
     "ckb": "ئەمڕۆ تەنها پەڕە نەگۆڕە، حیسابی دڵ بکە: حەدید ٢٠-٢١ و حەشر ١٨ بیرت دەخاتەوە — مانگی شەشەم دەرفەتە بۆ چاککردنەوەی «سبەینێ» ئەمڕۆ.",
     "ar": "اليوم محاسبةُ قلبٍ لا ورقٍ فقط. ﴿إنما الحياة الدنيا لعبٌ﴾ و﴿ولتنظر نفس ما قدمت لغد﴾: الشهرُ السادس فرصةٌ لتصحيحِ ما تُرسَلُ إلى الغد.",
-    "ru": "Сегодня сделайте не только переворот страницы, но и расплату сердца. Аль-Хадид 57:20-21 и Аль-Хашр 59:18 напоминают вам: шестой месяц — это шанс исправить сегодня то, что вы посылаете на «завтра»."
+    "ru": "Сегодня сделайте не только переворот страницы, но и расплату сердца. Аль-Хадид 57:20-21 и Аль-Хашр 59:18 напоминают вам: шестой месяц — это шанс исправить сегодня то, что вы посылаете на «завтра».",
+    "fr": "Aujourd’hui, faites non seulement un tour de page mais un règlement de compte du cœur. Al-Hadid 57 :20-21 et Al-Hashr 59 :18 vous le rappellent : le sixième mois est l'occasion de corriger aujourd'hui ce que vous envoyez pour « demain »."
   }
 }
