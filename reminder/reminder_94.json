@@ -12,7 +12,8 @@
     "ckb": "هۆشمەندیی وووزوو",
     "ar": "وعي الوضوء",
     "ru": "Сознание Вуду",
-    "fr": "Conscience du Wudu"
+    "fr": "Conscience du Wudu",
+    "id": "Kesadaran Wudhu"
   },
   "content": {
     "tr": "Abdest; namaza hazırlığın ötesinde, Allah'a yönelişin somutlaşmasıdır. Her uzvu yıkarken günahların döküldüğünü, kalbin temizlendiğini ve Allah'ın huzuruna çıkma bilinciyle kirlerden arındığını düşünmek — işte bu abdest bilincidir.\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n**«Müslüman kul abdest alırken yüzünü yıkadığında, gözleriyle baktığı her hata suyla birlikte yüzünden çıkar... Tâ ki günahlardan temizlenmiş çıkana dek.»**\n*(Müslim — Ebû Hureyre r.a. rivayetiyle)*\n\nAllah Teâlâ da şöyle buyurur:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**«Şüphesiz Allah tevbe edenleri ve temizlenenleri sever.»**\n*(Bakara 2:222)*\n\nAbdest; su ve sabunla değil, bilinç ve niyetle alınır. Her uzvu yıkarken duasını okumak, her damlada günahların döküldüğünü hissetmek, abdestten sonra dua etmek — bunlar abdestin ruhunu yaşatır. Bugün abdestinizi aceleye getirmeden, her adımını bilerek ve duyarak alın. Bu basit ritüel, Allah'a yaklaşmanın en güzel kapılarından biridir.",
@@ -25,7 +26,8 @@
     "ckb": "وووزوو تەنها ئامادەبوون بۆ نوێژ نییە — گەڕانەوەی بەرەو اللە بە شێوەی مادییە. بیردەکردنەوەی لەکاتی شتشۆی هەر ئەندامێک کە گوناهەکان دەڕەون، دڵ پاک دەبێت و کە بە هۆشمەندیی بۆ دەرکەوتن بەردەم اللەوە لە پیسی پاک دەبێیت — ئەمەیە هۆشمەندیی وووزوو.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n**«کاتێک بەندەی موسڵمان یان باوەڕدار وووزوو دەگرێت و ڕووخساری دەشۆ، هەر هەڵەیەک کە بە چاوەکانی تەماشای کرد لەگەڵ ئاودا لە ڕووخسارییەوە دەردەچێت... تا ئەوەی پاک لە گوناهەکان دەردەچێت.»**\n*(موسلیم — بە ڕێوایەتی ئەبو هورەیرە ڕ.ع)*\n\nاللەی بەرز هەروەها دەفەرمووێت:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**«بێگومان اللە ئەوانەی خۆشی دەوێت کە هەمیشە تۆبە دەکەن و ئەوانەی کە خۆیان پاک دەکەن.»**\n*(بەقەرە ٢:٢٢٢)*\n\nوووزوو بە ئاو و سابوون نییە، بەڵکو بە هۆشمەندی و نیەتە. خوێندنی دوا لەکاتی شتشۆی هەر ئەندامێک، لە هەر دریژەیەک هەستکردن کە گوناهەکان دەڕەون، دوا کردن دوای وووزوو — ئەمانە ڕووحی وووزوو زیندو دەکەن. ئەمڕۆ وووزووت بەدوورماندن بگرە، هەر هەنگاوێک زانین و هەستکردن. ئەم ئایینە سادەیە یەکێکە لە جوانترین دەروازەکان بۆ نزیک بوونەوەی بۆ اللە.",
     "ar": "الوضوءُ يتخطَّى الإعدادَ للصلاة — إنَّه تجسيدٌ للتوجُّه إلى الله. أن تُفكِّر وأنت تغسل كلَّ عضوٍ بأنَّ الذنوب تُغسَل، وأنَّ القلبَ يتطهَّر، وأنَّك تتنقَّى من الأدران بوعي الوقوف أمام الله — هذا هو وعيُ الوضوء.\n\nيقول الله تعالى:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n*(البقرة: ٢٢٢)*\n\nوقال النبيُّ ﷺ:\n\n**«مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ خَرَجَتْ خَطَايَاهُ مِنْ جَسَدِهِ حَتَّى تَخْرُجَ مِنْ تَحْتِ أَظْفَارِهِ»**\n*(رواه مسلم — عن عثمان بن عفَّان رضي الله عنه)*\n\nالوضوءُ الذي يُؤدَّى بهذا الوعي يُحوِّل الطهارةَ الجسديَّة إلى طهارةٍ روحيَّة. كلُّ قطرةٍ تسقط عن يدك تحمل معها ذنباً تاب منه القلب. اليوم توقَّف أثناء الوضوء وفكِّر في كلِّ عضو: ماذا فعلتُ بهذا العضو؟",
     "ru": "Вуду выходит за рамки подготовки к молитве — это материализация обращения к Аллаху. Думать при омовении каждой конечности, что грехи отбрасываются, сердце очищается и что ты очищаешься от скверны с сознанием предстояния перед Аллахом – это сознание вуду.\n\nНаш Пророк ﷺ сказал:\n\n**«إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ Он сказал: بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n**\"Когда мусульманин или верующий слуга совершает вуду и умывает лицо, каждый грех, который он совершил своими глазами, смывается с его лица вместе с водой... до тех пор, пока он не выйдет чистым от грехов.\"**\n*(Муслим — передал Абу Хурайра r.a.)*\n\nАллах Всевышний также говорит:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**\"Воистину, Аллах любит тех, кто постоянно раскаивается, и любит тех, кто очищается\".**\n*(Аль-Бакара 2:222)*\n\nВуду совершается не с водой и мылом, а сознательно и намеренно. Чтение мольбы, омовение каждой конечности, ощущение каждой каплей пролития грехов, совершение дуа за вуду — все это поддерживает дух вуду. Сегодня совершите вуду, не торопясь, зная и чувствуя каждый шаг. Этот простой ритуал – одна из самых прекрасных дверей к приближению к Аллаху.",
-    "fr": "Le Wudu va au-delà de la préparation à la prière : c'est la matérialisation du tournant vers Allah. Penser en lavant chaque membre que les péchés sont éliminés, que le cœur est purifié et que vous êtes purifié de la saleté avec la conscience de vous tenir devant Allah - c'est la conscience du wudu.\n\nNotre Prophète ﷺ a dit :\n\n**«إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n** \"Quand un serviteur musulman ou croyant accomplit son ablution et se lave le visage, tout péché qu'il a commis avec ses yeux sort de son visage avec de l'eau... jusqu'à ce qu'il ressorte pur de ses péchés.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nAllah le Très-Haut dit aussi :\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**\"En effet, Allah aime ceux qui se repentent constamment et aime ceux qui se purifient.\"**\n*(Al-Baqarah 2:222)*\n\nLe Wudu ne se prend pas avec de l'eau et du savon, mais avec conscience et intention. Lire la supplication en lavant chaque membre, sentir avec chaque goutte que les péchés sont répandus, faire dua après le wudu - tout cela maintient l'esprit du wudu vivant. Aujourd’hui, faites votre wudu sans vous précipiter, en connaissant et en ressentant chaque pas. Ce rituel simple est l’une des plus belles portes pour se rapprocher d’Allah."
+    "fr": "Le Wudu va au-delà de la préparation à la prière : c'est la matérialisation du tournant vers Allah. Penser en lavant chaque membre que les péchés sont éliminés, que le cœur est purifié et que vous êtes purifié de la saleté avec la conscience de vous tenir devant Allah - c'est la conscience du wudu.\n\nNotre Prophète ﷺ a dit :\n\n**«إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n** \"Quand un serviteur musulman ou croyant accomplit son ablution et se lave le visage, tout péché qu'il a commis avec ses yeux sort de son visage avec de l'eau... jusqu'à ce qu'il ressorte pur de ses péchés.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nAllah le Très-Haut dit aussi :\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**\"En effet, Allah aime ceux qui se repentent constamment et aime ceux qui se purifient.\"**\n*(Al-Baqarah 2:222)*\n\nLe Wudu ne se prend pas avec de l'eau et du savon, mais avec conscience et intention. Lire la supplication en lavant chaque membre, sentir avec chaque goutte que les péchés sont répandus, faire dua après le wudu - tout cela maintient l'esprit du wudu vivant. Aujourd’hui, faites votre wudu sans vous précipiter, en connaissant et en ressentant chaque pas. Ce rituel simple est l’une des plus belles portes pour se rapprocher d’Allah.",
+    "id": "Wudhu bukan sekedar persiapan untuk salat, melainkan perwujudan dari kembali kepada Allah. Berpikir sambil membasuh setiap anggota tubuh bahwa dosa-dosa sedang ditumpahkan, hati sedang dibersihkan, dan bahwa Anda sedang disucikan dari kotoran dengan kesadaran berdiri di hadapan Allah — inilah kesadaran wudhu.\n\nNabi kita ﷺ bersabda:\n\n**\"إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ أَوِ الْمُؤْمِنُ فَغَسَلَ Perlindungan Lingkungan dan Perlindungan Lingkungan بِعَيْنَيْهِ مَعَ الْمَاءِ... حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ»**\n**\"Ketika seorang hamba yang muslim atau mukmin berwudhu dan membasuh mukanya, maka keluarlah segala dosa yang dilakukannya dengan matanya bersama air itu... hingga keluarlah ia suci dari dosa-dosanya.\"**\n*(Muslim — meriwayatkan Abu Hurairah r.a.)*\n\nAllah SWT juga berfirman:\n\n**﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾**\n**\"Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang bersuci.\"**\n*(Al-Baqarah 2:222)*\n\nWudhu dilakukan bukan dengan air dan sabun, melainkan dengan kesadaran dan niat. Membaca doa sambil membasuh setiap anggota tubuh, merasakan setiap tetes dosa yang tertumpah, berdoa setelah wudhu – ini menjaga semangat wudhu tetap hidup. Hari ini ambillah wudhu tanpa terburu-buru, ketahui dan rasakan setiap langkahnya. Ritual sederhana ini adalah salah satu pintu terindah untuk mendekatkan diri kepada Allah."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسەکەی ڕێوایەت کردووە کە دەوەصف دەکات گوناهەکان دەڕەون کاتێک وووزوو دەگیرێت؟",
         "ar": "مَن روى حديث تساقط الذنوب أثناء الوضوء؟",
         "ru": "Кто рассказал хадис, описывающий избавление от грехов во время совершения вуду?",
-        "fr": "Qui a rapporté le hadith décrivant les péchés commis lors de l'accomplissement du wudu ?"
+        "fr": "Qui a rapporté le hadith décrivant les péchés commis lors de l'accomplissement du wudu ?",
+        "id": "Siapa yang meriwayatkan hadis yang menjelaskan dosa-dosa yang ditumpahkan saat berwudhu?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — موسلیم",
           "ar": "أبو هريرة رضي الله عنه — مسلم",
           "ru": "Абу Хурайра r.a. — Мусульманин",
-          "fr": "Abu Hurairah r.a. -Musulman"
+          "fr": "Abu Hurairah r.a. -Musulman",
+          "id": "Abu Hurairah r.a. — Muslim"
         },
         {
           "tr": "İbn Ömer r.a. — Buhârî",
@@ -68,7 +72,8 @@
           "ckb": "ئیبن عومەر ڕ.ع — بوخاری",
           "ar": "ابن عمر رضي الله عنه — البخاري",
           "ru": "Ибн Умар r.a. — Бухари",
-          "fr": "Ibn Umar r.a. — Boukhari"
+          "fr": "Ibn Umar r.a. — Boukhari",
+          "id": "Ibnu Umar r.a. — Bukhari"
         },
         {
           "tr": "Hz. Ali r.a. — Tirmizî",
@@ -81,7 +86,8 @@
           "ckb": "عەلی ڕ.ع — تیرمیزی",
           "ar": "علي رضي الله عنه — الترمذي",
           "ru": "Али р.а. — Тирмизи",
-          "fr": "Ali r.a. — Tirmidhi"
+          "fr": "Ali r.a. — Tirmidhi",
+          "id": "Ali r.a. – Tirmidzi"
         },
         {
           "tr": "Hz. Aişe r.a. — Nesâî",
@@ -94,7 +100,8 @@
           "ckb": "عائیشە ڕ.ع — نەسائی",
           "ar": "عائشة رضي الله عنها — النسائي",
           "ru": "Аиша р.а. — Насаи",
-          "fr": "Aisha r.a. — Nasaï"
+          "fr": "Aisha r.a. — Nasaï",
+          "id": "Aisyah r.a. —Nasai"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "ئایەتی «اللە ئەوانەی خۆشی دەوێت کە هەمیشە تۆبە دەکەن و ئەوانەی کە خۆیان پاک دەکەن» لە کام سووڕەتدا دەردەکەوێت؟",
         "ar": "في أي سورة وردت آية ﴿إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ﴾؟",
         "ru": "В какой суре появляется аят «Аллах любит тех, кто постоянно раскаивается, и любит тех, кто очищается»?",
-        "fr": "Dans quelle sourate apparaît le verset « Allah aime ceux qui se repentent constamment et aime ceux qui se purifient » ?"
+        "fr": "Dans quelle sourate apparaît le verset « Allah aime ceux qui se repentent constamment et aime ceux qui se purifient » ?",
+        "id": "Pada surah manakah ayat “Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang bersuci”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "بەقەرە ٢:٢٢٢",
           "ar": "البقرة: ٢٢٢",
           "ru": "Аль-Бакара 2:222",
-          "fr": "Al-Baqarah 2:222"
+          "fr": "Al-Baqarah 2:222",
+          "id": "Al-Baqarah 2:222"
         },
         {
           "tr": "Mâide 5:6",
@@ -139,7 +148,8 @@
           "ckb": "مائیدە ٥:٦",
           "ar": "المائدة: ٦",
           "ru": "Аль-Маида 5:6",
-          "fr": "Al-Ma'idah 5:6"
+          "fr": "Al-Ma'idah 5:6",
+          "id": "Al-Ma'idah 5:6"
         },
         {
           "tr": "Tevbe 9:108",
@@ -152,7 +162,8 @@
           "ckb": "تەوبە ٩:١٠٨",
           "ar": "التوبة: ١٠٨",
           "ru": "Ат-Тауба 9:108",
-          "fr": "At-Tawbah 9:108"
+          "fr": "At-Tawbah 9:108",
+          "id": "At-Taubah 9:108"
         },
         {
           "tr": "Nisâ 4:43",
@@ -165,7 +176,8 @@
           "ckb": "نیساء ٤:٤٣",
           "ar": "النساء: ٤٣",
           "ru": "Ан-Ниса 4:43",
-          "fr": "An-Nisa 4:43"
+          "fr": "An-Nisa 4:43",
+          "id": "An-Nisa 4:43"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "چی دەبێت زیاد بکرێت بە وووزووی بە هۆشمەندی گیراو؟",
         "ar": "ما الذي ينبغي إضافته إلى الوضوء المأخوذ بوعي؟",
         "ru": "Что следует добавить к омовению, совершаемому осознанно?",
-        "fr": "Que faut-il ajouter au wudu pris en conscience ?"
+        "fr": "Que faut-il ajouter au wudu pris en conscience ?",
+        "id": "Apa yang harus ditambahkan pada wudhu yang dilakukan dengan kesadaran?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "خوێندنی دوا لەکاتی شتشۆی هەر ئەندامێک، هەستکردن کە گوناهەکان دەڕەون و دوای ئەوەیش دوا کردن",
           "ar": "قراءة الذكر عند غسل كل عضو والشعور بتساقط الذنوب والدعاء بعده",
           "ru": "Чтение мольбы во время омовения каждой конечности, ощущение пролития грехов и последующее совершение дуа.",
-          "fr": "Lire la supplication tout en lavant chaque membre, sentir les péchés se répandre et faire dua ensuite"
+          "fr": "Lire la supplication tout en lavant chaque membre, sentir les péchés se répandre et faire dua ensuite",
+          "id": "Membaca doa sambil membasuh anggota tubuh, merasakan tertumpahnya dosa, dan berdoa setelahnya"
         },
         {
           "tr": "Sıcak su kullanmak",
@@ -210,7 +224,8 @@
           "ckb": "بەکارهێنانی ئاوی گەرم",
           "ar": "استخدام الماء الساخن",
           "ru": "Использование горячей воды",
-          "fr": "Utiliser de l'eau chaude"
+          "fr": "Utiliser de l'eau chaude",
+          "id": "Menggunakan air panas"
         },
         {
           "tr": "Uzun süre yıkamak",
@@ -223,7 +238,8 @@
           "ckb": "کاتێکی درێژ شتشۆ کردن",
           "ar": "الإطالة في الغسل",
           "ru": "Стираю долго",
-          "fr": "Laver longtemps"
+          "fr": "Laver longtemps",
+          "id": "Mencuci untuk waktu yang lama"
         },
         {
           "tr": "Abdesti başkalarının önünde almak",
@@ -236,7 +252,8 @@
           "ckb": "وووزوو گرتن لە بەردەم ئەوتریشدا",
           "ar": "أخذ الوضوء أمام الآخرين",
           "ru": "Совершение вуду перед другими",
-          "fr": "Faire ses ablutions devant les autres"
+          "fr": "Faire ses ablutions devant les autres",
+          "id": "Mengambil wudhu di depan orang lain"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "ئامانجی ڕاستەقینەی وووزوو چییە؟",
         "ar": "ما الغاية الحقيقية من الوضوء؟",
         "ru": "Какова истинная цель вуду?",
-        "fr": "Quel est le véritable but du wudu ?"
+        "fr": "Quel est le véritable but du wudu ?",
+        "id": "Apa sebenarnya tujuan wudhu?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "مادییکردنی گەڕانەوەی بەرەو اللە و پاکبوون لە گوناهەکان",
           "ar": "تجسيد التوجه إلى الله والتطهر من الذنوب",
           "ru": "Осуществить обращение к Аллаху и очиститься от грехов",
-          "fr": "Matérialiser le tournant vers Allah et être purifié des péchés"
+          "fr": "Matérialiser le tournant vers Allah et être purifié des péchés",
+          "id": "Mewujudkan kembali kepada Allah dan bersuci dari dosa"
         },
         {
           "tr": "Yalnızca bedensel temizlik sağlamak",
@@ -281,7 +300,8 @@
           "ckb": "تەنها بەدەستهێنانی پاکیی جەستەیی",
           "ar": "تحقيق النظافة الجسدية فحسب",
           "ru": "Достигая только физической чистоты",
-          "fr": "Atteindre uniquement la propreté physique"
+          "fr": "Atteindre uniquement la propreté physique",
+          "id": "Hanya mencapai kebersihan fisik"
         },
         {
           "tr": "Camiye girebilmek için zorunluluk",
@@ -294,7 +314,8 @@
           "ckb": "پێویستییەکی بۆ چوونە ژوورەوەی مزگەوت",
           "ar": "شرط للدخول إلى المسجد",
           "ru": "Необходимость входа в мечеть",
-          "fr": "Une nécessité pour entrer dans la mosquée"
+          "fr": "Une nécessité pour entrer dans la mosquée",
+          "id": "Suatu keharusan untuk memasuki masjid"
         },
         {
           "tr": "Sosyal görgü kuralı",
@@ -307,7 +328,8 @@
           "ckb": "یاسای ئەدەبی کۆمەڵایەتی",
           "ar": "قاعدة آداب اجتماعية",
           "ru": "Правило социального этикета",
-          "fr": "Une règle d'étiquette sociale"
+          "fr": "Une règle d'étiquette sociale",
+          "id": "Aturan etiket sosial"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەگوێرەی حەدیسەکە، کاتێک ڕووخسار لە کاتی وووزوودا دەشوێت، چی لێی دەردەچێت؟",
         "ar": "وفق الحديث، ما الذي يخرج من الوجه حين يُغسل في الوضوء؟",
         "ru": "Согласно хадису, что выходит из лица, когда его умывают во время вуду?",
-        "fr": "Selon le hadith, qu'est-ce qui sort du visage lorsqu'il est lavé pendant le wudu ?"
+        "fr": "Selon le hadith, qu'est-ce qui sort du visage lorsqu'il est lavé pendant le wudu ?",
+        "id": "Menurut hadis, apa yang keluar dari wajah ketika dibasuh saat berwudhu?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "هەر گوناهێک کە بە چاوەکان کراوە لەگەڵ ئاودا دەردەچێت",
           "ar": "كل خطيئة نظر إليها بعينيه تخرج مع الماء",
           "ru": "Всякий грех, совершенный глазами, выходит вместе с водой",
-          "fr": "Tout péché commis avec les yeux ressort avec l'eau"
+          "fr": "Tout péché commis avec les yeux ressort avec l'eau",
+          "id": "Setiap dosa yang dilakukan dengan mata akan keluar bersama air"
         },
         {
           "tr": "Yalnızca kirler çıkar",
@@ -352,7 +376,8 @@
           "ckb": "تەنها پیسی دەردەچێت",
           "ar": "الأوساخ فحسب",
           "ru": "выходит только грязь",
-          "fr": "Seule la saleté sort"
+          "fr": "Seule la saleté sort",
+          "id": "Hanya kotoran yang keluar"
         },
         {
           "tr": "Hastalıklar çıkar",
@@ -365,7 +390,8 @@
           "ckb": "نەخۆشییەکان دەردەچن",
           "ar": "الأمراض تخرج",
           "ru": "Болезни выходят",
-          "fr": "Les maladies sortent"
+          "fr": "Les maladies sortent",
+          "id": "Penyakit keluar"
         },
         {
           "tr": "Hiçbir şey çıkmaz, yalnızca su akar",
@@ -378,7 +404,8 @@
           "ckb": "هیچ دەردەنچێت، تەنها ئاو دەڕۆ",
           "ar": "لا يخرج شيء، الماء فقط يجري",
           "ru": "Ничего не выходит, только вода течет",
-          "fr": "Rien ne sort, seule l'eau coule"
+          "fr": "Rien ne sort, seule l'eau coule",
+          "id": "Tidak ada yang keluar, hanya air yang mengalir"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ کاتێک وووزوو دەگریت وەستە. لەکاتی شتشۆی هەر ئەندامێک بیربکەرەوە: بەم ئەندامەم چیم کرد؟ بە چاوەکانم چیم تەماشا کرد؟ بە دەستەکانم چیم گرت؟ بە زمانەکەمیم گوت؟ لە هەر دریژەیەک هەست بکە کە گوناهەکان دەڕەون. کاتێک لە وووزووەوە دەردەچیت هەوڵ بدە وەک ئەوەی دووبارە لەدایک بووی هەست بکەیت. چونکە وووزوو تەنها پاکبوون بە ئاو نییە — ئایینەکەی ژیانکراوی ڕۆژانەی گەڕانەوە بۆ اللەیە.",
     "ar": "اليوم توقَّف أثناء الوضوء. وأنت تغسل كلَّ عضوٍ فكِّر: ماذا فعلتُ بهذا العضو؟ ماذا نظرتُ بعيني؟ ماذا أمسكتُ بيديَّ؟ ماذا قلتُ بلساني؟ مع كلِّ قطرةٍ أحسِس بتساقط الذنوب. حين تخرج من الوضوء حاوِل أن تشعر كأنَّك وُلِدَ من جديد. لأنَّ الوضوءَ ليس مجرَّد طهارةٍ بالماء — بل هي الطقوسُ اليوميَّة المعاشة للعودة إلى الله.",
     "ru": "Сегодня сделайте паузу во время совершения вуду. Обмывая каждую конечность, думайте: что я сделал с этой конечностью? На что я смотрел своими глазами? Что я держал в руках? Что я сказал языком? С каждой каплей чувствуй, как проливаются грехи. Когда вы выходите из вуду, постарайтесь почувствовать себя заново рожденным. Потому что вуду – это не просто очищение водой, это ежедневный ритуал возвращения к Аллаху.",
-    "fr": "Aujourd'hui, faites une pause en faisant le wudu. Pendant que vous lavez chaque membre, pensez : Qu’ai-je fait de ce membre ? Qu'est-ce que j'ai regardé avec mes yeux ? Qu'est-ce que je tenais avec mes mains ? Qu'ai-je dit avec ma langue ? Avec chaque goutte, sentez les péchés se répandre. Lorsque vous sortez du wudu, essayez de vous sentir comme si vous étiez nouveau-né. Parce que le wudu ne consiste pas seulement à se nettoyer avec de l'eau, c'est le rituel quotidien du retour à Allah."
+    "fr": "Aujourd'hui, faites une pause en faisant le wudu. Pendant que vous lavez chaque membre, pensez : Qu’ai-je fait de ce membre ? Qu'est-ce que j'ai regardé avec mes yeux ? Qu'est-ce que je tenais avec mes mains ? Qu'ai-je dit avec ma langue ? Avec chaque goutte, sentez les péchés se répandre. Lorsque vous sortez du wudu, essayez de vous sentir comme si vous étiez nouveau-né. Parce que le wudu ne consiste pas seulement à se nettoyer avec de l'eau, c'est le rituel quotidien du retour à Allah.",
+    "id": "Hari ini jeda sejenak saat mengambil wudhu. Saat membasuh setiap anggota tubuh, pikirkanlah: Apa yang saya lakukan dengan anggota tubuh ini? Apa yang saya lihat dengan mata saya? Apa yang aku pegang dengan tanganku? Apa yang aku katakan dengan lidahku? Dengan setiap tetesnya rasakan dosa-dosa tertumpah. Saat keluar dari wudhu cobalah untuk merasa seperti baru lahir. Karena wudu bukan sekadar bersuci dengan air, melainkan ritual yang dijalani sehari-hari untuk kembali kepada Allah."
   }
 }

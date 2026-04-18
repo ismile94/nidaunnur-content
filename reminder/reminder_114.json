@@ -12,7 +12,8 @@
     "ckb": "عیبادەتی شەو",
     "ar": "عبادة الليل",
     "ru": "Ночное поклонение",
-    "fr": "Culte nocturne"
+    "fr": "Culte nocturne",
+    "id": "Ibadah Malam"
   },
   "content": {
     "tr": "Gece; dünyanın gürültüsünün dindiği, kalbin en çıplak halinde Allah'a döndüğü kutsal bir zamandır. Herkes uyurken secdeye kapanan, gözyaşlarıyla dua eden, yalnızca Allah ile baş başa kalan kişi — işte bu kişi, ibadetin en saf ve en değerli anlarını yaşıyor demektir. Gece ibadeti; ne insanların görmesi, ne takdir kazanmak ne de alışkanlıkla yapılan bir rutindir. Saf bir yalnızlık içinde, Allah'a yöneliştir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**«Gecenin bir kısmında da onunla teheccüd namazı kıl; bu sana fazladan bir ibadettir. Umulur ki Rabbin seni övülen bir makama ulaştırır.»**\n*(İsrâ 17:79)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n**«Farz namazların ardından en faziletli namaz gece namazıdır.»**\n*(Müslim — Ebû Hureyre r.a. rivayetiyle)*\n\nGece namazı, yani teheccüd; büyük bir nimet olmakla birlikte, büyük bir disiplin de gerektirmektedir. Hemen her gece kılmak zorunda değilsiniz. Haftada bir gece bile olsa, gece yarısı ya da sabah ezanından kısa bir süre önce kalkıp sadece iki rekât namaz kılmak, o namazın kalbinizde bırakacağı iz tarif edilemez. Bu gece uyumadan önce bir niyet edin: \"Yarın teheccüde kalkacağım.\" Allah bu niyeti bilir ve değerini verir.",
@@ -25,7 +26,8 @@
     "ckb": "شەو؛ کاتێکی پیرۆزە کە دەنگوبانگی دنیا کەم دەبێت و دل بە ئاسایی ترین حاڵەکەی ئاراستەی الله دەبێت. ئەو کەسەی کاتێک هەموو خەون دەبن سەجدەی دەکات، بە گریان دوعا دەکات، تەنها لەگەڵ الله دەمێنێتەوە — ئەم کەسە، پاکترین و بەنرختترین کاتەکانی عیبادەت دەژیێت. عیبادەتی شەو نەک بۆ ئەوەیە کەسانی دیکە ببیننەوە، نەک بۆ بەدەستهێنانی پەسەند، نەک ڕووتینێکی کرابوو لە ئالوگۆڕ. گەڕانەوەیەکی ئاراستەی الله لە تەنیایی پاکدایە.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**«لە شەویشدا تەهەججود بکە؛ ئەمەش نافلەیەکی زیادەیە بۆ تۆ. هیوایە ڕەببیت تۆ بگاتە شوێنێکی پەستێن.»**\n*(ئیسرا ١٧:٧٩)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n**«فەزیلەتدارترین نوێژ دوای نوێژی فەرز، نوێژی شەوە.»**\n*(موسلیم — بە ڕێوایەتی ئەبو هورەیرە ڕ.ع)*\n\nنوێژی شەو، یانی تەهەججود؛ نیمەتێکی گەورەیە بەڵام دیسیپلینێکی گەورەیش پێویست دەکات. پێویست نییە هەموو شەو بیکەی. تەنانەت ئەگەر هەفتەیەک یەک شەو بێت، نیوەشەو یان کەمێک پێش بانگی بەیانیان هەلبستی و تەنها دوو ڕەکئەت نوێژت بکات — شوپانی کە ئەو نوێژە لە دلت دەهێڵێت ناگوترێت. ئەمشەو پێش خەوت نیەت بکە: «سبەی بۆ تەهەججود هەڵدەستم.» الله ئەم نیەتەی دەزانێت و بەنرخی دەدات.",
     "ar": "الليلُ وقتٌ مقدَّسٌ تخمد فيه ضوضاءُ الدنيا ويتوجَّه فيه القلبُ إلى الله في حالته الأكثر صدقاً وتجرُّداً. من يسجد بينما الجميع نائمون، ويُصلِّي بدموع، ولا يُؤانسه إلَّا الله — يعيش أنقى لحظات العبادة وأثمنَها. عبادةُ الليل ليست لأن يراه الناس، ولا لنيل التقدير، ولا عادةً تُؤدَّى بحكم العرف. إنَّها توجُّهٌ إلى الله في الخلوة الخالصة.\n\nيقول الله تعالى:\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n*(الإسراء: ٧٩)*\n\nوقال النبيُّ ﷺ:\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n*(رواه مسلم — عن أبي هريرة رضي الله عنه)*\n\nصلاةُ الليل — أي التهجُّد — نعمةٌ عظيمةٌ لكنَّها تتطلَّب انضباطاً. لا يلزمك أداؤها كلَّ ليلة. حتى لو مرَّةً واحدةً في الأسبوع، أن تنهض منتصفَ الليل أو قُبيلَ أذان الفجر وتُصلِّي ركعتَين فقط — الأثرُ الذي ستتركه تلك الصلاةُ في قلبك لا يُوصَف.",
     "ru": "Ночь – священное время, когда шум мира стихает и сердце обращается к Аллаху в самом обнаженном виде. Человек, который простирается ниц, пока все спят, который молится со слезами, который остается наедине только с Аллахом – этот человек переживает самые чистые и драгоценные минуты поклонения. Ночное богослужение предназначено не для того, чтобы люди его видели, не для того, чтобы получить признание, это не рутина, совершаемая по привычке. Это обращение к Аллаху в чистом одиночестве.\n\nАллах Всевышний говорит:\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**\"И ночью молись с ним как с дополнительным поклонением для тебя; возможно, твой Господь поднимет тебя на прославленное положение.\"**\n*(Аль-Исра 17:79)*\n\nНаш Пророк ﷺ сказал:\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n**\"Самая добродетельная молитва после обязательных молитв - это ночная молитва.\"**\n*(Муслим — передал Абу Хурайра r.a.)*\n\nНочная молитва, то есть тахаджуд, является великим благословением, но также требует большой дисциплины. Вам не обязательно молиться об этом каждую ночь. Даже если всего раз в неделю встать в полночь или незадолго до утреннего азана и совершить всего два ракаата – впечатление, которое молитва оставит в вашем сердце, неописуемо. Сегодня вечером перед сном сделайте намерение: «Завтра я встану на тахаджуд». Аллах знает это намерение и придает ему должное значение.",
-    "fr": "La nuit est un moment sacré où le bruit du monde s'apaise et où le cœur se tourne vers Allah dans son état le plus nu. La personne qui se prosterne pendant que tout le monde dort, qui prie en pleurant, qui est seule avec Allah seul, cette personne vit les moments d’adoration les plus purs et les plus précieux. Le culte nocturne n'est pas destiné à être vu, ni à être apprécié, ni une routine faite par habitude. C'est un retournement vers Allah dans une pure solitude.\n\nAllah le Très-Haut dit :\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**\"Et dès la nuit, priez avec cela comme une adoration supplémentaire pour vous ; peut-être que votre Seigneur vous élèvera à un rang loué.\"**\n*(Al-Isra 17:79)*\n\nNotre Prophète ﷺ a dit :\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n**\"La prière la plus vertueuse après les prières obligatoires est la prière du soir.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nLa prière nocturne, c'est-à-dire tahajjud, est une grande bénédiction mais nécessite également une grande discipline. Vous n’êtes pas obligé de le prier tous les soirs. Même si ce n'est qu'une fois par semaine, se lever à minuit ou peu avant l'adhan du matin et prier seulement deux rak'ahs - l'impression que la prière laissera dans votre cœur est indescriptible. Ce soir, avant de dormir, faites une intention : « Je me lèverai pour le tahajjud demain. Allah connaît cette intention et lui donne la valeur qui lui revient."
+    "fr": "La nuit est un moment sacré où le bruit du monde s'apaise et où le cœur se tourne vers Allah dans son état le plus nu. La personne qui se prosterne pendant que tout le monde dort, qui prie en pleurant, qui est seule avec Allah seul, cette personne vit les moments d’adoration les plus purs et les plus précieux. Le culte nocturne n'est pas destiné à être vu, ni à être apprécié, ni une routine faite par habitude. C'est un retournement vers Allah dans une pure solitude.\n\nAllah le Très-Haut dit :\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**\"Et dès la nuit, priez avec cela comme une adoration supplémentaire pour vous ; peut-être que votre Seigneur vous élèvera à un rang loué.\"**\n*(Al-Isra 17:79)*\n\nNotre Prophète ﷺ a dit :\n\n**«أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ»**\n**\"La prière la plus vertueuse après les prières obligatoires est la prière du soir.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nLa prière nocturne, c'est-à-dire tahajjud, est une grande bénédiction mais nécessite également une grande discipline. Vous n’êtes pas obligé de le prier tous les soirs. Même si ce n'est qu'une fois par semaine, se lever à minuit ou peu avant l'adhan du matin et prier seulement deux rak'ahs - l'impression que la prière laissera dans votre cœur est indescriptible. Ce soir, avant de dormir, faites une intention : « Je me lèverai pour le tahajjud demain. Allah connaît cette intention et lui donne la valeur qui lui revient.",
+    "id": "Malam hari adalah waktu yang sakral ketika kebisingan dunia mereda dan hati kembali kepada Allah dalam keadaan paling telanjang. Orang yang bersujud ketika semua orang tidur, yang berdoa dengan air mata, yang menyendiri hanya dengan Allah – orang ini sedang mengalami saat-saat ibadah yang paling murni dan paling berharga. Ibadah malam bukan untuk dilihat orang, bukan untuk mendapat apresiasi, bukan rutinitas yang dilakukan karena kebiasaan. Ini adalah berpaling kepada Allah dalam kesendirian murni.\n\nAllah SWT berfirman:\n\n**﴿وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾**\n**\"Dan di malam hari, salatlah dengannya sebagai ibadah tambahan bagimu; mungkin Tuhanmu akan mengangkatmu ke tempat yang terpuji.\"**\n*(Al-Isra 17:79)*\n\nNabi kita ﷺ bersabda:\n\n**\"أَفْضَلُ الصَّلَاةِ بَعْدَ الْفَرِيضَةِ صَلَاةُ اللَّيْلِ\"**\n**\"Sholat yang paling utama setelah sholat fardhu adalah sholat malam.\"**\n*(Muslim — meriwayatkan Abu Hurairah r.a.)*\n\nSholat malam yaitu tahajud merupakan suatu nikmat yang besar namun juga memerlukan kedisiplinan yang besar. Anda tidak perlu mendoakannya setiap malam. Meski hanya seminggu sekali, bangun tengah malam atau sesaat sebelum adzan subuh dan shalat dua rakaat saja—kesan yang tertinggal di hati akibat shalat tak terlukiskan. Malam ini sebelum tidur, niatkan: 'Saya akan bangun untuk tahajjud besok.' Allah mengetahui niat ini dan memberinya nilai yang pantas."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسی «فەزیلەتدارترین نوێژ دوای نوێژی فەرز، نوێژی شەوە» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «أفضل الصلاة بعد الفريضة صلاة الليل»؟",
         "ru": "Кто передал хадис «Самая добродетельная молитва после обязательных молитв – это ночная молитва»?",
-        "fr": "Qui a rapporté le hadith « La prière la plus vertueuse après les prières obligatoires est la prière du soir » ?"
+        "fr": "Qui a rapporté le hadith « La prière la plus vertueuse après les prières obligatoires est la prière du soir » ?",
+        "id": "Siapa yang meriwayatkan hadits “Sholat yang paling utama setelah sholat fardhu adalah sholat malam”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — موسلیم",
           "ar": "أبو هريرة رضي الله عنه — مسلم",
           "ru": "Абу Хурайра r.a. — Мусульманин",
-          "fr": "Abu Hurairah r.a. -Musulman"
+          "fr": "Abu Hurairah r.a. -Musulman",
+          "id": "Abu Hurairah r.a. — Muslim"
         },
         {
           "tr": "Hz. Ömer r.a. — Buhârî",
@@ -68,7 +72,8 @@
           "ckb": "عومەر ڕ.ع — بوخاری",
           "ar": "عمر رضي الله عنه — البخاري",
           "ru": "Умар р.а. — Бухари",
-          "fr": "Umar r.a. — Boukhari"
+          "fr": "Umar r.a. — Boukhari",
+          "id": "Umar r.a. — Bukhari"
         },
         {
           "tr": "Hz. Âişe r.a. — Tirmizî",
@@ -81,7 +86,8 @@
           "ckb": "عائیشە ڕ.ع — تیرمیزی",
           "ar": "عائشة رضي الله عنها — الترمذي",
           "ru": "Аиша р.а. — Тирмизи",
-          "fr": "Aisha r.a. — Tirmidhi"
+          "fr": "Aisha r.a. — Tirmidhi",
+          "id": "Aisyah r.a. – Tirmidzi"
         },
         {
           "tr": "İbn Abbâs r.a. — Nesâî",
@@ -94,7 +100,8 @@
           "ckb": "ئیبن عەباس ڕ.ع — نەسائی",
           "ar": "ابن عباس رضي الله عنه — النسائي",
           "ru": "Ибн Аббас r.a. — Насаи",
-          "fr": "Ibn Abbas r.a. — Nasaï"
+          "fr": "Ibn Abbas r.a. — Nasaï",
+          "id": "Ibnu Abbas r.a. —Nasai"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی ئیسرا ١٧:٧٩، الله بۆ ئەوانەی تەهەججود دەکەن چی بەڵێن دەدات؟",
         "ar": "ما وعد الله لمن يؤدي صلاة التهجد وفق الإسراء 17:79؟",
         "ru": "Согласно Аль-Исра 17:79, что обещает Аллах тем, кто совершает тахаджуд-намаз?",
-        "fr": "Selon Al-Isra 17 : 79, que promet Allah à ceux qui accomplissent la prière du tahajjud ?"
+        "fr": "Selon Al-Isra 17 : 79, que promet Allah à ceux qui accomplissent la prière du tahajjud ?",
+        "id": "Menurut Al-Isra 17:79, apa janji Allah bagi orang yang melaksanakan shalat tahajud?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "گەیاندن بە شوێنێکی پەستێن",
           "ar": "البعث إلى المقام المحمود",
           "ru": "Подъем на хвалебную станцию",
-          "fr": "S'élever à une station louée"
+          "fr": "S'élever à une station louée",
+          "id": "Naik ke stasiun terpuji"
         },
         {
           "tr": "Dünyada zenginlik vermek",
@@ -139,7 +148,8 @@
           "ckb": "لە دنیادا دەوڵەمەندی دان",
           "ar": "منح الثروة في الدنيا",
           "ru": "Дарование богатства в этом мире",
-          "fr": "Accorder la richesse dans ce monde"
+          "fr": "Accorder la richesse dans ce monde",
+          "id": "Memberikan kekayaan di dunia ini"
         },
         {
           "tr": "Uzun ömür vermek",
@@ -152,7 +162,8 @@
           "ckb": "ژیانی درێژ دان",
           "ar": "منح العمر الطويل",
           "ru": "Даруя долгую жизнь",
-          "fr": "Accorder une longue vie"
+          "fr": "Accorder une longue vie",
+          "id": "Memberikan umur panjang"
         },
         {
           "tr": "Günahların tamamını affetmek",
@@ -165,7 +176,8 @@
           "ckb": "هەموو گوناهەکان بووردە کردن",
           "ar": "مغفرة جميع الذنوب",
           "ru": "Прощая все грехи",
-          "fr": "Pardonner tous les péchés"
+          "fr": "Pardonner tous les péchés",
+          "id": "Mengampuni segala dosa"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "جیاوازی عیبادەتی شەو لە ئەوانی دیکەی چییە؟",
         "ar": "ما الفرق بين عبادة الليل وغيرها من العبادات؟",
         "ru": "В чем разница между ночным богослужением и другими актами поклонения?",
-        "fr": "Quelle est la différence entre le culte nocturne et les autres actes de culte ?"
+        "fr": "Quelle est la différence entre le culte nocturne et les autres actes de culte ?",
+        "id": "Apa perbedaan ibadah malam dengan ibadah lainnya?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "لە تەنیایی پاکدا، تەنها لەگەڵ الله ئەنجام دەدرێت؛ ئیحتیمالی ڕیا کەمترینە",
           "ar": "تقع في خلوة خالصة مع الله وحده والرياء فيها في أدنى مستوياته",
           "ru": "Это происходит в чистом одиночестве, наедине только с Аллахом; вероятность рии самая низкая",
-          "fr": "Cela se déroule dans une pure solitude, seul avec Allah seul ; la possibilité de riya est la plus faible"
+          "fr": "Cela se déroule dans une pure solitude, seul avec Allah seul ; la possibilité de riya est la plus faible",
+          "id": "Hal ini terjadi dalam kesunyian murni, sendirian dengan Allah saja; kemungkinan riya paling rendah"
         },
         {
           "tr": "Yalnızca ramazan ayında yapılabilir",
@@ -210,7 +224,8 @@
           "ckb": "تەنها لە مانگی ڕەمەزاندا دەتوانرێت بکرێت",
           "ar": "لا تُؤدَّى إلا في رمضان",
           "ru": "Это можно сделать только в месяц Рамадан.",
-          "fr": "Cela ne peut être fait que pendant le mois de Ramadan"
+          "fr": "Cela ne peut être fait que pendant le mois de Ramadan",
+          "id": "Itu hanya bisa dilakukan di bulan Ramadhan"
         },
         {
           "tr": "Her gece mutlaka kılınması zorunludur",
@@ -223,7 +238,8 @@
           "ckb": "هەموو شەو فەرزە بیکرێت",
           "ar": "يجب أداؤها كل ليلة",
           "ru": "Обязательно молиться каждую ночь",
-          "fr": "Il est obligatoire de le prier tous les soirs"
+          "fr": "Il est obligatoire de le prier tous les soirs",
+          "id": "Wajibnya mendoakannya setiap malam"
         },
         {
           "tr": "Farz namazlardan daha az değerlidir",
@@ -236,7 +252,8 @@
           "ckb": "لە نوێژی فەرز کەمتر بەنرخە",
           "ar": "أقل قيمة من الصلوات الفريضة",
           "ru": "Это менее ценно, чем обязательные молитвы.",
-          "fr": "C'est moins précieux que les prières obligatoires"
+          "fr": "C'est moins précieux que les prières obligatoires",
+          "id": "Nilainya kurang dari shalat fardhu"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "ئایا پێویستە هەموو شەو هەلبستیت بۆ تەهەججود؟",
         "ar": "هل يجب القيام كل ليلة لأداء التهجد؟",
         "ru": "Нужно ли вставать каждую ночь, чтобы совершить тахаджуд?",
-        "fr": "Est-il nécessaire de se lever chaque nuit pour prier tahajjud ?"
+        "fr": "Est-il nécessaire de se lever chaque nuit pour prier tahajjud ?",
+        "id": "Apakah wajib bangun setiap malam untuk shalat tahajjud?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "نەخێر؛ تەنانەت هەفتەیەک یەک شەو دوو ڕەکئەت نوێژ کردنیش زۆر بەنرخە",
           "ar": "لا؛ بل ركعتان في الأسبوع مرة واحدة ثمينة جداً",
           "ru": "Нет; даже совершение двух ракаатов раз в неделю чрезвычайно ценно",
-          "fr": "Non; même prier deux rak'ahs une fois par semaine est extrêmement précieux"
+          "fr": "Non; même prier deux rak'ahs une fois par semaine est extrêmement précieux",
+          "id": "TIDAK; bahkan shalat dua rakaat seminggu sekali sangatlah berharga"
         },
         {
           "tr": "Evet; her gece kılınması farzdır",
@@ -281,7 +300,8 @@
           "ckb": "بەڵێ؛ هەموو شەو کردنی فەرزە",
           "ar": "نعم؛ أداؤها كل ليلة فريضة",
           "ru": "Да; обязательно молиться каждую ночь",
-          "fr": "Oui; il est obligatoire de le prier tous les soirs"
+          "fr": "Oui; il est obligatoire de le prier tous les soirs",
+          "id": "Ya; wajib shalatnya setiap malam"
         },
         {
           "tr": "Yalnızca ramazan ayında kılınması yeterlidir",
@@ -294,7 +314,8 @@
           "ckb": "تەنها لە ڕەمەزاندا کردنی بەسەیە",
           "ar": "يكفي أداؤها في رمضان فحسب",
           "ru": "Достаточно совершить эту молитву только в Рамадан.",
-          "fr": "Il suffit de le prier uniquement pendant le Ramadan"
+          "fr": "Il suffit de le prier uniquement pendant le Ramadan",
+          "id": "Cukuplah berdoa di bulan Ramadhan saja"
         },
         {
           "tr": "Yalnızca âlimlere tavsiye edilir",
@@ -307,7 +328,8 @@
           "ckb": "تەنها بۆ زانایان پێشنیار دەکرێت",
           "ar": "يُوصى به للعلماء فحسب",
           "ru": "Рекомендуется только ученым",
-          "fr": "Il n'est recommandé qu'aux universitaires"
+          "fr": "Il n'est recommandé qu'aux universitaires",
+          "id": "Ini hanya dianjurkan bagi para ulama"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "پێش عیبادەتی شەو چی پێشنیار دەکرێت بکرێت؟",
         "ar": "ما المقترح فعله قبل عبادة الليل؟",
         "ru": "Что предлагается сделать перед ночным богослужением?",
-        "fr": "Que faut-il faire avant le culte nocturne ?"
+        "fr": "Que faut-il faire avant le culte nocturne ?",
+        "id": "Apa yang dianjurkan dilakukan sebelum ibadah malam?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "پێش خەوکردن نیەت کردن: «سبەی بۆ تەهەججود هەڵدەستم»",
           "ar": "النية قبل النوم: «سأقوم للتهجد غداً»",
           "ru": "Создание намерения перед сном: «Завтра я встану на тахаджуд».",
-          "fr": "Faire l'intention avant de dormir : « Je me lèverai pour le tahajjud demain »"
+          "fr": "Faire l'intention avant de dormir : « Je me lèverai pour le tahajjud demain »",
+          "id": "Niat sebelum tidur: 'Saya akan bangun untuk tahajjud besok'"
         },
         {
           "tr": "Çok miktarda yiyip içmek",
@@ -352,7 +376,8 @@
           "ckb": "زۆر خواردن و خواردنەوە",
           "ar": "الإكثار من الأكل والشرب",
           "ru": "Много есть и пить",
-          "fr": "Manger et boire beaucoup"
+          "fr": "Manger et boire beaucoup",
+          "id": "Makan dan minum yang banyak"
         },
         {
           "tr": "Çok geç saate kadar uyumamak",
@@ -365,7 +390,8 @@
           "ckb": "هەتا دواییەک خەو نەکردن",
           "ar": "عدم النوم حتى ساعة متأخرة",
           "ru": "Не спать допоздна",
-          "fr": "Ne pas dormir jusqu'à très tard"
+          "fr": "Ne pas dormir jusqu'à très tard",
+          "id": "Tidak tidur sampai larut malam"
         },
         {
           "tr": "Başkalarına teheccüde kalkacağını söylemek",
@@ -378,7 +404,8 @@
           "ckb": "بە کەسانی دیکە بڵێی کە سبەی بۆ تەهەججود هەڵدەستیت",
           "ar": "إخبار الآخرين بأنه سيقوم للتهجد",
           "ru": "Говорить другим, что человек встанет на тахаджуд",
-          "fr": "Dire aux autres qu'on se lèvera pour tahajjud"
+          "fr": "Dire aux autres qu'on se lèvera pour tahajjud",
+          "id": "Memberitahu orang lain bahwa seseorang akan bangkit untuk tahajud"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمشەو پێش خەوت ئەمەت بیخەیەوە: کاتێک سبەی شەو نیوەشەو هەڵدەستی، ماڵەکەت بێ دەنگە، هەموو خەونن، تەنها تۆ و الله هەیتون. لەو کاتەدا کاتێک سەجدەی دەکەی، لە دنیا دەبڕیتەوە و دەچیتە بەر الله. دەزانی کە ئەو کاتە بێ هاوتاییە. ئەمڕۆ بڕیارێک بدە: ئەم هەفتەیەدا بەلایەنی کەم یەک شەو بۆ تەهەججود هەلبستە. تەنها دوو ڕەکئەت. بەیانی کاتێک هەستیتەوە، شوپانی کە ئەو نوێژە لە دلت هێشتووە دەبینیتەوە.",
     "ar": "الليلةَ قبل النوم تخيَّل هذا: حين تنهض ليلةَ غدٍ في منتصف الليل، بيتُك هادئ، والجميع نائمون، لا أحدَ سواك والله. في تلك اللحظة وأنت تسجد تنفصل عن الدنيا وتدخل حضرة الله. تعلم أنَّ هذه اللحظةَ فريدة. اتَّخِذ اليوم قراراً: أن تنهض للتهجُّد ليلةً واحدةً على الأقل هذا الأسبوع. ركعتان فحسب. حين تستيقظ صباحاً ستلاحظ الأثرَ الذي تركته تلك الصلاةُ في قلبك.",
     "ru": "Сегодня вечером перед сном представьте себе следующее: Когда завтра вечером вы встанете в полночь, ваш дом тих, все спят, есть только вы и Аллах. В тот момент, когда вы совершаете земной поклон, вы отделяетесь от мира и входите в присутствие Аллаха. Вы знаете, этот момент уникален. Примите решение сегодня: встаньте на тахаджуд хотя бы один вечер на этой неделе. Всего два ракаата. Проснувшись утром, вы заметите впечатление, которое молитва оставила в вашем сердце.",
-    "fr": "Ce soir, avant de dormir, imaginez ceci : lorsque vous vous lèverez à minuit demain soir, votre maison est silencieuse, tout le monde dort, il n'y a que vous et Allah. À ce moment-là, lorsque vous vous prosternez, vous vous détachez du monde et entrez dans la présence d'Allah. Vous savez que ce moment est unique. Prenez une décision aujourd'hui : levez-vous pour le tahajjud au moins une nuit cette semaine. Juste deux rak'ahs. Lorsque vous vous réveillerez le matin, vous remarquerez l'impression que la prière a laissée sur votre cœur."
+    "fr": "Ce soir, avant de dormir, imaginez ceci : lorsque vous vous lèverez à minuit demain soir, votre maison est silencieuse, tout le monde dort, il n'y a que vous et Allah. À ce moment-là, lorsque vous vous prosternez, vous vous détachez du monde et entrez dans la présence d'Allah. Vous savez que ce moment est unique. Prenez une décision aujourd'hui : levez-vous pour le tahajjud au moins une nuit cette semaine. Juste deux rak'ahs. Lorsque vous vous réveillerez le matin, vous remarquerez l'impression que la prière a laissée sur votre cœur.",
+    "id": "Malam ini sebelum kamu tidur bayangkan ini: Saat kamu bangun tengah malam besok malam, rumahmu sunyi, semua orang tertidur, yang ada hanya kamu dan Allah. Pada saat Anda bersujud, Anda melepaskan diri dari dunia dan memasuki hadirat Allah. Anda tahu momen ini unik. Buatlah keputusan hari ini: Bangunlah untuk tahajud setidaknya satu malam dalam minggu ini. Hanya dua rakaat. Ketika Anda bangun di pagi hari Anda akan melihat kesan doa tertinggal di hati Anda."
   }
 }

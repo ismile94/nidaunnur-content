@@ -12,7 +12,8 @@
     "ckb": "بەجێهێشتنی ڕابردوو",
     "ar": "التحرر من الماضي",
     "ru": "Отпустить прошлое",
-    "fr": "Lâcher prise sur le passé"
+    "fr": "Lâcher prise sur le passé",
+    "id": "Melepaskan Masa Lalu"
   },
   "content": {
     "tr": "Geçmiş, değiştiremeyeceğin tek şeydir. Ama onu taşıyıp taşımamak — bu seçim senindir.\n\nAllah Teâlâ, tevbe eden kulunun günahlarını yalnızca örttüğünü değil, dönüştürdüğünü haber veriyor:\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**«Ancak tevbe edip iman eden ve salih amel işleyenler hariç — işte Allah, onların kötülüklerini iyiliklere çevirir.»**\n*(Furkân 25:70)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n**«Günahından tevbe eden, hiç günah işlememiş gibidir.»**\n*(İbn Mâce — İbn Mes'ûd r.a. rivayetiyle)*\n\nGeçmişini taşımak, Allah'ın sildiği bir sayfayı kendi elinle tekrar açmaktır. Tevbe ettikten sonra geçmişe dönüp acı çekmek, Allah'ın bağışlamasına güvenmemek anlamına gelir. Bırak — çünkü Allah bıraktı.",
@@ -25,7 +26,8 @@
     "ckb": "ڕابردوو تەنها شتێکە کە ناتوانی بیگۆڕی. بەڵام هەڵگرتنی یان نەهەڵگرتنی — ئەو هەڵبژاردن یەکی تۆیە.\n\nاللەی بەرز پێمان دەگەیەنێت کە بۆ بەندەی کە تۆبە دەکات، ئەو نەک تەنها گوناهەکانی دەپۆشێت — بەڵکو دەیگۆڕێتەوەیان:\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**«جگە لەوانەی تۆبە دەکەن، باوەڕ دەهێنن و کارە باوەکان دەکەن — ئەوانە اللە خراپەکانیان دەگۆڕێتە باوەکان.»**\n*(ئەلفورقان: ٧٠)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n**«ئەوەی لە گوناهەکەی تۆبە دەکات وەکو ئەوەیە کە گوناهی نییە.»**\n*(ئیبن ماجە — بە ڕێوایەتی ئیبن مەسعوود)*\n\nهەڵگرتنی ڕابردووت مانایەکی هەیە کە بە دەستی خۆت پەڕەیەک دووبارە دەکەیتەوە کە اللە پێشتر سڕییەتەوە. گەڕانەوە بۆ ئازار دوای تۆبە مانایەکی هەیە کە پشتت بە لێبوردنی اللە نییە. بەجێیبهێلە — چونکە اللەی بەجێهێشتووە.",
     "ar": "الماضي هو الشيء الوحيد الذي لا تستطيع تغييره. أما هل تحمله أم لا — فتلك خيارُك أنت.\n\nيُخبرنا الله تعالى أنه بالنسبة للعبد التائب لا يكتفي بتغطية سيئاته — بل يُحوِّلها:\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n*(الفرقان: ٧٠)*\n\nوقال النبيُّ ﷺ:\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n*(رواه ابن ماجه — عن ابن مسعود رضي الله عنه)*\n\nحملُ ماضيك يعني أن تُعيد بيدك فتحَ صفحة محاها الله. والعودةُ إلى الألم بعد التوبة تعني عدمَ الثقة بمغفرة الله. اتركه — لأن الله تركه.",
     "ru": "Прошлое – это единственное, что вы не можете изменить. Но носите вы его или нет — это ваш выбор.\n\nВсевышний Аллах говорит нам, что для раскаивающегося раба Он не просто покрывает грехи — Он преобразовывает их:\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**\"Кроме тех, кто раскаивается, верует и совершает праведные дела — для них Аллах заменит их злые дела добрыми.\"**\n*(Аль-Фуркан 25:70)*\n\nПророк ﷺ сказал:\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n**\"Кто раскаивается в грехе, подобен тому, у кого нет греха\".**\n*(Ибн Маджа — передал Ибн Мас’уд)*\n\nНести свое прошлое – значит заново открыть своей рукой страницу, которую Аллах уже стер. Вернуться к боли после покаяния – значит не довериться прощению Аллаха. Оставьте это, потому что Аллах уже это сделал.",
-    "fr": "Le passé est la seule chose que vous ne pouvez pas changer. Mais que vous le portiez ou non, ce choix vous appartient.\n\nAllah le Très-Haut nous dit que pour le serviteur qui se repent, Il ne se contente pas de couvrir ses péchés – Il les transforme :\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**\"Sauf ceux qui se repentent, croient et accomplissent de bonnes actions : pour ceux-là, Allah remplacera leurs mauvaises actions par de bonnes.\"**\n*(Al-Furqan 25:70)*\n\nLe Prophète ﷺ a dit :\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n**\"Celui qui se repent du péché est comme celui qui n'a pas de péché.\"**\n*(Ibn Majah — rapporté par Ibn Mas'ud)*\n\nPorter son passé, c’est rouvrir de sa propre main une page qu’Allah a déjà effacée. Revenir à la douleur après le repentir signifie ne pas faire confiance au pardon d'Allah. Laissons tomber – parce qu’Allah l’a déjà fait."
+    "fr": "Le passé est la seule chose que vous ne pouvez pas changer. Mais que vous le portiez ou non, ce choix vous appartient.\n\nAllah le Très-Haut nous dit que pour le serviteur qui se repent, Il ne se contente pas de couvrir ses péchés – Il les transforme :\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**\"Sauf ceux qui se repentent, croient et accomplissent de bonnes actions : pour ceux-là, Allah remplacera leurs mauvaises actions par de bonnes.\"**\n*(Al-Furqan 25:70)*\n\nLe Prophète ﷺ a dit :\n\n**«التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ»**\n**\"Celui qui se repent du péché est comme celui qui n'a pas de péché.\"**\n*(Ibn Majah — rapporté par Ibn Mas'ud)*\n\nPorter son passé, c’est rouvrir de sa propre main une page qu’Allah a déjà effacée. Revenir à la douleur après le repentir signifie ne pas faire confiance au pardon d'Allah. Laissons tomber – parce qu’Allah l’a déjà fait.",
+    "id": "Masa lalu adalah satu hal yang tidak bisa Anda ubah. Tapi apakah Anda membawanya atau tidak – pilihan ada di tangan Anda.\n\nAllah SWT memberitahu kita bahwa bagi hamba yang bertaubat, Dia tidak sekadar menutupi dosa-dosa mereka — Dia mengubahnya:\n\n**﴿إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ﴾**\n**\"Kecuali orang-orang yang bertaubat, beriman dan mengerjakan amal shaleh, bagi mereka, Allah akan mengganti perbuatan buruknya dengan perbuatan baik.\"**\n*(Al-Furqan 25:70)*\n\nNabi ﷺ bersabda:\n\n**\"التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ\"**\n**\"Orang yang bertaubat dari dosa ibarat orang yang tidak berdosa.\"**\n*(Ibnu Majah — riwayat Ibnu Mas'ud)*\n\nMembawa masa lalu berarti membuka kembali dengan tanganmu sendiri halaman yang telah dihapus oleh Allah. Kembali kesakitan setelah bertaubat berarti tidak percaya pada ampunan Allah. Biarkan saja – karena Allah sudah melakukannya."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "بەپێی ئەلفورقان ٢٥:٧٠، اللە چی دەکات بە خراپەکانی ئەوانەی تۆبە دەکەن و کارە باوەکان دەکەن؟",
         "ar": "ماذا يفعل الله بسيئات التائبين العاملين للصالحات وفق الآية ٧٠ من سورة الفرقان؟",
         "ru": "Согласно Аль-Фуркан 25:70, что делает Аллах со злыми делами тех, кто раскаивается и творит праведные дела?",
-        "fr": "Selon Al-Furqan 25 : 70, que fait Allah des mauvaises actions de ceux qui se repentent et accomplissent de bonnes actions ?"
+        "fr": "Selon Al-Furqan 25 : 70, que fait Allah des mauvaises actions de ceux qui se repentent et accomplissent de bonnes actions ?",
+        "id": "Menurut Al-Furqan 25:70, apa yang Allah perbuat terhadap keburukan orang yang bertaubat dan mengerjakan amal shaleh?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "دووپاتیان دەکاتەوە",
           "ar": "يضاعفها",
           "ru": "Он удваивает их",
-          "fr": "Il les double"
+          "fr": "Il les double",
+          "id": "Dia menggandakannya"
         },
         {
           "tr": "Onları iyiliklere çevirir",
@@ -68,7 +72,8 @@
           "ckb": "دەیگۆڕێتەوەیان بۆ باوەکان",
           "ar": "يُبدِّلها حسنات",
           "ru": "Он заменяет их добрыми делами",
-          "fr": "Il les remplace par de bonnes actions"
+          "fr": "Il les remplace par de bonnes actions",
+          "id": "Dia menggantinya dengan perbuatan baik"
         },
         {
           "tr": "Mahşere bırakır",
@@ -81,7 +86,8 @@
           "ckb": "بۆ ڕۆژی قیامەت دەیهێڵێتەوە",
           "ar": "يتركها إلى يوم القيامة",
           "ru": "Он оставляет их на Судный день",
-          "fr": "Il les quitte pour le Jour du Jugement"
+          "fr": "Il les quitte pour le Jour du Jugement",
+          "id": "Dia meninggalkan mereka untuk Hari Pembalasan"
         },
         {
           "tr": "Onları bir süre askıya alır",
@@ -94,7 +100,8 @@
           "ckb": "بۆ ماوەیەک دایان دەوەستێنێت",
           "ar": "يوقفها مؤقتاً",
           "ru": "Он отстраняет их на некоторое время",
-          "fr": "Il les suspend pour une période"
+          "fr": "Il les suspend pour une période",
+          "id": "Dia menangguhkan mereka untuk jangka waktu tertentu"
         }
       ],
       "correct": 1
@@ -112,7 +119,8 @@
         "ckb": "حەدیسی «ئەوەی لە گوناهەکەی تۆبە دەکات وەکو ئەوەیە کە گوناهی نییە» لە کام سەرچاوەیەکدایە؟",
         "ar": "في أيّ مصدر يرد حديث «التائب من الذنب كمن لا ذنب له»؟",
         "ru": "В каком источнике встречается хадис «Тот, кто раскаивается в грехе, подобен тому, у кого нет греха»?",
-        "fr": "Dans quelle source trouve-t-on le hadith « Celui qui se repent du péché est comme celui qui n'a pas de péché » ?"
+        "fr": "Dans quelle source trouve-t-on le hadith « Celui qui se repent du péché est comme celui qui n'a pas de péché » ?",
+        "id": "Dari sumber manakah terdapat hadits “Orang yang bertaubat dari dosanya seperti orang yang tidak berdosa”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "بوخاری",
           "ar": "البخاري",
           "ru": "Бухари",
-          "fr": "Boukhari"
+          "fr": "Boukhari",
+          "id": "Bukhari"
         },
         {
           "tr": "Müslim",
@@ -139,7 +148,8 @@
           "ckb": "موسلیم",
           "ar": "مسلم",
           "ru": "мусульманин",
-          "fr": "musulman"
+          "fr": "musulman",
+          "id": "Muslim"
         },
         {
           "tr": "İbn Mâce",
@@ -152,7 +162,8 @@
           "ckb": "ئیبن ماجە",
           "ar": "ابن ماجه",
           "ru": "Ибн Маджа",
-          "fr": "Ibn Majah"
+          "fr": "Ibn Majah",
+          "id": "Ibnu Majah"
         },
         {
           "tr": "Tirmizî",
@@ -165,7 +176,8 @@
           "ckb": "تیرمیزی",
           "ar": "الترمذي",
           "ru": "Тирмизи",
-          "fr": "Tirmidhi"
+          "fr": "Tirmidhi",
+          "id": "Tirmidzi"
         }
       ],
       "correct": 2
@@ -183,7 +195,8 @@
         "ckb": "لە چوارچێوەی ئیسلامدا، دوای تۆبە مانەوە لەسەر گوناهە ڕابردووەکان چی مانایەکی هەیە؟",
         "ar": "ماذا يعني في المفهوم الإسلامي التعلّق بذنوب الماضي بعد التوبة؟",
         "ru": "Что означает с точки зрения ислама оставаться зацикленным на прошлых грехах после покаяния?",
-        "fr": "Que signifie, en termes islamiques, rester obsédé par les péchés passés après la repentance ?"
+        "fr": "Que signifie, en termes islamiques, rester obsédé par les péchés passés après la repentance ?",
+        "id": "Apa maksudnya dalam istilah Islam tetap terpaku pada dosa masa lalu setelah bertaubat?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "نیشانەی تەقوایەکی قووڵ",
           "ar": "علامة على تقوى عميقة",
           "ru": "Признак глубокой богобоязненности",
-          "fr": "Un signe de taqwa profond"
+          "fr": "Un signe de taqwa profond",
+          "id": "Tanda ketakwaan yang mendalam"
         },
         {
           "tr": "Allah'ın bağışlamasına tam güvenmemek",
@@ -210,7 +224,8 @@
           "ckb": "پشت بە لێبوردنی اللە تەواو نەبوون",
           "ar": "عدم الثقة الكاملة بمغفرة الله",
           "ru": "Недоверие к прощению Аллаха",
-          "fr": "Je ne fais pas entièrement confiance au pardon d'Allah"
+          "fr": "Je ne fais pas entièrement confiance au pardon d'Allah",
+          "id": "Tidak sepenuhnya percaya pada ampunan Allah"
         },
         {
           "tr": "Daha çok tevbe etmeye teşvik",
@@ -223,7 +238,8 @@
           "ckb": "هاندانی تۆبەی زیاتر",
           "ar": "حافز على مزيد من التوبة",
           "ru": "Поощрение больше каяться",
-          "fr": "Un encouragement à se repentir davantage"
+          "fr": "Un encouragement à se repentir davantage",
+          "id": "Sebuah dorongan untuk lebih banyak bertobat"
         },
         {
           "tr": "Hem doğal hem de İslam'a uygun bir tutum",
@@ -236,7 +252,8 @@
           "ckb": "ڕووکارێکی سرووشتی و گونجاو لەگەڵ ئیسلام",
           "ar": "موقف طبيعي ومناسب إسلامياً",
           "ru": "Естественный и соответствующий исламу подход",
-          "fr": "Une attitude naturelle et islamiquement appropriée"
+          "fr": "Une attitude naturelle et islamiquement appropriée",
+          "id": "Suatu sikap yang wajar dan sesuai Islam"
         }
       ],
       "correct": 1
@@ -254,7 +271,8 @@
         "ckb": "وشەی «یوبەددیلو» لە ئەلفورقان ٢٥:٧٠دا چی مانایەکی هەیە؟",
         "ar": "ما معنى كلمة «يُبدِّل» في الآية ٧٠ من سورة الفرقان؟",
         "ru": "Что означает слово «юбаддилу» в Аль-Фуркан 25:70?",
-        "fr": "Que signifie le mot « Yubaddilu » dans Al-Furqan 25 : 70 ?"
+        "fr": "Que signifie le mot « Yubaddilu » dans Al-Furqan 25 : 70 ?",
+        "id": "Apa arti kata “yubaddilu” dalam surat Al-Furqan 25:70?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "دەپۆشێت / دەشارێتەوە",
           "ar": "يستر / يخفي",
           "ru": "Покрывает/скрывает",
-          "fr": "Couvre / cache"
+          "fr": "Couvre / cache",
+          "id": "Menutupi/menyembunyikan"
         },
         {
           "tr": "Affeder / siler",
@@ -281,7 +300,8 @@
           "ckb": "دەبووردێت / دەسڕێتەوە",
           "ar": "يعفو / يمحو",
           "ru": "Помилование/стирание",
-          "fr": "Pardons/effacements"
+          "fr": "Pardons/effacements",
+          "id": "Maafkan / hapus"
         },
         {
           "tr": "Dönüştürür / değiştirir",
@@ -294,7 +314,8 @@
           "ckb": "دەگۆڕێت / دەیگۆڕێتەوە",
           "ar": "يُبدِّل / يُحوِّل",
           "ru": "Преобразует/заменяет",
-          "fr": "Transforme / remplace"
+          "fr": "Transforme / remplace",
+          "id": "Mengubah / menggantikan"
         },
         {
           "tr": "Erteler / bekletir",
@@ -307,7 +328,8 @@
           "ckb": "دواودەخات / دواکەوتن",
           "ar": "يؤجّل / يُأخِّر",
           "ru": "Отсрочки/задержки",
-          "fr": "Reports / retards"
+          "fr": "Reports / retards",
+          "id": "Menunda/menunda"
         }
       ],
       "correct": 2
@@ -325,7 +347,8 @@
         "ckb": "لە ئیسلامدا، بەجێهێشتنی ڕابردوو لەسەر چ کردارێک پشت دەبەستێت؟",
         "ar": "على أيّ عمل يرتكز التحرر من الماضي في الإسلام؟",
         "ru": "На каком действии в исламе основано освобождение от прошлого?",
-        "fr": "En Islam, sur quelle action repose l’abandon du passé ?"
+        "fr": "En Islam, sur quelle action repose l’abandon du passé ?",
+        "id": "Dalam Islam, tindakan apa yang dilakukan untuk melepaskan masa lalu?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "تەواو لەبیرکردنی ڕابردوو",
           "ar": "نسيان الماضي كلياً",
           "ru": "Полностью забыв прошлое",
-          "fr": "Oublier complètement le passé"
+          "fr": "Oublier complètement le passé",
+          "id": "Benar-benar melupakan masa lalu"
         },
         {
           "tr": "Başkalarını suçlamak",
@@ -352,7 +376,8 @@
           "ckb": "تاوانبارکردنی کەسانی تر",
           "ar": "إلقاء اللوم على الآخرين",
           "ru": "Обвинение других",
-          "fr": "Blâmer les autres"
+          "fr": "Blâmer les autres",
+          "id": "Menyalahkan orang lain"
         },
         {
           "tr": "Samimi tevbe edip Allah'ın bağışlamasına güvenmek",
@@ -365,7 +390,8 @@
           "ckb": "بە ڕاستەقینەیی تۆبە کردن و پشتبەستن بە لێبوردنی اللە",
           "ar": "التوبة الصادقة والثقة بمغفرة الله",
           "ru": "Искренне раскаиваясь и веря в прощение Аллаха.",
-          "fr": "Se repentir sincèrement et avoir confiance dans le pardon d'Allah"
+          "fr": "Se repentir sincèrement et avoir confiance dans le pardon d'Allah",
+          "id": "Bertaubat dengan tulus dan percaya pada ampunan Allah"
         },
         {
           "tr": "Kendini cezalandırmak",
@@ -378,7 +404,8 @@
           "ckb": "سزادانی خۆت",
           "ar": "معاقبة النفس",
           "ru": "Наказание себя",
-          "fr": "Se punir"
+          "fr": "Se punir",
+          "id": "Menghukum diri sendiri"
         }
       ],
       "correct": 2
@@ -395,6 +422,7 @@
     "ckb": "شتێکی لە ڕابردووت هەیە کە شەرمت لێیە؟ ئەگەر تۆبەت کردووە، بزانە کە اللە ئەو پەڕەیەی داخستووە — تەنانەت باوەکانی سەریەوە نووسیوەتی. بەڵام ئەگەر هێشتا ئەو پەڕەیە کراوەت دەگرێت، ئەم جارە قورسایی لەلایەت دێت، نەک لە اللە. ئەمڕۆ بۆ خۆت بڵێ: «تۆبەم کرد، اللەم لێبووردووە. دیگەر هەڵمی ناگرێت.» ئەمە ئەنکار نییە — ئەمە باوەڕێکی قووڵە بە لێبوردنی اللە.",
     "ar": "هل ثمة شيء في ماضيك تستحي منه؟ إن كنتَ قد تبتَ فاعلم أن الله أغلق تلك الصفحة — بل كتب فوقها حسنات. لكن إن كنتَ لا تزال تُبقيها مفتوحة، فالثقل هذه المرة يأتي منك أنت، لا من الله. قل لنفسك اليوم: «تبتُ، وغفر الله. لم أعد أحمل هذا.» هذا ليس إنكاراً — بل هو ثقةٌ عميقة بمغفرة الله.",
     "ru": "Есть ли что-то в вашем прошлом, чего вам стыдно? Если вы покаялись, знайте, что Аллах закрыл эту страницу — и даже написал на ней добрые дела. Но если вы все еще держите ее открытой, на этот раз бремя исходит от вас, а не от Аллаха. Скажите себе сегодня: «Я раскаялся, Аллах простил. Я больше не ношу этого». Это не отрицание — это глубокая вера в прощение Аллаха.",
-    "fr": "Y a-t-il quelque chose dans votre passé dont vous avez honte ? Si vous vous êtes repenti, sachez qu'Allah a fermé cette page et a même écrit de bonnes actions dessus. Mais si vous le maintenez toujours ouvert, cette fois le fardeau vient de vous et non d'Allah. Dites-vous aujourd'hui : \"Je me suis repenti, Allah a pardonné. Je ne porte plus ça.\" Il ne s'agit pas d'un déni, mais d'une profonde confiance dans le pardon d'Allah."
+    "fr": "Y a-t-il quelque chose dans votre passé dont vous avez honte ? Si vous vous êtes repenti, sachez qu'Allah a fermé cette page et a même écrit de bonnes actions dessus. Mais si vous le maintenez toujours ouvert, cette fois le fardeau vient de vous et non d'Allah. Dites-vous aujourd'hui : \"Je me suis repenti, Allah a pardonné. Je ne porte plus ça.\" Il ne s'agit pas d'un déni, mais d'une profonde confiance dans le pardon d'Allah.",
+    "id": "Apakah ada sesuatu di masa lalumu yang membuatmu malu? Jika Anda sudah bertaubat, ketahuilah bahwa Allah telah menutup halaman itu – dan bahkan menulis amal baik di atasnya. Namun jika Anda masih tetap membukanya, kali ini bebannya datang dari Anda, bukan dari Allah. Katakan pada diri Anda hari ini: \"Saya telah bertobat, Allah telah mengampuni. Saya tidak lagi memikul beban ini.\" Ini bukan penyangkalan – ini adalah kepercayaan mendalam pada pengampunan Allah."
   }
 }

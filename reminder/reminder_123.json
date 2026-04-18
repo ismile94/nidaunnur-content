@@ -12,7 +12,8 @@
     "ckb": "هەڵبژاردنی سەرچاوەی ڕاست",
     "ar": "اختيار المصادر الصحيحة",
     "ru": "Выбор правильных источников",
-    "fr": "Choisir les bonnes sources"
+    "fr": "Choisir les bonnes sources",
+    "id": "Memilih Sumber yang Tepat"
   },
   "content": {
     "tr": "Bilgi çağında yaşıyoruz. Her gün binlerce içerik, yüzlerce farklı ses, onlarca çelişkili görüş bize ulaşmaktadır. Bu bolluk; bir nimet olduğu kadar, dikkatli olmayı gerektiren bir sınavdır da. Doğru kaynaktan öğrenilmeyen bilgi, fayda sağlamak bir yana, bazen zararı bile dokunabilir. Özellikle din konusunda; güvenilir, ilim sahibi, takvası bilinen kişilerden öğrenmek büyük önem taşır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n**«Eğer bilmiyorsanız, zikir ehline — ilim sahiplerine — sorun.»**\n*(Nahl 16:43)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**«Bu ilim dindir. Dininizi kimden aldığınıza dikkat edin.»**\n*(Müslim — Muhammed ibn Sîrîn'den rivayet)*\n\nBu söz, günümüzde hiç olmadığı kadar geçerlidir. Sosyal medyada bir video izleyerek ya da anonim bir hesabın paylaşımına bakarak din öğrenmek, ciddi riskler taşır. Kaynağını bilmediğiniz bir bilgiye güvenmeden önce şu soruyu sorun: Bu kişinin ilmi, ahlakı ve takvası hakkında ne biliyorum? Güvenilir âlimlerin eserlerine, köklü kaynaklara ve denetimlerin geçmiş ilmî geleneğe yönelmek; hem ilminizi hem de imanınızı korur.",
@@ -25,7 +26,8 @@
     "ckb": "ئێمە لە سەردەمی زانیاریدا ژیان دەکەین. هەموو ڕۆژ هەزاران ناوەڕۆک، سەدان دەنگی جیاواز و دەیان بۆچوونی دژبەرەکان دەگەنە مان. ئەم فراوانییە بە ئەندازەی نیمەت، تاقیکردنەوەیەکیشە کە ئاگاداری پێویست دەکات. زانستی فێربووە لە سەرچاوەی هەڵە، دوور لە سودمەند بوون، کاتێک کاتێک تەنانەت زیانیش دەدات. بەتایبەتی لە بارودۆخی دین؛ فێربوون لە کەسانی متمانەپێکراو، خاوەن زانست، ئەوانەی تەقواکەشیان دیاریە، گرینگییەکی گەورەی هەیە.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n**«ئەگەر نازانن، لە خاوەنانی زانستدا بپرسن.»**\n*(نەحل ١٦:٤٣)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**«ئەم زانستە دینە. ئاگاداربن دینتان لە کێ وەردەگرن.»**\n*(موسلیم — بە ڕێوایەت لە محەممەد بن سیرین)*\n\nئەم قەولە ئەمڕۆ زیاتر لە هەر کاتێک پەیوەندیدارە. فێربوونی دین بە بینینی ڤیدیۆیەک لە میدیای کۆمەڵایەتیدا یان سەیرکردنی پارەزەکی هەژمارێکی نەناس، مەترسیی سەختی لەخۆ دەگرێت. پێش ئەوەی بە زانیاریەک متمانە بکەی کە سەرچاوەکەی نازانی، ئەم پرسیارە بکە: لەسەر زانست، ئەخلاق و تەقوای ئەم کەسەدا چی دەزانم؟ ئاراستەبوون بۆ بەرهەمەکانی زانایانی متمانەپێکراو، سەرچاوەکانی بنەماپێکراو و دەستوری زانستییەکەی کە تاقیکردنەوەی کاتی تێپەڕاندووە؛ هەم زانستت هەم ئیمانت دەپارێزێت.",
     "ar": "نحن نعيش في عصر المعلومات. كلَّ يومٍ يصلنا آلافُ المحتويات ومئاتُ الأصوات المختلفة وعشراتُ الآراء المتناقضة. هذا الوفرُ نعمةٌ بقدر ما هو اختبارٌ يتطلَّب الحذر. والمعرفةُ المكتسبةُ من مصدرٍ خاطئٍ بعيداً عن النفع قد تُسبِّب ضرراً أحياناً. لا سيَّما في المسائل الدينيَّة؛ فالتعلُّم من أهل العلم والتقوى المعروفَين بدينهم في غاية الأهمِّية.\n\nيقول الله تعالى:\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n*(النحل: ٤٣)*\n\nوقال النبيُّ ﷺ:\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n*(رواه مسلم — عن محمَّد بن سيرين)*\n\nهذا القولُ اليومَ أشدُّ صلةً بالواقع من أيِّ وقتٍ مضى. تعلُّمُ الدين من مشاهدة مقطعٍ على وسائل التواصل أو النظر في منشورٍ من حسابٍ مجهولٍ ينطوي على مخاطرَ جسيمة. قبل الثقة بمعلوماتٍ لا تعرف مصدرَها اسأل: ما الذي أعرفه عن علم هذا الشخص وأخلاقه وتقواه؟",
     "ru": "Мы живем в век информации. Каждый день до нас доходят тысячи материалов, сотни разных голосов и десятки противоречивых мнений. Это изобилие является одновременно и благословением, и испытанием, требующим осторожности. Знания, полученные из неправильного источника, не только не приносят пользы, но иногда могут даже причинить вред. Особенно в вопросах религии; большое значение имеет обучение у надежных, знающих людей, благочестие которых известно.\n\nАллах Всевышний говорит:\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ**\n**\"Итак, спросите людей знающих, если вы не знаете.\"**\n*(Ан-Нахль 16:43)*\n\nНаш Пророк ﷺ сказал:\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**\"Воистину, это знание и есть религия. Поэтому будьте осторожны с тем, от кого вы берете свою религию.\"**\n*(Муслим — передано от Мухаммада ибн Сирина)*\n\nЭта поговорка сегодня актуальна как никогда. Изучение религии путем просмотра видео в социальных сетях или публикации анонимного аккаунта несет в себе серьезные риски. Прежде чем доверять информации, источник которой вам неизвестен, задайте такой вопрос: Что я знаю о знаниях, нравственности и благочестии этого человека? Обращение к трудам надежных ученых, авторитетным источникам и научной традиции, выдержавшей испытание временем, защитит как ваши знания, так и вашу веру.",
-    "fr": "Nous vivons à l’ère de l’information. Chaque jour, des milliers de contenus, des centaines de voix différentes et des dizaines d’opinions contradictoires nous parviennent. Cette abondance est autant une bénédiction qu’une épreuve qui demande de la prudence. Les connaissances acquises de mauvaise source, loin d’être bénéfiques, peuvent parfois même causer du tort. Surtout en matière de religion ; apprendre auprès de personnes fiables et bien informées dont la piété est connue est d’une grande importance.\n\nAllah le Très-Haut dit :\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n**\"Demandez donc aux gens de science si vous ne savez pas.\"**\n*(An-Nahl 16:43)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**\"En effet, cette connaissance est la religion. Alors faites attention à qui vous prenez votre religion.\"**\n*(Musulman — rapporté de Muhammad ibn Sirin)*\n\nCe dicton est plus pertinent aujourd’hui que jamais. Apprendre la religion en regardant une vidéo sur les réseaux sociaux ou en consultant une publication d’un compte anonyme comporte de sérieux risques. Avant de vous fier à une information dont vous ne connaissez pas la source, posez cette question : Que sais-je des connaissances, de la moralité et de la piété de cette personne ? Se tourner vers les travaux d’érudits fiables, vers des sources bien établies et vers la tradition scientifique qui a résisté à l’épreuve du temps protège à la fois vos connaissances et votre foi."
+    "fr": "Nous vivons à l’ère de l’information. Chaque jour, des milliers de contenus, des centaines de voix différentes et des dizaines d’opinions contradictoires nous parviennent. Cette abondance est autant une bénédiction qu’une épreuve qui demande de la prudence. Les connaissances acquises de mauvaise source, loin d’être bénéfiques, peuvent parfois même causer du tort. Surtout en matière de religion ; apprendre auprès de personnes fiables et bien informées dont la piété est connue est d’une grande importance.\n\nAllah le Très-Haut dit :\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n**\"Demandez donc aux gens de science si vous ne savez pas.\"**\n*(An-Nahl 16:43)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**\"En effet, cette connaissance est la religion. Alors faites attention à qui vous prenez votre religion.\"**\n*(Musulman — rapporté de Muhammad ibn Sirin)*\n\nCe dicton est plus pertinent aujourd’hui que jamais. Apprendre la religion en regardant une vidéo sur les réseaux sociaux ou en consultant une publication d’un compte anonyme comporte de sérieux risques. Avant de vous fier à une information dont vous ne connaissez pas la source, posez cette question : Que sais-je des connaissances, de la moralité et de la piété de cette personne ? Se tourner vers les travaux d’érudits fiables, vers des sources bien établies et vers la tradition scientifique qui a résisté à l’épreuve du temps protège à la fois vos connaissances et votre foi.",
+    "id": "Kita hidup di era informasi. Setiap hari ribuan konten, ratusan suara berbeda, dan lusinan pendapat yang bertentangan sampai ke kita. Kelimpahan ini merupakan berkah sekaligus ujian yang memerlukan kehati-hatian. Ilmu yang dipelajari dari sumber yang salah, jauh dari manfaat, bahkan terkadang menimbulkan kerugian. Khususnya dalam urusan agama; belajar dari orang-orang yang dapat dipercaya, berilmu, yang kesalehannya diketahui sangatlah penting.\n\nAllah SWT berfirman:\n\n**﴿فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ﴾**\n**\"Maka bertanyalah kepada orang-orang yang berilmu jika kamu tidak mengetahuinya.\"**\n*(An-Nahl 16:43)*\n\nNabi kita ﷺ bersabda:\n\n**\"إِنَّ هَذَا الْعِلْمَ دِينٌ فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»**\n**\"Sesungguhnya ilmu itu adalah agama. Maka berhati-hatilah dari siapa kamu mengambil agamamu.\"**\n*(Muslim — meriwayatkan dari Muhammad bin Sirin)*\n\nPepatah ini lebih relevan saat ini dibandingkan sebelumnya. Belajar agama dengan menonton video di media sosial atau melihat postingan dari akun anonim memiliki risiko yang serius. Sebelum memercayai informasi yang sumbernya tidak Anda ketahui, ajukan pertanyaan ini: Apa yang saya ketahui tentang pengetahuan, moralitas, dan kesalehan orang tersebut? Beralih ke karya-karya ulama terpercaya, sumber-sumber mapan, dan tradisi ilmiah yang telah teruji oleh waktu akan melindungi pengetahuan dan keyakinan Anda."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "قەولی «ئەم زانستە دینە. ئاگاداربن دینتان لە کێ وەردەگرن» یەکی کییە و لە کام سەرچاوەدا دێت؟",
         "ar": "لمن تُنسب عبارة «إن هذا العلم دين فانظروا عمّن تأخذون دينكم» وفي أي مصدر ترد؟",
         "ru": "Кому принадлежит поговорка «Это знание и есть религия. Так что будьте осторожны, от кого вы берете свою религию» и в каком источнике она появляется?",
-        "fr": "À qui appartient le dicton « Cette connaissance est la religion. Alors faites attention à qui vous prenez votre religion » et dans quelle source apparaît-il ?"
+        "fr": "À qui appartient le dicton « Cette connaissance est la religion. Alors faites attention à qui vous prenez votre religion » et dans quelle source apparaît-il ?",
+        "id": "Kepada siapakah pepatah “Ilmu ini adalah agama. Maka berhati-hatilah dari siapa kamu mengambil agamamu” dan dari mana sumbernya?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "بە ڕێوایەت لە محەممەد بن سیرین — موسلیم",
           "ar": "مروي عن محمد بن سيرين — مسلم",
           "ru": "Передано от Мухаммада ибн Сирина – Муслим.",
-          "fr": "Rapporté de Muhammad ibn Sirin – Musulman"
+          "fr": "Rapporté de Muhammad ibn Sirin – Musulman",
+          "id": "Diriwayatkan dari Muhammad bin Sirin — Muslim"
         },
         {
           "tr": "Ebû Hureyre r.a. — Buhârî",
@@ -68,7 +72,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — بوخاری",
           "ar": "أبو هريرة رضي الله عنه — البخاري",
           "ru": "Абу Хурайра r.a. — Бухари",
-          "fr": "Abu Hurairah r.a. — Boukhari"
+          "fr": "Abu Hurairah r.a. — Boukhari",
+          "id": "Abu Hurairah r.a. — Bukhari"
         },
         {
           "tr": "Hz. Ali r.a. — Tirmizî",
@@ -81,7 +86,8 @@
           "ckb": "عەلی ڕ.ع — تیرمیزی",
           "ar": "علي رضي الله عنه — الترمذي",
           "ru": "Али р.а. — Тирмизи",
-          "fr": "Ali r.a. — Tirmidhi"
+          "fr": "Ali r.a. — Tirmidhi",
+          "id": "Ali r.a. – Tirmidzi"
         },
         {
           "tr": "Hz. Ömer r.a. — Nesâî",
@@ -94,7 +100,8 @@
           "ckb": "عومەر ڕ.ع — نەسائی",
           "ar": "عمر رضي الله عنه — النسائي",
           "ru": "Умар р.а. — Насаи",
-          "fr": "Umar r.a. — Nasaï"
+          "fr": "Umar r.a. — Nasaï",
+          "id": "Umar r.a. —Nasai"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی نەحل ١٦:٤٣، لە بارودۆخەکانی کە نازانین چی دەبێت بکەین؟",
         "ar": "ما الواجب فعله في ما لا نعلمه وفق سورة النحل 16:43؟",
         "ru": "Согласно Ан-Нахлю 16:43, что нам следует делать в вопросах, которых мы не знаем?",
-        "fr": "Selon An-Nahl 16 :43, que devons-nous faire dans les domaines que nous ne connaissons pas ?"
+        "fr": "Selon An-Nahl 16 :43, que devons-nous faire dans les domaines que nous ne connaissons pas ?",
+        "id": "Menurut An-Nahl 16:43, apa yang harus kita lakukan dalam hal yang tidak kita ketahui?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "لە خاوەنانی زانستدا بپرسن",
           "ar": "سؤال أهل العلم",
           "ru": "Спроси у знающих людей",
-          "fr": "Demandez aux gens de savoir"
+          "fr": "Demandez aux gens de savoir",
+          "id": "Tanyakan kepada orang-orang yang berilmu"
         },
         {
           "tr": "İnternet araştırması yapmak",
@@ -139,7 +148,8 @@
           "ckb": "لێکۆڵینەوە لە ئینتەرنێتدا بکەن",
           "ar": "البحث على الإنترنت",
           "ru": "Проведите интернет-исследование",
-          "fr": "Faire des recherches sur Internet"
+          "fr": "Faire des recherches sur Internet",
+          "id": "Lakukan riset internet"
         },
         {
           "tr": "Kendi görüşüne göre hareket etmek",
@@ -152,7 +162,8 @@
           "ckb": "بەگوێرەی بۆچوونی خۆت کار بکەن",
           "ar": "التصرف وفق رأيه الشخصي",
           "ru": "Поступать согласно собственному мнению",
-          "fr": "Agir selon sa propre opinion"
+          "fr": "Agir selon sa propre opinion",
+          "id": "Bertindak menurut pendapatnya sendiri"
         },
         {
           "tr": "Soruyu görmezden gelmek",
@@ -165,7 +176,8 @@
           "ckb": "پرسیارەکە پتەو بکەن",
           "ar": "تجاهل السؤال",
           "ru": "игнорировать вопрос",
-          "fr": "Ignorer la question"
+          "fr": "Ignorer la question",
+          "id": "Abaikan pertanyaannya"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "بۆچی فێربوونی دین لە میدیای کۆمەڵایەتی مەترسیدارە؟",
         "ar": "لماذا يُعدّ تعلم الدين من وسائل التواصل الاجتماعي خطراً؟",
         "ru": "Почему изучать религию через социальные сети рискованно?",
-        "fr": "Pourquoi est-il risqué d’apprendre la religion à partir des réseaux sociaux ?"
+        "fr": "Pourquoi est-il risqué d’apprendre la religion à partir des réseaux sociaux ?",
+        "id": "Mengapa belajar agama dari media sosial berisiko?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "لەبەر ئەوەی زانست، ئەخلاق و تەقوای سەرچاوەکە نازانرێت، متمانەپێکراوییەکەی نادیارە",
           "ar": "لأن علم المصدر وأخلاقه وتقواه مجهولة فمصداقيته غير مؤكدة",
           "ru": "Поскольку знания, мораль и благочестие источника неизвестны, его надежность сомнительна.",
-          "fr": "Parce que les connaissances, la moralité et la piété de la source sont inconnues, sa fiabilité est incertaine."
+          "fr": "Parce que les connaissances, la moralité et la piété de la source sont inconnues, sa fiabilité est incertaine.",
+          "id": "Karena sumbernya tidak diketahui ilmu pengetahuan, akhlak dan ketakwaannya, maka tidak dapat dipastikan keabsahannya"
         },
         {
           "tr": "Çünkü sosyal medyada yeterince içerik yoktur",
@@ -210,7 +224,8 @@
           "ckb": "لەبەر ئەوەی ناوەڕۆکی بەس لە میدیای کۆمەڵایەتیدا نییە",
           "ar": "لأن المحتوى غير كافٍ في وسائل التواصل",
           "ru": "Потому что в социальных сетях недостаточно контента.",
-          "fr": "Parce qu'il n'y a pas assez de contenu sur les réseaux sociaux"
+          "fr": "Parce qu'il n'y a pas assez de contenu sur les réseaux sociaux",
+          "id": "Karena konten di media sosial tidak mencukupi"
         },
         {
           "tr": "Çünkü sosyal medya yalnızca eğlence içindir",
@@ -223,7 +238,8 @@
           "ckb": "لەبەر ئەوەی میدیای کۆمەڵایەتی تەنها بۆ خۆشگوزەرانیە",
           "ar": "لأن وسائل التواصل للترفيه فحسب",
           "ru": "Потому что социальные сети предназначены только для развлечения",
-          "fr": "Parce que les réseaux sociaux ne servent qu'à se divertir"
+          "fr": "Parce que les réseaux sociaux ne servent qu'à se divertir",
+          "id": "Karena media sosial hanya untuk hiburan"
         },
         {
           "tr": "Çünkü sosyal medya İslam'a karşıdır",
@@ -236,7 +252,8 @@
           "ckb": "لەبەر ئەوەی میدیای کۆمەڵایەتی دژی ئیسلامە",
           "ar": "لأن وسائل التواصل معادية للإسلام",
           "ru": "Потому что социальные сети против ислама",
-          "fr": "Parce que les réseaux sociaux sont contre l'Islam"
+          "fr": "Parce que les réseaux sociaux sont contre l'Islam",
+          "id": "Karena media sosial bertentangan dengan Islam"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بۆ فێربوونی زانست لە سەرچاوەیەکی متمانەپێکراو، چ پرسیارێک دەبێت بکرێت؟",
         "ar": "ما السؤال الواجب طرحه لتلقي العلم من مصدر موثوق؟",
         "ru": "Какой вопрос следует задать, чтобы получить знания из надежного источника?",
-        "fr": "Quelle question faut-il se poser pour acquérir des connaissances à partir d’une source fiable ?"
+        "fr": "Quelle question faut-il se poser pour acquérir des connaissances à partir d’une source fiable ?",
+        "id": "Pertanyaan apa yang harus ditanyakan untuk mempelajari ilmu dari sumber yang dapat dipercaya?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "لەسەر زانست، ئەخلاق و تەقوای ئەم کەسەدا چی دەزانم؟",
           "ar": "ما الذي أعرفه عن علم هذا الشخص وأخلاقه وتقواه؟",
           "ru": "Что я знаю о знаниях, нравственности и благочестии этого человека?",
-          "fr": "Que sais-je des connaissances, de la moralité et de la piété de cette personne ?"
+          "fr": "Que sais-je des connaissances, de la moralité et de la piété de cette personne ?",
+          "id": "Apa yang saya ketahui tentang pengetahuan, moralitas, dan kesalehan orang ini?"
         },
         {
           "tr": "Bu kişinin kaç takipçisi var?",
@@ -281,7 +300,8 @@
           "ckb": "ئەم کەسە چەند شوێنکەوتووی هەیە؟",
           "ar": "كم عدد متابعي هذا الشخص؟",
           "ru": "Сколько подписчиков у этого человека?",
-          "fr": "Combien de followers cette personne a-t-elle ?"
+          "fr": "Combien de followers cette personne a-t-elle ?",
+          "id": "Berapa banyak pengikut yang dimiliki orang ini?"
         },
         {
           "tr": "Bu kişi ne kadar popülerdir?",
@@ -294,7 +314,8 @@
           "ckb": "ئەم کەسە چەند ناوداری هەیە؟",
           "ar": "ما مدى شهرة هذا الشخص؟",
           "ru": "Насколько популярен этот человек?",
-          "fr": "Quelle est la popularité de cette personne ?"
+          "fr": "Quelle est la popularité de cette personne ?",
+          "id": "Seberapa populer orang ini?"
         },
         {
           "tr": "Bu kişinin videoları kaç kez izlenmiştir?",
@@ -307,7 +328,8 @@
           "ckb": "ڤیدیۆکانی ئەم کەسە چەند جار بینراون؟",
           "ar": "كم مرة شُوهدت مقاطع هذا الشخص؟",
           "ru": "Сколько раз были просмотрены видео этого человека?",
-          "fr": "Combien de fois les vidéos de cette personne ont-elles été visionnées ?"
+          "fr": "Combien de fois les vidéos de cette personne ont-elles été visionnées ?",
+          "id": "Berapa kali video orang ini ditonton?"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "ئاراستەبوون بۆ بەرهەمەکانی زانایانی متمانەپێکراو و سەرچاوەکانی بنەماپێکراو چی دەپارێزێت؟",
         "ar": "ما الذي يحميه التوجه إلى مؤلفات العلماء الموثوقين والمصادر الراسخة؟",
         "ru": "Что защищает обращение к работам надежных ученых и авторитетных источников?",
-        "fr": "Que protège le recours aux travaux d’érudits fiables et de sources bien établies ?"
+        "fr": "Que protège le recours aux travaux d’érudits fiables et de sources bien établies ?",
+        "id": "Apa yang bisa dilindungi dengan mengacu pada karya-karya ulama terpercaya dan sumber-sumber terpercaya?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "هەم زانست هەم ئیمان دەپارێزێت",
           "ar": "يحمي العلم والإيمان معاً",
           "ru": "Он защищает и знания, и веру.",
-          "fr": "Il protège à la fois la connaissance et la foi"
+          "fr": "Il protège à la fois la connaissance et la foi",
+          "id": "Ini melindungi pengetahuan dan iman"
         },
         {
           "tr": "Yalnızca dünyevi başarıyı korur",
@@ -352,7 +376,8 @@
           "ckb": "تەنها سەرکەوتنی دنیایی دەپارێزێت",
           "ar": "يحمي النجاح الدنيوي فحسب",
           "ru": "Оно лишь защищает мирской успех",
-          "fr": "Cela ne protège que le succès du monde"
+          "fr": "Cela ne protège que le succès du monde",
+          "id": "Itu hanya melindungi kesuksesan duniawi"
         },
         {
           "tr": "Yalnızca sosyal itibarı korur",
@@ -365,7 +390,8 @@
           "ckb": "تەنها ئابرووی کۆمەڵایەتی دەپارێزێت",
           "ar": "يحمي السمعة الاجتماعية فحسب",
           "ru": "Это только защищает социальную репутацию",
-          "fr": "Cela ne protège que la réputation sociale"
+          "fr": "Cela ne protège que la réputation sociale",
+          "id": "Itu hanya melindungi reputasi sosial"
         },
         {
           "tr": "Hiçbir şeyi korumaz, zaten bilgi her yerden öğrenilebilir",
@@ -378,7 +404,8 @@
           "ckb": "هیچ شتێک نەپارێزێت، بەهەر حاڵ زانست دەتوانرێت لە هەرشوێنێکەوە فێر بکرێت",
           "ar": "لا يحمي شيئاً فالعلم يُتعلم من أي مكان",
           "ru": "Он ничего не защищает, знания в любом случае можно получить откуда угодно.",
-          "fr": "Cela ne protège rien, la connaissance peut être apprise de n'importe où de toute façon"
+          "fr": "Cela ne protège rien, la connaissance peut être apprise de n'importe où de toute façon",
+          "id": "Tidak melindungi apa pun, ilmu bisa dipelajari dari mana saja"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ لە خۆت بپرسە: زانستییە ئایینیەکانم لە کێ وەردەگرم؟ ئایا ئەم سەرچاوانەم بە ئاگایانە هەڵبژاردوون؟ یان بە ناوەڕۆکی بەخت خۆم متمانە دەکەم؟ ناوی زانایەک توێژینەوە بکە. دوای ئەوەی متمانەپێکراوی دۆزییەوە، یەکێک لە بەرهەمەکانی بخوێنەوە یان یەکێک لە وانەکانی گوێت لێ بگرە. دین خەزینەیەکە کە دل و مێشک تێدا دەخوات. لە دەرگای ڕاستەکەوە بکەوە ئەم خەزینەیە. دەرگای هەڵە دەبێتە زانیاری هەڵە؛ و زانیاری هەڵەش دەبێتە ڕێگای هەڵە.",
     "ar": "اسأل نفسَك اليوم: من أين آخذ معرفتي الدينيَّة؟ هل اخترتُ هذه المصادرَ بوعي؟ أم أثق بمحتوىً يصلني عشوائيَّاً؟ ابحث عن اسم عالِم. وبعد التحقُّق من موثوقيَّته اقرأ أحدَ مؤلَّفاته أو استمع إلى إحدى دروسه. الدينُ كنزٌ يُغذِّي القلبَ والعقل. ادخُل هذا الكنزَ من الباب الصحيح. البابُ الخاطئ يُفضي إلى المعرفة الخاطئة؛ والمعرفةُ الخاطئةُ تُفضي إلى الطريق الخاطئ.",
     "ru": "Спросите себя сегодня: откуда я беру свои религиозные знания? Сознательно ли я выбрал эти источники? Или я доверяю контенту, с которым случайно сталкиваюсь? Узнайте имя учёного. Найдя их надежными, прочитайте одно из их произведений или послушайте один из их уроков. Религия – это сокровище, питающее сердце и разум. Войдите в это сокровище через правую дверь. Не та дверь ведет к неправильному знанию; а неправильное знание ведет на неправильный путь.",
-    "fr": "Posez-vous la question aujourd’hui : d’où puis-je tirer mes connaissances religieuses ? Ai-je consciemment choisi ces sources ? Ou est-ce que je fais confiance au contenu que je rencontre au hasard ? Recherchez le nom d’un érudit. Après les avoir trouvés fiables, lisez un de leurs ouvrages ou écoutez une de leurs leçons. La religion est un trésor qui nourrit le cœur et l'esprit. Entrez dans ce trésor par la porte de droite. La mauvaise porte mène à une mauvaise connaissance ; et une mauvaise connaissance mène au mauvais chemin."
+    "fr": "Posez-vous la question aujourd’hui : d’où puis-je tirer mes connaissances religieuses ? Ai-je consciemment choisi ces sources ? Ou est-ce que je fais confiance au contenu que je rencontre au hasard ? Recherchez le nom d’un érudit. Après les avoir trouvés fiables, lisez un de leurs ouvrages ou écoutez une de leurs leçons. La religion est un trésor qui nourrit le cœur et l'esprit. Entrez dans ce trésor par la porte de droite. La mauvaise porte mène à une mauvaise connaissance ; et une mauvaise connaissance mène au mauvais chemin.",
+    "id": "Tanyakan pada diri Anda hari ini: Dari mana saya mengambil ilmu agama saya? Apakah saya secara sadar memilih sumber-sumber ini? Atau apakah saya memercayai konten yang saya temui secara acak? Teliti nama seorang sarjana. Setelah menemukan bahwa mereka dapat diandalkan, bacalah salah satu karya mereka atau dengarkan salah satu pelajaran mereka. Agama adalah khazanah yang menyehatkan hati dan pikiran. Masuki harta karun ini melalui pintu kanan. Pintu yang salah menuntun pada pengetahuan yang salah; dan pengetahuan yang salah membawa ke jalan yang salah."
   }
 }

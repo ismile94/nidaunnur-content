@@ -12,7 +12,8 @@
     "ckb": "سەیرکردنی خۆت",
     "ar": "مُلَاحَظَةُ الذَّاتِ",
     "ru": "Наблюдение за собой",
-    "fr": "S'observer"
+    "fr": "S'observer",
+    "id": "Mengamati Diri Sendiri"
   },
   "content": {
     "tr": "Kendini gözlemlemek (muhasaba); başkalarını süzmek değil — kalbinin ve dilinin Allah katında ne teslim ettiğine bakmaktır. Günün sonunda «Ben neyi besledim?» sorusu, riyadan ve gafletten önce bir hatırlatıcıdır.\n\nAllah Teâlâ müminleri şöyle uyarıyor:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**«Ey iman edenler! Allah'tan sakının. Herkes yarın için ne hazırladığına baksın. Allah'tan sakının; şüphesiz Allah yaptıklarınızdan haberdardır.»**\n*(Haşr 59:18)*\n\nPeygamberimiz ﷺ de hesap gününden önce hesap tutsun diye şöyle buyurur:\n\n**«حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا»** — **«Hesaba çekilmeden önce kendi nefsinizi hesaba çekin.»**\n*(Tirmizî, «Kıyamet» — hasen)*\n\nGözlem, suçu başkasına atmak değil; «Rabbim, bugün gönlümde ve dilimde senden sakınmadığım ne var?» diye durmaktır. Küçük bir muhasebe, büyük bir düzeltmeye kapı açar.\n\nBugün: beş dakika sessizlik — Haşr 59:18 ve bu öğüt: yarın için ne biriktirdiğine bir bak.",
@@ -25,7 +26,8 @@
     "ckb": "سەیرکردنی خۆت (موحاسەبە) نەکۆڵینەوەی کەسانی ترە — بەڵکوو سەیرکردنی ئەوەی دڵ و زمانەکەت لەبەردەم اللە چی پێشکەش دەکات. لە کۆتایی رۆژدا پرسیارەکەی «ئەمڕۆ چیم پەروەردە کردووە؟» وەک بیرخستنەوەیەکە لە غەفلەت و ڕیا پێش ئەوەی دوا بێت.\n\nاللە دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(حەشر: ١٨)*\n\nپێغەمبەر ﷺ فێر دەکات پێش ئەوەی لە ڕۆژی دواییدا لێک بدرێیت، خۆت لێک بدەیتەوە:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(تیڕمیزی — حەسەن)*\n\nسەیرکردن تۆمەتبارکردنی کەسانی تر نییە — بەڵکوو وەستاندن و گوتن: «پەروەرێ، ئەمڕۆ لە دڵ و زمانمدا چیم هەبوو کە لە تۆ نەترسام؟» موحاسەبەی بچووک، ڕێکخستنێکی گەورە دەکاتەوە.\n\nئەمڕۆ: پێنج خولەک بێدەنگی — حەشر ١٨ و ئەم بیرخستنەوەیە: سەیری ئەوەی بۆ بەیانی چیت کۆکردۆتەوە.",
     "ar": "مُلاحظةُ الذات (المحاسبة) ليست تقييمَ الناس — إنما النظرُ إلى ما تقدِّمه القلبُ واللسانُ بين يدي الله. في آخرِ النهار سؤالُ «ماذا غذَّيتُ اليوم؟» تذكرةٌ من الغفلةِ والرياء قبل فواتِ الأوان.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n*(الحشر: ١٨)*\n\nوقال النبي ﷺ موعظةً بحسابِ النفسِ قبل الحسابِ:\n\n**«حاسبوا أنفسكم قبل أن تحاسبوا»**\n*(رواه الترمذي في «القيامة» — حسن)*\n\nالمحاسبةُ ليست رميَ التُهمِ — إنما الوقوفُ: «ربّ، ما الذي في قلبي ولساني اليوم لم أتقِك فيه؟» حسابٌ صغيرٌ يفتحُ تصحيحاً كبيراً.\n\nاليوم: خمسُ دقائقَ صمتٍ — ﴿ولتنظر نفس ما قدمت لغد﴾: انظرْ ما ادَّخرتَ للغدِ.",
     "ru": "Наблюдение за собой (мухасаба) – это не оценка других, а наблюдение за тем, что ваше сердце и язык действительно предлагают Аллаху. В конце дня вопрос «Чем я сегодня кормил?» — это оберег от невнимательности и хвастовства, пока не стало слишком поздно.\n\nАллах Всевышний предупреждает верующих:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**«О вы, уверовавшие, бойтесь Аллаха. И пусть каждая душа смотрит на то, что она приготовила на завтра, — и бойтесь Аллаха. Воистину, Аллаху известно то, что вы делаете».**\n*(Аль-Хашр 59:18)*\n\nПророк ﷺ также сказал, советуя принять во внимание перед Окончательным Расчётом:\n\n**«Отчитывайтесь за себя, прежде чем вас привлекут к ответственности.»**\n*(Ат-Тирмизи, «Воскресение» — степень хасана.)*\n\nНаблюдение не означает обвинение других; это значит сделать паузу, чтобы сказать: «Господи мой, чего я сегодня в сердце и речи не сохранил ради Тебя?» Небольшой аудит может открыть большую коррекцию.\n\nСегодня: пять минут молчания — Аль-Хашр 59:18 и это напоминание: посмотрите, что вы откладываете на завтра.",
-    "fr": "S'observer (muhasaba), ce n'est pas évaluer les autres, c'est regarder ce que votre cœur et votre langue offrent réellement devant Allah. En fin de journée, la question «Qu'est-ce que j'ai nourri aujourd'hui ?» est une garde contre l'insouciance et l'exagération avant qu'il ne soit trop tard.\n\nAllah le Très-Haut avertit les croyants :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n** \"Ô vous qui avez cru, craignez Allah. Et que chaque âme regarde ce qu'elle a proposé pour demain - et craignez Allah. En effet, Allah est Connaisseur de ce que vous faites. \"**\n*(Al-Hashr 59 :18)*\n\nLe Prophète ﷺ a également dit, comme conseil à prendre en compte avant le jugement final :\n\n**«Prenez compte de vous-mêmes avant d'être pris en compte.»**\n*(At-Tirmidhi, «La Résurrection» — gradé hasan.)*\n\nObserver, ce n’est pas blâmer les autres ; c'est une pause pour dire: «Mon Seigneur, que n'ai-je pas gardé dans mon cœur et dans mes paroles aujourd'hui à cause de Toi?» Un petit audit peut ouvrir une grande correction.\n\nAujourd'hui : cinq minutes de silence — Al-Hashr 59 :18 et ce rappel : regardez ce que vous stockez pour demain."
+    "fr": "S'observer (muhasaba), ce n'est pas évaluer les autres, c'est regarder ce que votre cœur et votre langue offrent réellement devant Allah. En fin de journée, la question «Qu'est-ce que j'ai nourri aujourd'hui ?» est une garde contre l'insouciance et l'exagération avant qu'il ne soit trop tard.\n\nAllah le Très-Haut avertit les croyants :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n** \"Ô vous qui avez cru, craignez Allah. Et que chaque âme regarde ce qu'elle a proposé pour demain - et craignez Allah. En effet, Allah est Connaisseur de ce que vous faites. \"**\n*(Al-Hashr 59 :18)*\n\nLe Prophète ﷺ a également dit, comme conseil à prendre en compte avant le jugement final :\n\n**«Prenez compte de vous-mêmes avant d'être pris en compte.»**\n*(At-Tirmidhi, «La Résurrection» — gradé hasan.)*\n\nObserver, ce n’est pas blâmer les autres ; c'est une pause pour dire: «Mon Seigneur, que n'ai-je pas gardé dans mon cœur et dans mes paroles aujourd'hui à cause de Toi?» Un petit audit peut ouvrir une grande correction.\n\nAujourd'hui : cinq minutes de silence — Al-Hashr 59 :18 et ce rappel : regardez ce que vous stockez pour demain.",
+    "id": "Mengamati diri sendiri (muhasaba) bukan berarti menilai orang lain — melainkan melihat apa yang sesungguhnya dipersembahkan oleh hati dan lidahmu di hadapan Allah. Di penghujung hari, muncul pertanyaan “Apa yang saya beri makan hari ini?” adalah penjaga terhadap kelalaian dan pamer sebelum terlambat.\n\nAllah SWT memperingatkan orang-orang yang beriman:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾**\n**\"Hai orang-orang yang beriman, bertakwalah kepada Allah. Dan hendaklah setiap jiwa memperhatikan apa yang dicadangkannya untuk hari esok, dan bertakwalah kepada Allah. Sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan.\"**\n*(Al-Hashr 59:18)*\n\nNabi ﷺ juga bersabda, sebagai nasehat yang harus diperhitungkan sebelum Hari Kiamat:\n\n**\"Perhitungkanlah dirimu sendiri sebelum kamu diperhitungkan.\"**\n*(At-Tirmidzi, «Kebangkitan» — hasan bertingkat.)*\n\nObservasi bukanlah menyalahkan orang lain; ia berhenti sejenak untuk berkata: “Ya Tuhanku, apa yang ada dalam hati dan ucapanku hari ini yang tidak kujaga demi Engkau?” Audit kecil dapat membuka koreksi besar.\n\nHari ini: mengheningkan cipta selama lima menit - Al-Hashr 59:18 dan pengingat ini: lihatlah apa yang Anda simpan untuk besok."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «هەر کەسێک سەیری ئەوەی بۆ بەیانی ئامادە دەکات بکات» لە کام سورەتدایە؟",
         "ar": "في أي سورة ﴿ولتنظر نفس ما قدمت لغد﴾؟",
         "ru": "В какой суре появляется аят «Пусть каждая душа смотрит на то, что она приготовила на завтра»?",
-        "fr": "Dans quelle sourate apparaît le verset « Que chaque âme regarde ce qu'elle a proposé pour demain » ?"
+        "fr": "Dans quelle sourate apparaît le verset « Que chaque âme regarde ce qu'elle a proposé pour demain » ?",
+        "id": "Di surat manakah ayat “Hendaklah setiap jiwa memperhatikan apa yang telah dicadangkannya untuk hari esok” muncul?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "حەشر",
           "ar": "الحشر",
           "ru": "Аль-Хашр",
-          "fr": "Al-Hashr"
+          "fr": "Al-Hashr",
+          "id": "Al-Hashr"
         },
         {
           "tr": "Mücâdele",
@@ -68,7 +72,8 @@
           "ckb": "موجادەلە",
           "ar": "المجادلة",
           "ru": "Аль-Муджадилах",
-          "fr": "Al-Mujadilah"
+          "fr": "Al-Mujadilah",
+          "id": "Al-Mujadilah"
         },
         {
           "tr": "Hucurât",
@@ -81,7 +86,8 @@
           "ckb": "حوجورات",
           "ar": "الحجرات",
           "ru": "Аль-Худжурат",
-          "fr": "Al-Hujurat"
+          "fr": "Al-Hujurat",
+          "id": "Al-Hujurat"
         },
         {
           "tr": "Tegâbün",
@@ -94,7 +100,8 @@
           "ckb": "تەغابون",
           "ar": "التغابن",
           "ru": "Ат-Тагабун",
-          "fr": "At-Taghabun"
+          "fr": "At-Taghabun",
+          "id": "At-Taghabun"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەپێی دەقەکە حەشر ١٨ چی بۆ باوەڕداران دەگێڕێتەوە؟",
         "ar": "ماذا يُذكِّر الحشر ١٨ المؤمنين وفق النص؟",
         "ru": "О чем, согласно тексту, напоминает верующим Аль-Хашр 59:18?",
-        "fr": "D’après le texte, que rappelle Al-Hashr 59 :18 aux croyants ?"
+        "fr": "D’après le texte, que rappelle Al-Hashr 59 :18 aux croyants ?",
+        "id": "Menurut teks tersebut, apa yang diingatkan oleh Al-Hashr 59:18 kepada orang-orang beriman?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "سەیرکردنی ئەوەی بۆ بەیانی دەنێرن و لە اللە بترسن",
           "ar": "النظرُ إلى ما قدَّموا للغدٍ والتقوى",
           "ru": "Смотреть на то, что они посылают на завтра, и бояться Аллаха",
-          "fr": "Regarder ce qu'ils envoient pour demain et craindre Allah"
+          "fr": "Regarder ce qu'ils envoient pour demain et craindre Allah",
+          "id": "Untuk melihat apa yang mereka kirimkan untuk hari esok dan bertakwa kepada Allah"
         },
         {
           "tr": "Sadece dünya malını artırmak",
@@ -139,7 +148,8 @@
           "ckb": "تەنها زۆرکردنی سامانی دنیا",
           "ar": "زيادةَ المالِ الدنيوي فقط",
           "ru": "Лишь приумножая мирское богатство",
-          "fr": "Ne fait qu'augmenter la richesse du monde"
+          "fr": "Ne fait qu'augmenter la richesse du monde",
+          "id": "Hanya menambah kekayaan duniawi"
         },
         {
           "tr": "Başkalarını yargılamayı bırakmamak",
@@ -152,7 +162,8 @@
           "ckb": "هەرگیز کەسانی تر نەدەستەنیت",
           "ar": "عدمِ الحكمِ على الناس أبداً",
           "ru": "Никогда не осуждай других",
-          "fr": "Ne jamais juger les autres"
+          "fr": "Ne jamais juger les autres",
+          "id": "Jangan pernah menghakimi orang lain"
         },
         {
           "tr": "Namazı terk etmek",
@@ -165,7 +176,8 @@
           "ckb": "جێهێشتنی نوێژ",
           "ar": "تركُ الصلاة",
           "ru": "Отказ от молитвы",
-          "fr": "Abandonner la prière"
+          "fr": "Abandonner la prière",
+          "id": "Meninggalkan shalat"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "ئامۆژگاری «حاسبوا أنفسكم قبل أن تحاسبوا» چی دەگەیەنێت؟",
         "ar": "ماذا يقصد قولُ «حاسبوا أنفسكم قبل أن تحاسبوا» في النص؟",
         "ru": "Что предполагает в тексте совет «Отзовитесь сами за себя, прежде чем с вас будут считаться»?",
-        "fr": "Que suggère le conseil « Tenez compte de vous-mêmes avant que l’on vous rende compte » dans le texte ?"
+        "fr": "Que suggère le conseil « Tenez compte de vous-mêmes avant que l’on vous rende compte » dans le texte ?",
+        "id": "Apa yang disarankan dalam teks nasihat “Pertimbangkanlah dirimu sendiri sebelum kamu diperhitungkan”?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "لێکدانەوەی خۆت پێش لێکدانەوەی کۆتایی",
           "ar": "محاسبةُ النفسِ قبل الحسابِ الأخير",
           "ru": "Саморасчёт перед окончательным расчётом",
-          "fr": "L’auto-évaluation avant le jugement final"
+          "fr": "L’auto-évaluation avant le jugement final",
+          "id": "Perhitungan diri sebelum Perhitungan Akhir"
         },
         {
           "tr": "Sadece başkalarını eleştirmek",
@@ -210,7 +224,8 @@
           "ckb": "تەنها ڕەخنەی کەسانی تر",
           "ar": "انتقادُ الناسِ فقط",
           "ru": "Только критиковать других",
-          "fr": "Critiquer seulement les autres"
+          "fr": "Critiquer seulement les autres",
+          "id": "Hanya mengkritik orang lain"
         },
         {
           "tr": "Oruç tutmamak",
@@ -223,7 +238,8 @@
           "ckb": "ڕۆژوو نەگرتن",
           "ar": "تركُ الصوم",
           "ru": "Не поститься",
-          "fr": "Ne pas jeûner"
+          "fr": "Ne pas jeûner",
+          "id": "Tidak puasa"
         },
         {
           "tr": "Zekâtı inkâr etmek",
@@ -236,7 +252,8 @@
           "ckb": "ئینکاری زەکات",
           "ar": "إنكارُ الزكاة",
           "ru": "Отказ от закята",
-          "fr": "Refuser la zakat"
+          "fr": "Refuser la zakat",
+          "id": "Menyangkal zakat"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بەپێی دەقەکە «موحاسەبەی بچووک» دەتوانێت دەرگای چی بکاتەوە؟",
         "ar": "ماذا يفتح «حسابٌ صغيرٌ» وفق النص؟",
         "ru": "Согласно тексту, к чему может открыть «маленькая проверка»?",
-        "fr": "Selon le texte, à quoi peut ouvrir la porte un « petit audit » ?"
+        "fr": "Selon le texte, à quoi peut ouvrir la porte un « petit audit » ?",
+        "id": "Berdasarkan teks tersebut, “audit kecil” dapat membuka pintu untuk apa?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ڕێکخستنێکی گەورە",
           "ar": "تصحيحاً كبيراً أو توبةً",
           "ru": "Большое исправление/покаяние",
-          "fr": "Une grande correction/repentir"
+          "fr": "Une grande correction/repentir",
+          "id": "Koreksi/pertobatan yang besar"
         },
         {
           "tr": "Başkalarına iftira",
@@ -281,7 +300,8 @@
           "ckb": "تۆمەتبارکردنی کەسانی تر",
           "ar": "افتراءً على الناس",
           "ru": "Клевета на других",
-          "fr": "Calomnier les autres"
+          "fr": "Calomnier les autres",
+          "id": "Memfitnah orang lain"
         },
         {
           "tr": "Namazı terk",
@@ -294,7 +314,8 @@
           "ckb": "جێهێشتنی نوێژ",
           "ar": "تركَ الصلاة",
           "ru": "Отказ от молитвы",
-          "fr": "Abandonner la prière"
+          "fr": "Abandonner la prière",
+          "id": "Meninggalkan shalat"
         },
         {
           "tr": "Sadakayı reddetmek",
@@ -307,7 +328,8 @@
           "ckb": "ڕەتکردنەوەی خێر",
           "ar": "ردَّ الصدقة",
           "ru": "Отказ от благотворительности",
-          "fr": "Rejeter la charité"
+          "fr": "Rejeter la charité",
+          "id": "Menolak amal"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
         "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?",
+        "id": "Berdasarkan teks tersebut, pernyataan berikut manakah yang SALAH?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "سەیرکردنی خۆت واتای سەیرکردنی کەسانی ترە",
           "ar": "ملاحظةُ الذاتِ قياسُ الناسِ",
           "ru": "Самонаблюдение позволяет оценивать других",
-          "fr": "L’auto-observation consiste à évaluer les autres"
+          "fr": "L’auto-observation consiste à évaluer les autres",
+          "id": "Observasi diri adalah menilai orang lain"
         },
         {
           "tr": "Haşr 59:18 yarın için hazırlığa bakmayı söyler",
@@ -352,7 +376,8 @@
           "ckb": "حەشر ١٨ دەڵێت سەیری ئامادەکاری بۆ بەیانی بکەیت",
           "ar": "الحشر ١٨ يأمر بالنظر لما قُدِّم للغد",
           "ru": "Аль-Хашр 59:18 советует посмотреть, что уготовано на завтра.",
-          "fr": "Al-Hashr 59 : 18 nous dit de regarder ce qui est préparé pour demain"
+          "fr": "Al-Hashr 59 : 18 nous dit de regarder ce qui est préparé pour demain",
+          "id": "Al-Hashr 59:18 menyuruh seseorang untuk melihat apa yang dipersiapkan untuk hari esok"
         },
         {
           "tr": "Metin, hesaptan önce nefsi hesaba çekmeyi öğütler",
@@ -365,7 +390,8 @@
           "ckb": "دەقەکە ئامۆژگاری لێکدانەوەی پێش لێکدانەوە دەکات",
           "ar": "النصُ يوصي بحسابِ النفس قبل الحساب",
           "ru": "В тексте рекомендуется принять во внимание, прежде чем быть учтенным.",
-          "fr": "Le texte conseille de prendre en compte avant d'être comptabilisé"
+          "fr": "Le texte conseille de prendre en compte avant d'être comptabilisé",
+          "id": "Teks tersebut menyarankan untuk memperhitungkan sebelum diperhitungkan"
         },
         {
           "tr": "Beş dakika sessizlik bugün için pratik öneridir",
@@ -378,7 +404,8 @@
           "ckb": "پێنج خولەک بێدەنگی ئەمڕۆ وەک پێشنیارێکی پراکتیکی",
           "ar": "خمس دقائق صمتٍ مقترحٌ عمليٌّ اليوم",
           "ru": "Пять минут молчания – практическое предложение на сегодня",
-          "fr": "Cinq minutes de silence sont une suggestion pratique pour aujourd'hui"
+          "fr": "Cinq minutes de silence sont une suggestion pratique pour aujourd'hui",
+          "id": "Mengheningkan cipta selama lima menit adalah saran praktis untuk hari ini"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ پێنج خولەک بە حەشر ١٨ەوە بەستەوە: «بۆ بەیانی چیم کۆکردۆتەوە؟» — سەیرکردنی خۆت پێوانەکردنی کەسانی تر نییە؛ وەستاندنی دڵ و زمان وەک لەبەردەم اللە.",
     "ar": "اليوم اربطْ خمس دقائقَ بقولِه تعالى ﴿ولتنظر نفس ما قدمت لغد﴾ — ملاحظةُ الذات ليست قياسَ الناس؛ إنما إيقافُ القلبِ واللسانِ كأنك بين يدي الله.",
     "ru": "Привяжите сегодня пять минут к Аль-Хашру 59:18: «Что я запасаю на завтра?» — наблюдение за собой не означает измерение других; это остановка сердца и языка, как будто перед Аллахом.",
-    "fr": "Attachez cinq minutes aujourd'hui à Al-Hashr 59 :18 : « Qu'est-ce que je stocke pour demain ? » — s'observer, ce n'est pas mesurer les autres ; c'est s'arrêter le cœur et la langue comme devant Allah."
+    "fr": "Attachez cinq minutes aujourd'hui à Al-Hashr 59 :18 : « Qu'est-ce que je stocke pour demain ? » — s'observer, ce n'est pas mesurer les autres ; c'est s'arrêter le cœur et la langue comme devant Allah.",
+    "id": "Ikat lima menit hari ini dengan Al-Hashr 59:18: “Apa yang saya simpan untuk besok?” — mengamati diri sendiri tidak berarti mengukur orang lain; itu adalah jeda hati dan lidah seolah-olah dihadapan Allah."
   }
 }

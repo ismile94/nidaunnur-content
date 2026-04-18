@@ -12,7 +12,8 @@
     "ckb": "پەیوەندی کردن بە دوعا",
     "ar": "التواصل مع الله بالدعاء",
     "ru": "Соединение через молитву (Дуа)",
-    "fr": "Se connecter par la prière (Du'a)"
+    "fr": "Se connecter par la prière (Du'a)",
+    "id": "Terhubung Melalui Doa (Doa)"
   },
   "content": {
     "tr": "Dua, Allah'a giden en kısa yoldur. Resmi bir dil gerekmez, özel bir mekân şart değildir — sadece dürüst bir kalp yeterlidir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**«Kullarım sana beni sorarlarsa, ben gerçekten yakınım; bana dua edenin duasına icabet ederim.»**\n*(Bakara 2:186)*\n\nPeygamberimiz ﷺ duanın değerini şöyle ortaya koydu:\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**«Dua, ibadetin ta kendisidir.»**\n*(Tirmizî, Ebû Dâvûd — Nu'mân b. Beşîr r.a. rivayetiyle)*\n\nDua etmek, Allah'ın seni duyduğunu kabul etmektir. Cevabı beklediğin şekilde gelmeyebilir — ama hiçbir dua boşa gitmez. Allah ya ister, ya onu daha iyisiyle değiştirir, ya da saklarki onu âhirette sana verir. Bugün bir dua et — içinden, samimi, kelimeler bile olmasa.",
@@ -25,7 +26,8 @@
     "ckb": "دوعا کورترین ڕێگەیە بەرەو اللە. زمانی فەرمی پێویست نییە، شوێنی تایبەت پێویست نییە — تەنها دڵێکی دروست بەس دەکات.\n\nاللەی بەرز دەفەرموێت:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**«کاتێک بەندەکانم لێت دەپرسن دەربارەی من — من بە ڕاستی نزیکم؛ وەڵامی داوای ئەوەی داوای دەکات دەدەمەوە.»**\n*(ئەلبەقەرە: ١٨٦)*\n\nپێغەمبەرمان ﷺ بەهای دوعا بەمشێوەیە دەرببڕی:\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**«دوعا خۆی عیبادەتە.»**\n*(تیرمیزی، ئەبو داود — بە ڕێوایەتی نوعمان بن بەشیر)*\n\nدوعا کردن ئەمەیە کە قبووڵ بکەیت اللە دەیبیستیت. وەڵام لەوەی چاوەڕوانی دەکەیت بە شێوەیەکی جیاواز بێت — بەڵام هیچ دوعایەک بەتاڵ ناچێت. اللە یان دەیدات، یان بە باشتری دەگۆڕێتەوە، یان جەمەر دەکاتەوە بۆ ئەوەی لە ئاخرەتت پێ بدات. ئەمڕۆ دوعایەک بکە — لە ناوەوەی خۆت، بە ڕاستەقینەیی، تەنانەت بەبێ قسەش.",
     "ar": "الدعاءُ أقصر طريق إلى الله. لا تلزم لغةٌ رسمية ولا مكانٌ مخصوص — يكفي قلبٌ صادق.\n\nيقول الله تعالى:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n*(البقرة: ١٨٦)*\n\nوبيَّن النبيُّ ﷺ مكانة الدعاء:\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n*(رواه الترمذي وأبو داود — عن النعمان بن بشير رضي الله عنه)*\n\nالدعاءُ اعترافٌ بأن الله يسمعك. قد لا يأتي الجواب كما تتوقع — لكن لا يضيع دعاء أبداً. فالله إما يُعطيك ما طلبتَ، أو يُبدِّله بما هو خير، أو يُدَّخر لك في الآخرة. ادعُ اليوم — من داخلك، بصدق، حتى لو بلا كلمات.",
     "ru": "Дуа – кратчайший путь к Аллаху. Никакого формального языка не нужно, никакого особого места не требуется — только честное сердце.\n\nАллах Всевышний говорит:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**\"И когда слуги Мои спрашивают вас обо Мне — Я действительно рядом. Я отвечаю на зов того, кто призывает Меня.\"**\n*(Аль-Бакара 2:186)*\n\nПророк ﷺ выразил ценность дуа:\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**\"Дуа – это само поклонение.\"**\n*(Тирмизи, Абу Дауд — передал Нуман ибн Башир)*\n\nСовершение дуа – это признание того, что Аллах слышит вас. Ответ может прийти не так, как вы ожидаете, но ни одно дуа никогда не будет потрачено впустую. Аллах либо дарует его, либо заменяет чем-то лучшим, либо сохраняет, чтобы дать вам в будущей жизни. Сделайте сегодня дуа — мысленно, искренне, даже без слов.",
-    "fr": "Du'a est le chemin le plus court vers Allah. Aucun langage formel n’est nécessaire, aucune place particulière n’est requise – seulement un cœur honnête.\n\nAllah le Très-Haut dit :\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**\"Et quand Mes serviteurs vous interrogent sur Moi, Je suis effectivement proche. Je réponds à l'appel de Celui qui M'invoque.\"**\n*(Al-Baqarah 2:186)*\n\nLe Prophète ﷺ a exprimé la valeur de du'a :\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**\"Du'a est le culte lui-même.\"**\n*(Tirmidhi, Abu Dawud — rapporté par Nu'man ibn Bashir)*\n\nFaire du'a, c'est reconnaître qu'Allah vous entend. La réponse ne viendra peut-être pas comme vous l'espériez, mais aucune du'a n'est jamais gaspillée. Soit Allah l'accorde, soit il le remplace par quelque chose de meilleur, soit il le conserve pour vous le donner dans l'au-delà. Faites une invocation aujourd'hui – intérieurement, sincèrement, même sans paroles."
+    "fr": "Du'a est le chemin le plus court vers Allah. Aucun langage formel n’est nécessaire, aucune place particulière n’est requise – seulement un cœur honnête.\n\nAllah le Très-Haut dit :\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**\"Et quand Mes serviteurs vous interrogent sur Moi, Je suis effectivement proche. Je réponds à l'appel de Celui qui M'invoque.\"**\n*(Al-Baqarah 2:186)*\n\nLe Prophète ﷺ a exprimé la valeur de du'a :\n\n**«الدُّعَاءُ هُوَ الْعِبَادَةُ»**\n**\"Du'a est le culte lui-même.\"**\n*(Tirmidhi, Abu Dawud — rapporté par Nu'man ibn Bashir)*\n\nFaire du'a, c'est reconnaître qu'Allah vous entend. La réponse ne viendra peut-être pas comme vous l'espériez, mais aucune du'a n'est jamais gaspillée. Soit Allah l'accorde, soit il le remplace par quelque chose de meilleur, soit il le conserve pour vous le donner dans l'au-delà. Faites une invocation aujourd'hui – intérieurement, sincèrement, même sans paroles.",
+    "id": "Do'a adalah jalan terpendek menuju Allah. Tidak diperlukan bahasa formal, tidak diperlukan tempat khusus — yang ada hanyalah hati yang jujur.\n\nAllah SWT berfirman:\n\n**﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ﴾**\n**\"Dan ketika hamba-hamba-Ku bertanya kepadamu tentang Aku, sesungguhnya Aku sudah dekat. Aku menjawab panggilan orang yang menyeru pada-Ku.\"**\n*(Al-Baqarah 2:186)*\n\nNabi ﷺ mengungkapkan nilai doa:\n\n**\"الدُّعَاءُ هُوَ الْعِبَادَةُ\"**\n**\"Do'a adalah ibadah itu sendiri.\"**\n*(Tirmidzi, Abu Dawud — riwayat Nu'man bin Bashir)*\n\nBerdoa berarti mengakui bahwa Allah mendengarkan Anda. Jawabannya mungkin tidak sesuai dengan harapan Anda – namun tidak ada doa yang sia-sia. Entah Allah mengabulkannya, menggantinya dengan yang lebih baik, atau menyimpannya untuk diberikan kelak di akhirat. Berdoalah hari ini — dalam hati, dengan tulus, bahkan tanpa kata-kata."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "بەپێی ئەلبەقەرە ٢:١٨٦، نزیکایی اللە بە بەندەکانیەوە چۆنە؟",
         "ar": "ما قرب الله من عباده وفق الآية ١٨٦ من سورة البقرة؟",
         "ru": "Согласно Аль-Бакара 2:186, какова близость Аллаха к Своим рабам?",
-        "fr": "Selon Al-Baqarah 2 : 186, quelle est la proximité d’Allah avec Ses serviteurs ?"
+        "fr": "Selon Al-Baqarah 2 : 186, quelle est la proximité d’Allah avec Ses serviteurs ?",
+        "id": "Menurut Al-Baqarah 2:186, apa yang dimaksud dengan kedekatan Allah dengan hamba-Nya?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "تەنها لە ئاخرەتدا نزیکە",
           "ar": "لا يقترب إلا في الآخرة",
           "ru": "Он только рядом в загробной жизни",
-          "fr": "Il n'est proche que dans l'au-delà"
+          "fr": "Il n'est proche que dans l'au-delà",
+          "id": "Dia hanya dekat di akhirat"
         },
         {
           "tr": "Yalnızca ibadet vakitlerinde yakındır",
@@ -68,7 +72,8 @@
           "ckb": "تەنها لە کاتی عیبادەتدا نزیکە",
           "ar": "لا يقترب إلا في أوقات العبادة",
           "ru": "Он рядом только во время поклонения",
-          "fr": "Il n'est proche qu'aux moments d'adoration"
+          "fr": "Il n'est proche qu'aux moments d'adoration",
+          "id": "Dia hanya dekat pada saat-saat ibadah"
         },
         {
           "tr": "Gerçekten yakındır ve dua edenlerin duasına icabet eder",
@@ -81,7 +86,8 @@
           "ckb": "بە ڕاستی نزیکە و وەڵامی ئەوانەی داوای دەکەن دەداتەوە",
           "ar": "قريب حقاً ويُجيب دعوة الداعين",
           "ru": "Он поистине близок и отвечает тем, кто взывает к Нему",
-          "fr": "Il est vraiment proche et répond à ceux qui l'invoquent"
+          "fr": "Il est vraiment proche et répond à ceux qui l'invoquent",
+          "id": "Dia benar-benar dekat dan menanggapi orang-orang yang berseru kepada-Nya"
         },
         {
           "tr": "Yalnızca büyük günahkar olmayanlar ona yaklaşabilir",
@@ -94,7 +100,8 @@
           "ckb": "تەنها ئەوانەی گوناهە گەورەکانیان نەکردووە دەتوانن نزیکی بکەونەوە",
           "ar": "لا يتقرب إليه إلا من لم يرتكب الكبائر",
           "ru": "Приблизиться к Нему могут только те, кто не совершил больших грехов.",
-          "fr": "Seuls ceux qui n’ont pas commis de péchés majeurs peuvent s’approcher de Lui"
+          "fr": "Seuls ceux qui n’ont pas commis de péchés majeurs peuvent s’approcher de Lui",
+          "id": "Hanya mereka yang belum melakukan dosa besar yang dapat mendekatkan diri kepada-Nya"
         }
       ],
       "correct": 2
@@ -112,7 +119,8 @@
         "ckb": "حەدیسی «دوعا خۆی عیبادەتە» لە کام سەرچاوەیەکدایە؟",
         "ar": "في أيّ مصدر يرد حديث «الدعاء هو العبادة»؟",
         "ru": "В каком источнике встречается хадис «Дуа – это само поклонение»?",
-        "fr": "Dans quelle source se trouve le hadith « Du'a est le culte lui-même » ?"
+        "fr": "Dans quelle source se trouve le hadith « Du'a est le culte lui-même » ?",
+        "id": "Dari sumber manakah ditemukan hadits “Doa adalah ibadah itu sendiri”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "بوخاری و موسلیم",
           "ar": "البخاري ومسلم",
           "ru": "Бухари и Муслим",
-          "fr": "Boukhari et Muslim"
+          "fr": "Boukhari et Muslim",
+          "id": "Bukhari dan Muslim"
         },
         {
           "tr": "Tirmizî ve Ebû Dâvûd",
@@ -139,7 +148,8 @@
           "ckb": "تیرمیزی و ئەبو داود",
           "ar": "الترمذي وأبو داود",
           "ru": "Тирмизи и Абу Дауд",
-          "fr": "Tirmidhi et Abou Dawud"
+          "fr": "Tirmidhi et Abou Dawud",
+          "id": "Tirmidzi dan Abu Dawud"
         },
         {
           "tr": "İbn Mâce ve Nesâî",
@@ -152,7 +162,8 @@
           "ckb": "ئیبن ماجە و نەسائی",
           "ar": "ابن ماجه والنسائي",
           "ru": "Ибн Маджа и Насаи",
-          "fr": "Ibn Majah et Nasa'i"
+          "fr": "Ibn Majah et Nasa'i",
+          "id": "Ibnu Majah dan Nasa'i"
         },
         {
           "tr": "Yalnızca Müslim",
@@ -165,7 +176,8 @@
           "ckb": "تەنها موسلیم",
           "ar": "مسلم فحسب",
           "ru": "Только мусульманин",
-          "fr": "Seulement musulman"
+          "fr": "Seulement musulman",
+          "id": "Hanya Muslim"
         }
       ],
       "correct": 1
@@ -183,7 +195,8 @@
         "ckb": "بەپێی ئیسلام، ئەگەر وەڵامی دوعا بەوشێوەی خواستراو نەهات چی دەبێت؟",
         "ar": "ماذا يحدث وفق الإسلام إن لم يأت جواب الدعاء على النحو المطلوب؟",
         "ru": "Согласно исламу, что произойдет, если ответ на дуа не придет так, как хотелось бы?",
-        "fr": "Selon l'Islam, que se passe-t-il si la réponse à une du'a n'est pas celle souhaitée ?"
+        "fr": "Selon l'Islam, que se passe-t-il si la réponse à une du'a n'est pas celle souhaitée ?",
+        "id": "Menurut Islam, apa jadinya jika jawaban doa tidak sesuai keinginan?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "دوعا ڕەتکراوەتەوە",
           "ar": "الدعاء مردود",
           "ru": "Дуа было отклонено",
-          "fr": "La du'a a été rejetée"
+          "fr": "La du'a a été rejetée",
+          "id": "Doanya telah ditolak"
         },
         {
           "tr": "Dua daha sonra tekrar edilmelidir",
@@ -210,7 +224,8 @@
           "ckb": "پێویستە دوعا دواتر دووبارە بکرێتەوە",
           "ar": "يجب إعادة الدعاء لاحقاً",
           "ru": "Дуа необходимо повторить позже",
-          "fr": "Le du'a doit être répété plus tard"
+          "fr": "Le du'a doit être répété plus tard",
+          "id": "Doa itu harus diulangi nanti"
         },
         {
           "tr": "Allah onu ya daha iyisiyle değiştirir ya da âhirete saklar",
@@ -223,7 +238,8 @@
           "ckb": "اللە یان بە باشتری دەگۆڕێتەوە یان بۆ ئاخرەت جەمەر دەکاتەوە",
           "ar": "الله إما يُبدِّله بخير أو يدّخره للآخرة",
           "ru": "Аллах либо заменяет это чем-то лучшим, либо сохраняет для будущей жизни.",
-          "fr": "Allah le remplace par quelque chose de meilleur ou le garde pour l'au-delà."
+          "fr": "Allah le remplace par quelque chose de meilleur ou le garde pour l'au-delà.",
+          "id": "Allah akan menggantinya dengan sesuatu yang lebih baik atau menyimpannya untuk akhirat"
         },
         {
           "tr": "Duanın Allah'a ulaşmadığını gösterir",
@@ -236,7 +252,8 @@
           "ckb": "نیشان دەدات کە دوعا بە اللە نەگەیشتووە",
           "ar": "يدل على أن الدعاء لم يصل إلى الله",
           "ru": "Это показывает, что дуа не дошло до Аллаха.",
-          "fr": "Cela montre que la du'a n'a pas atteint Allah"
+          "fr": "Cela montre que la du'a n'a pas atteint Allah",
+          "id": "Ini menunjukkan doanya tidak sampai kepada Allah"
         }
       ],
       "correct": 2
@@ -254,7 +271,8 @@
         "ckb": "حەدیسی «دوعا خۆی عیبادەتە» بە ڕێوایەتی کێ گێڕاوەتەوە؟",
         "ar": "عن مَن يُروى حديث «الدعاء هو العبادة»؟",
         "ru": "Через чье повествование передан хадис «Дуа – это само поклонение»?",
-        "fr": "Par quelle narration le hadith « Du'a est le culte lui-même » est-il transmis ?"
+        "fr": "Par quelle narration le hadith « Du'a est le culte lui-même » est-il transmis ?",
+        "id": "Melalui riwayat siapakah hadits “Doa adalah ibadah itu sendiri” disebarkan?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ئەبو هورەیرە",
           "ar": "أبو هريرة",
           "ru": "Абу Хурайра",
-          "fr": "Abou Hurayrah"
+          "fr": "Abou Hurayrah",
+          "id": "Abu Hurairah"
         },
         {
           "tr": "Hz. Nu'mân b. Beşîr r.a.",
@@ -281,7 +300,8 @@
           "ckb": "نوعمان بن بەشیر",
           "ar": "النعمان بن بشير",
           "ru": "Нуман ибн Башир",
-          "fr": "Nu'man ibn Bashir"
+          "fr": "Nu'man ibn Bashir",
+          "id": "Nu'man bin Bashir"
         },
         {
           "tr": "Hz. İbn Abbâs r.a.",
@@ -294,7 +314,8 @@
           "ckb": "ئیبن عەبباس",
           "ar": "ابن عباس",
           "ru": "Ибн Аббас",
-          "fr": "Ibn Abbas"
+          "fr": "Ibn Abbas",
+          "id": "Ibnu Abbas"
         },
         {
           "tr": "Hz. Enes b. Mâlik r.a.",
@@ -307,7 +328,8 @@
           "ckb": "ئەنەس بن مالیک",
           "ar": "أنس بن مالك",
           "ru": "Анас ибн Малик",
-          "fr": "Anas ibn Malik"
+          "fr": "Anas ibn Malik",
+          "id": "Anas bin Malik"
         }
       ],
       "correct": 1
@@ -325,7 +347,8 @@
         "ckb": "بۆ دوعایەکی پەسەندکراو چ مەرجێک پێویستە؟",
         "ar": "ما الشرط الضروري لدعاء مقبول؟",
         "ru": "Какое условие является обязательным для действительного дуа?",
-        "fr": "Quelle condition est essentielle pour un du'a valide ?"
+        "fr": "Quelle condition est essentielle pour un du'a valide ?",
+        "id": "Kondisi apa yang penting untuk sahnya do'a?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "عەرەبی زانین",
           "ar": "معرفة اللغة العربية",
           "ru": "Знание арабского языка",
-          "fr": "Connaître l'arabe"
+          "fr": "Connaître l'arabe",
+          "id": "Mengetahui bahasa Arab"
         },
         {
           "tr": "Camide olmak",
@@ -352,7 +376,8 @@
           "ckb": "لە مزگەوتدا بوون",
           "ar": "التواجد في المسجد",
           "ru": "Находясь в мечети",
-          "fr": "Être dans une mosquée"
+          "fr": "Être dans une mosquée",
+          "id": "Berada di masjid"
         },
         {
           "tr": "Belirli duaları ezberlemek",
@@ -365,7 +390,8 @@
           "ckb": "لەبەرکردنی دوعاکانی دیاریکراو",
           "ar": "حفظ أدعية معينة",
           "ru": "Запоминание конкретных молений",
-          "fr": "Mémoriser des supplications spécifiques"
+          "fr": "Mémoriser des supplications spécifiques",
+          "id": "Menghafal permohonan tertentu"
         },
         {
           "tr": "Samimi ve dürüst bir kalple Allah'a yönelmek",
@@ -378,7 +404,8 @@
           "ckb": "بە دڵێکی ڕاستەقینە و دروست بەرەو اللە خۆت بگێڕیتەوە",
           "ar": "التوجه إلى الله بقلب صادق مخلص",
           "ru": "Обращение к Аллаху с искренним и честным сердцем",
-          "fr": "Se tourner vers Allah avec un cœur sincère et honnête"
+          "fr": "Se tourner vers Allah avec un cœur sincère et honnête",
+          "id": "Berpaling kepada Allah dengan hati yang ikhlas dan jujur"
         }
       ],
       "correct": 3
@@ -395,6 +422,7 @@
     "ckb": "کەی بوو کە دوایین جار ڕووتی بەرز کرد و تەنها لەگەڵ اللە قسەت کرد — دەربارەی ئەوەی دەتەوێت، ئەوەی هەستت پێ دەکەیت، ئەوەی لێیت دەترسی؟ ئەمڕۆ کاتێک بدۆزەرەوە. عەرەبی کامڵت پێویست نییە، پێویست نییە دوعایەکی ئامادە بگەڕێیتەوە. تەنها بڵێ «یا ڕەبی» و بەردەوام بە. ئەو پێشتر گوێی دەگرێت. و نزیکیشە.",
     "ar": "متى كانت آخر مرة رفعتَ وجهك وتحدَّثت إلى الله فقط — عما تريد، وما تشعر به، وما تخشاه؟ أوجد لحظةً اليوم. لا تحتاج إلى عربية فصيحة، ولا إلى البحث عن دعاء جاهز. قل فحسب «يا ربي» وواصل. هو يسمع أصلاً. وهو قريب.",
     "ru": "Когда вы в последний раз просто поднимали лицо и говорили с Аллахом — о том, чего вы хотите, что чувствуете, чего боитесь? Найдите минутку сегодня. Вам не нужен идеальный арабский, не нужно искать готовое обращение. Просто скажите «Йа Рабби» и продолжайте. Он уже слушает. И Он рядом.",
-    "fr": "À quand remonte la dernière fois que vous avez simplement levé la tête et parlé à Allah – de ce que vous voulez, de ce que vous ressentez, de ce que vous craignez ? Trouvez un moment aujourd'hui. Vous n’avez pas besoin d’un arabe parfait, vous n’avez pas besoin de chercher une supplication toute faite. Dites simplement « Ya Rabbi » et continuez. Il écoute déjà. Et Il est proche."
+    "fr": "À quand remonte la dernière fois que vous avez simplement levé la tête et parlé à Allah – de ce que vous voulez, de ce que vous ressentez, de ce que vous craignez ? Trouvez un moment aujourd'hui. Vous n’avez pas besoin d’un arabe parfait, vous n’avez pas besoin de chercher une supplication toute faite. Dites simplement « Ya Rabbi » et continuez. Il écoute déjà. Et Il est proche.",
+    "id": "Kapan terakhir kali Anda hanya mengangkat wajah dan berbicara kepada Allah — tentang apa yang Anda inginkan, apa yang Anda rasakan, apa yang Anda takuti? Temukan momen hari ini. Anda tidak perlu bahasa Arab yang sempurna, Anda tidak perlu mencari doa yang sudah jadi. Katakan saja \"Ya Rabbi\" dan lanjutkan. Dia sudah mendengarkan. Dan Dia sudah dekat."
   }
 }

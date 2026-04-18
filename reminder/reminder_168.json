@@ -12,7 +12,8 @@
     "ckb": "دوورکەوتنەوە لە فێنەدانی زۆر",
     "ar": "الاجتناب عن الإسراف",
     "ru": "Держитесь подальше от отходов",
-    "fr": "Rester à l'écart des déchets"
+    "fr": "Rester à l'écart des déchets",
+    "id": "Menjauhi Sampah"
   },
   "content": {
     "tr": "İsraf; sadece tabağı taşırmak değil — suyu, sözü, zamanı ve emeği de boşa dökmektir. İslam, «bol olsun» değil «yerinde ve ölçülü olsun» der; nimeti küçümsemek de, nimeti savurmak da israftır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n**«Yiyin için ama israf etmeyin. Çünkü O, müsrifleri sevmez.»**\n*(A'râf 7:31)*\n\nİsra suresinde ise israfın çirkin yüzü daha sert çizilir:\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n**«Savurganlık yapma. Çünkü savurganlar şeytanların kardeşleridir. Şeytan da Rabbine çok nankördür.»**\n*(İsrâ 17:26-27 bağlamında; israf uyarısı 17:27)*\n\nPeygamberimiz ﷺ ölçüyü beden dilinde de öğretir:\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n**«Hiçbir Âdemoğlu, doldurabileceğinden daha kötü bir kap dolusu yememiştir...»** *(yemek için üç pay yeter: üçte biri yemek, üçte biri içecek, üçte biri nefes)*\n*(Tirmizî, «Zühd» — Hz. Mikdâd b. Ma'dikerb r.a. rivayetiyle; hasen sahîh)*\n\nBugün bir lokma, bir musluk, bir dakika — israftan uzak durmak, nimete saygıdır.",
@@ -25,7 +26,8 @@
     "ckb": "فێنەدانی زۆر تەنها قاپەکە لەکاندنەوە نییە — ئاو، وشە، کات و هەوڵ بەفیڕۆدانیشە. ئیسلام «زۆر بێت» ناڵێت بەڵکو «لە شوێنی خۆیدا و بە پێوانە»؛ بچووککردنەوەی بەخشش و فێنەدانیشی زۆرە.\n\nاللە دەفەرموێت:\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n*(ئەعراف: ٣١)*\n\nلە سورەتی ئیسرادا ڕووی ناشرینی فێنەدان توندتر دەردەکەوێت:\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ﴾**\n*(ئیسرا: ٢٧)*\n\nپێغەمبەرمان ﷺ پێوانە لە جەستەشدا فێر دەکات:\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n*(تیرمیزی، «زوهد» — بە ڕێوایەتی مقداد کوڕی مەعدیکەرب؛ حەسەن سەحیح)*\n\nئەمڕۆ یەک نەقڵ، یەک سەرچاوە، یەک خولەک — دوورکەوتنەوە لە فێنەدان ڕێزگرتنە لە بەخشش.",
     "ar": "الإسرافُ ليس إراقةَ الطعام فقط؛ بل إهدارَ الماء والقول والوقت والجهد. يقول الإسلام لا «ليكثر» بل «ليكُنْ موفوراً ومُقَدَّراً»؛ فاستخفافُ النعمةِ وإسرافُها سواءٌ في العُدْمِ.\n\nيقول الله تعالى:\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n*(الأعراف: ٣١)*\n\nوفي الإسراء:\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n*(الإسراء: ٢٧)*\n\nوقال النبيُّ ﷺ:\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n*(رواه الترمذي — عن المقداد بن معد يكرب رضي الله عنه؛ حسن صحيح)*\n\nلقمةٌ، وصنبورٌ، ودقيقةٌ — فالاجتنابُ عن الإسراف احترامٌ للنعمة.",
     "ru": "Потери – это не только расплескивание тарелки, это выливание воды, слов, времени и усилий. Ислам говорит не «пусть будет много», а «пусть будет подобающе и размеренно»; умаление блага и его растрата — это излишества.\n\nАллах Всевышний говорит:\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ**\n**\"Ешь и пей, но не расточивай. Воистину, Он не любит тех, кто совершает излишества\".**\n*(Аль-Араф 7:31)*\n\nВ суре «Аль-Исра» уродливое лицо расточительства изображено более сурово:\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n**\"И не тратьте расточительно. Воистину, расточители — братья дьявола, и всегда сатана был неблагодарен своему Господу.\"**\n*(Аль-Исра 17:27)*\n\nНаш Пророк ﷺ учит мере даже на языке тела:\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n**\"Сын Адама не наполняет сосуд хуже, чем его желудок...\"** *(одна треть пусть будет для еды, одна треть для питья, одна треть для дыхания)*\n*(Ат-Тирмизи, «Зухд» — передал Микдад ибн Мадикариб r.a.; хасан сахих)*\n\nСегодня один укус, одно постукивание, одна минута — воздержание от расточительства — это уважение к благословениям.",
-    "fr": "Le gaspillage, ce n’est pas seulement renverser l’assiette, c’est aussi gaspiller de l’eau, des mots, du temps et des efforts. L'Islam ne dit pas « que ce soit en abondance » mais « que ce soit approprié et mesuré » ; déprécier une bénédiction et la dilapider sont tous deux des excès.\n\nAllah le Très-Haut dit :\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n**\"Mangez et buvez, mais ne soyez pas extravagant. En effet, Il n'aime pas ceux qui commettent des excès.\"**\n*(Al-A'raf 7:31)*\n\nDans la sourate Al-Isra, le visage laid du gaspillage est dessiné de manière plus sévère :\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n**\"Et ne dépensez pas inutilement. En effet, les gaspilleurs sont les frères des diables, et Satan a toujours été ingrat envers son Seigneur.\"**\n*(Al-Isra 17 :27)*\n\nNotre Prophète ﷺ enseigne la mesure même dans le langage du corps :\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n**\"Le fils d'Adam ne remplit aucun récipient pire que son estomac...\"** *(qu'un tiers soit pour la nourriture, un tiers pour la boisson, un tiers pour respirer)*\n*(At-Tirmidhi, \"Zuhd\" — rapporté par Miqdad ibn Ma'dikarib r.a. ; hasan sahih)*\n\nAujourd’hui, une bouchée, une tape, une minute – rester à l’écart du gaspillage est un respect pour les bénédictions."
+    "fr": "Le gaspillage, ce n’est pas seulement renverser l’assiette, c’est aussi gaspiller de l’eau, des mots, du temps et des efforts. L'Islam ne dit pas « que ce soit en abondance » mais « que ce soit approprié et mesuré » ; déprécier une bénédiction et la dilapider sont tous deux des excès.\n\nAllah le Très-Haut dit :\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n**\"Mangez et buvez, mais ne soyez pas extravagant. En effet, Il n'aime pas ceux qui commettent des excès.\"**\n*(Al-A'raf 7:31)*\n\nDans la sourate Al-Isra, le visage laid du gaspillage est dessiné de manière plus sévère :\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n**\"Et ne dépensez pas inutilement. En effet, les gaspilleurs sont les frères des diables, et Satan a toujours été ingrat envers son Seigneur.\"**\n*(Al-Isra 17 :27)*\n\nNotre Prophète ﷺ enseigne la mesure même dans le langage du corps :\n\n**«مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n**\"Le fils d'Adam ne remplit aucun récipient pire que son estomac...\"** *(qu'un tiers soit pour la nourriture, un tiers pour la boisson, un tiers pour respirer)*\n*(At-Tirmidhi, \"Zuhd\" — rapporté par Miqdad ibn Ma'dikarib r.a. ; hasan sahih)*\n\nAujourd’hui, une bouchée, une tape, une minute – rester à l’écart du gaspillage est un respect pour les bénédictions.",
+    "id": "Sampah tidak hanya menumpahkan piring, tapi juga membuang air, kata-kata, waktu, dan tenaga. Islam mengatakan bukan “biarlah banyak” tetapi “biarlah sesuai dan terukur”; meremehkan suatu nikmat dan menyia-nyiakannya, keduanya merupakan perbuatan yang berlebihan.\n\nAllah SWT berfirman:\n\n**﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾**\n**\"Makan dan minumlah, namun jangan berlebihan. Sesungguhnya Dia tidak menyukai orang-orang yang berlebihan.\"**\n*(Al-A'raf 7:31)*\n\nDalam surat Al-Isra wajah buruk sampah digambarkan dengan lebih tegas:\n\n**﴿وَلَا تُبَذِّرْ تَبْذِيرًا ۚ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا﴾**\n**\"Dan janganlah kamu menghambur-hamburkan uang. Sesungguhnya orang-orang yang boros itu adalah saudara setan, dan setan selalu durhaka kepada Rabbnya.\"**\n*(Al-Isra 17:27)*\n\nNabi kita ﷺ mengajarkan mengukur bahkan dalam bahasa tubuh:\n\n**\"مَا مَلَأَ آدَمِيٌّ وِعَاءً شَرًّا مِنْ بَطْنٍ ...»**\n**\"Tidak ada bejana yang diisi oleh anak Adam lebih buruk dari perutnya...\"** *(biarkan sepertiganya untuk makanan, sepertiganya untuk minuman, sepertiganya untuk bernafas)*\n*(At-Tirmidzi, “Zuhd” — diriwayatkan oleh Miqdad bin Ma'dikarib r.a.; hasan sahih)*\n\nSaat ini, satu gigitan, satu ketukan, satu menit — menjauhi sampah berarti menghormati berkah."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «بخۆنەوە و مەخەنەوە بەڵام فێنەدان مەکەن — ئەو لە فێنەدەران خۆش ناوێت» لە کام سورەتدایە؟",
         "ar": "في أيِّ سورةٍ ﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾؟",
         "ru": "В какой суре находится аят «Ешь и пей, но не расточай — Он не любит тех, кто совершает излишества»?",
-        "fr": "Dans quelle sourate se trouve le verset « Mangez et buvez mais ne soyez pas extravagant – Il n'aime pas ceux qui commettent des excès » ?"
+        "fr": "Dans quelle sourate se trouve le verset « Mangez et buvez mais ne soyez pas extravagant – Il n'aime pas ceux qui commettent des excès » ?",
+        "id": "Di dalam surah manakah ayat “Makan dan minumlah tetapi jangan berlebihan, Dia tidak menyukai orang-orang yang berbuat berlebihan”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەعراف",
           "ar": "الأعراف",
           "ru": "Аль-Араф",
-          "fr": "Al-A'raf"
+          "fr": "Al-A'raf",
+          "id": "Al-A'raf"
         },
         {
           "tr": "İsrâ",
@@ -68,7 +72,8 @@
           "ckb": "ئیسرا",
           "ar": "الإسراء",
           "ru": "Аль-Исра",
-          "fr": "Al-Isra"
+          "fr": "Al-Isra",
+          "id": "Al-Isra"
         },
         {
           "tr": "Rahmân",
@@ -81,7 +86,8 @@
           "ckb": "رەحمان",
           "ar": "الرحمن",
           "ru": "Ар-Рахман",
-          "fr": "Ar-Rahman"
+          "fr": "Ar-Rahman",
+          "id": "Ar-Rahman"
         },
         {
           "tr": "Nahl",
@@ -94,7 +100,8 @@
           "ckb": "نەحل",
           "ar": "النحل",
           "ru": "Ан-Наль",
-          "fr": "An-Nahl"
+          "fr": "An-Nahl",
+          "id": "An-Nahl"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەپێی ئیسرا ٢٧ فێنەدەران بە کێ دەچن؟",
         "ar": "لمن ضُرِبَ مثلُ المبذّرين في ﴿الإسراء: ٢٧﴾؟",
         "ru": "Согласно Аль-Исра 17:27, кому можно сравнить расточителей?",
-        "fr": "Selon Al-Isra 17 :27, à qui sont comparés les gaspilleurs ?"
+        "fr": "Selon Al-Isra 17 :27, à qui sont comparés les gaspilleurs ?",
+        "id": "Menurut Al-Isra 17:27 Siapakah yang disamakan dengan orang yang boros?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "برایانی شەیتانان",
           "ar": "إخوان الشياطين",
           "ru": "Братья дьяволов",
-          "fr": "Frères des diables"
+          "fr": "Frères des diables",
+          "id": "Saudara iblis"
         },
         {
           "tr": "Meleklere yakın olanlar",
@@ -139,7 +148,8 @@
           "ckb": "نزیک لە فریشتەکان",
           "ar": "أقرباء الملائكة",
           "ru": "Близкие к ангелам",
-          "fr": "Les proches des anges"
+          "fr": "Les proches des anges",
+          "id": "Mereka yang dekat dengan malaikat"
         },
         {
           "tr": "Sadece peygamberler",
@@ -152,7 +162,8 @@
           "ckb": "تەنها پێغەمبەران",
           "ar": "الأنبياء فقط",
           "ru": "Только пророки",
-          "fr": "Seuls les prophètes"
+          "fr": "Seuls les prophètes",
+          "id": "Hanya para nabi"
         },
         {
           "tr": "Hiç kimseye benzetilmez",
@@ -165,7 +176,8 @@
           "ckb": "بە هیچ کەسێک ناچن",
           "ar": "لا يُشبَهون بأحدٍ",
           "ru": "По сравнению с никем",
-          "fr": "Comparé à personne"
+          "fr": "Comparé à personne",
+          "id": "Dibandingkan dengan siapa pun"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "حەدیسی تیرمیزی دەربارەی «سێ بەش بۆ سک» چی ئامۆژگاری دەکات؟",
         "ar": "ماذا يحثُّ حديثُ «ثلثٌ للطعام وثلثٌ للشراب»؟",
         "ru": "Что советует хадис Тирмизи о «трех долях для желудка»?",
-        "fr": "Que conseille le hadith Tirmidhi sur « trois parts pour l'estomac » ?"
+        "fr": "Que conseille le hadith Tirmidhi sur « trois parts pour l'estomac » ?",
+        "id": "Apa yang disarankan oleh hadits Tirmidzi tentang “tiga bagian untuk perut”?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "خواردن بە پێوانە؛ سک بە زۆری پڕ نەکەیتەوە",
           "ar": "الاعتدال في الأكل وعدمِ ملء البطن",
           "ru": "Размеренное питание; не переполнять желудок",
-          "fr": "Alimentation mesurée ; ne pas trop remplir l'estomac"
+          "fr": "Alimentation mesurée ; ne pas trop remplir l'estomac",
+          "id": "Makan terukur; tidak memenuhi perut secara berlebihan"
         },
         {
           "tr": "Sadece sıvı içmeyi",
@@ -210,7 +224,8 @@
           "ckb": "تەنها شلە بخوەرەوە",
           "ar": "الاكتفاءَ بالشراب",
           "ru": "Пить только жидкости",
-          "fr": "Boire uniquement des liquides"
+          "fr": "Boire uniquement des liquides",
+          "id": "Hanya minum cairan"
         },
         {
           "tr": "Tamamen oruç tutmayı",
@@ -223,7 +238,8 @@
           "ckb": "تەواوی ڕۆژوو",
           "ar": "صوماً تاماً",
           "ru": "Полностью поститься",
-          "fr": "Jeûner complètement"
+          "fr": "Jeûner complètement",
+          "id": "Puasa sepenuhnya"
         },
         {
           "tr": "Yemek yasağı",
@@ -236,7 +252,8 @@
           "ckb": "قەدەغەی خواردن",
           "ar": "تحريم الطعام",
           "ru": "Запрет на еду",
-          "fr": "Interdiction de manger"
+          "fr": "Interdiction de manger",
+          "id": "Larangan makan"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بەپێی دەقەکە فێنەدان تەنها خواردن و خواردنەوە؟",
         "ar": "هل الإسرافُ مقصورٌ على الأكل والشرب وفقَ النص؟",
         "ru": "Согласно тексту, ограничивается ли понятие отходов только продуктами питания и напитками?",
-        "fr": "Selon le texte, la notion de déchet se limite-t-elle uniquement aux aliments et aux boissons ?"
+        "fr": "Selon le texte, la notion de déchet se limite-t-elle uniquement aux aliments et aux boissons ?",
+        "id": "Berdasarkan teks tersebut, apakah konsep sampah hanya sebatas makanan dan minuman saja?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "نە؛ ئاو، وشە، کات و هەوڵیش دەتوانێت فێنەدان بێت",
           "ar": "لا؛ فالماءُ والقولُ والوقتُ قد يُسرَف",
           "ru": "Нет; вода, слова, время и усилия также могут быть напрасными",
-          "fr": "Non; l'eau, les mots, le temps et les efforts peuvent aussi être une perte"
+          "fr": "Non; l'eau, les mots, le temps et les efforts peuvent aussi être une perte",
+          "id": "TIDAK; air, kata-kata, waktu, dan tenaga juga bisa terbuang percuma"
         },
         {
           "tr": "Evet, sadece tabak",
@@ -281,7 +300,8 @@
           "ckb": "بەڵێ، تەنها قاپ",
           "ar": "نعم، الطبق فقط",
           "ru": "Да, только тарелка",
-          "fr": "Oui, seulement la plaque"
+          "fr": "Oui, seulement la plaque",
+          "id": "Ya, hanya piringnya"
         },
         {
           "tr": "Evet, sadece içecek",
@@ -294,7 +314,8 @@
           "ckb": "بەڵێ، تەنها خواردنەوە",
           "ar": "نعم، الشراب فقط",
           "ru": "Да, только пить",
-          "fr": "Oui, je bois seulement"
+          "fr": "Oui, je bois seulement",
+          "id": "Ya, hanya minum"
         },
         {
           "tr": "Kur'an israfı tanımaz",
@@ -307,7 +328,8 @@
           "ckb": "قورئان فێنەدان نانوێت",
           "ar": "القرآن لا يعرف الإسراف",
           "ru": "В Коране не упоминается мусор",
-          "fr": "Le Coran ne mentionne pas le gaspillage"
+          "fr": "Le Coran ne mentionne pas le gaspillage",
+          "id": "Al-Qur'an tidak menyebutkan sampah"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
         "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?",
+        "id": "Berdasarkan teks tersebut, pernyataan berikut manakah yang SALAH?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "فێنەدان واتە بە پێوانە بۆ ڕەزایەتی اللە",
           "ar": "الإسرافُ هو الاعتدالُ لرضا الله",
           "ru": "Расточительство означает, что его измеряют ради довольства Аллаха.",
-          "fr": "Le gaspillage signifie être mesuré pour le plaisir d'Allah"
+          "fr": "Le gaspillage signifie être mesuré pour le plaisir d'Allah",
+          "id": "Sampah artinya diukur demi keridhaan Allah"
         },
         {
           "tr": "A'râf 7:31 müsrifleri sevmeyeni bildirir",
@@ -352,7 +376,8 @@
           "ckb": "ئەعراف ٣١ دەڵێت خۆشی لە فێنەدەران نییە",
           "ar": "الأعراف ٣١ ينفي محبةَ المسرفين",
           "ru": "В Аль-Арафе 7:31 говорится, что Он не любит экстравагантных.",
-          "fr": "Al-A'raf 7 :31 dit qu'Il n'aime pas les extravagants"
+          "fr": "Al-A'raf 7 :31 dit qu'Il n'aime pas les extravagants",
+          "id": "Al-A'raf 7:31 mengatakan Dia tidak menyukai kemewahan"
         },
         {
           "tr": "İsrâ 17:27 savurganlığı şeytanlarla ilişkilendirir",
@@ -365,7 +390,8 @@
           "ckb": "ئیسرا ٢٧ فێنەدان بە شەیتان دەگەڕێنێتەوە",
           "ar": "الإسراء ٢٧ يربطُ التبذيرَ بالشياطين",
           "ru": "Аль-Исра 17:27 связывает расточительность с дьяволами",
-          "fr": "Al-Isra 17 : 27 relie le gaspillage aux démons"
+          "fr": "Al-Isra 17 : 27 relie le gaspillage aux démons",
+          "id": "Al-Isra 17:27 menghubungkan kesia-siaan dengan setan"
         },
         {
           "tr": "Hadiste mide için ölçü tavsiye edilir",
@@ -378,7 +404,8 @@
           "ckb": "لە حەدیسدا پێوانە بۆ سک پێشنیار دەکرێت",
           "ar": "الحديثُ ينصحُ بالاعتدال في البطن",
           "ru": "Хадис советует меру для желудка",
-          "fr": "Le hadith conseille de mesurer l'estomac"
+          "fr": "Le hadith conseille de mesurer l'estomac",
+          "id": "Hadits tersebut menganjurkan takaran untuk perut"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ هەوڵ بدە لە فێنەدان دوور بکەویتەوە — سەرچاوەکە بەبێ پێویست نەکەیتەوە، قاپ بە پێوانە پڕ بکەرەوە یان وشەیەکی پێویست نەبێت بخۆیتەوە. ئەعراف ٣١ و ئیسرا ٢٧ بیرت دەخاتەوە: پێوانە بۆ جەستە و سامان و وشەشە.",
     "ar": "جرِّب اليوم أن تُغلِقَ صنبوراً بلا عبثٍ، وأن تُقَدِّرَ لقمتك، وأن تكظمَ كلمةً لا فائدةَ منها. ﴿وَلَا تُسْرِفُوا﴾ و﴿وَلَا تُبَذِّرْ﴾ يذكِّرانك: الاعتدالُ للبدن والمال والقول.",
     "ru": "Сегодня постарайтесь держаться подальше от мусора: не оставляйте кран без необходимости наполнять тарелку и не проглатывайте ненужные слова. Аль-Араф 7:31 и Аль-Исра 17:27 напоминают вам: мера применима как к телу, богатству, так и к речи.",
-    "fr": "Aujourd’hui, essayez de rester à l’écart du gaspillage : ne laissez pas couler un robinet inutilement, ne remplissez pas une assiette de mesure ou n’avalez pas un mot inutile. Al-A'raf 7 :31 et Al-Isra 17 :27 vous le rappellent : la mesure s'applique aussi bien au corps, à la richesse et à la parole."
+    "fr": "Aujourd’hui, essayez de rester à l’écart du gaspillage : ne laissez pas couler un robinet inutilement, ne remplissez pas une assiette de mesure ou n’avalez pas un mot inutile. Al-A'raf 7 :31 et Al-Isra 17 :27 vous le rappellent : la mesure s'applique aussi bien au corps, à la richesse et à la parole.",
+    "id": "Hari ini cobalah menjauhi sampah – tidak membiarkan keran mengalir sia-sia, tidak mengisi piring dengan takaran, atau menelan kata-kata yang tidak perlu. Al-A'raf 7:31 dan Al-Isra 17:27 mengingatkan anda: takaran berlaku pada tubuh, harta, dan ucapan."
   }
 }

@@ -12,7 +12,8 @@
     "ckb": "دووری کردن لە کیبر",
     "ar": "اجتناب الكبر",
     "ru": "Как избежать высокомерия",
-    "fr": "Éviter l’arrogance"
+    "fr": "Éviter l’arrogance",
+    "id": "Menghindari Kesombongan"
   },
   "content": {
     "tr": "Kibir, insanın kendini başkalarından üstün görmesi ve bu sebeple hakkı kabul etmekten kaçınmasıdır. İslam, kalbi körelten ve insanı Allah'tan uzaklaştıran bu hastalığa karşı özellikle uyarır. Kibir zaman zaman büyük hareketlerde değil, küçük bakışlarda, söylemlerde ve tavırlarda gizlenir.\n\nPeygamberimiz ﷺ şöyle buyurdu:\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n**«Kibir, hakkı çiğnemek ve insanları küçük görmektir.»**\n*(Müslim — Abdullah b. Mes'ûd r.a. rivayetiyle)*\n\nAllah Teâlâ ise Lokman'ın öğütleri arasında şöyle buyurur:\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**«İnsanlara yanağını dönme ve yeryüzünde böbürlenerek yürüme. Şüphesiz Allah, kibirli ve övüngen kimseleri sevmez.»**\n*(Lokmân 31:18)*\n\nBugün kalbini gözden geçir: Birisini küçük mü gördün? Bir gerçeği kabul etmekte zorlandın mı? Tevazu yalnızca zayıflık değil, olgunluğun ve imanın en güzel göstergesidir.",
@@ -25,7 +26,8 @@
     "ckb": "کیبر ئەوەیە کە کەسێک خۆی لە کەسانی تر باشتر ببینێت و بەهۆی ئەوەوە لە قبوڵکردنی ڕاستی دووری بکەوێت. ئیسلام بە تایبەتی دژ بەم نەخۆشی دڵەوە ئاگادار دەکات، ئەمەی کە گیان سووڕ دەکات و کەسەکە لە اللە دوور دەخات. کیبر زۆرجار لە جەستوجوی گەورە نەمانەوە، بەڵکو لە بینینی بچووک، قسە و ڕووکێشەکانی بچووکدا شاردراوەتەوە.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n**«کیبر ئەوەیە کە ڕاستی ڕەتبکرێتەوە و کەسان بچووک بخرێن.»**\n*(موسلیم — بە ڕێوایەتی عەبدوللە بن مەسعود)*\n\nاللەی بەرز لە ئەندەرزەکانی لوقماندا فەرموویەتی:\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**«ڕووی خۆت لە مرۆڤان مەگێڕەوە و بە شانازی لەسەر زەوی مەگەڕێ. بەڕاستی اللە ئەوانەی شانازیپەرەسن و خۆبینن خۆشی ناکات.»**\n*(لوقمان: ١٨)*\n\nئەمڕۆ دڵەکەت بپشکنە: کەسێکت بچووک بینی؟ قبوڵکردنی ڕاستێکت سەختت بوو؟ فرۆتنی لاوازی نییە — یەکێکە لە جوانترین نیشانەکانی گەشەسەندن و ئیمان.",
     "ar": "الكِبْرُ هو أن يرى الإنسان نفسَه أعلى من غيره فيأبى قبول الحق من ذلك. وقد حذَّر الإسلامُ تحذيرًا خاصًّا من هذا الداء الذي يُقسّي القلب ويُبعد صاحبه عن الله. والكبرُ كثيرًا ما يختبئ لا في الأفعال الكبيرة، بل في النظرات والكلمات والمواقف الصغيرة.\n\nقال النبي ﷺ:\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n*(رواه مسلم — عن عبد الله بن مسعود رضي الله عنه)*\n\nويقول الله تعالى في وصايا لقمان:\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n*(لقمان: ١٨)*\n\nراجِع قلبك اليوم: هل احتقرت أحدًا؟ هل صعُب عليك قبول حقيقة ما؟ التواضعُ ليس ضعفًا — بل هو من أجمل علامات النضج والإيمان.",
     "ru": "Высокомерие – это когда человек считает себя выше других и в результате отказывается принять правду. Ислам особо предостерегает от этой болезни сердца, которая притупляет дух и отдаляет человека от Аллаха. Высокомерие часто скрывается не в широких жестах, а во взглядах, словах и позах.\n\nПророк ﷺ сказал:\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n**\"Высокомерие — это отказ от истины и взгляд на людей свысока\".**\n*(Муслим — передал Абдулла ибн Мас’уд)*\n\nВсевышний Аллах говорит в совете Лукмана:\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**\"Не отворачивай щеки своей от людей и не ходи по земле ликуя. Воистину, Аллах не любит тщеславных и хвастливых.\"**\n*(Лукман 31:18)*\n\nПодумайте сегодня: смотрели ли вы на кого-то свысока? Вам было трудно принять истину? Смирение – это не слабость, это один из самых прекрасных признаков зрелости и веры.",
-    "fr": "L'arrogance, c'est lorsqu'une personne se considère supérieure aux autres et, par conséquent, refuse d'accepter la vérité. L’Islam met spécifiquement en garde contre cette maladie du cœur, qui engourdit l’esprit et éloigne d’Allah. L’arrogance ne se cache souvent pas dans de grands gestes mais dans de petits regards, paroles et attitudes.\n\nLe Prophète ﷺ a dit :\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n**\"L'arrogance, c'est rejeter la vérité et mépriser les gens.\"**\n*(Musulman — rapporté par Abdullah ibn Mas'ud)*\n\nAllah le Très-Haut dit dans le conseil de Luqman :\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**\"Ne détournez pas votre joue des gens et ne parcourez pas la terre avec exaltation. En effet, Allah n'aime pas celui qui est vaniteux et vantard. \"**\n*(Luqman 31:18)*\n\nRéfléchissez aujourd’hui : avez-vous méprisé quelqu’un ? Avez-vous eu du mal à accepter une vérité ? L’humilité n’est pas une faiblesse : c’est l’un des plus beaux signes de maturité et de foi."
+    "fr": "L'arrogance, c'est lorsqu'une personne se considère supérieure aux autres et, par conséquent, refuse d'accepter la vérité. L’Islam met spécifiquement en garde contre cette maladie du cœur, qui engourdit l’esprit et éloigne d’Allah. L’arrogance ne se cache souvent pas dans de grands gestes mais dans de petits regards, paroles et attitudes.\n\nLe Prophète ﷺ a dit :\n\n**«الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ»**\n**\"L'arrogance, c'est rejeter la vérité et mépriser les gens.\"**\n*(Musulman — rapporté par Abdullah ibn Mas'ud)*\n\nAllah le Très-Haut dit dans le conseil de Luqman :\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**\"Ne détournez pas votre joue des gens et ne parcourez pas la terre avec exaltation. En effet, Allah n'aime pas celui qui est vaniteux et vantard. \"**\n*(Luqman 31:18)*\n\nRéfléchissez aujourd’hui : avez-vous méprisé quelqu’un ? Avez-vous eu du mal à accepter une vérité ? L’humilité n’est pas une faiblesse : c’est l’un des plus beaux signes de maturité et de foi.",
+    "id": "Arogansi adalah ketika seseorang melihat dirinya lebih unggul dari orang lain dan akibatnya menolak menerima kebenaran. Islam secara khusus memperingatkan terhadap penyakit hati yang menumpulkan semangat dan menjauhkan seseorang dari Allah. Kesombongan sering kali tersembunyi bukan dalam tindakan besar, melainkan dalam pandangan sekilas, kata-kata, dan sikap.\n\nNabi ﷺ bersabda:\n\n**\"الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ\"**\n**\"Arogansi adalah menolak kebenaran dan memandang rendah orang lain.\"**\n*(Muslim — meriwayatkan Abdullah bin Mas'ud)*\n\nAllah SWT berfirman dalam nasehat Luqman:\n\n**﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ﴾**\n**\"Jangan memalingkan pipimu dari manusia, dan jangan berjalan di bumi dengan gembira. Sesungguhnya Allah tidak menyukai orang yang sombong dan sombong.\"**\n*(Luqman 31:18)*\n\nRenungkan hari ini: Pernahkah Anda memandang rendah seseorang? Pernahkah Anda merasa sulit menerima sebuah kebenaran? Kerendahan hati bukanlah kelemahan — itu adalah salah satu tanda kedewasaan dan iman yang paling indah."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "پێغەمبەر ﷺ کیبر چۆن پێناسەی کرد؟",
         "ar": "كيف عرَّف النبي ﷺ الكبرَ؟",
         "ru": "Как Пророк ﷺ определял высокомерие?",
-        "fr": "Comment le Prophète ﷺ a-t-il défini l’arrogance ?"
+        "fr": "Comment le Prophète ﷺ a-t-il défini l’arrogance ?",
+        "id": "Bagaimana Nabi ﷺ mendefinisikan kesombongan?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "زیاد قسەکردن و گلەیکردن",
           "ar": "كثرة الكلام والشكوى",
           "ru": "Слишком много говорить и жаловаться",
-          "fr": "Trop parler et se plaindre"
+          "fr": "Trop parler et se plaindre",
+          "id": "Terlalu banyak bicara dan mengeluh"
         },
         {
           "tr": "Hakkı çiğnemek ve insanları küçük görmek",
@@ -68,7 +72,8 @@
           "ckb": "ڕەتکردنەوەی ڕاستی و بچووکخستنی کەسان",
           "ar": "بطر الحق وغمط الناس",
           "ru": "Отвергать правду и смотреть на людей свысока",
-          "fr": "Rejeter la vérité et mépriser les gens"
+          "fr": "Rejeter la vérité et mépriser les gens",
+          "id": "Menolak kebenaran dan meremehkan orang"
         },
         {
           "tr": "Namaz ve orucu ihmal etmek",
@@ -81,7 +86,8 @@
           "ckb": "سووردیلی لە نوێژ و روژوو",
           "ar": "إهمال الصلاة والصيام",
           "ru": "Пренебрежение молитвой и постом",
-          "fr": "Négliger la prière et le jeûne"
+          "fr": "Négliger la prière et le jeûne",
+          "id": "Mengabaikan shalat dan puasa"
         },
         {
           "tr": "Sadaka vermemek ve cimri olmak",
@@ -94,7 +100,8 @@
           "ckb": "نەدانی سەدەقە و خەسیسیبوون",
           "ar": "ترك الصدقة والبخل",
           "ru": "Не раздавать милостыню и быть скупым",
-          "fr": "Ne pas faire la charité et être avare"
+          "fr": "Ne pas faire la charité et être avare",
+          "id": "Tidak bersedekah dan kikir"
         }
       ],
       "correct": 1
@@ -112,7 +119,8 @@
         "ckb": "کام یاریدەری پێغەمبەر حەدیسی پێناسەی کیبری ڕێوایەت کردووە؟",
         "ar": "مَن روى الحديث الذي يُعرِّف الكبر؟",
         "ru": "Какой сподвижник передал хадис, определяющий высокомерие?",
-        "fr": "Quel compagnon a raconté le hadith définissant l'arrogance ?"
+        "fr": "Quel compagnon a raconté le hadith définissant l'arrogance ?",
+        "id": "Sahabat manakah yang meriwayatkan hadis yang mendefinisikan kesombongan?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "ئەبو هورەیرە",
           "ar": "أبو هريرة",
           "ru": "Абу Хурайра",
-          "fr": "Abou Hurayrah"
+          "fr": "Abou Hurayrah",
+          "id": "Abu Hurairah"
         },
         {
           "tr": "Hz. Abdullah b. Mes'ûd",
@@ -139,7 +148,8 @@
           "ckb": "عەبدوللە بن مەسعود",
           "ar": "عبد الله بن مسعود",
           "ru": "Абдулла ибн Масуд",
-          "fr": "Abdallah ibn Mas'ud"
+          "fr": "Abdallah ibn Mas'ud",
+          "id": "Abdullah bin Mas'ud"
         },
         {
           "tr": "Hz. Âişe",
@@ -152,7 +162,8 @@
           "ckb": "عائیشە",
           "ar": "عائشة",
           "ru": "Аиша",
-          "fr": "Aïcha"
+          "fr": "Aïcha",
+          "id": "Aisyah"
         },
         {
           "tr": "Hz. Ali b. Ebî Tâlib",
@@ -165,7 +176,8 @@
           "ckb": "عەلی بن ئەبی تالیب",
           "ar": "علي بن أبي طالب",
           "ru": "Али ибн Аби Талиб",
-          "fr": "Ali ibn Abi Talib"
+          "fr": "Ali ibn Abi Talib",
+          "id": "Ali bin Abi Thalib"
         }
       ],
       "correct": 1
@@ -183,7 +195,8 @@
         "ckb": "ئایەتی «ڕووی خۆت لە مرۆڤان مەگێڕەوە و بە شانازی لەسەر زەوی مەگەڕێ» لە کام سورەتدایە؟",
         "ar": "في أيِّ سورة وردت الآية «وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا»؟",
         "ru": "В какой суре есть аят «Не отворачивай щеки своей от людей и не ходи по земле ликуя»?",
-        "fr": "Dans quelle sourate se trouve le verset « Ne détournez pas votre joue des gens et ne parcourez pas la terre avec exaltation » ?"
+        "fr": "Dans quelle sourate se trouve le verset « Ne détournez pas votre joue des gens et ne parcourez pas la terre avec exaltation » ?",
+        "id": "Di surah manakah ayat “Jangan memalingkan pipimu dari manusia dan jangan berjalan di muka bumi dengan gembira”?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "بەقەرە",
           "ar": "البقرة",
           "ru": "Аль-Бакара",
-          "fr": "Al-Baqarah"
+          "fr": "Al-Baqarah",
+          "id": "Al-Baqarah"
         },
         {
           "tr": "İsrâ",
@@ -210,7 +224,8 @@
           "ckb": "ئیسرا",
           "ar": "الإسراء",
           "ru": "Аль-Исра",
-          "fr": "Al-Isra"
+          "fr": "Al-Isra",
+          "id": "Al-Isra"
         },
         {
           "tr": "Lokmân",
@@ -223,7 +238,8 @@
           "ckb": "لوقمان",
           "ar": "لقمان",
           "ru": "Лукман",
-          "fr": "Louqman"
+          "fr": "Louqman",
+          "id": "Luqman"
         },
         {
           "tr": "Hucurât",
@@ -236,7 +252,8 @@
           "ckb": "حوجورات",
           "ar": "الحجرات",
           "ru": "Аль-Худжурат",
-          "fr": "Al-Hujurat"
+          "fr": "Al-Hujurat",
+          "id": "Al-Hujurat"
         }
       ],
       "correct": 2
@@ -254,7 +271,8 @@
         "ckb": "پێغەمبەر ﷺ دەربارەی ئەو کەسەی کە تەنها پوچیلەیەک کیبری لە دڵیدایە چی فەرموویەتی؟",
         "ar": "ماذا قال النبي ﷺ عمَّن في قلبه مثقال ذرة من كبر؟",
         "ru": "Что Пророк ﷺ сказал о человеке, в сердце которого есть хоть малейшее высокомерие?",
-        "fr": "Qu'a dit le Prophète ﷺ à propos d'une personne qui a ne serait-ce qu'un atome d'arrogance dans son cœur ?"
+        "fr": "Qu'a dit le Prophète ﷺ à propos d'une personne qui a ne serait-ce qu'un atome d'arrogance dans son cœur ?",
+        "id": "Apa yang Nabi ﷺ katakan tentang seseorang yang memiliki kesombongan sekecil atom pun di dalam hatinya?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "گوناهەکەی دەبەخشرێتەوە",
           "ar": "يُغفر له",
           "ru": "Их грех будет прощен",
-          "fr": "Leur péché sera pardonné"
+          "fr": "Leur péché sera pardonné",
+          "id": "Dosa mereka akan diampuni"
         },
         {
           "tr": "Tevbe etmesi yeterlidir",
@@ -281,7 +300,8 @@
           "ckb": "تەوبەکردن بەسە",
           "ar": "يكفيه التوبة",
           "ru": "Для них достаточно покаяния",
-          "fr": "Le repentir leur suffit"
+          "fr": "Le repentir leur suffit",
+          "id": "Bertobat sudah cukup bagi mereka"
         },
         {
           "tr": "Cennete giremez",
@@ -294,7 +314,8 @@
           "ckb": "ناتوانێت بچێتە بەهەشت",
           "ar": "لا يدخل الجنة",
           "ru": "Они не войдут в Рай",
-          "fr": "Ils n'entreront pas au paradis"
+          "fr": "Ils n'entreront pas au paradis",
+          "id": "Mereka tidak akan masuk surga"
         },
         {
           "tr": "Sadece namazla temizlenir",
@@ -307,7 +328,8 @@
           "ckb": "تەنها بە نوێژ پاک دەبێتەوە",
           "ar": "لا يُطهَّر إلا بالصلاة",
           "ru": "Очищается только молитвой",
-          "fr": "Il n'est purifié que par la prière"
+          "fr": "Il n'est purifié que par la prière",
+          "id": "Itu hanya dibersihkan melalui doa"
         }
       ],
       "correct": 2
@@ -325,7 +347,8 @@
         "ckb": "لە ئیسلامدا ئەو فەزیلەتە بنەڕەتییە کە دژ بە کیبر پێشنیار دەکرێت چییە؟",
         "ar": "ما الفضيلةُ الأساسية التي يوصي بها الإسلامُ في مواجهة الكبر؟",
         "ru": "Какая фундаментальная добродетель рекомендуется в Исламе против высокомерия?",
-        "fr": "Quelle est la vertu fondamentale préconisée en Islam contre l’arrogance ?"
+        "fr": "Quelle est la vertu fondamentale préconisée en Islam contre l’arrogance ?",
+        "id": "Apa keutamaan mendasar yang dianjurkan dalam Islam untuk melawan kesombongan?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "مەردانەیی",
           "ar": "الشجاعة",
           "ru": "Храбрость",
-          "fr": "Courage"
+          "fr": "Courage",
+          "id": "Keberanian"
         },
         {
           "tr": "Sabır",
@@ -352,7 +376,8 @@
           "ckb": "سەبر",
           "ar": "الصبر",
           "ru": "Терпение",
-          "fr": "Patience"
+          "fr": "Patience",
+          "id": "Kesabaran"
         },
         {
           "tr": "Şükür",
@@ -365,7 +390,8 @@
           "ckb": "سوپاسداری",
           "ar": "الشكر",
           "ru": "Благодарность",
-          "fr": "Gratitude"
+          "fr": "Gratitude",
+          "id": "Rasa syukur"
         },
         {
           "tr": "Tevazu",
@@ -378,7 +404,8 @@
           "ckb": "فرۆتنی",
           "ar": "التواضع",
           "ru": "Смирение",
-          "fr": "Humilité"
+          "fr": "Humilité",
+          "id": "Kerendahhatian"
         }
       ],
       "correct": 3
@@ -395,6 +422,7 @@
     "ckb": "کیبر زۆرجار بەبێ ئاگابوون دەمێنێتەوە — چونکە هەمیشە لە کەسانی تر دەیبینین. ئەمڕۆ لە خۆت بپرسە: ئایا هەوڵ دەدەم ڕاست بم، یان ڕاستی بدۆزمەوە؟ کاتێک گوێ لە کەسێک دەگرم، ئایا بە ڕاستی گوێم دەگرێت، یا تەنها وەڵامەکەم ئامادە دەکەم؟ فرۆتنی مانای مانەوە لە بچووکایی نییە — مانای ئەوەیە کە مەزنی تەنها بدەیتە اللە.",
     "ar": "كثيرًا ما يمرُّ الكبرُ دون أن يُلاحَظ — لأننا نراه دائمًا في الآخرين. اسأل نفسك اليوم: هل أسعى لأكون مُحقًّا، أم لأجد الحق؟ حين أستمع لأحد، هل أستمع فعلًا، أم أُعِدُّ ردّي في الوقت ذاته؟ التواضعُ لا يعني البقاء صغيرًا — بل يعني إعطاء العظمة لله وحده.",
     "ru": "Высокомерие часто остается незамеченным — потому что мы всегда видим его в других. Спросите себя сегодня: стремлюсь ли я быть правым или найти истину? Когда я слушаю кого-то, я действительно слушаю или просто готовлю свой ответ? Смирение заключается не в том, чтобы оставаться маленьким, а в том, чтобы воздать величие одному лишь Аллаху.",
-    "fr": "L’arrogance passe souvent inaperçue – parce que nous la voyons toujours chez les autres. Demandez-vous aujourd’hui : est-ce que je m’efforce d’avoir raison ou de trouver la vérité ? Lorsque j’écoute quelqu’un, est-ce que j’écoute vraiment ou est-ce que je prépare simplement ma réponse ? L'humilité ne consiste pas à rester petit, mais à donner la grandeur à Allah seul."
+    "fr": "L’arrogance passe souvent inaperçue – parce que nous la voyons toujours chez les autres. Demandez-vous aujourd’hui : est-ce que je m’efforce d’avoir raison ou de trouver la vérité ? Lorsque j’écoute quelqu’un, est-ce que j’écoute vraiment ou est-ce que je prépare simplement ma réponse ? L'humilité ne consiste pas à rester petit, mais à donner la grandeur à Allah seul.",
+    "id": "Kesombongan sering kali luput dari perhatian – karena kita selalu melihatnya pada orang lain. Tanyakan pada diri Anda hari ini: Apakah saya berusaha untuk menjadi benar, atau untuk menemukan kebenaran? Ketika saya mendengarkan seseorang, apakah saya benar-benar mendengarkan, atau hanya mempersiapkan jawaban saya? Kerendahan hati bukan tentang tetap kecil, tapi tentang memberi kebesaran hanya kepada Allah."
   }
 }

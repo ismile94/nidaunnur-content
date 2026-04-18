@@ -12,7 +12,8 @@
     "ckb": "ڕووتینی بەیانی",
     "ar": "روتين الصباح",
     "ru": "Утренняя рутина",
-    "fr": "Routine du matin"
+    "fr": "Routine du matin",
+    "id": "Rutinitas Pagi"
   },
   "content": {
     "tr": "Sabah; günün en kıymetli dilimidir. Nasıl başlarsa öyle gider. Sabahın ilk anlarını Allah ile başlatan kişi, güne kökten farklı bir ruhla adım atar. Fecir namazıyla açılan bir sabah; dua ile sulanan bir tohumun her yönde filiz verdiği gibi, tüm gün boyunca huzur, bereket ve farkındalık yayar.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**«Güneşin doğuşundan önce ve batışından önce Rabbini hamd ile tesbih et.»**\n*(Tâhâ 20:130)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n**«Ümmetim için sabahın erken saatlerinde bereket vardır.»**\n*(Tirmizî, Ebû Dâvûd — Sahr el-Ğamidî r.a. rivayetiyle)*\n\nİşte bu hadis, sıradan bir bilgi değil; sabahın erken saatlerinin, hem maddi hem manevi anlamda bereketli kılındığının müjdesidir. İslam'da ideal sabah rutini şu sırayı izler: Fecir vaktinden önce ya da tam vaktinde uyanmak → Abdest alıp fecir namazını kılmak → Sabah zikirlerini okumak (Ayete'l-Kürsî, İhlas, Felak, Nas — üçer kez) → Kısa bir dua etmek → Güne şükür ve niyetle başlamak. Bu rutin; ne saatlerce sürer ne de özel bir donanım gerektirir. Ama kalbe kattığı derinlik, gün boyu fark edilir.",
@@ -25,7 +26,8 @@
     "ckb": "بەیانی؛ بەنرختترین بەشی ڕۆژەکەیە. چۆن دەستدەکات، ئاوایش دەچێت. ئەو کەسەی کاتی یەکەمی بەیانیی بە الله دەستدەکات، بە ڕووحێکی لە بنەماوە جیاواز گامی لە ڕۆژ دەنێت. بەیانییەک کە بە نوێژی فەجر دەکرێتەوە؛ وەک تۆوێک کە بە دوعا ئاودەدرێت و لە هەر ئاراستەیەک دەرچێت، لە سەرتاسەری ڕۆژدا ئارامی، بەرەکەت و ئاگادارییی دابەش دەکات.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**«پێش هەڵاتنی خۆر و پێش ئاوابوونی، ڕەببیت بە ستایش پیرۆز بزانە.»**\n*(تاها ٢٠:١٣٠)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n**«بەرەکەت هەیە بۆ ئوممەتەکەم لە کاتی سەرەتای بەیانیدا.»**\n*(تیرمیزی، ئەبو داود — بە ڕێوایەتی سەخر ئەلغامیدی ڕ.ع)*\n\nئەم حەدیسە زانیاریی ئاسایی نییە؛ مزگێنییەکە کە کاتی سەرەتای بەیانی، هەم بە شێوازی مادی هەم مانەوی بەرەکەتدار کراوە. ڕووتینی بەیانیی ئایدیاڵ لە ئیسلامدا ئەم ڕیزەی دەشوپێنێت: هەستانەوە پێش وەختی فەجر یان ڕاستەوخۆ لە وەختی فەجر → مەزووبوون و نوێژی فەجر کردن → خوێندنەوەی زیکرەکانی بەیانی (ئایەتوڵکورسی، ئیخلاس، فەلەق، ناس — سێ جار سێ جار) → دوعایەکی کورت کردن → دەستکردنی ڕۆژ بە شوکر و نیەت. ئەم ڕووتینە نەک کاتژمێرەکان دەخایەنێت نەک پێداویستییەکی تایبەتی دەوێت. بەڵام قووڵایی کە بە دل زیاد دەکات لە تەواوی ڕۆژدا هەست پێ دەکرێت.",
     "ar": "الصباحُ أثمنُ أجزاء اليوم. كما يبدأ فكذلك يمضي. من يبدأ اللحظاتِ الأولى من صباحه بالله يُقبِل على اليوم بروحٍ مختلفةٍ جذريَّاً. صباحٌ يُفتَح بصلاة الفجر ينتشر سلامُه وبركتُه ووعيُه في اليوم كلِّه تماماً كالبذرة التي تُسقى بالصلاة فتنبت في كلِّ اتِّجاه.\n\nيقول الله تعالى:\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n*(طه: ١٣٠)*\n\nوقال النبيُّ ﷺ:\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n*(رواه الترمذي وأبو داود — عن صخر الغامدي رضي الله عنه)*\n\nهذا الحديثُ ليس معلومةً عاديَّة؛ بل بشارةٌ بأنَّ ساعاتِ الصباح المبكِّر جُعلت مباركةً ماديَّاً وروحيَّاً. النظامُ الصباحيُّ المثاليُّ في الإسلام: الاستيقاظُ قبل أذان الفجر أو معه ← الوضوءُ وصلاة الفجر ← قراءةُ أذكار الصباح ← دعاءٌ قصير ← بدءُ اليوم بالشكر والنيَّة.",
     "ru": "Утро – самая ценная часть дня. Как начинается, так и происходит. Человек, который начинает утро с Аллаха, вступает в день с принципиально другим духом. Утро, начатое молитвой Фаджр, распространяет мир, благословение и осознанность на весь день, подобно тому, как семя, политое молитвой, прорастает во всех направлениях.\n\nАллах Всевышний говорит:\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**\"И возноси хвалу твоему Господу перед восходом солнца и перед его заходом.\"**\n*(Та-Ха 20:130)*\n\nНаш Пророк ﷺ сказал:\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n**\"Рано утром благословение для моей уммы.\"**\n*(Тирмизи, Абу Дауд — передал Сахр аль-Гамиди r.a.)*\n\nЭтот хадис не является обычной информацией; это радостная весть, что ранние утренние часы стали благословенными как материально, так и духовно. Идеальный утренний распорядок в исламе следует такому порядку: Пробуждение до или точно во время Фаджра → Совершение омовения и совершение молитвы Фаджр → Чтение утреннего азкара (Аят аль-Курси, Аль-Ихлас, Аль-Фалак, Ан-Нас — по три раза) → Произнесение короткой молитвы → Начинание дня с благодарностью и намерением. Эта процедура не длится часами и не требует какого-либо специального оборудования. Но глубина, которую он добавляет сердцу, ощущается в течение дня.",
-    "fr": "Le matin est la partie la plus précieuse de la journée. Comme ça commence, ainsi ça continue. La personne qui commence les premiers instants de la matinée avec Allah entre dans la journée avec un esprit fondamentalement différent. Une matinée ouverte par la prière du Fajr répand la paix, la bénédiction et la conscience tout au long de la journée, tout comme une graine arrosée de prière germe dans toutes les directions.\n\nAllah le Très-Haut dit :\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**\"Et exalte-toi avec la louange de ton Seigneur avant le lever du soleil et avant son coucher.\"**\n*(Ta-Ha 20:130)*\n\nNotre Prophète ﷺ a dit :\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n**\"Il y a une bénédiction pour ma oumma aux petites heures du matin.\"**\n*(Tirmidhi, Abu Dawud — rapporté par Sakhr al-Ghamidi r.a.)*\n\nCe hadith n’est pas une information ordinaire ; C'est une bonne nouvelle que les petites heures du matin ont été bénies à la fois matériellement et spirituellement. La routine matinale idéale en Islam suit cet ordre : se réveiller avant ou exactement à l'heure du Fajr → Faire ses ablutions et prier la prière du Fajr → Réciter l'adhkar du matin (Ayat al-Kursi, Al-Ikhlas, Al-Falaq, An-Nas - trois fois chacun) → Faire une courte supplication → Commencer la journée avec gratitude et intention. Cette routine ne dure pas des heures et ne nécessite aucun équipement spécial. Mais la profondeur qu’elle ajoute au cœur se ressent tout au long de la journée."
+    "fr": "Le matin est la partie la plus précieuse de la journée. Comme ça commence, ainsi ça continue. La personne qui commence les premiers instants de la matinée avec Allah entre dans la journée avec un esprit fondamentalement différent. Une matinée ouverte par la prière du Fajr répand la paix, la bénédiction et la conscience tout au long de la journée, tout comme une graine arrosée de prière germe dans toutes les directions.\n\nAllah le Très-Haut dit :\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**\"Et exalte-toi avec la louange de ton Seigneur avant le lever du soleil et avant son coucher.\"**\n*(Ta-Ha 20:130)*\n\nNotre Prophète ﷺ a dit :\n\n**«بُورِكَ لِأُمَّتِي فِي بُكُورِهَا»**\n**\"Il y a une bénédiction pour ma oumma aux petites heures du matin.\"**\n*(Tirmidhi, Abu Dawud — rapporté par Sakhr al-Ghamidi r.a.)*\n\nCe hadith n’est pas une information ordinaire ; C'est une bonne nouvelle que les petites heures du matin ont été bénies à la fois matériellement et spirituellement. La routine matinale idéale en Islam suit cet ordre : se réveiller avant ou exactement à l'heure du Fajr → Faire ses ablutions et prier la prière du Fajr → Réciter l'adhkar du matin (Ayat al-Kursi, Al-Ikhlas, Al-Falaq, An-Nas - trois fois chacun) → Faire une courte supplication → Commencer la journée avec gratitude et intention. Cette routine ne dure pas des heures et ne nécessite aucun équipement spécial. Mais la profondeur qu’elle ajoute au cœur se ressent tout au long de la journée.",
+    "id": "Pagi hari adalah bagian paling berharga dalam satu hari. Saat itu dimulai, begitulah seterusnya. Orang yang mengawali pagi hari bersama Allah memasuki hari dengan semangat yang berbeda secara fundamental. Pagi hari yang dibuka dengan salat Subuh menyebarkan kedamaian, keberkahan, dan kesadaran sepanjang hari, bagaikan benih yang disiram dengan kecambah doa ke segala arah.\n\nAllah SWT berfirman:\n\n**﴿وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا﴾**\n**\"Dan bertasbihlah dengan memuji Tuhanmu sebelum terbitnya matahari dan sebelum terbenamnya.\"**\n*(Ta-Ha 20:130)*\n\nNabi kita ﷺ bersabda:\n\n**\"بُورِكَ لِأُمَّتِي فِي بُكُورِهَا\"**\n**\"Ada keberkahan bagi ummatku di dini hari.\"**\n*(Tirmidzi, Abu Dawud — riwayat Sakhr al-Ghamidi r.a.)*\n\nHadits ini bukanlah informasi biasa; Kabar gembiranya adalah dini hari telah diberkati baik secara materi maupun rohani. Rutinitas pagi yang ideal dalam Islam mengikuti urutan ini: Bangun sebelum atau tepat pada waktu Subuh → Berwudhu dan shalat Subuh → Membaca adhkar pagi (Ayat al-Kursi, Al-Ikhlas, Al-Falaq, An-Nas — masing-masing tiga kali) → Berdoa singkat → Mengawali hari dengan rasa syukur dan niat. Rutinitas ini tidak berlangsung berjam-jam dan tidak memerlukan peralatan khusus. Namun kedalaman yang ditambahkannya ke hati terasa sepanjang hari."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسی «بەرەکەت هەیە بۆ ئوممەتەکەم لە کاتی سەرەتای بەیانیدا» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «بُورك لأمتي في بكورها»؟",
         "ru": "Кто передал хадис «Ранним утром благословение для моей уммы»?",
-        "fr": "Qui a rapporté le hadith « Il y a une bénédiction pour ma communauté au petit matin » ?"
+        "fr": "Qui a rapporté le hadith « Il y a une bénédiction pour ma communauté au petit matin » ?",
+        "id": "Siapa yang meriwayatkan hadits “Ada keberkahan bagi ummatku di dini hari”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "سەخر ئەلغامیدی ڕ.ع — تیرمیزی و ئەبو داود",
           "ar": "صخر الغامدي رضي الله عنه — الترمذي وأبو داود",
           "ru": "Сахр аль-Гамиди р.а. - Тирмизи и Абу Дауд",
-          "fr": "Sakhr al-Ghamidi r.a. — Tirmidhi et Abou Dawud"
+          "fr": "Sakhr al-Ghamidi r.a. — Tirmidhi et Abou Dawud",
+          "id": "Sahhr al-Ghamidi r.a. — Tirmidzi dan Abu Dawud"
         },
         {
           "tr": "Ebû Hureyre r.a. — Müslim",
@@ -68,7 +72,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — موسلیم",
           "ar": "أبو هريرة رضي الله عنه — مسلم",
           "ru": "Абу Хурайра r.a. — Мусульманин",
-          "fr": "Abu Hurairah r.a. -Musulman"
+          "fr": "Abu Hurairah r.a. -Musulman",
+          "id": "Abu Hurairah r.a. — Muslim"
         },
         {
           "tr": "Hz. Ömer r.a. — Buhârî",
@@ -81,7 +86,8 @@
           "ckb": "عومەر ڕ.ع — بوخاری",
           "ar": "عمر رضي الله عنه — البخاري",
           "ru": "Умар р.а. — Бухари",
-          "fr": "Umar r.a. — Boukhari"
+          "fr": "Umar r.a. — Boukhari",
+          "id": "Umar r.a. — Bukhari"
         },
         {
           "tr": "Hz. Âişe r.a. — Nesâî",
@@ -94,7 +100,8 @@
           "ckb": "عائیشە ڕ.ع — نەسائی",
           "ar": "عائشة رضي الله عنها — النسائي",
           "ru": "Аиша р.а. — Насаи",
-          "fr": "Aisha r.a. — Nasaï"
+          "fr": "Aisha r.a. — Nasaï",
+          "id": "Aisyah r.a. —Nasai"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی تاها ٢٠:١٣٠، کاتی پیرۆزکردن کەی دەبێت بێت؟",
         "ar": "متى يكون التسبيح وفق الآية طه 20:130؟",
         "ru": "Согласно Та-Ха 20:130, когда следует совершать прославление?",
-        "fr": "Selon Ta-Ha 20 : 130, quand la glorification doit-elle avoir lieu ?"
+        "fr": "Selon Ta-Ha 20 : 130, quand la glorification doit-elle avoir lieu ?",
+        "id": "Menurut Ta-Ha 20:130, kapan sebaiknya pemuliaan dilakukan?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "پێش هەڵاتنی خۆر و پێش ئاوابوونی",
           "ar": "قبل طلوع الشمس وقبل غروبها",
           "ru": "Перед восходом солнца и перед его заходом",
-          "fr": "Avant le lever du soleil et avant son coucher"
+          "fr": "Avant le lever du soleil et avant son coucher",
+          "id": "Sebelum terbitnya matahari dan sebelum terbenamnya"
         },
         {
           "tr": "Yalnızca öğle vakti",
@@ -139,7 +148,8 @@
           "ckb": "تەنها کاتی نیوەڕۆ",
           "ar": "عند الظهر فحسب",
           "ru": "Только в полдень",
-          "fr": "Seulement à midi"
+          "fr": "Seulement à midi",
+          "id": "Hanya pada siang hari"
         },
         {
           "tr": "Yalnızca gece",
@@ -152,7 +162,8 @@
           "ckb": "تەنها شەودا",
           "ar": "في الليل فحسب",
           "ru": "Только ночью",
-          "fr": "Seulement la nuit"
+          "fr": "Seulement la nuit",
+          "id": "Hanya di malam hari"
         },
         {
           "tr": "Cuma günleri",
@@ -165,7 +176,8 @@
           "ckb": "ڕۆژی ئینێ",
           "ar": "يوم الجمعة",
           "ru": "По пятницам",
-          "fr": "Le vendredi"
+          "fr": "Le vendredi",
+          "id": "Pada hari Jumat"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "گامی یەکەمی ڕووتینی بەیانیی ئایدیاڵ لە ئیسلامدا چییە؟",
         "ar": "ما أول خطوة في الروتين الصباحي المثالي في الإسلام؟",
         "ru": "Каков первый шаг идеального утреннего распорядка в Исламе?",
-        "fr": "Quelle est la première étape de la routine matinale idéale en Islam ?"
+        "fr": "Quelle est la première étape de la routine matinale idéale en Islam ?",
+        "id": "Apa langkah awal rutinitas pagi yang ideal dalam Islam?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "هەستانەوە پێش وەختی فەجر یان ڕاستەوخۆ لە وەختی فەجر",
           "ar": "الاستيقاظ قبل الفجر أو عند حلوله",
           "ru": "Пробуждение до или точно во время Фаджра",
-          "fr": "Se réveiller avant ou exactement à l'heure du Fajr"
+          "fr": "Se réveiller avant ou exactement à l'heure du Fajr",
+          "id": "Bangun sebelum atau tepat pada waktu Subuh"
         },
         {
           "tr": "Haber izlemek",
@@ -210,7 +224,8 @@
           "ckb": "تەماشای هەواڵ کردن",
           "ar": "مشاهدة الأخبار",
           "ru": "Смотрю новости",
-          "fr": "Regarder les nouvelles"
+          "fr": "Regarder les nouvelles",
+          "id": "Menonton berita"
         },
         {
           "tr": "Sosyal medyayı kontrol etmek",
@@ -223,7 +238,8 @@
           "ckb": "پشکنینی میدیای کۆمەڵایەتی",
           "ar": "تفقد وسائل التواصل الاجتماعي",
           "ru": "Проверка социальных сетей",
-          "fr": "Vérification des réseaux sociaux"
+          "fr": "Vérification des réseaux sociaux",
+          "id": "Memeriksa media sosial"
         },
         {
           "tr": "Kahvaltı hazırlamak",
@@ -236,7 +252,8 @@
           "ckb": "ئامادەکردنی بەرچاو",
           "ar": "إعداد الإفطار",
           "ru": "Готовим завтрак",
-          "fr": "Préparation du petit déjeuner"
+          "fr": "Préparation du petit déjeuner",
+          "id": "Mempersiapkan sarapan"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "لە زیکرەکانی بەیانیدا کام سورەکان سێ جار سێ جار دەخوێنرێنەوە؟",
         "ar": "أي السور تُقرأ ثلاث مرات في أذكار الصباح؟",
         "ru": "Какие суры читаются трижды каждая в утреннем азкаре?",
-        "fr": "Quelles sourates sont récitées trois fois chacune le matin adhkar ?"
+        "fr": "Quelles sourates sont récitées trois fois chacune le matin adhkar ?",
+        "id": "Surah manakah yang dibaca masing-masing tiga kali pada adhkar pagi?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ئایەتوڵکورسی، ئیخلاس، فەلەق و ناس",
           "ar": "آية الكرسي والإخلاص والفلق والناس",
           "ru": "Аят аль-Курси, Аль-Ихлас, Аль-Фалак и Ан-Нас",
-          "fr": "Ayat al-Kursi, Al-Ikhlas, Al-Falaq et An-Nas"
+          "fr": "Ayat al-Kursi, Al-Ikhlas, Al-Falaq et An-Nas",
+          "id": "Ayat al-Kursi, Al-Ikhlas, Al-Falaq dan An-Nas"
         },
         {
           "tr": "Fatiha, Bakara, Yasin ve Mülk",
@@ -281,7 +300,8 @@
           "ckb": "فاتیحە، بەقەرە، یاسین و موڵک",
           "ar": "الفاتحة والبقرة ويس والملك",
           "ru": "Аль-Фатиха, Аль-Бакара, Йа-Син и Аль-Мульк",
-          "fr": "Al-Fatiha, Al-Baqara, Ya-Sin et Al-Mulk"
+          "fr": "Al-Fatiha, Al-Baqara, Ya-Sin et Al-Mulk",
+          "id": "Al-Fatihah, Al-Baqara, Ya-Sin dan Al-Mulk"
         },
         {
           "tr": "Nebe, Naziat, Abese ve Tekvir",
@@ -294,7 +314,8 @@
           "ckb": "نەبە، نازیعات، عەبەسە و تەکویر",
           "ar": "النبأ والنازعات وعبس والتكوير",
           "ru": "Ан-Наба, Ан-Назиат, Абаса и Ат-Таквир",
-          "fr": "An-Naba, An-Naziat, Abasa et At-Takwir"
+          "fr": "An-Naba, An-Naziat, Abasa et At-Takwir",
+          "id": "An-Naba, An-Naziat, Abasa dan At-Takwir"
         },
         {
           "tr": "Kehf, Mülk, Rahman ve Vakıa",
@@ -307,7 +328,8 @@
           "ckb": "کەهف، موڵک، ڕەحمان و واقیعە",
           "ar": "الكهف والملك والرحمن والواقعة",
           "ru": "Аль-Кахф, Аль-Мульк, Ар-Рахман и Аль-Вакиа",
-          "fr": "Al-Kahf, Al-Mulk, Ar-Rahman et Al-Waqi'a"
+          "fr": "Al-Kahf, Al-Mulk, Ar-Rahman et Al-Waqi'a",
+          "id": "Al-Kahfi, Al-Mulk, Ar-Rahman dan Al-Waqi'a"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "مانای بوونی بەرەکەت لە کاتی سەرەتای بەیانیدا چییە؟",
         "ar": "ما معنى وجود البركة في ساعات الصباح الباكر؟",
         "ru": "Что означает благословение ранним утром?",
-        "fr": "Quelle est la signification du fait qu’il y ait une bénédiction tôt le matin ?"
+        "fr": "Quelle est la signification du fait qu’il y ait une bénédiction tôt le matin ?",
+        "id": "Apa maksudnya ada berkah di dini hari?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "ئەوەی کارەکانی ئەو کاتەدا هەم بە شێوازی مادی هەم مانەوی بەرێوەبراوتر و بەرەکەتدارترن",
           "ar": "أن ما يُنجز في تلك الساعات أكثر نفعاً وبركة مادياً وروحياً",
           "ru": "Чтобы дела, сделанные в эти часы, были более продуктивными и благословенными как материально, так и духовно.",
-          "fr": "Que les choses faites pendant ces heures sont plus productives et bénies à la fois matériellement et spirituellement"
+          "fr": "Que les choses faites pendant ces heures sont plus productives et bénies à la fois matériellement et spirituellement",
+          "id": "Agar hal-hal yang dilakukan pada jam-jam tersebut lebih produktif dan berkah baik secara materi maupun spiritual"
         },
         {
           "tr": "Sabah yalnızca dua edilmesi gerektiği",
@@ -352,7 +376,8 @@
           "ckb": "کە تەنها بەیانی دەبێت دوعا بکرێت",
           "ar": "أن الدعاء في الصباح فحسب",
           "ru": "Эту единственную мольбу следует произносить утром.",
-          "fr": "Que seule une supplication devrait être faite le matin"
+          "fr": "Que seule une supplication devrait être faite le matin",
+          "id": "Doa itu hanya boleh dipanjatkan di pagi hari"
         },
         {
           "tr": "Sabah namazının diğer namazlardan daha uzun kılınması gerektiği",
@@ -365,7 +390,8 @@
           "ckb": "کە نوێژی بەیانی دەبێت درێژتر لە نوێژی دیکەکان بکرێت",
           "ar": "أن صلاة الصبح تطول عن غيرها",
           "ru": "Что утреннюю молитву следует читать дольше, чем другие молитвы.",
-          "fr": "Que la prière du matin doit être priée plus longtemps que les autres prières"
+          "fr": "Que la prière du matin doit être priée plus longtemps que les autres prières",
+          "id": "Bahwa salat subuh hendaknya didoakan lebih lama dibandingkan salat lainnya"
         },
         {
           "tr": "Sabah yalnızca farz namaz kılınması gerektiği",
@@ -378,7 +404,8 @@
           "ckb": "کە بەیانی تەنها نوێژی فەرز بکرێت",
           "ar": "أنه لا تُصلى إلا الفريضة في الصباح",
           "ru": "Что утром следует совершать только обязательную молитву",
-          "fr": "Que seule la prière obligatoire doit être priée le matin"
+          "fr": "Que seule la prière obligatoire doit être priée le matin",
+          "id": "Bahwa hanya shalat fardhu saja yang boleh dilakukan pada waktu subuh"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "سبەی بەیانی، کاتێک ئەلارمەکەت دەخات، کاتێک وەستە. پێش کردنەوەی چاوەکانت بڵێ: «ئەلحەمدولیللاه، خودایەکەم کە ئەمڕۆیش شاردمەوە.» دواتر مەزووبە. دواتر نوێژت بکە. ئەم سێ گامە — شوکر، مەزووبوون، نوێژ — بەیانیت لە ڕووتینێک دەردەخات و دەیگۆڕێتە عیبادەتێک. ئەم ڕووتینە یەک هەفتە تاقیبکەرەوە و تەماشا بکە لە باقی ڕۆژدا چۆن جیاواز هەستت پێ دەکرێت.",
     "ar": "غداً صباحاً حين يرنُّ منبِّهُك توقَّف لحظة. قبل فتح عينيك قُل: «الحمد لله الذي أحيانا بعد ما أماتنا.» ثمَّ توضَّأ. ثمَّ صَلِّ. هذه الخطواتُ الثلاث — الشكر، والوضوء، والصلاة — تُحوِّل صباحَك من روتينٍ إلى عبادة. جرِّب هذا الروتينَ أسبوعاً وراقِب كيف تشعر بشكلٍ مختلفٍ في بقيَّة اليوم.",
     "ru": "Завтра утром, когда прозвенит будильник, остановитесь на мгновение. Прежде чем открыть глаза, скажите: «Альхамдулиллах, о Аллах, который сегодня снова разбудил меня». Затем совершите омовение. Затем помолитесь своей молитвой. Эти три шага — благодарность, омовение и молитва — превращают ваше утро из рутины в акт поклонения. Попробуйте этот распорядок дня в течение недели и понаблюдайте, насколько по-другому вы будете себя чувствовать в оставшуюся часть дня.",
-    "fr": "Demain matin, lorsque votre réveil sonnera, faites une pause un instant. Avant d'ouvrir les yeux, dites : « Alhamdulillah, ô Allah qui m'a encore réveillé aujourd'hui. Puis faites vos ablutions. Alors faites votre prière. Ces trois étapes — gratitude, ablutions, prière — transforment votre matinée d'une routine en un acte d'adoration. Essayez cette routine pendant une semaine et observez à quel point vous vous sentez différent pour le reste de la journée."
+    "fr": "Demain matin, lorsque votre réveil sonnera, faites une pause un instant. Avant d'ouvrir les yeux, dites : « Alhamdulillah, ô Allah qui m'a encore réveillé aujourd'hui. Puis faites vos ablutions. Alors faites votre prière. Ces trois étapes — gratitude, ablutions, prière — transforment votre matinée d'une routine en un acte d'adoration. Essayez cette routine pendant une semaine et observez à quel point vous vous sentez différent pour le reste de la journée.",
+    "id": "Besok pagi saat alarm Anda berbunyi, berhentilah sejenak. Sebelum membuka mata ucapkan: 'Alhamdulillah ya Allah yang membangunkanku lagi hari ini.' Kemudian berwudhu. Lalu salatlah doamu. Tiga langkah ini - syukur, wudhu, doa - mengubah pagi Anda dari rutinitas menjadi ibadah. Cobalah rutinitas ini selama seminggu dan amati betapa berbedanya perasaan Anda sepanjang hari."
   }
 }

@@ -12,7 +12,8 @@
     "ckb": "بەکارهێنانی زانست",
     "ar": "تطبيق العلم",
     "ru": "Применение знаний",
-    "fr": "Appliquer les connaissances"
+    "fr": "Appliquer les connaissances",
+    "id": "Menerapkan Pengetahuan"
   },
   "content": {
     "tr": "Bilgi, uygulandığında anlam kazanır. Bir insanın yüzlerce ayet ezberlemiş olması, onları hayatına yansıtmadığı sürece eksik kalır. İslam'da ilim ile amel ayrılmaz bir bütündür; biri olmadan diğeri gerçek değerini bulamaz. Öğrenilen her bilgi, insanı bir sorumluluğun eşiğine taşır: Artık biliyorsun — ne yapacaksın?\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n**«Ey iman edenler! Yapmayacağınız şeyleri neden söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir gazaba sebep olur.»**\n*(Sâf 61:2-3)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**«Bilip de amel etmeyen kişinin misali, insanlara ışık verirken kendini yakan mum gibidir.»**\n*(İbn Hibbân — Enes ibn Mâlik r.a. rivayetiyle)*\n\nBu mecaz son derece güçlüdür: Mum, etrafına ışık saçar ama kendisi erir. Bilgisi olup onu uygulamayan insan da başkalarına yol gösterirken kendi içinde yanmaktadır. Bilgiyi uygulamak; her şeyi bir anda değiştirmek demek değildir. Küçük bir adım, büyük bir niyetle atılırsa — bu, Allah katında amele sayılır. Bugün öğrendiğiniz bir şeyi hayatınıza taşıyın.",
@@ -25,7 +26,8 @@
     "ckb": "زانست کاتێک بەکاردێت مانا بەدەست دەهێنێت. تەنانەت ئەگەر مرۆڤ سەدان ئایەتی لەبەر کردبێت، هەتا لە ژیانیدا نەیانهێنایەوە نەتەواو دەمێنێت. لە ئیسلامدا زانست و کردار یەکپارچەیەکی جیانەکراون؛ بەبێ یەکێک، ئەوی تر نرخی ڕاستی خۆی نادۆزێتەوە. هەر زانستێکی فێربوو مرۆڤ دەبات بەردەم ئاستانەی بەرپرسیارییەکدا: ئێستا دەزانیت — چی دەکەیت؟\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n**«ئەی ئەوانەی باوەڕتان هێناوە! بۆچی ئەوەی ناتانکاتەوە دەیڵێن؟ زۆر نەفرەتی لەبەردەم الله هەیە کە ئەوەی ناتانکاتەوە بڵێن.»**\n*(سەف ٦١:٢-٣)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**«نموونەی کەسێک کە دەزانێت بەڵام کردار ناکات، وەک مووم مانەندە کە ڕووناکی بۆ خەڵک دەکات لەکاتێکدا خۆی دەسووتێت.»**\n*(ئیبن حیبان — بە ڕێوایەتی ئەنەس بن مالک ڕ.ع)*\n\nئەم استعارەیە زۆر بەهێزە: مووم ڕووناکی لەدەوروبەری خۆی بڵاو دەکاتەوە بەڵام خۆی دەهەڵێت. مرۆڤێک کە زانستی هەیە بەڵام بەکاری ناهێنێت، کەسانی تر ئاراستە دەکات لەکاتێکدا لە ناوخۆی دەسووتێت. بەکارهێنانی زانست مانای گۆڕینی هەموو شتێک لە یەکجار نییە. ئەگەر هەنگاوێکی بچووک بە نیەتێکی گەورە بنرێت — ئەمە لەبەردەم الله کردارێک دادەنرێت. ئەمڕۆ شتێک کە فێربووتت بهێنە ژیانت.",
     "ar": "إنَّ العلمَ يكتسب معناه حين يُطبَّق. فحتى لو حفظ الإنسانُ مئاتِ الآيات، يظلُّ ناقصاً ما لم تنعكس على حياته. في الإسلام، العلمُ والعملُ كلٌّ لا يتجزَّأ؛ وبدون أحدهما لا يجد الآخرُ قيمتَه الحقيقية. كلُّ علمٍ يُتعلَّم يضع الإنسانَ على عتبة مسؤولية: لقد عرفتَ الآن — فماذا ستفعل؟\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n*(الصف: ٢-٣)*\n\nوقال النبي ﷺ:\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n*(رواه ابن حبان — عن أنس بن مالك رضي الله عنه)*\n\nهذا التشبيهُ بالغُ القوَّة: فالسراجُ يُنير ما حوله لكنَّه يحترق بنفسه. فالإنسانُ الذي يعلم ولا يعمل يهدي الآخرين بينما يحترق من الداخل. تطبيقُ العلم لا يعني تغيير كل شيءٍ دفعةً واحدة. إن كانت خطوةٌ صغيرة بنيَّةٍ عظيمة — فهذا عملٌ يُحتسَب عند الله. أدخِل في حياتك اليوم شيئاً ممَّا تعلَّمته.",
     "ru": "Знания обретают смысл, когда их применяют. Даже если человек выучил наизусть сотни стихов, они останутся неполными, если они не найдут отражения в его жизни. В исламе знание и действие представляют собой неразделимое целое; без одного другое не сможет найти свою истинную ценность. Каждое полученное знание подводит человека к порогу ответственности: теперь ты знаешь — что будешь делать?\n\nАллах Всевышний говорит:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ**\n**«О вы, уверовавшие, почему вы говорите то, чего не делаете? Велика ненависть в глазах Аллаха за то, что вы говорите то, чего не делаете».**\n*(Ас-Саф 61:2-3)*\n\nНаш Пророк ﷺ сказал:\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**\"Пример человека, который знает, но не действует, подобен свече, которая освещает людей, но горит сама.\"**\n*(Ибн Хиббан — передал Анас ибн Малик r.a.)*\n\nЭта метафора чрезвычайно сильна: свеча освещает вокруг себя, но сама тает. Человек, обладающий знаниями, но не применяющий их, направляет других, горя внутри себя. Применение знаний не означает изменение всего и сразу. Если маленький шаг сделан с большим намерением — это считается актом поклонения перед Аллахом. Привнесите в свою жизнь то, что вы узнали сегодня.",
-    "fr": "La connaissance prend du sens lorsqu’elle est appliquée. Même si une personne a mémorisé des centaines de versets, ceux-ci restent incomplets à moins qu'ils ne se reflètent dans sa vie. Dans l’Islam, la connaissance et l’action forment un tout indissociable ; sans l’un, l’autre ne peut trouver sa vraie valeur. Chaque élément de connaissance appris amène une personne au seuil d'une responsabilité : maintenant vous savez, qu'allez-vous faire ?\n\nAllah le Très-Haut dit :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n**\"Ô vous qui avez cru, pourquoi dites-vous ce que vous ne faites pas ? Grande est la haine devant Allah que vous disiez ce que vous ne faites pas.\"**\n*(As-Saf 61 :2-3)*\n\nNotre Prophète ﷺ a dit :\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**\"L'exemple d'une personne qui sait mais n'agit pas est comme une bougie qui éclaire les gens tout en se brûlant.\"**\n*(Ibn Hibban — rapporté par Anas ibn Malik r.a.)*\n\nCette métaphore est extrêmement puissante : la bougie éclaire autour d’elle mais elle-même fond. Celui qui possède des connaissances mais ne les applique pas guide les autres en brûlant en lui-même. Appliquer les connaissances ne signifie pas tout changer d’un coup. Si un petit pas est fait avec une grande intention, cela est considéré comme un acte d’adoration devant Allah. Apportez quelque chose que vous avez appris aujourd’hui dans votre vie."
+    "fr": "La connaissance prend du sens lorsqu’elle est appliquée. Même si une personne a mémorisé des centaines de versets, ceux-ci restent incomplets à moins qu'ils ne se reflètent dans sa vie. Dans l’Islam, la connaissance et l’action forment un tout indissociable ; sans l’un, l’autre ne peut trouver sa vraie valeur. Chaque élément de connaissance appris amène une personne au seuil d'une responsabilité : maintenant vous savez, qu'allez-vous faire ?\n\nAllah le Très-Haut dit :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n**\"Ô vous qui avez cru, pourquoi dites-vous ce que vous ne faites pas ? Grande est la haine devant Allah que vous disiez ce que vous ne faites pas.\"**\n*(As-Saf 61 :2-3)*\n\nNotre Prophète ﷺ a dit :\n\n**«مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**\"L'exemple d'une personne qui sait mais n'agit pas est comme une bougie qui éclaire les gens tout en se brûlant.\"**\n*(Ibn Hibban — rapporté par Anas ibn Malik r.a.)*\n\nCette métaphore est extrêmement puissante : la bougie éclaire autour d’elle mais elle-même fond. Celui qui possède des connaissances mais ne les applique pas guide les autres en brûlant en lui-même. Appliquer les connaissances ne signifie pas tout changer d’un coup. Si un petit pas est fait avec une grande intention, cela est considéré comme un acte d’adoration devant Allah. Apportez quelque chose que vous avez appris aujourd’hui dans votre vie.",
+    "id": "Pengetahuan memperoleh makna ketika diterapkan. Sekalipun seseorang telah hafal ratusan ayat, tetap saja tidak lengkap kecuali jika direfleksikan dalam kehidupannya. Dalam Islam ilmu dan amal merupakan satu kesatuan yang tidak dapat dipisahkan; tanpa yang satu, yang lain tidak dapat menemukan nilai sebenarnya. Setiap pengetahuan yang dipelajari membawa seseorang ke ambang tanggung jawab: Sekarang Anda tahu — apa yang akan Anda lakukan?\n\nAllah SWT berfirman:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۞ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ﴾**\n**\"Hai orang-orang yang beriman, mengapa kamu mengatakan apa yang tidak kamu lakukan? Besar kebencian di sisi Allah jika kamu mengatakan apa yang tidak kamu lakukan.\"**\n*(As-Saf 61:2-3)*\n\nNabi kita ﷺ bersabda:\n\n**\"مَثَلُ الَّذِي يَعْلَمُ وَلَا يَعْمَلُ كَمَثَلِ السِّرَاجِ يُضِيءُ لِلنَّاسِ وَيُحْرِقُ نَفْسَهُ»**\n**\"Perumpamaan orang yang tahu tapi tidak berbuat, ibarat lilin yang menerangi manusia sambil membakar dirinya sendiri.\"**\n*(Ibnu Hibban — riwayat Anas bin Malik r.a.)*\n\nMetafora ini sangat kuat: lilin memancarkan cahaya di sekelilingnya tetapi lilin itu sendiri meleleh. Orang yang mempunyai ilmu namun tidak mengaplikasikannya membimbing orang lain sambil berkobar dalam dirinya. Menerapkan ilmu bukan berarti mengubah segalanya sekaligus. Jika sebuah langkah kecil diambil dengan niat yang besar maka hal ini terhitung sebagai ibadah kepada Allah. Bawalah sesuatu yang Anda pelajari hari ini ke dalam hidup Anda."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "بەگوێرەی سەف ٦١:٢-٣، چی بووە هۆی نەفرەتێکی گەورەی لەبەردەم الله؟",
         "ar": "ما الذي يُوجب المقت العظيم عند الله وفق الصف 61:2-3؟",
         "ru": "Что вызывает великий гнев в глазах Аллаха, согласно Ас-Сафу 61:2-3?",
-        "fr": "D’après As-Saf 61 :2-3, qu’est-ce qui provoque une grande colère aux yeux d’Allah ?"
+        "fr": "D’après As-Saf 61 :2-3, qu’est-ce qui provoque une grande colère aux yeux d’Allah ?",
+        "id": "Menurut As-Saf 61:2-3, apa yang menyebabkan murka yang besar di sisi Allah?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "گوتنی ئەوەی ناتانکاتەوە",
           "ar": "قول ما لا يُفعل",
           "ru": "Говорить то, чего не делаешь",
-          "fr": "Dire ce qu'on ne fait pas"
+          "fr": "Dire ce qu'on ne fait pas",
+          "id": "Mengatakan apa yang tidak dilakukan seseorang"
         },
         {
           "tr": "Namaz kılmamak",
@@ -68,7 +72,8 @@
           "ckb": "نوێژ نەکردن",
           "ar": "ترك الصلاة",
           "ru": "Не совершение молитвы",
-          "fr": "Ne pas accomplir la prière"
+          "fr": "Ne pas accomplir la prière",
+          "id": "Tidak menunaikan shalat"
         },
         {
           "tr": "Oruç tutmamak",
@@ -81,7 +86,8 @@
           "ckb": "ڕۆژوو نەگرتن",
           "ar": "ترك الصيام",
           "ru": "Не поститься",
-          "fr": "Ne pas jeûner"
+          "fr": "Ne pas jeûner",
+          "id": "Tidak puasa"
         },
         {
           "tr": "Hac yapmamak",
@@ -94,7 +100,8 @@
           "ckb": "حەج نەکردن",
           "ar": "ترك الحج",
           "ru": "Не совершать хадж",
-          "fr": "Ne pas accomplir le Hajj"
+          "fr": "Ne pas accomplir le Hajj",
+          "id": "Tidak menunaikan haji"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "کێ حەدیسی «نموونەی کەسێک کە دەزانێت بەڵام کردار ناکات، وەک مووم مانەندەیە کە ڕووناکی بۆ خەڵک دەکات لەکاتێکدا خۆی دەسووتێت» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «مثل الذي يعلم ولا يعمل كمثل السراج يضيء للناس ويحرق نفسه»؟",
         "ru": "Кто передал хадис: «Пример человека, который знает, но не действует, подобен свече, которая освещает людей, а сама горит»?",
-        "fr": "Qui a rapporté le hadith « L'exemple d'une personne qui sait mais n'agit pas est comme une bougie qui éclaire les gens tout en se brûlant » ?"
+        "fr": "Qui a rapporté le hadith « L'exemple d'une personne qui sait mais n'agit pas est comme une bougie qui éclaire les gens tout en se brûlant » ?",
+        "id": "Siapakah yang meriwayatkan hadits “Perumpamaan orang yang mengetahui namun tidak mengamalkan ibarat lilin yang menerangi manusia sambil membakar dirinya sendiri”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "ئەنەس بن مالک ڕ.ع — ئیبن حیبان",
           "ar": "أنس بن مالك رضي الله عنه — ابن حبان",
           "ru": "Анас ибн Малик r.a. — Ибн Хиббан",
-          "fr": "Anas ibn Malik r.a. —Ibn Hibban"
+          "fr": "Anas ibn Malik r.a. —Ibn Hibban",
+          "id": "Anas bin Malik r.a. — Ibnu Hibban"
         },
         {
           "tr": "Ebû Hureyre r.a. — Müslim",
@@ -139,7 +148,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — موسلیم",
           "ar": "أبو هريرة رضي الله عنه — مسلم",
           "ru": "Абу Хурайра r.a. — Мусульманин",
-          "fr": "Abu Hurairah r.a. -Musulman"
+          "fr": "Abu Hurairah r.a. -Musulman",
+          "id": "Abu Hurairah r.a. — Muslim"
         },
         {
           "tr": "İbn Abbâs r.a. — Buhârî",
@@ -152,7 +162,8 @@
           "ckb": "ئیبن عەباس ڕ.ع — بوخاری",
           "ar": "ابن عباس رضي الله عنه — البخاري",
           "ru": "Ибн Аббас r.a. — Бухари",
-          "fr": "Ibn Abbas r.a. — Boukhari"
+          "fr": "Ibn Abbas r.a. — Boukhari",
+          "id": "Ibnu Abbas r.a. — Bukhari"
         },
         {
           "tr": "Hz. Ömer r.a. — Tirmizî",
@@ -165,7 +176,8 @@
           "ckb": "عومەر ڕ.ع — تیرمیزی",
           "ar": "عمر رضي الله عنه — الترمذي",
           "ru": "Умар р.а. — Тирмизи",
-          "fr": "Umar r.a. — Tirmidhi"
+          "fr": "Umar r.a. — Tirmidhi",
+          "id": "Umar r.a. – Tirmidzi"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "لە ئیسلامدا پەیوەندی لەنێوان زانست و کردار چۆنە؟",
         "ar": "ما العلاقة بين العلم والعمل في الإسلام؟",
         "ru": "Какова связь между знанием и действием в Исламе?",
-        "fr": "Quelle est la relation entre connaissance et action en Islam ?"
+        "fr": "Quelle est la relation entre connaissance et action en Islam ?",
+        "id": "Apa hubungan antara pengetahuan dan tindakan dalam Islam?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "هەردووکیان یەکپارچەیەکی جیانەکراون؛ بەبێ یەکێک، ئەوی تر نرخی ڕاستی خۆی نادۆزێتەوە",
           "ar": "كلاهما كلٌّ لا يتجزأ؛ بدون أحدهما لا يجد الآخر قيمته الحقيقية",
           "ru": "Эти двое представляют собой неразделимое целое; без одного другой не сможет найти свою истинную ценность",
-          "fr": "Les deux forment un tout indissociable ; sans l'un l'autre ne peut pas trouver sa vraie valeur"
+          "fr": "Les deux forment un tout indissociable ; sans l'un l'autre ne peut pas trouver sa vraie valeur",
+          "id": "Keduanya merupakan satu kesatuan yang tidak dapat dipisahkan; tanpa yang satu, yang lain tidak dapat menemukan nilai sebenarnya"
         },
         {
           "tr": "İlim amelden daha önemlidir",
@@ -210,7 +224,8 @@
           "ckb": "زانست گرنگتره لە کردار",
           "ar": "العلم أهم من العمل",
           "ru": "Знания важнее действий",
-          "fr": "La connaissance est plus importante que l'action"
+          "fr": "La connaissance est plus importante que l'action",
+          "id": "Pengetahuan lebih penting daripada tindakan"
         },
         {
           "tr": "Amel ilimden daha önemlidir",
@@ -223,7 +238,8 @@
           "ckb": "کردار گرنگتره لە زانست",
           "ar": "العمل أهم من العلم",
           "ru": "Действие важнее знаний",
-          "fr": "L'action est plus importante que la connaissance"
+          "fr": "L'action est plus importante que la connaissance",
+          "id": "Tindakan lebih penting daripada pengetahuan"
         },
         {
           "tr": "İkisi birbirinden tamamen bağımsızdır",
@@ -236,7 +252,8 @@
           "ckb": "هەردووکیان بە تەواوی سەربەخۆن لە یەکتری",
           "ar": "كلاهما مستقل تماماً عن الآخر",
           "ru": "Эти двое полностью независимы друг от друга",
-          "fr": "Les deux sont complètement indépendants l'un de l'autre"
+          "fr": "Les deux sont complètement indépendants l'un de l'autre",
+          "id": "Keduanya sepenuhnya independen satu sama lain"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بۆچی کەسێک کە دەزانێت بەڵام کردار ناکات بە مووم دووتایەوەی کراوە؟",
         "ar": "لماذا شُبِّه العالم غير العامل بالسراج؟",
         "ru": "Почему человека, который знает, но не действует, сравнивают со свечой?",
-        "fr": "Pourquoi une personne qui sait mais n'agit pas est-elle comparée à une bougie ?"
+        "fr": "Pourquoi une personne qui sait mais n'agit pas est-elle comparée à une bougie ?",
+        "id": "Mengapa orang yang tahu tapi tidak bertindak disamakan dengan lilin?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "لەبەر ئەوەی لەکاتێکدا کەسانی تر ئاراستە دەکات لە ناوخۆی دەسووتێت و دەهەڵێت",
           "ar": "لأنه يهدي غيره بينما يحترق ويذوب في نفسه",
           "ru": "Потому что, руководя другими, он горит и тает внутри себя.",
-          "fr": "Parce qu'en guidant les autres, il brûle et fond en lui-même"
+          "fr": "Parce qu'en guidant les autres, il brûle et fond en lui-même",
+          "id": "Karena ketika membimbing orang lain, dia membakar dan melebur dalam dirinya sendiri"
         },
         {
           "tr": "Çünkü mum gibi çok zeki ve parlaktır",
@@ -281,7 +300,8 @@
           "ckb": "لەبەر ئەوەی وەک مووم زۆر زیرەک و ڕووناکە",
           "ar": "لأنه كالشمعة ذكي ومضيء",
           "ru": "Потому что, как свеча, он очень умный и яркий.",
-          "fr": "Parce que comme une bougie, il est très intelligent et brillant"
+          "fr": "Parce que comme une bougie, il est très intelligent et brillant",
+          "id": "Karena ibarat lilin dia sangat cerdas dan cemerlang"
         },
         {
           "tr": "Çünkü mum gibi kısa sürede erir ve kaybolur",
@@ -294,7 +314,8 @@
           "ckb": "لەبەر ئەوەی وەک مووم لە کاتێکی کورتدا دەهەڵێت و نادۆزرێتەوە",
           "ar": "لأنه كالشمعة يذوب ويختفي بسرعة",
           "ru": "Потому что, как свеча, он тает и исчезает за короткое время.",
-          "fr": "Parce que comme une bougie il fond et disparaît en peu de temps"
+          "fr": "Parce que comme une bougie il fond et disparaît en peu de temps",
+          "id": "Karena ibarat lilin ia meleleh dan lenyap dalam waktu singkat"
         },
         {
           "tr": "Çünkü mum gibi yalnızca karanlıkta çalışır",
@@ -307,7 +328,8 @@
           "ckb": "لەبەر ئەوەی وەک مووم تەنها لە تاریکیدا کار دەکات",
           "ar": "لأنه كالشمعة يعمل في الظلام فحسب",
           "ru": "Потому что, как свеча, он работает только в темноте",
-          "fr": "Parce que comme une bougie il ne travaille que dans le noir"
+          "fr": "Parce que comme une bougie il ne travaille que dans le noir",
+          "id": "Karena seperti lilin ia hanya bekerja dalam kegelapan"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەکارهێنانی زانست چی مانایەکی هەیە؟",
         "ar": "ما معنى تطبيق العلم؟",
         "ru": "Что значит применять знания?",
-        "fr": "Que signifie appliquer les connaissances ?"
+        "fr": "Que signifie appliquer les connaissances ?",
+        "id": "Apa yang dimaksud dengan menerapkan ilmu?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "هێنانی ئەوەی فێربووە بۆ ژیان بە نیەتێکی گەورە تەنانەت ئەگەر هەنگاوێکی بچووک بێت",
           "ar": "تحويل ما تعلّمه إلى واقع بنية عظيمة ولو بخطوة صغيرة",
           "ru": "С большим намерением воплощать в жизнь то, чему научились, даже если это всего лишь маленький шаг.",
-          "fr": "Mettre en pratique ce qui a été appris avec une grande intention même si ce n'est qu'un petit pas"
+          "fr": "Mettre en pratique ce qui a été appris avec une grande intention même si ce n'est qu'un petit pas",
+          "id": "Menerapkan apa yang telah dipelajari ke dalam kehidupan dengan niat yang besar meskipun hanya sebuah langkah kecil"
         },
         {
           "tr": "Her şeyi bir anda değiştirmek",
@@ -352,7 +376,8 @@
           "ckb": "گۆڕینی هەموو شتێک لە یەکجار",
           "ar": "تغيير كل شيء دفعة واحدة",
           "ru": "Меняем все сразу",
-          "fr": "Tout changer d'un coup"
+          "fr": "Tout changer d'un coup",
+          "id": "Mengubah segalanya sekaligus"
         },
         {
           "tr": "Yalnızca büyük alimler gibi ders vermek",
@@ -365,7 +390,8 @@
           "ckb": "تەنها وانەدان وەک زانایانی گەورە",
           "ar": "إلقاء الدروس كالعلماء الكبار فحسب",
           "ru": "Только преподавать уроки, как великие ученые",
-          "fr": "N'enseigner que des leçons comme de grands érudits"
+          "fr": "N'enseigner que des leçons comme de grands érudits",
+          "id": "Hanya mengajarkan pelajaran seperti ulama besar"
         },
         {
           "tr": "Öğrendiklerini başkalarına anlatmak",
@@ -378,7 +404,8 @@
           "ckb": "گوتنی ئەوەی فێربووە بۆ کەسانی تر",
           "ar": "إخبار الآخرين بما تعلّمه",
           "ru": "Рассказывать другим, что узнал",
-          "fr": "Dire aux autres ce que l'on a appris"
+          "fr": "Dire aux autres ce que l'on a appris",
+          "id": "Memberi tahu orang lain apa yang telah dipelajarinya"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ ئەم پرسیارە لە خۆت بکە: «چەندی لە دوایین زانستی دینیم کە فێربووم لە ژیانمدا هێناومە؟» لەوانەیە حەدیسێکت خوێندبێتەوە بەڵام ئەوەی لەو حەدیسەدا فەرمان کراوە نەیکردبێت. لەوانەیە لەسەر ئایەتێک بیرتکردبێتەوە بەڵام پەیامی ئەو ئایەتەت نەژیا. ئەم بۆشایییە ئادییە — بەڵام سەیرکردنی، یەکەم هەنگاوی داخستنیەتی. ئەمڕۆ تەنها یەک شت هەڵبژێرە: کردارێکی چاکی کە دەیناسیت بەڵام هێشتا بەکاری نەهێناوت بهێنە ژیانت. هەنگاوێکی بچووک سەرەتای گۆڕینێکی گەورەیە.",
     "ar": "اسأل نفسَك هذا السؤال اليوم: «كم من العلم الديني الذي تعلَّمتُه أخيراً انعكس في حياتي؟» ربَّما قرأتَ حديثاً لكنَّك لم تفعل ما أُمِرتَ به. ربَّما تدبَّرتَ آيةً لكنَّك لم تعِش رسالتَها. هذه الهوَّةُ طبيعية — لكنَّ ملاحظتَها هي الخطوة الأولى لسدِّها. اليوم اختَر شيئاً واحداً: أدخِل في حياتك عملاً صالحاً تعرفه لكنَّك لم تُطبِّقه بعد. الخطوةُ الصغيرة بداية التغيير الكبير.",
     "ru": "Сегодня задайте себе вопрос: «Какую часть религиозных знаний, которые я узнал в последний раз, я отразил в своей жизни?» Возможно, вы прочитали хадис, но не сделали того, что было приказано в этом хадисе. Возможно, вы размышляли над стихом, но не воплотили в жизнь суть этого стиха. Этот разрыв является нормальным, но заметить его — первый шаг к его устранению. Сегодня выберите только одно: Принесите в свою жизнь доброе дело, о котором вы знаете, но еще не применили. Маленький шаг – начало больших перемен.",
-    "fr": "Aujourd'hui, posez-vous cette question : « Dans quelle mesure des connaissances religieuses que j'ai apprises en dernier lieu ai-je reflété dans ma vie ? Peut-être avez-vous lu un hadith mais n’avez-vous pas fait ce qui était commandé dans ce hadith. Peut-être avez-vous réfléchi à un verset mais n’avez-vous pas vécu le message de ce verset. Cet écart est normal, mais le remarquer est la première étape pour le combler. Aujourd’hui, choisissez une seule chose : apportez dans votre vie une bonne action que vous connaissez mais que vous n’avez pas encore appliquée. Un petit pas est le début d’un grand changement."
+    "fr": "Aujourd'hui, posez-vous cette question : « Dans quelle mesure des connaissances religieuses que j'ai apprises en dernier lieu ai-je reflété dans ma vie ? Peut-être avez-vous lu un hadith mais n’avez-vous pas fait ce qui était commandé dans ce hadith. Peut-être avez-vous réfléchi à un verset mais n’avez-vous pas vécu le message de ce verset. Cet écart est normal, mais le remarquer est la première étape pour le combler. Aujourd’hui, choisissez une seule chose : apportez dans votre vie une bonne action que vous connaissez mais que vous n’avez pas encore appliquée. Un petit pas est le début d’un grand changement.",
+    "id": "Hari ini tanyakan pada diri Anda pertanyaan ini: 'Berapa banyak pengetahuan agama yang terakhir saya pelajari yang telah saya refleksikan dalam hidup saya?' Mungkin Anda membaca sebuah hadis tetapi tidak melakukan apa yang diperintahkan dalam hadis tersebut. Mungkin Anda merenungkan sebuah ayat namun tidak menghayati pesan dari ayat tersebut. Kesenjangan ini normal – tetapi menyadarinya adalah langkah pertama untuk menutupnya. Hari ini pilihlah satu hal saja: Bawalah ke dalam hidupmu perbuatan baik yang kamu ketahui tetapi belum kamu terapkan. Sebuah langkah kecil adalah awal dari perubahan besar."
   }
 }

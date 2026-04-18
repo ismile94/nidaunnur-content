@@ -12,7 +12,8 @@
     "ckb": "مافی کێشایەتی",
     "ar": "حق الجار",
     "ru": "Право соседа",
-    "fr": "Le droit du voisin"
+    "fr": "Le droit du voisin",
+    "id": "Hak Tetangga"
   },
   "content": {
     "tr": "İslam'da komşuluk, sıradan bir sosyal ilişki değil; ciddi bir sorumluluk ve haktır. Komşunun hakkı o kadar büyüktür ki Peygamberimiz ﷺ, Cebrail'in (a.s.) bu konuda sürekli tavsiye etmesi üzerine neredeyse komşuyu mirasa ortak edeceğini düşündüğünü söylemiştir.\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**«Cebrail bana komşu hakkında o kadar çok tavsiye etti ki, neredeyse komşuyu mirasçı yapacağını zannettim.»**\n*(Buhârî, Müslim — Hz. Âişe ve İbn Ömer r.anhüma rivayetiyle)*\n\nYine Peygamberimiz ﷺ buyurdu:\n\n**«وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n**«Allah'a yemin olsun ki iman etmez! Allah'a yemin olsun ki iman etmez! Allah'a yemin olsun ki iman etmez! Kimdir bu? diye sorulunca: Komşusu onun şerrinden emin olmayandır, buyurdu.»**\n*(Buhârî — Ebû Hureyre r.a. rivayetiyle)*\n\nKomşuluk hakkı; yalnızca gürültü yapmamak ya da zarar vermemekten ibaret değildir. Komşunun açlığını, hastalığını, yalnızlığını fark etmek; kapısını çalmak; yemek götürmek; selamlaşmak — bunların tümü komşuluk ibadetinin parçasıdır. Cennet komşuluğu hak eden bir insan, önce bu dünyada iyi bir komşu olmayı öğrenmelidir.",
@@ -25,7 +26,8 @@
     "ckb": "لە ئیسلامدا کێشایەتی پەیوەندییەکی کۆمەڵایەتی ئاساییەکی نییە؛ بەڵکو بەرپرسیاریەتییەک و مافێکی ئاستەنگیییە. مافی کێشایەکە ئەوەندە گەورەیە کە پێغەمبەرمان ﷺ، لەسەر پێشنیارکردنی بەردەوامی جیبرێل (ع) لەم بارەیەوە، فەرموویەتی بیری کردووەتەوە کە جیبرێل دەیکاتە وارسیار.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**«جیبرێل ئەوەندە بۆم پێشنیاری کێشایەکە کرد تا بیرم کردەوە کە دەیکاتە وارسیار.»**\n*(بوخاری، موسلیم — بە ڕێوایەتی عائیشە و ئیبن عومەر ڕەزا اللە عنهما)*\n\nپێغەمبەرمان ﷺ هەروەها فەرموویەتی:\n\n**«وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n**«بە اللە باوەڕ نییەتی! بە اللە باوەڕ نییەتی! بە اللە باوەڕ نییەتی! پرسیارکرا: کێیە ئەی نێردراوی اللە؟ فەرموویەتی: ئەوەیە کە کێشایەکەی لە زیانیەکانی ئامادەپێ نییە.»**\n*(بوخاری — بە ڕێوایەتی ئەبو هورەیرە ڕەزا اللە عنه)*\n\nمافی کێشایەتی تەنها دەنگنەکردن یان زیان نەگەیاندن نییە. ئاگاداری بوون بە برسێتی، نەخۆشی و تەنهاییی کێشایەکەت؛ دەقدان لەدەری؛ بردنی خواردن؛ سڵاو کردن — هەمووی بەشەکانی عیبادەتی کێشایەتین. کەسێک کە ئەرزاوی کێشایەتی لە بەهەشتدا بێت، دەبێت پێشی فێری کێشایەکی باش بووناوی بوونمانی ئەم دنیایە.",
     "ar": "الجيرةُ في الإسلام ليست علاقةً اجتماعيةً عادية، بل هي مسؤوليةٌ جسيمة وحقٌّ مصون. وحقُّ الجار عظيمٌ جدًا، حتى إن النبي ﷺ قال — لكثرة وصايا جبريل (عليه السلام) بشأنه — إنه ظنّ أنه سيُورِّثه.\n\nقال النبي ﷺ:\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n*(رواه البخاري ومسلم — عن عائشة وابن عمر رضي الله عنهما)*\n\nوقال ﷺ أيضًا:\n\n**«وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n*(رواه البخاري — عن أبي هريرة رضي الله عنه)*\n\nحقُّ الجار لا يقتصر على عدم الإزعاج أو الإضرار. ملاحظةُ جوع جارك ومرضه ووحدته، وطرقُ بابه، وحمل الطعام إليه، والسلام عليه — كل ذلك من عبادة الجوار. ومن يريد أن يكون جارًا في الجنة عليه أن يتعلم أن يكون جارًا صالحًا في الدنيا أولًا.",
     "ru": "В исламе быть соседом – это не обычные социальные отношения, а серьезная ответственность и право. Право соседа настолько велико, что наш Пророк ﷺ, когда Джибриль (а.с.) постоянно советовал ему об этом, сказал, что, по его мнению, Джибриль сделает соседа наследником.\n\nНаш Пророк ﷺ сказал:\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**\"Джибрил до такой степени давал мне советы насчет соседа, что я думал, что он сделает его наследником\".**\n*(Бухари, Муслим — передают Аиша и Ибн Умар р.анхума)*\n\nНаш Пророк ﷺ также сказал:\n\n**«وَاللَّهِ لَا يُؤْمِنُ, وَاللَّهِ لَا يُؤْمِنُ, وَاللَّهِ لَا يُؤْمِنُ. Название: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n**\"Клянусь Аллахом, он не верит! Клянусь Аллахом, он не верит! Клянусь Аллахом, он не верует! Его спросили: \"Кто это, о Посланник Аллаха?\" Он ответил: \"Тот, чей сосед не застрахован от его вреда\".**\n*(Бухари — передал Абу Хурайра r.a.)*\n\nПраво соседа заключается не только в том, чтобы не шуметь и не причинять вреда. Замечая голод, болезнь и одиночество ближнего; стучится в дверь; приносить им еду; приветствие их — все это часть поклонения соседу. Человек, достойный быть соседом в Раю, должен сначала научиться быть хорошим соседом в этом мире.",
-    "fr": "En Islam, être voisin n’est pas une relation sociale ordinaire mais une responsabilité et un droit sérieux. Le droit du prochain est si grand que notre Prophète ﷺ, après que Jibreel (a.s.) le conseillait constamment à ce sujet, a dit qu'il pensait que Jibreel ferait du voisin un héritier.\n\nNotre Prophète ﷺ a dit :\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**\"Jibreel n'arrêtait pas de me donner des conseils sur le voisin à tel point que je pensais qu'il en ferait un héritier.\"**\n*(Bukhari, Muslim — rapporté par Aisha et Ibn Umar r.anhuma)*\n\nNotre Prophète ﷺ a également dit :\n\n**«وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n** \" Par Allah, il ne croit pas ! Par Allah, il ne croit pas ! Par Allah, il ne croit pas ! On a demandé : Qui est-ce, ô Messager d'Allah ? Il a dit : Celui dont le voisin n'est pas à l'abri de son mal. \"**\n*(Bukhari — rapporté par Abu Hurairah r.a.)*\n\nLe droit du voisin ne consiste pas seulement à ne pas faire de bruit ou à ne pas causer de dommages. Remarquer la faim, la maladie et la solitude de votre voisin ; frapper à leur porte; leur apporter de la nourriture; les saluer – tout cela fait partie du culte du prochain. Celui qui mérite d’être son prochain au Paradis doit d’abord apprendre à être un bon voisin dans ce monde."
+    "fr": "En Islam, être voisin n’est pas une relation sociale ordinaire mais une responsabilité et un droit sérieux. Le droit du prochain est si grand que notre Prophète ﷺ, après que Jibreel (a.s.) le conseillait constamment à ce sujet, a dit qu'il pensait que Jibreel ferait du voisin un héritier.\n\nNotre Prophète ﷺ a dit :\n\n**«مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**\"Jibreel n'arrêtait pas de me donner des conseils sur le voisin à tel point que je pensais qu'il en ferait un héritier.\"**\n*(Bukhari, Muslim — rapporté par Aisha et Ibn Umar r.anhuma)*\n\nNotre Prophète ﷺ a également dit :\n\n**«وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n** \" Par Allah, il ne croit pas ! Par Allah, il ne croit pas ! Par Allah, il ne croit pas ! On a demandé : Qui est-ce, ô Messager d'Allah ? Il a dit : Celui dont le voisin n'est pas à l'abri de son mal. \"**\n*(Bukhari — rapporté par Abu Hurairah r.a.)*\n\nLe droit du voisin ne consiste pas seulement à ne pas faire de bruit ou à ne pas causer de dommages. Remarquer la faim, la maladie et la solitude de votre voisin ; frapper à leur porte; leur apporter de la nourriture; les saluer – tout cela fait partie du culte du prochain. Celui qui mérite d’être son prochain au Paradis doit d’abord apprendre à être un bon voisin dans ce monde.",
+    "id": "Dalam Islam, bertetangga bukanlah sebuah hubungan sosial biasa melainkan sebuah tanggung jawab dan hak yang serius. Hak tetangga begitu besar sehingga Nabi kita ﷺ, ketika Jibril (a.s.) terus-menerus menasihatinya tentang hal ini, mengatakan bahwa beliau mengira Jibril akan menjadikan tetangga sebagai ahli waris.\n\nNabi kita ﷺ bersabda:\n\n**\"مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ»**\n**\"Jibril terus-menerus menasihatiku tentang tetangga hingga aku mengira dia akan menjadikannya ahli waris.\"**\n*(Bukhari, Muslim — riwayat Aisha dan Ibnu Umar r.anhuma)*\n\nNabi kita ﷺ juga bersabda:\n\n**وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ، وَاللَّهِ لَا يُؤْمِنُ. قِيلَ: مَنْ يَا رَسُولَ اللَّهِ؟ قَالَ: الَّذِي لَا يَأْمَنُ جَارُهُ بَوَائِقَهُ»**\n**Demi Allah dia tidak beriman! Demi Allah dia tidak beriman! Demi Allah dia tidak beriman! Ditanya: Siapakah orang itu wahai Rasulullah?\n*(Bukhari — diriwayatkan oleh Abu Hurairah r.a.)*\n\nHak bertetangga bukan sekedar tidak membuat keributan atau tidak menimbulkan kerugian. Memperhatikan kelaparan, penyakit, dan kesepian tetangga Anda; mengetuk pintu mereka; membawakan mereka makanan; menyapa mereka — semua ini adalah bagian dari ibadah menjadi sesama. Seseorang yang layak menjadi tetangga di surga harus terlebih dahulu belajar menjadi tetangga yang baik di dunia."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسی «جیبرێل ئەوەندە بۆم پێشنیاری کێشایەکە کرد تا بیرم کردەوە کە دەیکاتە وارسیار» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «ما زال جبريل يوصيني بالجار حتى ظننت أنه سيورّثه»؟",
         "ru": "Кто передал хадис «Джибрил давал мне советы по поводу соседа до такой степени, что я думал, что он сделает его наследником»?",
-        "fr": "Qui a rapporté le hadith « Jibreel me donnait tellement de conseils sur le voisin que je pensais qu'il en ferait un héritier » ?"
+        "fr": "Qui a rapporté le hadith « Jibreel me donnait tellement de conseils sur le voisin que je pensais qu'il en ferait un héritier » ?",
+        "id": "Siapa yang meriwayatkan hadits “Jibril terus menasihatiku tentang tetangga sedemikian rupa sehingga aku mengira dia akan menjadikannya ahli waris”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "عائیشە و ئیبن عومەر ڕەزا اللە عنهما",
           "ar": "عائشة وابن عمر رضي الله عنهما",
           "ru": "Аиша и Ибн Умар р.анхума",
-          "fr": "Aisha et Ibn Umar r.anhuma"
+          "fr": "Aisha et Ibn Umar r.anhuma",
+          "id": "Aisha dan Ibnu Umar r.anhuma"
         },
         {
           "tr": "Hz. Ebû Hureyre ve Hz. Enes r.anhüma",
@@ -68,7 +72,8 @@
           "ckb": "ئەبو هورەیرە و ئەنەس ڕەزا اللە عنهما",
           "ar": "أبو هريرة وأنس رضي الله عنهما",
           "ru": "Абу Хурайра и Анас р.анхума",
-          "fr": "Abu Hurairah et Anas r.anhuma"
+          "fr": "Abu Hurairah et Anas r.anhuma",
+          "id": "Abu Hurairah dan Anas r.anhuma"
         },
         {
           "tr": "Hz. Ömer ve Hz. Ali r.anhüma",
@@ -81,7 +86,8 @@
           "ckb": "عومەر و عەلی ڕەزا اللە عنهما",
           "ar": "عمر وعلي رضي الله عنهما",
           "ru": "Умар и Али ранхума",
-          "fr": "Umar et Ali r.anhuma"
+          "fr": "Umar et Ali r.anhuma",
+          "id": "Umar dan Ali r.anhuma"
         },
         {
           "tr": "Hz. Ebû Bekir ve Hz. Osman r.anhüma",
@@ -94,7 +100,8 @@
           "ckb": "ئەبو بەکر و عوسمان ڕەزا اللە عنهما",
           "ar": "أبو بكر وعثمان رضي الله عنهما",
           "ru": "Абу Бакр и Усман р.анхума",
-          "fr": "Abu Bakr et Uthman r.anhuma"
+          "fr": "Abu Bakr et Uthman r.anhuma",
+          "id": "Abu Bakar dan Utsman r.anhuma"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "لە حەدیسی «بە اللە باوەڕ نییەتی» کە سێ جار دووبارە کراوەتەوە، ئەم کەسە وەک کێ پێناسە کراوە؟",
         "ar": "في حديث «والله لا يؤمن» المكرَّر ثلاثًا، مَن وُصف بذلك؟",
         "ru": "В хадисе «Клянусь Аллахом, он не верит», повторенном трижды, кем описан этот человек?",
-        "fr": "Dans le hadith « Par Allah il ne croit pas » répété trois fois, qui est décrit cette personne ?"
+        "fr": "Dans le hadith « Par Allah il ne croit pas » répété trois fois, qui est décrit cette personne ?",
+        "id": "Dalam hadits “Demi Allah dia tidak beriman” diulang sebanyak tiga kali, orang tersebut digambarkan sebagai siapa?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "ئەوەیە کە کێشایەکەی لە زیانیەکانی ئامادەپێ نییە",
           "ar": "الذي لا يأمن جاره بوائقه",
           "ru": "Тот, чей сосед не застрахован от его вреда",
-          "fr": "Celui dont le voisin n'est pas à l'abri de son mal"
+          "fr": "Celui dont le voisin n'est pas à l'abri de son mal",
+          "id": "Orang yang tetangganya tidak aman dari mara bahayanya"
         },
         {
           "tr": "Namaz kılmayan kişi",
@@ -139,7 +148,8 @@
           "ckb": "ئەوەیە کە نوێژ ناکات",
           "ar": "الذي لا يصلي",
           "ru": "Тот, кто не молится",
-          "fr": "Celui qui ne prie pas"
+          "fr": "Celui qui ne prie pas",
+          "id": "Orang yang tidak berdoa"
         },
         {
           "tr": "Oruç tutmayan kişi",
@@ -152,7 +162,8 @@
           "ckb": "ئەوەیە کە ڕۆژووی ناگرێت",
           "ar": "الذي لا يصوم",
           "ru": "Тот, кто не постится",
-          "fr": "Celui qui ne jeûne pas"
+          "fr": "Celui qui ne jeûne pas",
+          "id": "Orang yang tidak berpuasa"
         },
         {
           "tr": "Zekât vermeyen kişi",
@@ -165,7 +176,8 @@
           "ckb": "ئەوەیە کە زەکات ناداتەوە",
           "ar": "الذي لا يزكّي",
           "ru": "Тот, кто не дает закят",
-          "fr": "Celui qui ne donne pas la zakat"
+          "fr": "Celui qui ne donne pas la zakat",
+          "id": "Orang yang tidak mengeluarkan zakat"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "بەگوێرەی ئیسلام، مافی کێشایەتی تەنها لە چی پێک نییە؟",
         "ar": "وفق الإسلام، ما الذي لا يقتصر عليه حق الجار؟",
         "ru": "Согласно исламу, из чего НЕ состоит только право соседа?",
-        "fr": "Selon l’Islam, en quoi ne consiste PAS seulement le droit du prochain ?"
+        "fr": "Selon l’Islam, en quoi ne consiste PAS seulement le droit du prochain ?",
+        "id": "Menurut Islam, hak tetangga TIDAK hanya terdiri dari apa saja?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "دەنگ نەکردن یان زیان نەگەیاندن",
           "ar": "عدم الإزعاج أو الإضرار",
           "ru": "Не шуметь и не причинять вреда",
-          "fr": "Ne pas faire de bruit ou ne pas causer de dommages"
+          "fr": "Ne pas faire de bruit ou ne pas causer de dommages",
+          "id": "Tidak menimbulkan kebisingan dan tidak menimbulkan kerugian"
         },
         {
           "tr": "Komşunun açlığını fark etmek",
@@ -210,7 +224,8 @@
           "ckb": "ئاگاداری بوون بە برسێتیی کێشایەکەی",
           "ar": "ملاحظة جوع الجار",
           "ru": "Заметив голод соседа",
-          "fr": "Remarquant la faim du voisin"
+          "fr": "Remarquant la faim du voisin",
+          "id": "Memperhatikan kelaparan tetangga"
         },
         {
           "tr": "Komşuya selam vermek",
@@ -223,7 +238,8 @@
           "ckb": "سڵاو کردن بۆ کێشایەکەی",
           "ar": "السلام على الجار",
           "ru": "Приветствие соседу",
-          "fr": "Saluer le voisin"
+          "fr": "Saluer le voisin",
+          "id": "Salam tetangga"
         },
         {
           "tr": "Komşuya yemek götürmek",
@@ -236,7 +252,8 @@
           "ckb": "بردنی خواردن بۆ کێشایەکەی",
           "ar": "حمل الطعام إلى الجار",
           "ru": "Нести еду соседу",
-          "fr": "Apporter de la nourriture au voisin"
+          "fr": "Apporter de la nourriture au voisin",
+          "id": "Membawa makanan ke tetangga"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "پێشنیارکردنی بەردەوامی جیبرێل (ع) بۆ پێغەمبەرمان ﷺ لەبارەی کێشایەکەوە چی مانایەکی هەیە؟",
         "ar": "ما دلالة وصايا جبريل (عليه السلام) المتكررة للنبي ﷺ بشأن الجار؟",
         "ru": "Что означают постоянные советы Джибриля (а.с.) нашему Пророку ﷺ о соседе?",
-        "fr": "Que signifie le conseil constant de Jibreel (a.s.) à notre Prophète ﷺ au sujet du voisin ?"
+        "fr": "Que signifie le conseil constant de Jibreel (a.s.) à notre Prophète ﷺ au sujet du voisin ?",
+        "id": "Apa arti nasehat Jibreel (a.s.) yang terus-menerus kepada Nabi kita ﷺ tentang tetangga?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "نیشان دەدات کە مافی کێشایەتی لە ئیسلامدا چەندە گرنگە",
           "ar": "يدل على عِظَم حق الجار في الإسلام",
           "ru": "Это показывает, насколько важно право соседа в Исламе.",
-          "fr": "Cela montre à quel point le droit du prochain est important dans l'Islam"
+          "fr": "Cela montre à quel point le droit du prochain est important dans l'Islam",
+          "id": "Hal ini menunjukkan betapa pentingnya hak bertetangga dalam Islam"
         },
         {
           "tr": "Komşular mirasçı olabilir",
@@ -281,7 +300,8 @@
           "ckb": "کێشایەکان دەتوانن وارسیار بن",
           "ar": "يمكن للجيران أن يرثوا",
           "ru": "Соседи могут быть наследниками",
-          "fr": "Les voisins peuvent être héritiers"
+          "fr": "Les voisins peuvent être héritiers",
+          "id": "Tetangga bisa menjadi ahli waris"
         },
         {
           "tr": "Komşuluk malî bir yükümlülüktür",
@@ -294,7 +314,8 @@
           "ckb": "کێشایەتی بەرپرسیاریەتییەکی دارایییە",
           "ar": "الجيرة التزامٌ مالي",
           "ru": "Быть соседом – это финансовое обязательство",
-          "fr": "Être voisin est une obligation financière"
+          "fr": "Être voisin est une obligation financière",
+          "id": "Menjadi tetangga adalah kewajiban finansial"
         },
         {
           "tr": "Cebrail komşuluğu sevmiyordu",
@@ -307,7 +328,8 @@
           "ckb": "جیبرێل کێشایەتی حەزی لێنەدەکرد",
           "ar": "لم يكن جبريل يحب الجوار",
           "ru": "Джибрилю не нравилось быть соседом",
-          "fr": "Jibreel n'aimait pas être voisin"
+          "fr": "Jibreel n'aimait pas être voisin",
+          "id": "Jibreel tidak suka menjadi tetangga"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "کام لەمانەی خوارەوە لە نێوان بەرپرسیارەتییەکانی دژەی کێشایەکەدا نییە؟",
         "ar": "أيٌّ مما يلي ليس من الواجبات تجاه الجار؟",
         "ru": "Что из перечисленного НЕ входит в обязанности по отношению к соседу?",
-        "fr": "Laquelle des responsabilités suivantes ne fait PAS partie des responsabilités à assumer envers un prochain ?"
+        "fr": "Laquelle des responsabilités suivantes ne fait PAS partie des responsabilités à assumer envers un prochain ?",
+        "id": "Manakah dari berikut ini yang TIDAK termasuk tanggung jawab yang harus dipenuhi terhadap sesama?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "تۆمارکردنی موڵکی کێشایەکە بە ناوی خۆی",
           "ar": "تسجيل ممتلكات الجار باسمه",
           "ru": "Регистрация собственности соседа на свое имя",
-          "fr": "Immatriculer la propriété du voisin à son nom"
+          "fr": "Immatriculer la propriété du voisin à son nom",
+          "id": "Mendaftarkan harta milik tetangga atas nama sendiri"
         },
         {
           "tr": "Komşunun açlığını fark edip yemek götürmek",
@@ -352,7 +376,8 @@
           "ckb": "ئاگاداری بوون بە برسێتیی کێشایەکەی و بردنی خواردن",
           "ar": "ملاحظة جوع الجار وحمل الطعام إليه",
           "ru": "Заметить голод соседа и принести еду",
-          "fr": "Remarquer la faim du voisin et apporter de la nourriture"
+          "fr": "Remarquer la faim du voisin et apporter de la nourriture",
+          "id": "Memperhatikan tetangga yang kelaparan dan membawakan makanan"
         },
         {
           "tr": "Hastalığında ziyaretine gitmek",
@@ -365,7 +390,8 @@
           "ckb": "سەردانی کردنی کاتێک نەخۆشە",
           "ar": "زيارته حين يمرض",
           "ru": "Навещать его, когда он болен",
-          "fr": "Lui rendre visite quand il est malade"
+          "fr": "Lui rendre visite quand il est malade",
+          "id": "Mengunjunginya ketika dia sakit"
         },
         {
           "tr": "Selam vererek hal-hatır sormak",
@@ -378,7 +404,8 @@
           "ckb": "سڵاو کردن و پرسیار لە حالی کردن",
           "ar": "السلام عليه والسؤال عن أحواله",
           "ru": "Приветствовать его и спрашивать о его самочувствии.",
-          "fr": "Le saluer et lui poser des questions sur son bien-être"
+          "fr": "Le saluer et lui poser des questions sur son bien-être",
+          "id": "Menyapanya dan bertanya tentang kesejahteraannya"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ بە کێشایەکەت فکربکەرەوە. ناوی دەزانیت؟ کاتێ دوایین جار یەکتر سڵاو کردن؟ کاتێک پێویستی بە شتێکی هەبوو دەتوانێت لەدەرت بدات؟ پێغەمبەرمان ﷺ کێشایەکەی ئەوەندە گرنگی دەدا کە نزیک بوو وارسیاری بکاتەوە. ئەمڕۆ کێشایەکەت بە پێکەنینێکی جوان سڵاو بکە، لەدەری بدە یان دیاریەک ببە بۆی. جێبەجێکردنی مافی کێشایەتی نەک تەنها خوویەکی ئایینییە، بەڵکو خوویەکی مرۆییشە. و لەلای اللەدا، ئەم ژێستە بچووکانە ئەوەندە گرنگتر لەوەی کە دەزانیت.",
     "ar": "فكِّر في جارك اليوم. هل تعرف اسمَه؟ متى كانت آخر مرَّةٍ تحيَّيتُما؟ هل يستطيع طرقَ بابك حين يحتاج؟ اعتبر النبيُّ ﷺ الجارَ مهمَّاً لدرجة أنَّه كاد يجعله وارثاً. اليوم سلِّم على جارك بابتسامةٍ جميلة، أو اطرق بابه، أو أهدِه هديَّة. أداءُ حقِّ الجار ليس فضيلةً دينيَّةً فحسب بل إنسانيَّة. وأمام الله، هذه اللَّفتاتُ الصغيرة لها وزنٌ أكبرُ بكثيرٍ ممَّا تتخيَّل.",
     "ru": "Подумайте о своем сегодняшнем соседе. Знаете ли вы их имя? Когда вы в последний раз здоровались друг с другом? Могут ли они постучать в вашу дверь, когда им что-то нужно? Наш Пророк ﷺ считал соседа настолько важным, что почти сделал его наследником. Сегодня поприветствуйте своего соседа красивой улыбкой, постучите в дверь или принесите ему подарок. Соблюдение права ближнего – это не только религиозная, но и человеческая добродетель. И перед Аллахом эти маленькие жесты имеют гораздо большую ценность, чем вы можете себе представить.",
-    "fr": "Pensez à votre voisin aujourd'hui. Connaissez-vous leur nom ? Quand vous êtes-vous salué pour la dernière fois ? Peuvent-ils frapper à votre porte lorsqu’ils ont besoin de quelque chose ? Notre Prophète ﷺ considérait le voisin si important qu'il en faisait presque un héritier. Aujourd’hui, saluez votre voisin avec un beau sourire, frappez à sa porte ou apportez-lui un cadeau. Respecter le droit du prochain n’est pas seulement une vertu religieuse mais aussi une vertu humaine. Et devant Allah, ces petits gestes ont une valeur bien plus grande que vous ne l’imaginez."
+    "fr": "Pensez à votre voisin aujourd'hui. Connaissez-vous leur nom ? Quand vous êtes-vous salué pour la dernière fois ? Peuvent-ils frapper à votre porte lorsqu’ils ont besoin de quelque chose ? Notre Prophète ﷺ considérait le voisin si important qu'il en faisait presque un héritier. Aujourd’hui, saluez votre voisin avec un beau sourire, frappez à sa porte ou apportez-lui un cadeau. Respecter le droit du prochain n’est pas seulement une vertu religieuse mais aussi une vertu humaine. Et devant Allah, ces petits gestes ont une valeur bien plus grande que vous ne l’imaginez.",
+    "id": "Pikirkan tentang tetangga Anda hari ini. Tahukah Anda nama mereka? Kapan terakhir kali kalian saling menyapa? Bisakah mereka mengetuk pintu Anda ketika mereka membutuhkan sesuatu? Nabi kita ﷺ menganggap tetangga begitu penting sehingga hampir menjadikan mereka sebagai ahli waris. Hari ini sapalah tetangga Anda dengan senyuman yang indah, ketuk pintunya, atau bawakan mereka hadiah. Memenuhi hak sesama bukan hanya sekedar agama tapi juga keutamaan kemanusiaan. Dan di hadapan Allah, tindakan kecil ini mempunyai nilai yang jauh lebih besar dari yang Anda bayangkan."
   }
 }

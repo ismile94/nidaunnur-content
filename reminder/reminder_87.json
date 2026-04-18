@@ -12,7 +12,8 @@
     "ckb": "ئاشتیی کۆمەڵایەتی",
     "ar": "السلام الاجتماعي",
     "ru": "Социальный мир",
-    "fr": "Paix sociale"
+    "fr": "Paix sociale",
+    "id": "Perdamaian Sosial"
   },
   "content": {
     "tr": "İslam, bireysel kurtuluşu değil toplumun bütününün huzurunu hedefler. Bir toplumda adalet, dürüstlük ve merhamet hâkim olduğunda, o toplum Allah'ın lütfuna mazhar olur. Fitne ve bozgunculuk ise yalnızca o anı değil, nesilleri etkiler.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n**«Islah edildikten sonra yeryüzünde bozgunculuk yapmayın. O'na korku ve umutla dua edin. Şüphesiz Allah'ın rahmeti iyilik yapanlara yakındır.»**\n*(A'râf 7:56)*\n\nPeygamberimiz ﷺ de şöyle buyurmuştur:\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**«Size oruç, namaz ve sadakadan daha faziletli bir şey haber vereyim mi? Sahabe: Evet, dediler. O da: İnsanların arasını düzeltmek, buyurdu.»**\n*(Ebû Dâvûd, Tirmizî — Ebû'd-Derdâ r.a. rivayetiyle)*\n\nToplumsal huzur; yalnızca savaşın yokluğu değildir. Komşuların güvende olduğu, zayıfın korunduğu, hakların yerini bulduğu ve insanların birbirini affettiği ortamdır. Bu huzurun inşaası; devletin değil, her bireyin görevidir. Bugün çevrenizde bir gerginliği yumuşatın, bir yanlış anlamayı giderin, iki kişinin arasını bulun.",
@@ -25,7 +26,8 @@
     "ckb": "ئیسلام نەک تەنها بەدوای خەلاسیی تاکەکەسانە دەگەڕێت، بەڵکو ئامانجی چاکەی کۆمەڵگا بەکامەیە. کاتێک دادپەروەری، ڕاستگۆیی و کەرەم لە کۆمەڵگایەکدا سەروەر بن، ئەو کۆمەڵگا لە کەرەمی اللەوە بەرخۆردار دەبێت. فیتنە و تێکدان نەک تەنها ئەو کاتەیان کاریگەر دەکات، بەڵکو نەوەکانیش.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n**«دوای ڕاستکردنەوەی زەوی، تێکدانی تێدا مەکەن! بە ترس و هیوا داوای ئەوتان بکەن! بێگومان کەرەمی اللە نزیکی چاکەکارانە.»**\n*(ئەعراف ٧:٥٦)*\n\nپێغەمبەرمان ﷺ هەروەها فەرموویەتی:\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**«ئایا ئاگاتان بکەمەوە لە شتێک کە لە ڕۆژە و نوێژ و سەدەقەشیش باشتره؟ گوتیان: بەڵێ. فەرمووی: ئاشتیکردنەوەی لەنێوان مرۆڤان.»**\n*(ئەبو داود، تیرمیزی — بە ڕێوایەتی ئەبو'د-دەردا ڕ.ع)*\n\nئاشتیی کۆمەڵایەتی تەنها نەبوونی شەڕ نییە. ژینگەیەکە کە تێیدا کەلانیکەنیشان ئەمنی هەست دەکەن، لاوازەکان پاراستن دەبن، مافەکان جێگاشیان دەبینێت و مرۆڤەکان یەکتریان دەبەخشن. بینیادنانی ئەم ئاشتییە نەک تەنها ئەرکی دەوڵەتە بەڵکو ئەرکی هەر تاکێکە. ئەمڕۆ تێکەڵییەکی لە دەوروبەرتدا نەرم بکە، تێگەیشتنی هەڵەیەک چارەسەر بکە، دوو کەس لەگەڵ یەکتر ئاشتی بکەرەوە.",
     "ar": "لا يهدف الإسلامُ إلى النجاة الفردية فحسب بل إلى خير المجتمع بأسره. حين يسود العدلُ والأمانةُ والرحمةُ في مجتمعٍ ما، يفيض ذلك المجتمعُ بفضل الله. والفتنةُ والفسادُ لا يؤثِّران في تلك اللحظة فحسب بل في الأجيال القادمة.\n\nيقول الله تعالى:\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n*(الأعراف: ٥٦)*\n\nوقال النبيُّ ﷺ:\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n*(رواه أبو داود والترمذي — عن أبي الدرداء رضي الله عنه)*\n\nالسلامُ الاجتماعيُّ ليس مجرَّد غياب الحرب. بل هو بيئةٌ يأمن فيها الجيران، ويُحمى فيها الضعيف، وتُصان فيها الحقوق، ويعفو الناس عن بعضهم. وبناءُ هذا السلام ليس واجبَ الدولة وحدها بل كلِّ فرد. اليوم ليِّن توتُّراً في محيطك، وأزِل سوءَ تفاهم، وأصلح بين شخصَين.",
     "ru": "Ислам нацелен не только на индивидуальное спасение, но и на благополучие общества в целом. Когда в обществе преобладают справедливость, честность и милосердие, это общество благословляется милостью Аллаха. Раздоры и коррупция затрагивают не только этот момент, но и будущие поколения.\n\nАллах Всевышний говорит:\n\n** خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ**\n**\"И не сейте разложение на земле после ее преобразования. И взывайте к Нему со страхом и устремлением. Воистину, милость Аллаха близка к творящим добро.\"**\n*(Аль-Араф 7:56)*\n\nНаш Пророк ﷺ также сказал:\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ Ответ: Дэнни. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**\"Не сообщить ли мне вам о чем-то лучшем по степени, чем пост, молитва и благотворительность? Они сказали: Конечно. Он сказал: Примирение между людьми\".**\n*(Абу Дауд, Тирмизи — передал Абу ад-Дарда r.a.)*\n\nСоциальный мир – это не просто отсутствие войны. Это среда, в которой соседи чувствуют себя в безопасности, слабые защищены, права соблюдаются и люди прощают друг друга. Построение этого мира является обязанностью не только государства, но и каждого человека. Сегодня смягчите напряжение в своем окружении, разрешите недопонимание, примирите двух людей.",
-    "fr": "L’Islam ne vise pas seulement le salut individuel mais aussi le bien-être de la société dans son ensemble. Lorsque la justice, l'honnêteté et la miséricorde prédominent dans une société, cette société est bénie par la grâce d'Allah. Les conflits et la corruption affectent non seulement ce moment mais aussi les générations à venir.\n\nAllah le Très-Haut dit :\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n**\"Et ne sèmez pas la corruption sur la terre après sa réforme. Et invoquez-le avec crainte et aspiration. En effet, la miséricorde d'Allah est proche de ceux qui font le bien. \"**\n*(Al-A'raf 7:56)*\n\nNotre Prophète ﷺ a également dit :\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**\"Ne dois-je pas vous informer de quelque chose de meilleur en degré que le jeûne, la prière et la charité ? Ils dirent : Bien sûr. Il dit : La réconciliation entre les gens.\"**\n*(Abu Dawud, Tirmidhi — rapporté par Abu'd-Darda r.a.)*\n\nLa paix sociale n'est pas simplement l'absence de guerre. C’est un environnement dans lequel les voisins se sentent en sécurité, les faibles sont protégés, les droits sont respectés et les gens se pardonnent mutuellement. Construire cette paix n’est pas le devoir de l’État seul mais de chaque individu. Aujourd'hui, adoucissez une tension dans votre entourage, résolvez un malentendu, réconciliez deux personnes."
+    "fr": "L’Islam ne vise pas seulement le salut individuel mais aussi le bien-être de la société dans son ensemble. Lorsque la justice, l'honnêteté et la miséricorde prédominent dans une société, cette société est bénie par la grâce d'Allah. Les conflits et la corruption affectent non seulement ce moment mais aussi les générations à venir.\n\nAllah le Très-Haut dit :\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n**\"Et ne sèmez pas la corruption sur la terre après sa réforme. Et invoquez-le avec crainte et aspiration. En effet, la miséricorde d'Allah est proche de ceux qui font le bien. \"**\n*(Al-A'raf 7:56)*\n\nNotre Prophète ﷺ a également dit :\n\n**«أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**\"Ne dois-je pas vous informer de quelque chose de meilleur en degré que le jeûne, la prière et la charité ? Ils dirent : Bien sûr. Il dit : La réconciliation entre les gens.\"**\n*(Abu Dawud, Tirmidhi — rapporté par Abu'd-Darda r.a.)*\n\nLa paix sociale n'est pas simplement l'absence de guerre. C’est un environnement dans lequel les voisins se sentent en sécurité, les faibles sont protégés, les droits sont respectés et les gens se pardonnent mutuellement. Construire cette paix n’est pas le devoir de l’État seul mais de chaque individu. Aujourd'hui, adoucissez une tension dans votre entourage, résolvez un malentendu, réconciliez deux personnes.",
+    "id": "Islam bertujuan tidak hanya untuk keselamatan individu tetapi untuk kesejahteraan masyarakat secara keseluruhan. Ketika keadilan, kejujuran, dan kasih sayang muncul dalam suatu masyarakat, maka masyarakat tersebut diberkati oleh rahmat Allah. Perselisihan dan korupsi tidak hanya berdampak pada saat ini saja, namun juga berdampak pada generasi mendatang.\n\nAllah SWT berfirman:\n\n**﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ﴾**\n**\"Dan janganlah kamu membuat kerusakan di muka bumi setelah reformasinya. Dan berdoalah kepada-Nya dalam rasa takut dan iba. Sesungguhnya rahmat Allah dekat kepada orang-orang yang berbuat kebaikan.\"**\n*(Al-A'raf 7:56)*\n\nNabi kita ﷺ juga bersabda:\n\n**\"أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ»**\n**\"Maukah aku beritahukan kepadamu sesuatu yang lebih baik derajatnya daripada puasa, shalat, dan sedekah? Mereka menjawab: Tentu saja. Beliau menjawab: Berdamai antar manusia.\"**\n*(Abu Dawud, Tirmidzi — diriwayatkan oleh Abu'd-Darda r.a.)*\n\nKedamaian sosial bukan sekedar tidak adanya perang. Ini adalah lingkungan di mana tetangga merasa aman, yang lemah dilindungi, hak-hak ditegakkan, dan orang-orang saling memaafkan. Membangun perdamaian ini bukan tugas negara saja melainkan tugas setiap individu. Hari ini, redakan ketegangan di sekitarmu, selesaikan kesalahpahaman, rekonsiliasi dua orang."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «دوای ڕاستکردنەوەی زەوی، تێکدانی تێدا مەکەن» لە کام سووڕەتدا دەردەکەوێت؟",
         "ar": "في أي سورة وردت آية ﴿وَلَا تُفْسِدُوا فِي الْأَرْضِ﴾؟",
         "ru": "В какой суре встречается аят «Не сейте порчу на земле»?",
-        "fr": "Dans quelle sourate apparaît le verset « Ne semez pas la corruption sur la terre » ?"
+        "fr": "Dans quelle sourate apparaît le verset « Ne semez pas la corruption sur la terre » ?",
+        "id": "Di surat manakah ayat “Jangan menimbulkan kerusakan di muka bumi”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەعراف ٧:٥٦",
           "ar": "الأعراف: ٥٦",
           "ru": "Аль-Араф 7:56",
-          "fr": "Al-A'raf 7:56"
+          "fr": "Al-A'raf 7:56",
+          "id": "Al-A'raf 7:56"
         },
         {
           "tr": "Bakara 2:11",
@@ -68,7 +72,8 @@
           "ckb": "بەقەرە ٢:١١",
           "ar": "البقرة: ١١",
           "ru": "Аль-Бакара 2:11",
-          "fr": "Al-Baqarah 2:11"
+          "fr": "Al-Baqarah 2:11",
+          "id": "Al-Baqarah 2:11"
         },
         {
           "tr": "Mâide 5:32",
@@ -81,7 +86,8 @@
           "ckb": "مائیدە ٥:٣٢",
           "ar": "المائدة: ٣٢",
           "ru": "Аль-Маида 5:32",
-          "fr": "Al-Ma'idah 5:32"
+          "fr": "Al-Ma'idah 5:32",
+          "id": "Al-Ma'idah 5:32"
         },
         {
           "tr": "Nahl 16:90",
@@ -94,7 +100,8 @@
           "ckb": "نەحل ١٦:٩٠",
           "ar": "النحل: ٩٠",
           "ru": "Ан-Нахль 16:90",
-          "fr": "An-Nahl 16:90"
+          "fr": "An-Nahl 16:90",
+          "id": "An-Nahl 16:90"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی پێغەمبەرمان ﷺ، کام کار لە ڕۆژە، نوێژ و سەدەقەشیش باشتره؟",
         "ar": "ما العمل الأفضل درجةً من الصيام والصلاة والصدقة وفق النبي ﷺ؟",
         "ru": "По мнению нашего Пророка ﷺ, какое дело по степени лучше, чем пост, молитва и благотворительность?",
-        "fr": "Selon notre Prophète ﷺ, quelle action est meilleure en degré que le jeûne, la prière et la charité ?"
+        "fr": "Selon notre Prophète ﷺ, quelle action est meilleure en degré que le jeûne, la prière et la charité ?",
+        "id": "Menurut Nabi kita ﷺ, amalan apa yang lebih baik derajatnya selain puasa, shalat, dan sedekah?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "ئاشتیکردنەوەی لەنێوان مرۆڤان",
           "ar": "إصلاح ذات البين",
           "ru": "Примирение между людьми (ислаху зати'л-байн)",
-          "fr": "Réconciliation entre les gens (islahu dhati'l-bayn)"
+          "fr": "Réconciliation entre les gens (islahu dhati'l-bayn)",
+          "id": "Mendamaikan antar manusia (islahu dhati'l-bayn)"
         },
         {
           "tr": "Gece namazı kılmak",
@@ -139,7 +148,8 @@
           "ckb": "نوێژی شەو کردن",
           "ar": "صلاة الليل",
           "ru": "Совершение ночного намаза",
-          "fr": "Effectuer la prière du soir"
+          "fr": "Effectuer la prière du soir",
+          "id": "Melaksanakan shalat malam"
         },
         {
           "tr": "Hac yapmak",
@@ -152,7 +162,8 @@
           "ckb": "حەج کردن",
           "ar": "أداء الحج",
           "ru": "Совершение хаджа",
-          "fr": "Accomplir le Hajj"
+          "fr": "Accomplir le Hajj",
+          "id": "Melaksanakan Haji"
         },
         {
           "tr": "Kur'an okumak",
@@ -165,7 +176,8 @@
           "ckb": "خوێندنەوەی قورئان",
           "ar": "قراءة القرآن",
           "ru": "Чтение Корана",
-          "fr": "Réciter le Coran"
+          "fr": "Réciter le Coran",
+          "id": "Membaca Alquran"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "کام یار حەدیسی «ئاشتیکردنەوەی لەنێوان مرۆڤان» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث إصلاح ذات البين؟",
         "ru": "Какой сподвижник передал хадис о примирении между людьми?",
-        "fr": "Quel compagnon a raconté le hadith sur la réconciliation entre les gens ?"
+        "fr": "Quel compagnon a raconté le hadith sur la réconciliation entre les gens ?",
+        "id": "Sahabat manakah yang meriwayatkan hadis tentang rujuk antar manusia?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "ئەبو'د-دەردا ڕ.ع",
           "ar": "أبو الدرداء رضي الله عنه",
           "ru": "Абу ад-Дарда р.а.",
-          "fr": "Abu'd-Darda r.a."
+          "fr": "Abu'd-Darda r.a.",
+          "id": "Abu'd-Darda r.a."
         },
         {
           "tr": "İbn Abbâs r.a.",
@@ -210,7 +224,8 @@
           "ckb": "ئیبن عەباس ڕ.ع",
           "ar": "ابن عباس رضي الله عنه",
           "ru": "Ибн Аббас r.a.",
-          "fr": "Ibn Abbas r.a."
+          "fr": "Ibn Abbas r.a.",
+          "id": "Ibnu Abbas r.a."
         },
         {
           "tr": "Hz. Ali r.a.",
@@ -223,7 +238,8 @@
           "ckb": "عەلی ڕ.ع",
           "ar": "علي رضي الله عنه",
           "ru": "Али р.а.",
-          "fr": "Ali r.a."
+          "fr": "Ali r.a.",
+          "id": "Ali r.a."
         },
         {
           "tr": "Muâz b. Cebel r.a.",
@@ -236,7 +252,8 @@
           "ckb": "مواز بن جەبەل ڕ.ع",
           "ar": "معاذ بن جبل رضي الله عنه",
           "ru": "Муаз ибн Джабаль r.a.",
-          "fr": "Muadh ibn Jabal r.a."
+          "fr": "Muadh ibn Jabal r.a.",
+          "id": "Muadz bin Jabal r.a."
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "مانای ڕاستەقینەی ئاشتیی کۆمەڵایەتی چییە؟",
         "ar": "ما المعنى الحقيقي للسلام الاجتماعي؟",
         "ru": "В чем истинный смысл социального мира?",
-        "fr": "Quel est le véritable sens de la paix sociale ?"
+        "fr": "Quel est le véritable sens de la paix sociale ?",
+        "id": "Apa sebenarnya arti perdamaian sosial?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ژینگەیەک کە تێیدا کەلانیکەنیشان ئەمنی هەست دەکەن، لاوازەکان پاراستن دەبن و مرۆڤەکان یەکتریان دەبەخشن",
           "ar": "بيئة يأمن فيها الجيران ويُحمى فيها الضعيف ويتسامح الناس فيها",
           "ru": "Среда, в которой соседи чувствуют себя в безопасности, слабые защищены и люди прощают друг друга",
-          "fr": "Un environnement où les voisins se sentent en sécurité, les faibles sont protégés et les gens se pardonnent"
+          "fr": "Un environnement où les voisins se sentent en sécurité, les faibles sont protégés et les gens se pardonnent",
+          "id": "Lingkungan yang bertetangga merasa aman, yang lemah terlindungi, dan masyarakat saling memaafkan"
         },
         {
           "tr": "Yalnızca savaşın olmadığı dönem",
@@ -281,7 +300,8 @@
           "ckb": "تەنها قۆناغێکی بێ شەڕ",
           "ar": "مجرد فترة خالية من الحرب",
           "ru": "Только период без войны",
-          "fr": "Seulement une période sans guerre"
+          "fr": "Seulement une période sans guerre",
+          "id": "Hanya periode tanpa perang"
         },
         {
           "tr": "Herkesin aynı fikirde olduğu toplum",
@@ -294,7 +314,8 @@
           "ckb": "کۆمەڵگایەک کە هەموو کەس بە هەمان شێوە بیر دەکاتەوە",
           "ar": "مجتمع يفكر فيه الجميع بطريقة واحدة",
           "ru": "Общество, в котором все думают одинаково",
-          "fr": "Une société où tout le monde pense pareil"
+          "fr": "Une société où tout le monde pense pareil",
+          "id": "Sebuah masyarakat di mana setiap orang mempunyai pemikiran yang sama"
         },
         {
           "tr": "Herkesin zengin olduğu düzen",
@@ -307,7 +328,8 @@
           "ckb": "سیستەمێک کە هەموو کەس دەوڵەمەندن",
           "ar": "نظام يكون فيه الجميع أغنياء",
           "ru": "Система, в которой все богаты",
-          "fr": "Un système où tout le monde est riche"
+          "fr": "Un système où tout le monde est riche",
+          "id": "Sebuah sistem di mana setiap orang menjadi kaya"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بینیادنانی ئاشتیی کۆمەڵایەتی وەک ئەرکی کێ دیاری دەکرێت؟",
         "ar": "بناء السلام الاجتماعي مسؤولية مَن؟",
         "ru": "Построение социального мира определяется как чья ответственность?",
-        "fr": "Construire la paix sociale est défini comme la responsabilité de qui ?"
+        "fr": "Construire la paix sociale est défini comme la responsabilité de qui ?",
+        "id": "Membangun perdamaian sosial didefinisikan sebagai tanggung jawab siapa?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "ئەرکی هەر تاکێک",
           "ar": "واجب كل فرد",
           "ru": "Обязанность каждого человека",
-          "fr": "Le devoir de chaque individu"
+          "fr": "Le devoir de chaque individu",
+          "id": "Kewajiban setiap individu"
         },
         {
           "tr": "Yalnızca devletin görevi",
@@ -352,7 +376,8 @@
           "ckb": "تەنها ئەرکی دەوڵەت",
           "ar": "واجب الدولة فحسب",
           "ru": "Только обязанность государства",
-          "fr": "Seul le devoir de l'État"
+          "fr": "Seul le devoir de l'État",
+          "id": "Hanya tugas negara"
         },
         {
           "tr": "Yalnızca âlimlerin görevi",
@@ -365,7 +390,8 @@
           "ckb": "تەنها ئەرکی زانایان",
           "ar": "واجب العلماء فحسب",
           "ru": "Только долг ученых",
-          "fr": "Seul le devoir des savants"
+          "fr": "Seul le devoir des savants",
+          "id": "Hanya tugas para ulama"
         },
         {
           "tr": "Yalnızca liderlerin görevi",
@@ -378,7 +404,8 @@
           "ckb": "تەنها ئەرکی سەرۆکان",
           "ar": "واجب القادة فحسب",
           "ru": "Только долг руководителей",
-          "fr": "Seul le devoir des dirigeants"
+          "fr": "Seul le devoir des dirigeants",
+          "id": "Hanya tugas pemimpin"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ لە دەوروبەرت سەیری بکە: کەسێکت هەیە کە تێکەڵیت لەگەڵ هەیە؟ دەتوانیت دوو کەس لەگەڵ یەکتر ئاشتی بکەیتەوە؟ بیرت بێت: پێغەمبەرمان ﷺ ئاشتیکردنەوەی لەنێوان مرۆڤان لە ڕۆژە و نوێژیشەوە باشتر بینی. هەوڵێکی بچووک دەتوانێت چاکەیەکی گەورە بێت. یەک وشەی تۆ دەتوانێت دڵێک گەرم بکات، تێکەڵییەکی چارەسەر بکات، خێزانێک بە ئاشتی بکات. ئاشتیی کۆمەڵایەتی نە لە سەر مێزی سیاسەتمەداران دەستپێدەکات، بەڵکو لە دڵدا.",
     "ar": "انظر اليوم حولك: هل ثمَّةَ أحدٌ تتوتَّر معه؟ هل تستطيع أن تُصلح بين شخصَين؟ تذكَّر: اعتبر نبيُّنا ﷺ الإصلاحَ بين الناس أعظمَ من الصيام والصلاة والصدقة. جهدٌ صغير قد يكون خيراً عظيماً. كلمةٌ واحدة منك قد تُدفِّئ قلباً، وتُحلُّ توتُّراً، وتُحضِر السلامَ إلى أسرة. السلامُ الاجتماعيُّ لا يبدأ على طاولات السياسيِّين بل في القلوب.",
     "ru": "Сегодня оглянитесь вокруг: есть ли кто-то, с кем вы находитесь в напряжении? Сможете ли вы примирить двух людей? Помните: Наш Пророк ﷺ считал примирение между людьми даже более важным, чем пост и молитва. Небольшое усилие может принести большое благо. Одно ваше слово может согреть сердце, снять напряжение, принести мир в семью. Социальный мир начинается не за столом политиков, а в сердцах.",
-    "fr": "Aujourd’hui, regardez autour de vous : y a-t-il quelqu’un avec qui vous êtes en tension ? Pouvez-vous réconcilier deux personnes ? Rappelez-vous : Notre Prophète ﷺ considérait la réconciliation entre les gens comme étant encore plus grande que le jeûne et la prière. Un petit effort peut être un grand bien. Un seul mot de votre part peut réchauffer un cœur, résoudre une tension, apporter la paix à une famille. La paix sociale ne commence pas à la table des politiques mais dans les cœurs."
+    "fr": "Aujourd’hui, regardez autour de vous : y a-t-il quelqu’un avec qui vous êtes en tension ? Pouvez-vous réconcilier deux personnes ? Rappelez-vous : Notre Prophète ﷺ considérait la réconciliation entre les gens comme étant encore plus grande que le jeûne et la prière. Un petit effort peut être un grand bien. Un seul mot de votre part peut réchauffer un cœur, résoudre une tension, apporter la paix à une famille. La paix sociale ne commence pas à la table des politiques mais dans les cœurs.",
+    "id": "Hari ini lihatlah sekelilingmu: Apakah ada seseorang yang sedang tegang denganmu? Bisakah Anda mendamaikan dua orang? Ingat: Nabi kita ﷺ menganggap rujuk antar manusia lebih penting daripada puasa dan shalat. Sebuah usaha kecil bisa menjadi kebaikan yang besar. Satu kata dari Anda dapat menghangatkan hati, menyelesaikan ketegangan, membawa kedamaian dalam sebuah keluarga. Kedamaian sosial tidak dimulai dari meja para politisi, melainkan dari hati."
   }
 }

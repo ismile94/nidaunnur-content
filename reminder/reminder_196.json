@@ -12,7 +12,8 @@
     "ckb": "ڕاستگۆ بوون",
     "ar": "الصِّدْقُ وَالْمَصَارَحَةُ",
     "ru": "Быть искренним",
-    "fr": "Être sincère"
+    "fr": "Être sincère",
+    "id": "Bersikap Tulus"
   },
   "content": {
     "tr": "Samimi olmak; her düşünceyi filtresiz dökmek veya kabalığı «dürüstlük» diye satmak değil — dil ile kalbin bir olması, sözün adab ve merhamet çerçevesinde hakka hizmet etmesidir. İman diliyle övünüp kalpte riya taşımak, samimiyet değil; ikiyüzlülüktür.\n\nAllah Teâlâ dil ile kalp arasındaki farkı şöyle ortaya koyar:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**«Bedeviler «İman ettik» dedi. De ki: Henüz iman etmediniz; fakat «Müslüman olduk» deyin. Kalplerinize henüz iman girmemiştir.»**\n*(Hucurât 49:14)*\n\nSamimiyet, Allah ile yapılan sözde tutarlılıkla da bağlanır:\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**«Allah ile yaptığınız ahdi yerine getirin.»**\n*(Nahl 16:91 — özet)*\n\nPeygamberimiz ﷺ dinin özünü «nasîhat»e bağlar — samimiyet burada hem doğruluk hem vefa olarak okunur:\n\n**«الدِّينُ النَّصِيحَةُ»** denildiğinde **«لمن؟»** sorusuna **«للهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ»** cevabı verilir.\n*(Müslim, «Îman» — Temîm ed-Dârî r.a.)*\n\nBugün samimiyet pratiği: bir söz verdiğinde tut, bir hatayı küçültmeden kabul et, bir özürde göz teması — samimiyet, bazen sesi yükseltmek değil; kalbi hizaya getirmektir.",
@@ -25,7 +26,8 @@
     "ckb": "ڕاستگۆ بوون واتای فڕێدانی هەموو بیرۆکەی بێ فلتەر یان فرۆشتنی گەلەت وەک «ڕاستی» نییە — بەڵکوو یەکگرتنەوەی زمان و دڵ و قسەکردن بە ئاداب و بەزەیی لە چوارچێوەی حەقدا. بڵێن «ئیمانمان هێناوە» لە کاتێکدا دڵ هێشتا دووڕووە، ڕاستگۆیی نییە.\n\nاللە دەفەرموێت:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n*(حوجورات: ١٤)*\n\nپێغەمبەر ﷺ دەفەرموێت:\n\n**«الدين النصيحة»** — بۆ اللە و کتێب و پێغەمبەر و سەرکردەکان و گشتی موسڵمانان.\n*(موسلیم، تەمیم داڕی)*\n\nئەمڕۆ وەرزشی ڕاستگۆیی: پابەندبوون بە قسە، قبوڵکردنی هەڵە بێ بچووککردنەوە، ڕاستگۆیی زۆرجار واتای هێلکردنی دڵە نەک بەرزکردنەوەی دەنگ.",
     "ar": "الصدقُ ليس إطلاقَ كلِّ خاطرٍ بلا أدبٍ ولا جعلَ الفحشَ «صراحة» — إنما هو اصطفافُ اللسانِ مع القلبِ، وخدمةُ الحقِّ بأدبٍ ورحمة. التبجحُ بالإيمانِ والرياءُ في الجوانحِ ليس صدقاً؛ بل نفاقُ لسانٍ.\n\nيقول الله تعالى:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n*(الحجرات: ١٤)*\n\nوقال النبي ﷺ:\n\n**«الدين النصيحة»** قيل: لمن؟ قال: **«لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم»**\n*(رواه مسلم في «الإيمان» — عن تميم الداري)*\n\nاليوم عادةٌ: وفاءٌ بالكلمةِ، وإقرارٌ بخطأٍ بلا تقليلٍ، واعتذارٌ بلطفٍ — الصدقُ أحياناً إصلاحُ القلبِ لا إعلاءُ الصوت.",
     "ru": "Быть искренним – это не выплеснуть каждую мысль или выдать грубость за «честность» — это соответствие языка и сердца, а также речи, служащей истине в адабе и милосердии. Хвастаться верой на языке, скрывая при этом рия в сердце, — это не искренность; это двуличность.\n\nАллах Всевышний обнажает пропасть между губами и сердцем:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن Уиллоу Сэнсэй Уилсон Уилсон **\n**»Бедуины сказали: «Мы уверовали». Скажи: «Вы еще не уверовали, но скажите: «Мы покорились», ибо вера еще не вошла в ваши сердца».**\n*(Аль-Худжурат 49:14)*\n\nИскренность связана с соблюдением завета:\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**\"Выполняйте завет с Аллахом, когда вы его заключили.\"**\n*(Ан-Нахль 16:91 — краткое изложение.)*\n\nПророк ﷺ характеризует религию как **искренний совет** – насихах читается как правдивость и верность:\n\n**«Ад-дину ан-насиха»** — Аллаху, Его Книге, Его Посланнику, лидерам и простым мусульманам.\n*(Муслим, «Иман» — Тамим ад-Дари.)*\n\nСегодняшняя практика искренности: сдержите однажды данное слово; признать вину, не преуменьшая ее; Зрительный контакт при извинении — искренность часто выравнивает сердце, а не повышает голос.",
-    "fr": "Être sincère, ce n'est pas exprimer toutes ses pensées ou vendre l'impolitesse comme de l'« honnêteté » – c'est l'alignement de la langue et du cœur, et la parole qui sert la vérité dans l'adab et la miséricorde. Se vanter de la foi avec la langue tout en cachant le riya dans le cœur n'est pas de la sincérité ; c'est une double face.\n\nAllah le Très-Haut révèle l'écart entre les lèvres et le cœur :\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**\"Les bédouins dirent : 'Nous avons cru.' Dis : « Vous n'avez pas encore cru, mais dites : « Nous nous sommes soumis », car la foi n'est pas encore entrée dans vos cœurs.\n*(Al-Hujurat 49 :14)*\n\nLa sincérité est liée au respect de l’alliance :\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**\"Remplissez l'alliance d'Allah lorsque vous l'avez contractée.\"**\n*(An-Nahl 16 : 91 — résumé.)*\n\nLe Prophète ﷺ résume la religion comme un **conseil sincère** — nasihah se lit comme sincérité et loyauté :\n\n**«Ad-dinu an-nasihah»** — à Allah, à Son Livre, à Son Messager, aux dirigeants et aux musulmans ordinaires.\n*(Musulman, «Iman» — Tamim ad-Dari.)*\n\nLa pratique de sincérité d'aujourd'hui : garder une parole donnée ; admettre une faute sans la minimiser ; contact visuel lors d'excuses - la sincérité consiste souvent à aligner le cœur et non à élever la voix."
+    "fr": "Être sincère, ce n'est pas exprimer toutes ses pensées ou vendre l'impolitesse comme de l'« honnêteté » – c'est l'alignement de la langue et du cœur, et la parole qui sert la vérité dans l'adab et la miséricorde. Se vanter de la foi avec la langue tout en cachant le riya dans le cœur n'est pas de la sincérité ; c'est une double face.\n\nAllah le Très-Haut révèle l'écart entre les lèvres et le cœur :\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**\"Les bédouins dirent : 'Nous avons cru.' Dis : « Vous n'avez pas encore cru, mais dites : « Nous nous sommes soumis », car la foi n'est pas encore entrée dans vos cœurs.\n*(Al-Hujurat 49 :14)*\n\nLa sincérité est liée au respect de l’alliance :\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**\"Remplissez l'alliance d'Allah lorsque vous l'avez contractée.\"**\n*(An-Nahl 16 : 91 — résumé.)*\n\nLe Prophète ﷺ résume la religion comme un **conseil sincère** — nasihah se lit comme sincérité et loyauté :\n\n**«Ad-dinu an-nasihah»** — à Allah, à Son Livre, à Son Messager, aux dirigeants et aux musulmans ordinaires.\n*(Musulman, «Iman» — Tamim ad-Dari.)*\n\nLa pratique de sincérité d'aujourd'hui : garder une parole donnée ; admettre une faute sans la minimiser ; contact visuel lors d'excuses - la sincérité consiste souvent à aligner le cœur et non à élever la voix.",
+    "id": "Ikhlas bukanlah melampiaskan setiap pikiran atau menjual kekasaran sebagai “kejujuran” — itu adalah keselarasan lidah dan hati, dan ucapan yang menyajikan kebenaran dalam adab dan rahmat. Membual keimanan dengan lidah namun menyembunyikan riya di dalam hati bukanlah keikhlasan; itu adalah bermuka dua.\n\nAllah SWT menyingkapkan kesenjangan antara bibir dan hati:\n\n**﴿قَالَتِ الْأَعْرَابُ آمَنَّا ۗ قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ﴾**\n**\"Orang-orang Badui berkata, 'Kami telah beriman.' Katakanlah, 'Kamu belum beriman, tetapi katakanlah, 'Kami telah berserah diri,' karena iman belum masuk ke dalam hatimu.'\"**\n*(Al-Hujurat 49:14)*\n\nKetulusan terikat dengan menepati perjanjian:\n\n**﴿وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَهَدتُّمْ﴾**\n**\"Penuhi perjanjian Allah ketika kamu telah mengambilnya.\"**\n*(An-Nahl 16:91 — dirangkum.)*\n\nNabi ﷺ merangkum agama sebagai **nasehat yang tulus** — nasihah dibaca sebagai kejujuran dan kesetiaan:\n\n**«Ad-dinu an-nasihah»** — kepada Allah, Kitab-Nya, Rasul-Nya, para pemimpin dan umat Islam pada umumnya.\n*(Muslim, «Iman» — Tamim ad-Dari.)*\n\nAmalan keikhlasan hari ini: menepati janji; mengakui kesalahan tanpa meremehkan; kontak mata dalam permintaan maaf - ketulusan sering kali menyelaraskan hati, bukan meninggikan suara."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "«هێشتا ئیمان نەهێناوون؛ بڵێن موسڵمان بووین — ئیمان هێشتا نەچووەتە دڵەوە» لە کام سورەتدایە؟",
         "ar": "في أي سورة ﴿قل لم تؤمنوا ولكن قولوا أسلمنا ولم يدخل الإيمان في قلوبكم﴾؟",
         "ru": "В какой суре «Вы еще не уверовали; скажем, мы покорились — вера не вошла в ваши сердца»?",
-        "fr": "Dans quelle sourate est « Vous n'avez pas encore cru ; dites que nous nous sommes soumis — la foi n'est pas entrée dans vos cœurs» ?"
+        "fr": "Dans quelle sourate est « Vous n'avez pas encore cru ; dites que nous nous sommes soumis — la foi n'est pas entrée dans vos cœurs» ?",
+        "id": "Di dalam surah manakah “Kamu belum beriman; katakanlah kami telah berserah diri — iman belum memasuki hatimu»?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "حوجورات",
           "ar": "الحجرات",
           "ru": "Аль-Худжурат",
-          "fr": "Al-Hujurat"
+          "fr": "Al-Hujurat",
+          "id": "Al-Hujurat"
         },
         {
           "tr": "Nûr",
@@ -68,7 +72,8 @@
           "ckb": "نور",
           "ar": "النور",
           "ru": "Ан-Нур",
-          "fr": "An-Nur"
+          "fr": "An-Nur",
+          "id": "An-Nur"
         },
         {
           "tr": "Ahzâb",
@@ -81,7 +86,8 @@
           "ckb": "احزاب",
           "ar": "الأحزاب",
           "ru": "Аль-Ахзаб",
-          "fr": "Al Ahzab"
+          "fr": "Al Ahzab",
+          "id": "Al-Ahzab"
         },
         {
           "tr": "Tevbe",
@@ -94,7 +100,8 @@
           "ckb": "تەوبە",
           "ar": "التوبة",
           "ru": "Ат-Тауба",
-          "fr": "At-Tawbah"
+          "fr": "At-Tawbah",
+          "id": "At-Taubah"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "لە حەدیسی «ئایین نەسێحەتە» نەسێحەت بۆ کێیە؟",
         "ar": "لمن كانت «النصيحة» في حديث «الدين النصيحة»؟",
         "ru": "Кому принадлежит насиха в хадисе «Религия – искренний совет»?",
-        "fr": "Dans le hadith « La religion est un conseil sincère », à qui est due la nasihah ?"
+        "fr": "Dans le hadith « La religion est un conseil sincère », à qui est due la nasihah ?",
+        "id": "Dalam hadits “Agama adalah nasehat yang ikhlas”, kepada siapa nasihah berhak?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "اللە و کتێب و پێغەمبەر و سەرکردەکان و گشتی موسڵمانان",
           "ar": "لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم",
           "ru": "Аллах, Его Книга, Посланник, лидеры мусульман и широкая общественность",
-          "fr": "Allah, Son Livre, Messager, les dirigeants musulmans et le grand public"
+          "fr": "Allah, Son Livre, Messager, les dirigeants musulmans et le grand public",
+          "id": "Allah, Kitab-Nya, Rasul-Nya, para pemimpin umat Islam, dan masyarakat umum"
         },
         {
           "tr": "Sadece düşmanlara",
@@ -139,7 +148,8 @@
           "ckb": "تەنها بۆ دوژمنان",
           "ar": "للأعداء فقط",
           "ru": "Только врагам",
-          "fr": "Seulement aux ennemis"
+          "fr": "Seulement aux ennemis",
+          "id": "Hanya untuk musuh"
         },
         {
           "tr": "Sadece aileye",
@@ -152,7 +162,8 @@
           "ckb": "تەنها بۆ خێزان",
           "ar": "للأهل فقط",
           "ru": "Только семье",
-          "fr": "Seulement à la famille"
+          "fr": "Seulement à la famille",
+          "id": "Hanya untuk keluarga"
         },
         {
           "tr": "Hiç kimseye",
@@ -165,7 +176,8 @@
           "ckb": "بۆ هیچ کەسێک",
           "ar": "لأحدٍ",
           "ru": "Никому",
-          "fr": "À personne"
+          "fr": "À personne",
+          "id": "Tidak kepada siapa pun"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "حوجورات ١٤ چی لەگەڵ دەقەکە دەگەڕێتەوە؟",
         "ar": "ماذا يربط الحجرات ١٤ بالنص؟",
         "ru": "Какая проблема связана с текстом Аль-Худжурат 49:14?",
-        "fr": "Quel problème Al-Hujurat 49 : 14 relie-t-il au texte ?"
+        "fr": "Quel problème Al-Hujurat 49 : 14 relie-t-il au texte ?",
+        "id": "Persoalan apa yang dihubungkan dengan teks Al-Hujurat 49:14?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "جیاوازی نێوان زمان و دڵ؛ «ئیمانمان هێنا» پێش نەچوونەوەی ئیمان بۆ دڵ",
           "ar": "فصلِ اللسانِ عن القلبِ في الإيمان",
           "ru": "Разрыв между языком и сердцем; заявлять о вере до того, как она войдёт в сердца",
-          "fr": "Écart entre la langue et le cœur ; réclamer la foi avant qu'elle n'entre dans les cœurs"
+          "fr": "Écart entre la langue et le cœur ; réclamer la foi avant qu'elle n'entre dans les cœurs",
+          "id": "Kesenjangan antara lidah dan hati; mengaku beriman sebelum masuk ke dalam hati"
         },
         {
           "tr": "Bedevilerin hep kâfir olduğunu",
@@ -210,7 +224,8 @@
           "ckb": "هەموو عەرەبەکان کافرن",
           "ar": "تكفيرُ كلِّ الأعراب",
           "ru": "Все бедуины неверующие",
-          "fr": "Tous les bédouins sont mécréants"
+          "fr": "Tous les bédouins sont mécréants",
+          "id": "Semua orang Badui adalah kafir"
         },
         {
           "tr": "İslâm kelimesinin yasak olduğunu",
@@ -223,7 +238,8 @@
           "ckb": "ئیسلام قەدەغەیە",
           "ar": "تحريمُ لفظِ الإسلام",
           "ru": "Слово ислам запрещено",
-          "fr": "Le mot Islam est interdit"
+          "fr": "Le mot Islam est interdit",
+          "id": "Kata Islam dilarang"
         },
         {
           "tr": "İmanın hiçbir zaman kalbe girmeyeceğini",
@@ -236,7 +252,8 @@
           "ckb": "ئیمان هیچ کاتێک ناچێتە دڵ",
           "ar": "عدمُ دخولِ الإيمان أبداً",
           "ru": "Вера никогда не входит в сердца",
-          "fr": "La foi n'entre jamais dans les cœurs"
+          "fr": "La foi n'entre jamais dans les cœurs",
+          "id": "Iman tidak pernah memasuki hati"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بەپێی دەقەکە ڕاستگۆ بوون زۆرجار چییە؟",
         "ar": "بماذا يعادل «الصدق» في النص؟",
         "ru": "По тексту, чему чаще всего приравнивается искренность?",
-        "fr": "Selon le texte, à quoi équivaut le plus souvent être sincère ?"
+        "fr": "Selon le texte, à quoi équivaut le plus souvent être sincère ?",
+        "id": "Menurut teks, ikhlas paling sering disamakan dengan apa?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ڕێکخستنەوەی دڵ؛ قسە بە ئاداب و بەزەیی بۆ حەق",
           "ar": "إصلاحُ القلبِ وخدمةُ الحقِّ بأدبٍ",
           "ru": "Выравнивание сердца; говорить правду с адабом и милосердием",
-          "fr": "Aligner le cœur ; dire la vérité avec adab et miséricorde"
+          "fr": "Aligner le cœur ; dire la vérité avec adab et miséricorde",
+          "id": "Menyelaraskan hati; mengatakan kebenaran dengan adab dan rahmat"
         },
         {
           "tr": "Herkesi incitmek",
@@ -281,7 +300,8 @@
           "ckb": "ئازاردانی هەموو کەسێک",
           "ar": "إيذاءَ الخلق",
           "ru": "Причинять боль всем",
-          "fr": "Faire du mal à tout le monde"
+          "fr": "Faire du mal à tout le monde",
+          "id": "Menyakiti semua orang"
         },
         {
           "tr": "Hiç özür dilememek",
@@ -294,7 +314,8 @@
           "ckb": "هیچ کاتێک لێبوردن نەخوازین",
           "ar": "عدمُ الاعتذار",
           "ru": "Никогда не извиняюсь",
-          "fr": "Ne jamais s'excuser"
+          "fr": "Ne jamais s'excuser",
+          "id": "Tidak pernah meminta maaf"
         },
         {
           "tr": "Sadece zenginlerin dürüst olabileceğini",
@@ -307,7 +328,8 @@
           "ckb": "تەنها دەوڵەمەند ڕاستن",
           "ar": "اختصاصُ الصدق بالأغنياء",
           "ru": "Только богатые люди могут быть честными",
-          "fr": "Seuls les riches peuvent être honnêtes"
+          "fr": "Seuls les riches peuvent être honnêtes",
+          "id": "Hanya orang kaya yang bisa jujur"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
         "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?",
+        "id": "Berdasarkan teks tersebut, pernyataan berikut manakah yang SALAH?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "ڕاستگۆ بوون واتای فڕێدانی هەموو بیرۆکە و ناونانی گەلەت بە ڕاستییە",
           "ar": "الصدقُ إطلاقُ كلِّ خاطرٍ أو جعلُ الفحشِ صراحةً",
           "ru": "Быть искренним – значит выпалить каждую мысль или назвать грубость честностью.",
-          "fr": "Être sincère, c'est laisser échapper chaque pensée ou appeler l'impolitesse l'honnêteté."
+          "fr": "Être sincère, c'est laisser échapper chaque pensée ou appeler l'impolitesse l'honnêteté.",
+          "id": "Bersikap tulus berarti melontarkan setiap pikiran atau menyebut kekasaran sebagai kejujuran"
         },
         {
           "tr": "Hucurât 49:14 dil ile kalp uyumsuzluğunu ele alır",
@@ -352,7 +376,8 @@
           "ckb": "حوجورات ١٤ ناکۆکی زمان و دڵ دەگێڕێتەوە",
           "ar": "الحجرات ١٤ يقرر فصلَ اللسان عن القلب",
           "ru": "Аль-Худжурат 49:14 рассматривает несоответствие языка и сердца",
-          "fr": "Al-Hujurat 49:14 addresses tongue-heart mismatch"
+          "fr": "Al-Hujurat 49:14 addresses tongue-heart mismatch",
+          "id": "Al-Hujurat 49:14 membahas tentang ketidaksesuaian lidah dan hati"
         },
         {
           "tr": "Nasîhat hadisi dinin özetine işaret eder",
@@ -365,7 +390,8 @@
           "ckb": "حەدیسی نەسێحەت ئایین کورت دەکاتەوە",
           "ar": "حديثُ النصيحة يجمعُ الدين",
           "ru": "Хадис Насиха указывает на суть религии.",
-          "fr": "Le hadith nasihah souligne l'essence de la religion"
+          "fr": "Le hadith nasihah souligne l'essence de la religion",
+          "id": "Hadits nasihah menunjuk pada hakikat agama"
         },
         {
           "tr": "Ahde vefa samimiyetle ilişkilidir",
@@ -378,7 +404,8 @@
           "ckb": "پابەندبوون بە پەیمان پەیوەندی بە ڕاستگۆییەوە هەیە",
           "ar": "الوفاءُ بالعهد من صفاتِ الصادقين",
           "ru": "Сохранение заветных уз ради искренности",
-          "fr": "Garder les liens de l’alliance avec la sincérité"
+          "fr": "Garder les liens de l’alliance avec la sincérité",
+          "id": "Menjaga ikatan perjanjian dengan ketulusan"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ پابەند بە قسەکەت بە، هەڵەکە بێ بچووککردنەوە قبوڵ بکە یان ڕستەیەک نەرم بکەرەوە — حوجورات ١٤ و حەدیسی «ئایین نەسێحەتە»: ڕاستگۆیی دڵ ڕاست دەکاتەوە نەک تەنها دەنگ.",
     "ar": "اليوم أوفِ بكلمةٍ، أو أقرَّ بخطأٍ بلا تقليلٍ، أو ليِّنْ جملةً — ﴿قل لم تؤمنوا﴾ و﴿الدين النصيحة﴾: الصدقُ يصلحُ القلبَ قبل أن يرفعَ الصوت.",
     "ru": "Если ты сегодня дал слово — сдержи его; признать вину, не преуменьшая ее; или смягчить предложение — Аль-Худжурат 49:14 и «религия — насиха» напоминают вам: искренность приводит сердце в соответствие с истиной, а не только громкость.",
-    "fr": "Si vous avez donné votre parole aujourd’hui, tenez-la ; admettre une faute sans la minimiser ; ou adoucissez une phrase — Al-Hujurat 49 :14 et « la religion est nasihah » vous le rappellent : la sincérité aligne le cœur sur la vérité, pas seulement sur le volume."
+    "fr": "Si vous avez donné votre parole aujourd’hui, tenez-la ; admettre une faute sans la minimiser ; ou adoucissez une phrase — Al-Hujurat 49 :14 et « la religion est nasihah » vous le rappellent : la sincérité aligne le cœur sur la vérité, pas seulement sur le volume.",
+    "id": "Jika Anda memberikan janji Anda hari ini - tepati; mengakui kesalahan tanpa meremehkan; atau memperhalus kalimat — Al-Hujurat 49:14 dan «agama adalah nasihah» mengingatkan Anda: keikhlasan menyelaraskan hati dengan kebenaran, bukan hanya volumenya."
   }
 }

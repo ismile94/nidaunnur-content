@@ -12,7 +12,8 @@
     "ckb": "پاراستنی ماف",
     "ar": "مراعاةُ الحق",
     "ru": "Защита прав",
-    "fr": "Faire respecter les droits"
+    "fr": "Faire respecter les droits",
+    "id": "Menjunjung Hak"
   },
   "content": {
     "tr": "Hakkı gözetmek; yalnızca kendi hakkını savunmak değil, başkasının hakkını da tanımak, ölçüyü adaletle tutmak ve nefret veya menfaat yüzünden eğriliğe düşmemektir. İslam, hak ve adaleti kişisel duyguların üstünde tutmayı emreder.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n**«Ey iman edenler! Allah için adaletle ayakta duran, şahitlik eden kimseler olun — kendinize, ana babanıza ve yakınlarınıza karşı bile olsa.»**\n*(Nisâ 4:135)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**«Şüphesiz Rabbinin senin üzerinde bir hakkı vardır; nefsinin senin üzerinde bir hakkı vardır; ailenin de senin üzerinde bir hakkı vardır. O halde her hakkı sahibine ver.»**\n*(Buhârî — Hz. Enes r.a. rivayetiyle)*\n\nHakkı gözetmek; Allah'ın hakkını (ibadet, şükür), nefsin hakkını (dinlenme, helal rızık), yakınların hakkını (şefkat, adalet) birbirine zulmetmeden dengelemektir. Bugün bir hakkı gözetmek için başka bir hakkı ezmek zorunda mısın? İslam bu ikilemi çözer: Adalet ölçüsü, duygu değil.",
@@ -25,7 +26,8 @@
     "ckb": "پاراستنی ماف تەنها بەرگریکردن لە مافی خۆت نییە؛ ناسینی مافی کەسانی تر، ڕاکێشانی پێوانە بە دادپەروەری و دوورکەوتنەوە لە لاریکردنەوە بە هۆی ڕق یان بەرژەوەندییە. ئیسلام فەرمان دەکات ماف و دادپەروەری لەسەر هەستی کەسی بنێیت.\n\nاللەی بەرز دەفەرموێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n**«ئەی ئیمانداران! بە دادپەروەری بمێنەوە و بۆ اللە شایەت بن — تەنانەت بەرامبەر خۆتان یان دایک و باوک و نزیکەکانشتان.»**\n*(نیسا: ١٣٥)*\n\nپێغەمبەرمان ﷺ فەرمووی:\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**«بەڕاستی پەروەردگارت مافێکی لەسەر تۆ هەیە، نەفس خۆت مافێکی لەسەر تۆ هەیە، خێزانەکەشت مافێکی لەسەر تۆ هەیە؛ جا هەر کەسێک مافی هەیە، مافەکەی پێ بدە.»**\n*(بوخاری — بە ڕێوایەتی ئەنەس خ.ل.ر)*\n\nپاراستنی ماف مانای هاوسەنگکردنی مافی اللە (ئیبادەت، سوپاسگوزاری)، مافی نەفس (پشوو، ڕزقی حەلاڵ) و مافی نزیکەکان (بەزەیی، دادپەروەری) بێ ئەوەی یەکێک بۆیەکی تر بپێچێتەوە. ئەمڕۆ دەبێت مافێک بپێچیتەوە بۆ پاراستنی مافێکی تر؟ ئیسلام ئەم دووڕووییە چارەسەر دەکات: پێوانە دادپەروەرییە، نەک هەست.",
     "ar": "مراعاةُ الحقِّ ليست مجرَّدَ الدفاع عن حقِّك؛ بل هي الاعترافُ بحقِّ الغير، وحملُ الميزان بالعدل، وعدمُ الميلِ بالبغضاء أو المصالح. يأمرُ الإسلامُ بوضع الحقِّ والعدالة فوق المشاعر الشخصية.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n*(النساء: ١٣٥)*\n\nوقال النبيُّ ﷺ:\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n*(رواه البخاري — عن أنس بن مالك رضي الله عنه)*\n\nمراعاةُ الحقوقِ تعني موازنةَ حقِّ الله (العبادة والشكر)، وحقِّ النفس (الراحة والرزق الحلال)، وحقِّ الأهل (الرحمة والعدل) دون أن يُظلمَ حقٌّ بحقٍّ. هل يلزمُك اليوم أن تدوسَ حقَّاً لمراعاة حقٍّ آخر؟ يحلُّ الإسلامُ هذا التناقض: الميزانُ العدلُ لا المزاج.",
     "ru": "Отстаивать права – это не только защищать свои собственные права; это также признание прав другого, справедливое ведение весов и не отклонение из-за ненависти или корысти. Ислам требует ставить право и справедливость выше личных чувств.\n\nАллах Всевышний говорит:\n\n*** Сэнсэй Льюли и Джонс Сейлз Сэнсэй وَالْأَقْرَبِينَ﴾**\n**\"О вы, верующие! Будьте настойчиво стойте в справедливости, свидетели Аллаха, даже если она будет направлена против вас самих или родителей и родственников.\"**\n*(Ан-Ниса 4:135)*\n\nНаш Пророк ﷺ сказал:\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**«Воистину, твой Господь имеет право на тебя, ты сам имеет право на тебя, и твоя семья имеет право на тебя, поэтому дайте каждому обладателю права его право».**\n*(Бухари — передал Анас р.а.)*\n\nОтстаивать права означает балансировать права Аллаха (поклонение, благодарность), права себя (покой, законное обеспечение) и права родственников (сострадание, справедливость), не причиняя вреда одному ради другого. Должны ли вы сегодня подавлять одно право, чтобы соблюдать другое? Ислам решает эту дилемму: мерилом является справедливость, а не эмоции.",
-    "fr": "Faire respecter les droits, ce n’est pas seulement défendre son propre droit ; c'est aussi reconnaître le droit d'autrui, tenir la balance avec justice et ne pas s'en écarter à cause de la haine ou de son intérêt personnel. L’Islam ordonne de placer le droit et la justice au-dessus des sentiments personnels.\n\nAllah le Très-Haut dit :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n**\"Ô vous qui croyez ! Soyez fermes avec persévérance dans la justice, témoins d'Allah, même si c'est contre vous-mêmes ou contre vos parents et vos proches.\"**\n*(An-Nisa 4:135)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**\"En effet, votre Seigneur a un droit sur vous, votre moi a un droit sur vous et votre famille a un droit sur vous, alors donnez à chaque possesseur d'un droit son droit.\"**\n*(Boukhari — rapporté par Anas r.a.)*\n\nDéfendre les droits signifie équilibrer le droit d'Allah (culte, gratitude), le droit de soi (repos, subsistance légale) et les droits des proches (compassion, justice) sans faire de tort à l'un pour le bien de l'autre. Aujourd’hui, faut-il écraser un droit pour en respecter un autre ? L’Islam résout ce dilemme : la mesure est la justice, pas l’émotion."
+    "fr": "Faire respecter les droits, ce n’est pas seulement défendre son propre droit ; c'est aussi reconnaître le droit d'autrui, tenir la balance avec justice et ne pas s'en écarter à cause de la haine ou de son intérêt personnel. L’Islam ordonne de placer le droit et la justice au-dessus des sentiments personnels.\n\nAllah le Très-Haut dit :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n**\"Ô vous qui croyez ! Soyez fermes avec persévérance dans la justice, témoins d'Allah, même si c'est contre vous-mêmes ou contre vos parents et vos proches.\"**\n*(An-Nisa 4:135)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**\"En effet, votre Seigneur a un droit sur vous, votre moi a un droit sur vous et votre famille a un droit sur vous, alors donnez à chaque possesseur d'un droit son droit.\"**\n*(Boukhari — rapporté par Anas r.a.)*\n\nDéfendre les droits signifie équilibrer le droit d'Allah (culte, gratitude), le droit de soi (repos, subsistance légale) et les droits des proches (compassion, justice) sans faire de tort à l'un pour le bien de l'autre. Aujourd’hui, faut-il écraser un droit pour en respecter un autre ? L’Islam résout ce dilemme : la mesure est la justice, pas l’émotion.",
+    "id": "Menjunjung hak bukan hanya membela hak Anda sendiri; hal ini juga berarti mengakui hak orang lain, memegang timbangan dengan adil, dan tidak menyimpang karena kebencian atau kepentingan pribadi. Islam memerintahkan untuk menempatkan kebenaran dan keadilan di atas perasaan pribadi.\n\nAllah SWT berfirman:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ﴾**\n**\"Hai orang-orang yang beriman! Teguhlah berdiri tegak dalam keadilan, menjadi saksi bagi Allah, meskipun itu terhadap diri sendiri, orang tua, dan sanak saudara.\"**\n*(An-Nisa 4:135)*\n\nNabi kita ﷺ bersabda:\n\n**إِنَّ لِرَبِّكَ عَلَيْكَ حَقًّا وَلِنَفْسِكَ عَلَيْكَ حَقًّا وَلِأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»**\n**\"Sesungguhnya Tuhanmu mempunyai hak atas dirimu, dirimu sendiri mempunyai hak atas dirimu, dan keluargamu mempunyai hak atas dirimu, maka berikanlah setiap pemilik hak itu haknya.\"**\n*(Bukhari — riwayat Anas r.a.)*\n\nMenjunjung tinggi hak berarti menyeimbangkan hak Allah (ibadah, syukur), hak diri (istirahat, rezeki yang halal), dan hak sanak saudara (kasih sayang, keadilan) tanpa menganiaya yang satu demi kepentingan orang lain. Hari ini, haruskah Anda menghancurkan satu hak untuk menjalankan hak lainnya? Islam menyelesaikan dilema ini: yang diukur adalah keadilan, bukan emosi."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «بە دادپەروەری بمێنەوە» لە کام سورەتدا دەردەکەوێت؟",
         "ar": "في أيِّ سورةٍ ترد الآية ﴿كُونُوا قَوَّامِينَ بِالْقِسْطِ﴾؟",
         "ru": "В какой суре встречается аят «Будьте тверды в справедливости»?",
-        "fr": "Dans quelle sourate se trouve le verset « Soyez fermes dans la justice » ?"
+        "fr": "Dans quelle sourate se trouve le verset « Soyez fermes dans la justice » ?",
+        "id": "Di dalam surah manakah ayat “Teguh berdiri teguh dalam keadilan” ditemukan?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "بەقەرە",
           "ar": "البقرة",
           "ru": "Аль-Бакара",
-          "fr": "Al-Baqarah"
+          "fr": "Al-Baqarah",
+          "id": "Al-Baqarah"
         },
         {
           "tr": "Nisâ",
@@ -68,7 +72,8 @@
           "ckb": "نیسا",
           "ar": "النساء",
           "ru": "Ан-Ниса",
-          "fr": "An-Nisa"
+          "fr": "An-Nisa",
+          "id": "An-Nisa"
         },
         {
           "tr": "Maide",
@@ -81,7 +86,8 @@
           "ckb": "مائدە",
           "ar": "المائدة",
           "ru": "Аль-Маида",
-          "fr": "Al-Ma'idah"
+          "fr": "Al-Ma'idah",
+          "id": "Al-Ma'idah"
         },
         {
           "tr": "A'râf",
@@ -94,7 +100,8 @@
           "ckb": "ئەعراف",
           "ar": "الأعراف",
           "ru": "Аль-Араф",
-          "fr": "Al-A'raf"
+          "fr": "Al-A'raf",
+          "id": "Al-A'raf"
         }
       ],
       "correct": 1
@@ -112,7 +119,8 @@
         "ckb": "بەپێی حەدیسەکە کێ مافی لەسەر مرۆڤ هەیە؟",
         "ar": "لِمَن حقٌّ على الإنسان وفق الحديث؟",
         "ru": "Согласно хадису, кто имеет право на человека?",
-        "fr": "Selon le hadith, qui a un droit sur une personne ?"
+        "fr": "Selon le hadith, qui a un droit sur une personne ?",
+        "id": "Menurut hadis, siapakah yang berhak atas seseorang?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "تەنها اللە",
           "ar": "الله وحده",
           "ru": "Аллах один",
-          "fr": "Allah seul"
+          "fr": "Allah seul",
+          "id": "Allah saja"
         },
         {
           "tr": "Rab, nefs ve aile",
@@ -139,7 +148,8 @@
           "ckb": "پەروەردگار، نەفس و خێزان",
           "ar": "الرب والنفس والأهل",
           "ru": "Господь, я и семья",
-          "fr": "Seigneur, soi et famille"
+          "fr": "Seigneur, soi et famille",
+          "id": "Tuhan, diri sendiri, dan keluarga"
         },
         {
           "tr": "Yalnızca devlet",
@@ -152,7 +162,8 @@
           "ckb": "تەنها دەوڵەت",
           "ar": "الدولة وحدها",
           "ru": "Только государство",
-          "fr": "L'État seul"
+          "fr": "L'État seul",
+          "id": "Negara sendirian"
         },
         {
           "tr": "Yalnızca komşular",
@@ -165,7 +176,8 @@
           "ckb": "تەنها دراوسێکان",
           "ar": "الجيران فحسب",
           "ru": "Соседи одни",
-          "fr": "Voisins seuls"
+          "fr": "Voisins seuls",
+          "id": "Tetangga sendirian"
         }
       ],
       "correct": 1
@@ -183,7 +195,8 @@
         "ckb": "بەپێی نیسا ٤:١٣٥، دادپەروەری وەک شایەت دەبێت تەنانەت بەرامبەر کێش بپارێزرێت؟",
         "ar": "مَن يجبُ أن تُقامَ العدالةُ شهادةً له حتى وإن كان ضدَّه وفق الآية ﴿وَلَوْ عَلَىٰ أَنفُسِكُمْ﴾؟",
         "ru": "Согласно Ан-Ниса 4:135, справедливость в качестве свидетеля должна поддерживаться даже против кого?",
-        "fr": "Selon An-Nisa 4 : 135, la justice en tant que témoin doit être confirmée, même contre qui ?"
+        "fr": "Selon An-Nisa 4 : 135, la justice en tant que témoin doit être confirmée, même contre qui ?",
+        "id": "Menurut An-Nisa 4:135, keadilan sebagai saksi harus ditegakkan meski terhadap siapa?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "تەنها بەرامبەر بێگان",
           "ar": "ضد الغرباء فقط",
           "ru": "Только против чужих",
-          "fr": "Seulement contre des étrangers"
+          "fr": "Seulement contre des étrangers",
+          "id": "Hanya melawan orang asing"
         },
         {
           "tr": "Kendine, ana babana ve yakınlarına karşı bile",
@@ -210,7 +224,8 @@
           "ckb": "تەنانەت بەرامبەر خۆت، دایک و باوک و نزیکەکان",
           "ar": "حتى على النفس والوالدين والأقربين",
           "ru": "Даже против себя, родителей и родственников",
-          "fr": "Même contre vous-même, vos parents et vos proches"
+          "fr": "Même contre vous-même, vos parents et vos proches",
+          "id": "Bahkan terhadap diri sendiri, orang tua, dan sanak saudara"
         },
         {
           "tr": "Yalnızca zenginlere karşı",
@@ -223,7 +238,8 @@
           "ckb": "تەنها بەرامبەر دەوڵەمەندان",
           "ar": "ضد الأغنياء فقط",
           "ru": "Только против богатых",
-          "fr": "Seulement contre les riches"
+          "fr": "Seulement contre les riches",
+          "id": "Hanya melawan orang kaya"
         },
         {
           "tr": "Yalnızca yöneticilere karşı",
@@ -236,7 +252,8 @@
           "ckb": "تەنها بەرامبەر سەرۆکەکان",
           "ar": "ضد القادة فقط",
           "ru": "Только против лидеров",
-          "fr": "Seulement contre les dirigeants"
+          "fr": "Seulement contre les dirigeants",
+          "id": "Hanya melawan pemimpin"
         }
       ],
       "correct": 1
@@ -254,7 +271,8 @@
         "ckb": "حەدیسی «هەر کەسێک مافی هەیە، مافەکەی پێ بدە» چی فێر دەکات؟",
         "ar": "ماذا يعلِّم حديثُ «أَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ»؟",
         "ru": "Чему учит хадис «Дайте каждому обладателю права его право»?",
-        "fr": "Qu'enseigne le hadith « Donner son droit à chaque possesseur d'un droit » ?"
+        "fr": "Qu'enseigne le hadith « Donner son droit à chaque possesseur d'un droit » ?",
+        "id": "Apa yang diajarkan dalam hadits “Berikanlah haknya kepada setiap pemilik hak”?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "تەنها دابەشکردنی میراتی مادی",
           "ar": "تقسيم الميراث المادي فحسب",
           "ru": "Только раздел материального наследства",
-          "fr": "Partager uniquement l'héritage matériel"
+          "fr": "Partager uniquement l'héritage matériel",
+          "id": "Hanya membagi warisan materi"
         },
         {
           "tr": "Allah, nefs ve ailenin haklarını dengeyle vermek",
@@ -281,7 +300,8 @@
           "ckb": "هاوسەنگکردن و دانی مافی اللە، نەفس و خێزان",
           "ar": "موازنةُ حقوق الله والنفس والأهل وإيفاؤها",
           "ru": "Балансирование и предоставление прав Аллаха, себя и семьи",
-          "fr": "Équilibrer et donner les droits d’Allah, de soi et de la famille"
+          "fr": "Équilibrer et donner les droits d’Allah, de soi et de la famille",
+          "id": "Menyeimbangkan dan memberikan hak-hak Allah, diri sendiri, dan keluarga"
         },
         {
           "tr": "Herkesi aynı şekilde cezalandırmak",
@@ -294,7 +314,8 @@
           "ckb": "هەموو کەس بە هەمان شێوە سزادان",
           "ar": "معاقبة الجميع بنفس الطريقة",
           "ru": "Наказывать всех одинаково",
-          "fr": "Punir tout le monde de la même manière"
+          "fr": "Punir tout le monde de la même manière",
+          "id": "Menghukum semua orang dengan cara yang sama"
         },
         {
           "tr": "Hakkı yalnızca mahkemede aramak",
@@ -307,7 +328,8 @@
           "ckb": "ماف تەنها لە دادگادا بگەڕێت",
           "ar": "البحث عن الحق في المحكمة فقط",
           "ru": "Искать права только в суде",
-          "fr": "Rechercher des droits uniquement devant les tribunaux"
+          "fr": "Rechercher des droits uniquement devant les tribunaux",
+          "id": "Mencari hak hanya di pengadilan"
         }
       ],
       "correct": 1
@@ -325,7 +347,8 @@
         "ckb": "جیاوازی بنەڕەتی لە نێوان پاراستنی ماف و تەنها پاراستنی بەرژەوەندی خۆت چییە؟",
         "ar": "ما الفرقُ الجوهريُّ بين مراعاة الحق وحماية المصالح الذاتية فحسب؟",
         "ru": "В чем принципиальная разница между отстаиванием прав и защитой только собственных интересов?",
-        "fr": "Quelle est la différence fondamentale entre défendre des droits et protéger uniquement ses propres intérêts ?"
+        "fr": "Quelle est la différence fondamentale entre défendre des droits et protéger uniquement ses propres intérêts ?",
+        "id": "Apa perbedaan mendasar antara menjunjung hak dan hanya melindungi kepentingan diri sendiri?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "پاراستنی ماف دادپەروەری و مافی کەسانی تریش لەخۆدەگرێت",
           "ar": "مراعاةُ الحق تشملُ العدالة وحقوق الآخرين",
           "ru": "Соблюдение прав включает в себя справедливость и права других людей.",
-          "fr": "Le respect des droits inclut également la justice et les droits des autres"
+          "fr": "Le respect des droits inclut également la justice et les droits des autres",
+          "id": "Menjunjung tinggi hak mencakup keadilan dan hak orang lain juga"
         },
         {
           "tr": "İkisi de aynı şeydir",
@@ -352,7 +376,8 @@
           "ckb": "هەردووکیان یەک شتن",
           "ar": "هما شيء واحد",
           "ru": "Они одно и то же",
-          "fr": "C'est la même chose"
+          "fr": "C'est la même chose",
+          "id": "Itu adalah hal yang sama"
         },
         {
           "tr": "Hakkı gözetmek sadece ibadetle ilgilidir",
@@ -365,7 +390,8 @@
           "ckb": "پاراستنی ماف تەنها پەیوەندی بە ئیبادەتەوە هەیە",
           "ar": "مراعاةُ الحق تقتصر على العبادة",
           "ru": "Защита прав касается только поклонения",
-          "fr": "Le respect des droits ne concerne que le culte"
+          "fr": "Le respect des droits ne concerne que le culte",
+          "id": "Menjunjung hak hanya menyangkut ibadah"
         },
         {
           "tr": "Kendi çıkarını korumak daha çok sevaptır",
@@ -378,7 +404,8 @@
           "ckb": "پاراستنی بەرژەوەندی خۆت سووپای زیاتر دەهێنێت",
           "ar": "حماية المصالح الذاتية أكثر ثواباً",
           "ru": "Защита собственных интересов приносит больше вознаграждения",
-          "fr": "Protéger ses propres intérêts apporte plus de récompense"
+          "fr": "Protéger ses propres intérêts apporte plus de récompense",
+          "id": "Melindungi kepentingan diri sendiri mendatangkan lebih banyak pahala"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ بڕیارێک دەدەیت — لە کار، خێزان یان هاوڕێیەتیدا — بپرسە: ئەم بڕیارە تەنها بۆ من سوودی هەیە، یان مافیش دەپارێزێت؟ دادپەروەری هەندێک جار تەڵخە؛ بەڵام ئارامی درێژخایە لەوێوە تێدەپەڕێت. «هەر کەسێک مافی هەیە، مافەکەی پێ بدە.» ئەم وتانە دەگەنە بچووکترین هەڵبژاردنی ڕۆژەکە.",
     "ar": "إن كنت ستتخذُ اليوم قراراً — في العمل أو الأسرة أو الصداقة — فاسأل: هل يخدمُ هذا القرارُ مصلحتي وحدي، أم يراعي الحقَّ أيضاً؟ العدلُ أحياناً مرٌّ؛ لكنَّ السلامَ الدائمَ يمرُّ منه. «أَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ» — تمتدُ هذه الكلماتُ إلى أصغرِ خيارٍ في يومك.",
     "ru": "Если вы сегодня будете принимать решение — на работе, в семье или в дружбе — спросите: приносит ли это решение только пользу мне или оно также соблюдает то, что правильно? Справедливость иногда горька; но через него проходит прочный мир. «Дайте каждому правообладателю его право». Эти слова касаются даже самого маленького выбора дня.",
-    "fr": "Si vous prenez une décision aujourd’hui – au travail, en famille ou en amitié – demandez-vous : cette décision ne profite-t-elle qu’à moi, ou respecte-t-elle également ce qui est juste ? La justice est parfois amère ; mais une paix durable y passe. «Donner à chaque possesseur d'un droit son droit.» Ces mots s'étendent jusqu'au moindre choix de la journée."
+    "fr": "Si vous prenez une décision aujourd’hui – au travail, en famille ou en amitié – demandez-vous : cette décision ne profite-t-elle qu’à moi, ou respecte-t-elle également ce qui est juste ? La justice est parfois amère ; mais une paix durable y passe. «Donner à chaque possesseur d'un droit son droit.» Ces mots s'étendent jusqu'au moindre choix de la journée.",
+    "id": "Jika Anda akan mengambil keputusan hari ini — di tempat kerja, dalam keluarga, atau dalam persahabatan — tanyakan: Apakah keputusan ini hanya menguntungkan saya, atau apakah keputusan ini juga menunjukkan apa yang benar? Keadilan terkadang pahit; tapi perdamaian abadi melewatinya. “Berikan haknya kepada setiap pemilik hak.” Kata-kata ini menjangkau hingga ke pilihan terkecil pada hari itu."
   }
 }

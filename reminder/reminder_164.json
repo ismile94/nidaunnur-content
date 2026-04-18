@@ -12,7 +12,8 @@
     "ckb": "هۆشیاری زەکات",
     "ar": "وعي الزكاة",
     "ru": "Осведомленность о Закяте",
-    "fr": "Conscience de la Zakat"
+    "fr": "Conscience de la Zakat",
+    "id": "Kesadaran Zakat"
   },
   "content": {
     "tr": "Zekât bilinci; sadece «yüzde iki»yi ezberlemek değil — malın üzerinde Allah'ın ve kullarının hakkı olduğunu görmek, nisabı, zamanı ve verilecekleri öğrenmek ve kalbi cimrilikten arındırmaktır. Zekât, birikmiş malı «temizleyen» ve toplumu dengeleyen bir ibadettir.\n\nAllah Teâlâ Peygamberimize şöyle buyurmuştur:\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n**«Onların mallarından kendilerini temizleyecek ve onları arındıracak bir sadaka al; onlara dua et. Şüphesiz senin duan onlar için bir huzur kaynağıdır. Allah işitendir, bilendir.»**\n*(Tevbe 9:103)*\n\nKimlere verileceği de sayılmıştır:\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n**«Sadakalar ancak fakirler, miskinler, zekât işinde çalışanlar, kalpleri İslâm'a ısındırılacak olanlar, kölelere, borçlular, Allah yolunda ve yolda kalmış olanlar içindir. Bu, Allah'ın bir farzıdır. Allah bilendir, hikmet sahibidir.»**\n*(Tevbe 9:60)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n**«İslâm beş esas üzerine kurulmuştur...»** *(şehadet, namaz, zekât, oruç, hac)*\n*(Müslim — Hz. Abdullah b. Ömer r.a. rivayetiyle)*\n\nBugün bir adım: zekâtına veya sadakana dair doğru bilgiyi öğrenmek — bu da zekât bilincinin parçasıdır.",
@@ -25,7 +26,8 @@
     "ckb": "هۆشیاری زەکات تەنها «دوو لە سەد» لەبەرکردن نییە — بینی ئەوەی کە اللە و بەندەکان مافێکیان لە سامان هەیە، فێربوونی نیساب، کات و وەرگرەکان، و پاککردنەوەی دڵ لە چەپەلەتی. زەکات عیبادەتێکە کە سامانی کۆکراو «پاک» دەکاتەوە و کۆمەڵگا دەکاتە هەموار.\n\nاللە بۆ پێغەمبەرەکەی دەرکەوتی:\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n*(تەوبە: ١٠٣)*\n\nهەشت هاوپۆلی وەرگر ڕوونکراونەتەوە:\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ ... وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ﴾**\n*(تەوبە: ٦٠)*\n\nپێغەمبەرمان ﷺ فەرمووی:\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n**«ئیسلام لەسەر پێنج بنەما دروستکراوە...»** *(بڕیار، نوێژ، زەکات، ڕۆژوو، حەج)*\n*(موسلیم — بە ڕێوایەتی عبدالڵه کوڕی عومەر)*\n\nئەمڕۆ یەک هەنگاو: زانستی دروست لەسەر زەکات یان خێرەکەت فێربە — ئەمەش بەشێکە لە هۆشیاری زەکات.",
     "ar": "وعيُ الزكاة ليس حفظَ «اثنين في المائة» فقط؛ بل رؤيةُ حقِّ الله وحقِّ العباد في المال، وتعلُّمِ النِّصاب والوقت والمصارف، وتطهيرُ القلب من البخل. الزكاةُ عبادةٌ تُطهِّرُ المالَ المدَّخرَ وتُوازِنُ المجتمع.\n\nيقول الله تعالى لنبيِّه:\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n*(التوبة: ١٠٣)*\n\nوحُدِّدَ مصارفُ الصدقات:\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n*(التوبة: ٦٠)*\n\nوقال النبيُّ ﷺ:\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n*(رواه مسلم — عن عبد الله بن عمر رضي الله عنهما)*\n\nخطوةُ اليوم: تعلَّمْ صحيحاً أحكامَ زكاتك أو صدقتك — فذلك من وعي الزكاة.",
     "ru": "Осознание закята — это не только запоминание «двух процентов» — это видение того, что Аллах и Его рабы имеют право на богатство, изучение нисаба, времени и получателей, а также очищение сердца от скупости. Закят – это поклонение, которое «очищает» накопленное богатство и уравновешивает общество.\n\nАллах открыл Своему Пророку:\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ Он сказал: لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n**\"Возьмите из их богатства пожертвование, с помощью которого вы очистите их и заставите их расти, и молитесь за них. Воистину, ваша молитва является для них утешением. Аллах — Слышащий и Знающий.\"**\n*(Ат-Тауба 9:103)*\n\nПодробно определены восемь категорий получателей:\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ Он сказал: الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n**\"Расходы закята предназначены только для бедных и нуждающихся, а также для тех, кто занят сбором средств и объединением сердец, освобождением пленников и должников, а также на пути Аллаха и для путешественников - обязанность Аллаха. Аллах Знающий и Мудрый.\"**\n*(Ат-Тауба 9:60)*\n\nНаш Пророк ﷺ сказал:\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n**\"Ислам построен на пяти...\"** *(свидетельство веры, молитва, закят, пост, хадж)*\n*(Муслим — передал Абдуллах ибн Умар)*\n\nСегодня один шаг: получить глубокие знания о закяте или благотворительности — это тоже часть осознания закята.",
-    "fr": "Prendre conscience de la zakat ne consiste pas seulement à mémoriser «deux pour cent», c'est aussi voir qu'Allah et Ses serviteurs ont droit sur la richesse, apprendre le nisab, le moment et les destinataires, et purifier le cœur de l'avarice. La Zakat est un culte qui « purifie » les richesses accumulées et équilibre la société.\n\nAllah a révélé à Son Prophète :\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n**\"Prenez sur leurs richesses une aumône par laquelle vous les purifiez et les faites croître, et priez pour eux. En effet, votre prière est pour eux une assurance. Et Allah est Audient et Omniscient.\"**\n*(At-Tawbah 9:103)*\n\nLes huit catégories de destinataires sont détaillées :\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n** \"Les dépenses de la Zakât sont réservées aux pauvres et aux nécessiteux et à ceux qui sont employés à collecter et à rassembler les cœurs et à libérer les captifs et les débiteurs et pour la cause d'Allah et pour le voyageur - une obligation d'Allah. Et Allah est Omniscient et Sage. \"**\n*(At-Tawbah 9:60)*\n\nNotre Prophète ﷺ a dit :\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n**\"L'Islam est construit sur cinq...\"** *(témoignage de foi, prière, zakat, jeûne, Hajj)*\n*(Musulman – rapporté par Abdullah ibn Umar r.a.)*\n\nAujourd’hui, une étape : acquérir de solides connaissances sur votre zakat ou votre œuvre caritative – cela aussi fait partie de la conscience de la zakat."
+    "fr": "Prendre conscience de la zakat ne consiste pas seulement à mémoriser «deux pour cent», c'est aussi voir qu'Allah et Ses serviteurs ont droit sur la richesse, apprendre le nisab, le moment et les destinataires, et purifier le cœur de l'avarice. La Zakat est un culte qui « purifie » les richesses accumulées et équilibre la société.\n\nAllah a révélé à Son Prophète :\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n**\"Prenez sur leurs richesses une aumône par laquelle vous les purifiez et les faites croître, et priez pour eux. En effet, votre prière est pour eux une assurance. Et Allah est Audient et Omniscient.\"**\n*(At-Tawbah 9:103)*\n\nLes huit catégories de destinataires sont détaillées :\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n** \"Les dépenses de la Zakât sont réservées aux pauvres et aux nécessiteux et à ceux qui sont employés à collecter et à rassembler les cœurs et à libérer les captifs et les débiteurs et pour la cause d'Allah et pour le voyageur - une obligation d'Allah. Et Allah est Omniscient et Sage. \"**\n*(At-Tawbah 9:60)*\n\nNotre Prophète ﷺ a dit :\n\n**«بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ»**\n**\"L'Islam est construit sur cinq...\"** *(témoignage de foi, prière, zakat, jeûne, Hajj)*\n*(Musulman – rapporté par Abdullah ibn Umar r.a.)*\n\nAujourd’hui, une étape : acquérir de solides connaissances sur votre zakat ou votre œuvre caritative – cela aussi fait partie de la conscience de la zakat.",
+    "id": "Kesadaran berzakat bukan sekedar hafalan “dua persen”, melainkan melihat bahwa Allah dan hamba-hamba-Nya mempunyai hak atas harta, mengetahui nisab, waktu dan penerimanya, serta membersihkan hati dari kekikiran. Zakat adalah ibadah yang “memurnikan” akumulasi kekayaan dan menyeimbangkan masyarakat.\n\nAllah mengungkapkan kepada Nabi-Nya:\n\n**﴿خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ﴾**\n**\"Ambillah dari harta mereka sedekah yang dengannya kamu mensucikan mereka dan menumbuhkan mereka, dan mendoakan mereka. Sesungguhnya doamu itu menjadi ketenangan bagi mereka. Dan Allah Maha Mendengar lagi Mengetahui.\"**\n*(At-Taubah 9:103)*\n\nDelapan kategori penerima tersebut diuraikan secara rinci:\n\n**﴿إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ﴾**\n**\"Pengeluaran zakat hanya untuk orang-orang fakir dan orang-orang yang membutuhkan dan bagi orang-orang yang dipekerjakan untuk menagih dan menyatukan hati serta untuk membebaskan para tawanan dan orang-orang yang berhutang dan karena Allah dan bagi orang musafir, suatu kewajiban di sisi Allah. Dan Allah Maha Mengetahui lagi Maha Bijaksana.\"**\n*(At-Taubah 9:60)*\n\nNabi kita ﷺ bersabda:\n\n**\"بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ\"**\n**\"Islam dibangun di atas lima...\"** *(kesaksian iman, shalat, zakat, puasa, haji)*\n*(Muslim — meriwayatkan Abdullah bin Umar r.a.)*\n\nSaat ini, satu langkahnya: pelajari pengetahuan yang masuk akal tentang zakat atau amal Anda – itu juga merupakan bagian dari kesadaran zakat."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "هاوپۆلەکانی وەرگری زەکات (ئەسناف) بە وردی لە کام سورەتدا دەگوترێن؟",
         "ar": "في أيِّ سورةٍ فُصِّلَتْ مصارفُ الزكاة (الأصناف)؟",
         "ru": "В какой суре подробно перечислены категории получателей закята (аснафа)?",
-        "fr": "Dans quelle sourate les catégories de bénéficiaires de la zakat (asnaf) sont-elles répertoriées en détail ?"
+        "fr": "Dans quelle sourate les catégories de bénéficiaires de la zakat (asnaf) sont-elles répertoriées en détail ?",
+        "id": "Di surat manakah golongan penerima zakat (asnaf) dicantumkan secara rinci?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "تەوبە",
           "ar": "التوبة",
           "ru": "Ат-Тауба",
-          "fr": "At-Tawbah"
+          "fr": "At-Tawbah",
+          "id": "At-Taubah"
         },
         {
           "tr": "Bakara",
@@ -68,7 +72,8 @@
           "ckb": "بەقەرە",
           "ar": "البقرة",
           "ru": "Аль-Бакара",
-          "fr": "Al-Baqarah"
+          "fr": "Al-Baqarah",
+          "id": "Al-Baqarah"
         },
         {
           "tr": "Maide",
@@ -81,7 +86,8 @@
           "ckb": "مائەدە",
           "ar": "المائدة",
           "ru": "Аль-Маида",
-          "fr": "Al-Ma'idah"
+          "fr": "Al-Ma'idah",
+          "id": "Al-Ma'idah"
         },
         {
           "tr": "Nisâ",
@@ -94,7 +100,8 @@
           "ckb": "نسا",
           "ar": "النساء",
           "ru": "Ан-Ниса",
-          "fr": "An-Nisa"
+          "fr": "An-Nisa",
+          "id": "An-Nisa"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "لە دەقەکەدا یەکێک لە کارەکانی خێرەکە لە تەوبە ١٠٣دا چۆن دەگوترێت؟",
         "ar": "كيف جاء في التوبة ١٠٣ عملُ الصدقة؟",
         "ru": "Как в тексте выражена одна из основных функций благотворительности в Ат-Тауба 9:103?",
-        "fr": "Comment une fonction principale de la charité dans At-Tawbah 9 : 103 est-elle exprimée dans le texte ?"
+        "fr": "Comment une fonction principale de la charité dans At-Tawbah 9 : 103 est-elle exprimée dans le texte ?",
+        "id": "Bagaimana salah satu fungsi utama zakat dalam At-Taubah 9:103 diungkapkan dalam teks tersebut?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "پاککردنەوە و پێگەشاندن (تەزکیە)",
           "ar": "تطهيرهم وتزكيتهم",
           "ru": "Очистить их и заставить расти (тазкия).",
-          "fr": "Les purifier et les faire grandir (tazkiyah)"
+          "fr": "Les purifier et les faire grandir (tazkiyah)",
+          "id": "Untuk menyucikannya dan menumbuhkannya (tazkiyah)"
         },
         {
           "tr": "Malları tamamen toplamak",
@@ -139,7 +148,8 @@
           "ckb": "سەرجەم سامان وەربگرێت",
           "ar": "مصادرةَ الأموال كلِّها",
           "ru": "Конфисковать все богатство",
-          "fr": "Pour confisquer toutes les richesses"
+          "fr": "Pour confisquer toutes les richesses",
+          "id": "Untuk menyita semua kekayaan"
         },
         {
           "tr": "Sadece düşmanlara vermek",
@@ -152,7 +162,8 @@
           "ckb": "تەنها بۆ دوژمنان",
           "ar": "الإنفاقُ على الأعداء فقط",
           "ru": "Отдавать только врагам",
-          "fr": "Donner seulement aux ennemis"
+          "fr": "Donner seulement aux ennemis",
+          "id": "Untuk memberi hanya kepada musuh"
         },
         {
           "tr": "Zekâtı ortadan kaldırmak",
@@ -165,7 +176,8 @@
           "ckb": "لابردنی زەکات",
           "ar": "إلغاءَ الزكاة",
           "ru": "Отменить закят",
-          "fr": "Abolir la zakat"
+          "fr": "Abolir la zakat",
+          "id": "Untuk menghapuskan zakat"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "لە حەدیسەکە «ئیسلام لەسەر پێنج بنەما دروستکراوە»دا زەکات لە کام شوێندایە؟",
         "ar": "في حديث «بُنِيَ الإسلام على خمس» أين يأتي ذكرُ الزكاة؟",
         "ru": "В хадисе «Ислам построен на пяти столпах», в каком месте упоминается закят?",
-        "fr": "Dans le hadith « L’Islam est construit sur cinq piliers », dans quelle position la zakat est-elle mentionnée ?"
+        "fr": "Dans le hadith « L’Islam est construit sur cinq piliers », dans quelle position la zakat est-elle mentionnée ?",
+        "id": "Dalam hadis “Islam dibangun di atas lima rukun”, zakat disebutkan pada posisi manakah?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "سێیەم (دوای شەهادەت و نوێژ)",
           "ar": "الثالثة بعد الشهادتين والصلاة",
           "ru": "Третий (после свидетельства и молитвы)",
-          "fr": "Troisièmement (après le témoignage et la prière)"
+          "fr": "Troisièmement (après le témoignage et la prière)",
+          "id": "Ketiga (setelah kesaksian dan doa)"
         },
         {
           "tr": "Birinci",
@@ -210,7 +224,8 @@
           "ckb": "یەکەم",
           "ar": "الأولى",
           "ru": "Первый",
-          "fr": "D'abord"
+          "fr": "D'abord",
+          "id": "Pertama"
         },
         {
           "tr": "İkinci",
@@ -223,7 +238,8 @@
           "ckb": "دووەم",
           "ar": "الثانية",
           "ru": "Второй",
-          "fr": "Deuxième"
+          "fr": "Deuxième",
+          "id": "Kedua"
         },
         {
           "tr": "Beşinci",
@@ -236,7 +252,8 @@
           "ckb": "پێنجەم",
           "ar": "الخامسة",
           "ru": "Пятый",
-          "fr": "Cinquième"
+          "fr": "Cinquième",
+          "id": "Kelima"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بەپێی تەوبە ٦٠ کام لە خوارەوە ڕاست نییە؟",
         "ar": "وفق التوبة ٦٠، أيُّ العبارات باطلٌ؟",
         "ru": "Что из перечисленного нельзя сказать согласно Ат-Тауба 9:60?",
-        "fr": "Selon At-Tawbah 9 :60, lequel des énoncés suivants ne peut pas être dit ?"
+        "fr": "Selon At-Tawbah 9 :60, lequel des énoncés suivants ne peut pas être dit ?",
+        "id": "Menurut At-Taubah 9:60, pernyataan berikut yang mana yang tidak boleh diucapkan?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "زەکات تەنها بۆ دەوڵەمەندانە",
           "ar": "إنما الزكاةُ للأغنياء",
           "ru": "Закят дают только богатым",
-          "fr": "La Zakat est donnée uniquement aux riches"
+          "fr": "La Zakat est donnée uniquement aux riches",
+          "id": "Zakat hanya diberikan kepada orang-orang kaya saja"
         },
         {
           "tr": "Fakirler ve miskinler asnaf içindedir",
@@ -281,7 +300,8 @@
           "ckb": "هەژار و پێویستەکان لە هاوپۆلەکاندان",
           "ar": "الفقراء والمساكين من المصارف",
           "ru": "Бедные и нуждающиеся входят в число категорий",
-          "fr": "Les pauvres et les nécessiteux font partie des catégories"
+          "fr": "Les pauvres et les nécessiteux font partie des catégories",
+          "id": "Masyarakat miskin dan membutuhkan termasuk di antara kategori tersebut"
         },
         {
           "tr": "Allah yolunda olanlar için bir hisse vardır",
@@ -294,7 +314,8 @@
           "ckb": "بەشێک هەیە بۆ ڕێگای اللە",
           "ar": "وفي سبيل الله نصيبٌ",
           "ru": "Есть доля для тех, кто на пути Аллаха",
-          "fr": "Il y a une part pour ceux qui sont dans la cause d'Allah"
+          "fr": "Il y a une part pour ceux qui sont dans la cause d'Allah",
+          "id": "Ada bagian bagi orang-orang di jalan Allah"
         },
         {
           "tr": "Borçlular (ğarimûn) dahil edilebilir",
@@ -307,7 +328,8 @@
           "ckb": "قەرزدارەکان دەتوانن بگرێتەوە",
           "ar": "الغارمون من المصارف",
           "ru": "Должники (гаримин) могут быть включены",
-          "fr": "Les débiteurs (gharimin) peuvent être inclus"
+          "fr": "Les débiteurs (gharimin) peuvent être inclus",
+          "id": "Debitur (gharimin) dapat dimasukkan"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
         "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?",
+        "id": "Berdasarkan teks tersebut, pernyataan berikut manakah yang SALAH?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "هۆشیاری زەکات تەنها ژمارە لەبەرکردنە",
           "ar": "وعي الزكاة حفظُ أرقامٍ فقط",
           "ru": "Осведомленность о закяте ограничивается запоминанием только цифр.",
-          "fr": "La conscience de la Zakat se limite à la mémorisation des chiffres uniquement"
+          "fr": "La conscience de la Zakat se limite à la mémorisation des chiffres uniquement",
+          "id": "Kesadaran zakat hanya sebatas menghafal angka saja"
         },
         {
           "tr": "Tevbe 9:103 sadakayı temizlik ve tezkiye ile ilişkilendirir",
@@ -352,7 +376,8 @@
           "ckb": "تەوبە ١٠٣ خێر بە پاککردنەوە دەگەڕێنێتەوە",
           "ar": "التوبة ١٠٣ تربطُ الصدقةَ بالتطهير والتزكية",
           "ru": "Ат-Тауба 9:103 связывает благотворительность с очищением и ростом",
-          "fr": "At-Tawbah 9 : 103 relie la charité à la purification et à la croissance"
+          "fr": "At-Tawbah 9 : 103 relie la charité à la purification et à la croissance",
+          "id": "At-Taubah 9:103 menghubungkan amal dengan penyucian dan pertumbuhan"
         },
         {
           "tr": "Tevbe 9:60 sekiz sınıfı zikreder",
@@ -365,7 +390,8 @@
           "ckb": "تەوبە ٦٠ هەشت هاوپۆل دەگوێت",
           "ar": "التوبة ٦٠ تُفصِّلُ ثمانيةَ مصارف",
           "ru": "Ат-Тауба 9:60 упоминает восемь категорий.",
-          "fr": "At-Tawbah 9h60 mentionne huit catégories"
+          "fr": "At-Tawbah 9h60 mentionne huit catégories",
+          "id": "At-Taubah 9:60 menyebutkan delapan kategori"
         },
         {
           "tr": "İslam'ın temellerinden biri zekâttır",
@@ -378,7 +404,8 @@
           "ckb": "زەکات یەکێکە لە بنەماکانی ئیسلام",
           "ar": "الزكاةُ من أركان الإسلام",
           "ru": "Закят – одна из основ ислама",
-          "fr": "La Zakat est l'un des fondements de l'Islam"
+          "fr": "La Zakat est l'un des fondements de l'Islam",
+          "id": "Zakat merupakan salah satu landasan Islam"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ بەبێ ئەوەی زەکات یان خێرەکەت بۆ «بەیانی» بهێڵیتەوە، یەک پرسیار بکە: نیساب، پلە، شوێنی بەخشین — چی فێربوونم ماوە؟ تەوبە ٦٠ بیرت دەخاتەوە: ئەمە فەرزی اللەیە؛ هۆشیاری تەنها پارەدان نییە، فێربوونی ڕاستە.",
     "ar": "لا تُؤجِلْ زكاتك أو صدقتك إلى «غدٍ»؛ سلْ نفسك اليوم: نصابي، وجوبي، مصرفي — ما الذي ينبغي أن أتعلَّمه؟ ﴿فَرِيضَةً مِّنَ اللَّهِ﴾ — والوعيُ ليس مجردَ أداءٍ، بل تعلُّمُ الصواب.",
     "ru": "Сегодня, не откладывая закят или благотворительность на «завтра», задайте один вопрос: мой нисаб, моя обязанность, куда давать — чему мне еще нужно научиться? Ат-Тауба 9:60 напоминает вам: это обязанность Аллаха; осознание – это не только оплата, но и изучение того, что правильно.",
-    "fr": "Aujourd’hui, sans remettre à « demain » votre zakat ou votre aumône, posez-vous une question : mon nisab, mon obligation, où donner – que dois-je encore apprendre ? At-Tawbah 9 :60 vous rappelle : c'est l'obligation d'Allah ; la prise de conscience ne consiste pas seulement à payer, mais à apprendre ce qui est juste."
+    "fr": "Aujourd’hui, sans remettre à « demain » votre zakat ou votre aumône, posez-vous une question : mon nisab, mon obligation, où donner – que dois-je encore apprendre ? At-Tawbah 9 :60 vous rappelle : c'est l'obligation d'Allah ; la prise de conscience ne consiste pas seulement à payer, mais à apprendre ce qui est juste.",
+    "id": "Hari ini, tanpa menunda zakat atau sedekah untuk “besok”, ajukan satu pertanyaan: nisab saya, kewajiban saya, ke mana harus bersedekah — apa yang masih perlu saya pelajari? At-Taubah 9:60 mengingatkan: ini adalah kewajiban Allah; Kesadaran tidak hanya membayar, namun mempelajari apa yang benar."
   }
 }

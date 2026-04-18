@@ -12,7 +12,8 @@
     "ckb": "تێکۆشان",
     "ar": "بذلُ الجهد",
     "ru": "Демонстрация усилий",
-    "fr": "Faire preuve d'effort"
+    "fr": "Faire preuve d'effort",
+    "id": "Menampilkan Upaya"
   },
   "content": {
     "tr": "Gayret; büyük işler yapmak zorunda olmak değil, küçük ama düzenli adımlarla yola devam etmektir. İslam, «bir günde her şeyi bitirdim» değil, «her gün biraz daha iyiye» anlayışını ödüllendirir. Mükemmeliyetçilik insanı felç edebilir; gayret ise insanı ilerletir.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**«Bizim uğrumuzda çaba gösterenlere elbette yollarımızı göstereceğiz. Şüphesiz Allah iyilik edenlerle beraberdir.»**\n*(Ankebût 29:69)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n**«Allah'a en çok sevilen amel, az da olsa devamlı olanıdır.»**\n*(Müslim — Hz. Âişe r.a. rivayetiyle)*\n\nGayret göstermek; vazgeçmemek, mazeret üretmek yerine küçük de olsa bir şey yapmak ve «Ben yapmaya çalışıyorum» diyebilmektir. Bugün hangi alanda — namaz, öğrenme, aile, iş — bir adım daha atabilirsin? O adım, seni Allah'ın «yollarına» yaklaştırır.",
@@ -25,7 +26,8 @@
     "ckb": "تێکۆشان مانای ئەوە نییە کە پێویستە کارە گەورەکان بکەیت؛ بەردەوامبوونە لە ڕێگا بە هەنگاوە بچووک بەڵام بەردەوامەکان. ئیسلام تێگەیشتنی «هەموو ڕۆژێک کەمێک باشتر» پاداشت دەکات، نەک «هەموو شتێکم لە یەک ڕۆژدا تەواو کرد». تەواوکاریی مرۆڤ دەتووشێت؛ تێکۆشان پێش دەبات.\n\nاللەی بەرز دەفەرموێت:\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**«ئەوانەی کە بۆ ئێمە تێدەکۆشن، بە دڵنیایی ڕێگاکانمانان بۆ نیشان دەدەین. بەڕاستی اللە لەگەڵ چاکەکارانە.»**\n*(عەنکەبوت: ٦٩)*\n\nپێغەمبەرمان ﷺ فەرمووی:\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n**«خۆشترین کردەوەکان بۆ اللە ئەوەیە کە بەردەوامترە، تەنانەت ئەگەر کەم بێت.»**\n*(موسلیم — بە ڕێوایەتی عائیشە خ.ل.ر)*\n\nتێکۆشان نیشاندان؛ وازنەهێنان، بەهانە نەکردن، بەڵکو شتێکی بچووک ئەنجامدان و توانای گوتنی «هەوڵ دەدەم». لە کام بواردا — نوێژ، فێربوون، خێزان، کار — ئەمڕۆ هەنگاوێکی تر دەتوانیت بنێیت؟ ئەو هەنگاوە نزیکت دەکاتەوە لە «ڕێگاکانی» اللە.",
     "ar": "الجُهدُ لا يعني أن تفعلَ أشياءَ عظيمة؛ بل أن تمضيَ في الطريق بخطواتٍ صغيرة منتظمة. يثيبُ الإسلامُ فهمَ «كلَّ يومٍ أحسنَ قليلاً» لا «أنجزتُ كلَّ شيء في يومٍ واحد». قد يُشَلُّ الإنسانَ التمامُ؛ أما الجُهدُ فيدفعه قُدُماً.\n\nيقول الله تعالى:\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n*(العنكبوت: ٦٩)*\n\nوقال النبيُّ ﷺ:\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n*(رواه مسلم — عن عائشة رضي الله عنها)*\n\nبذلُ الجهد يعني ألَّا تستسلم؛ أن تفعلَ شيئاً صغيراً بدلاً من التعلُّل؛ وأن تقولَ «أحاول». في أيِّ مجالٍ — صلاةٌ أو علمٌ أو أسرةٌ أو عمل — تستطيعُ اليوم خطوةً أخرى؟ تلك الخطوةُ تقرِّبُك من «سبلِ» الله.",
     "ru": "Усилия не заключаются в том, чтобы совершать великие дела; он продолжает идти по пути небольшими, но регулярными шагами. Ислам вознаграждает понимание «с каждым днем ​​немного лучше», а не «я закончил все за один день». Перфекционизм может парализовать человека; усилие продвигает их вперед.\n\nАллах Всевышний говорит:\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**\"А тех, кто стремится к Нам, Мы непременно направим их на Наши пути. И поистине, Аллах с творящими добро.\"**\n*(Аль-Анкабут 29:69)*\n\nНаш Пророк ﷺ сказал:\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n**\"Самые любимые дела перед Аллахом — это те, которые наиболее последовательны, даже если они малы.\"**\n*(Мусульманин — передала Аиша r.a.)*\n\nПроявлять усилия – значит не сдаваться; делать что-то маленькое, а не оправдываться; и возможность сказать: «Я стараюсь». В какой области — молитве, обучении, семье, работе — вы можете сделать сегодня еще один шаг? Этот шаг приближает вас к «путям» Аллаха.",
-    "fr": "L'effort, ce n'est pas devoir faire de grandes choses ; il continue son chemin à petits pas mais réguliers. L'Islam récompense la compréhension du «un peu mieux chaque jour», et non du «j'ai tout fini en un jour». Le perfectionnisme peut paralyser une personne ; l’effort les fait avancer.\n\nAllah le Très-Haut dit :\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**\"Et ceux qui luttent pour Nous, Nous les guiderons sûrement vers Nos voies. Et en effet, Allah est avec les faiseurs de bien.\"**\n*(Al-Ankabut 29 :69)*\n\nNotre Prophète ﷺ a dit :\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n**\"Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites.\"**\n*(Musulman – rapporté par Aisha r.a.)*\n\nFaire des efforts signifie ne pas abandonner ; faire quelque chose de petit plutôt que de trouver des excuses ; et pouvoir dire «j'essaye». Dans quel domaine – la prière, l’apprentissage, la famille, le travail – pouvez-vous faire un pas de plus aujourd’hui ? Cette étape vous rapproche des « voies » d'Allah."
+    "fr": "L'effort, ce n'est pas devoir faire de grandes choses ; il continue son chemin à petits pas mais réguliers. L'Islam récompense la compréhension du «un peu mieux chaque jour», et non du «j'ai tout fini en un jour». Le perfectionnisme peut paralyser une personne ; l’effort les fait avancer.\n\nAllah le Très-Haut dit :\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**\"Et ceux qui luttent pour Nous, Nous les guiderons sûrement vers Nos voies. Et en effet, Allah est avec les faiseurs de bien.\"**\n*(Al-Ankabut 29 :69)*\n\nNotre Prophète ﷺ a dit :\n\n**«أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ»**\n**\"Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites.\"**\n*(Musulman – rapporté par Aisha r.a.)*\n\nFaire des efforts signifie ne pas abandonner ; faire quelque chose de petit plutôt que de trouver des excuses ; et pouvoir dire «j'essaye». Dans quel domaine – la prière, l’apprentissage, la famille, le travail – pouvez-vous faire un pas de plus aujourd’hui ? Cette étape vous rapproche des « voies » d'Allah.",
+    "id": "Upaya bukanlah harus melakukan hal-hal besar; ia melanjutkan jalurnya dengan langkah-langkah kecil namun teratur. Islam menghargai pemahaman “sedikit lebih baik setiap hari”, bukan “Saya menyelesaikan semuanya dalam satu hari”. Perfeksionisme bisa melumpuhkan seseorang; upaya menggerakkan mereka maju.\n\nAllah SWT berfirman:\n\n**﴿وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾**\n**\"Dan orang-orang yang berjihad kepada Kami, niscaya Kami akan memberi petunjuk kepada mereka ke jalan Kami. Dan sesungguhnya Allah beserta orang-orang yang berbuat kebaikan.\"**\n*(Al-Ankabut 29:69)*\n\nNabi kita ﷺ bersabda:\n\n**\"أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ\"**\n**\"Amalan yang paling dicintai Allah adalah yang paling konsisten, meskipun kecil.\"**\n*(Muslim — meriwayatkan Aisha r.a.)*\n\nMenunjukkan usaha berarti tidak menyerah; melakukan sesuatu yang kecil daripada membuat alasan; dan mampu mengatakan «Saya sedang mencoba». Dalam bidang apa – doa, pembelajaran, keluarga, pekerjaan – yang dapat Anda ambil satu langkah lagi hari ini? Langkah itu membawa Anda lebih dekat ke «jalan» Allah."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «ڕێگاکانمانان بۆ نیشان دەدەین» (بۆ ئەوانەی کە بۆ ئێمە تێدەکۆشن) لە کام سورەتدا دەردەکەوێت؟",
         "ar": "في أيِّ سورةٍ ترد الآية ﴿لَنَهْدِيَنَّهُمْ سُبُلَنَا﴾؟",
         "ru": "В какой суре встречается аят «Мы непременно направим их на Наши пути» (для тех, кто стремится к Нам)?",
-        "fr": "Dans quelle sourate se trouve le verset « Nous les guiderons sûrement vers Nos voies » (pour ceux qui luttent pour Nous) ?"
+        "fr": "Dans quelle sourate se trouve le verset « Nous les guiderons sûrement vers Nos voies » (pour ceux qui luttent pour Nous) ?",
+        "id": "Di dalam surah manakah terdapat ayat “Sesungguhnya Kami akan memberi petunjuk kepada mereka pada jalan Kami” (bagi orang-orang yang berjihad kepada Kami)?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "فاتر",
           "ar": "فاطر",
           "ru": "Фатир",
-          "fr": "Fatir"
+          "fr": "Fatir",
+          "id": "Fatir"
         },
         {
           "tr": "Ankebût",
@@ -68,7 +72,8 @@
           "ckb": "عەنکەبوت",
           "ar": "العنكبوت",
           "ru": "Аль-Анкабут",
-          "fr": "Al-Ankabut"
+          "fr": "Al-Ankabut",
+          "id": "Al-Ankabut"
         },
         {
           "tr": "Yûnus",
@@ -81,7 +86,8 @@
           "ckb": "یونس",
           "ar": "يونس",
           "ru": "Юнус",
-          "fr": "Yunus"
+          "fr": "Yunus",
+          "id": "Yunus"
         },
         {
           "tr": "Hûd",
@@ -94,7 +100,8 @@
           "ckb": "هود",
           "ar": "هود",
           "ru": "Худ",
-          "fr": "Hud"
+          "fr": "Hud",
+          "id": "Hud"
         }
       ],
       "correct": 1
@@ -112,7 +119,8 @@
         "ckb": "کێ حەدیسی «خۆشترین کردەوەکان بۆ اللە ئەوەیە کە بەردەوامترە، تەنانەت ئەگەر کەم بێت» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديثَ «أَحَبُّ الأَعْمَالِ أَدْوَمُهَا وَإِنْ قَلَّ»؟",
         "ru": "Кто передал хадис «Самые любимые Аллахом деяния – это те, которые наиболее последовательны, даже если они малы»?",
-        "fr": "Qui a rapporté le hadith « Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites » ?"
+        "fr": "Qui a rapporté le hadith « Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites » ?",
+        "id": "Siapa yang meriwayatkan hadits “Amalan yang paling dicintai Allah adalah yang paling konsisten, meskipun kecil”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "عائیشە خ.ل.ر",
           "ar": "عائشة رضي الله عنها",
           "ru": "Аиша р.а.",
-          "fr": "Aisha r.a."
+          "fr": "Aisha r.a.",
+          "id": "Aisyah r.a."
         },
         {
           "tr": "Hz. Ebû Hureyre r.a.",
@@ -139,7 +148,8 @@
           "ckb": "ئەبو هورەیرە خ.ل.ر",
           "ar": "أبو هريرة رضي الله عنه",
           "ru": "Абу Хурайра r.a.",
-          "fr": "Abu Hurairah r.a."
+          "fr": "Abu Hurairah r.a.",
+          "id": "Abu Hurairah r.a."
         },
         {
           "tr": "Hz. Ömer r.a.",
@@ -152,7 +162,8 @@
           "ckb": "عومەر خ.ل.ر",
           "ar": "عمر رضي الله عنه",
           "ru": "Умар р.а.",
-          "fr": "Umar r.a."
+          "fr": "Umar r.a.",
+          "id": "Umar r.a."
         },
         {
           "tr": "Hz. Ali r.a.",
@@ -165,7 +176,8 @@
           "ckb": "عەلی خ.ل.ر",
           "ar": "علي رضي الله عنه",
           "ru": "Али р.а.",
-          "fr": "Ali r.a."
+          "fr": "Ali r.a.",
+          "id": "Ali r.a."
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "لە کۆتایی ئایەتی عەنکەبوت ٦٩دا، اللە لەگەڵ کێ دەڵێت؟",
         "ar": "مَن ذُكر في ختام الآية ﴿وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ﴾؟",
         "ru": "В конце Аль-Анкабут 29:69 с кем говорит Аллах?",
-        "fr": "À la fin d'Al-Ankabut 29 : 69, avec qui Allah déclare-t-il qu'Il est ?"
+        "fr": "À la fin d'Al-Ankabut 29 : 69, avec qui Allah déclare-t-il qu'Il est ?",
+        "id": "Di akhir surat Al-Ankabut 29:69, Allah menyatakan Dia bersama siapa?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "تەنها لەگەڵ پێغەمبەران",
           "ar": "مع الأنبياء فقط",
           "ru": "Только с пророками",
-          "fr": "Avec les prophètes seulement"
+          "fr": "Avec les prophètes seulement",
+          "id": "Hanya dengan para nabi"
         },
         {
           "tr": "İyilik edenlerle (muhsinler)",
@@ -210,7 +224,8 @@
           "ckb": "لەگەڵ چاکەکاران",
           "ar": "مع المحسنين",
           "ru": "С делающими добро (мухсинун)",
-          "fr": "Avec les faiseurs de bien (muhsinun)"
+          "fr": "Avec les faiseurs de bien (muhsinun)",
+          "id": "Bersama orang-orang yang berbuat kebaikan (muhsinun)"
         },
         {
           "tr": "Yalnızca zenginlerle",
@@ -223,7 +238,8 @@
           "ckb": "تەنها لەگەڵ دەوڵەمەندان",
           "ar": "مع الأغنياء فقط",
           "ru": "Только с богатыми",
-          "fr": "Avec les riches seulement"
+          "fr": "Avec les riches seulement",
+          "id": "Hanya dengan orang kaya saja"
         },
         {
           "tr": "Yalnızca savaşçılarla",
@@ -236,7 +252,8 @@
           "ckb": "تەنها لەگەڵ جەنگاوەران",
           "ar": "مع المحاربين فقط",
           "ru": "Только с воинами",
-          "fr": "Avec des guerriers uniquement"
+          "fr": "Avec des guerriers uniquement",
+          "id": "Hanya dengan prajurit"
         }
       ],
       "correct": 1
@@ -254,7 +271,8 @@
         "ckb": "بەپێی حەدیسەکە، کردەوەی خۆشترین بۆ اللە دەبێت کام تایبەتمەندی هەبێت؟",
         "ar": "ما الصفةُ التي يجب أن تتوفر في أحبِّ الأعمال إلى الله وفق الحديث؟",
         "ru": "Согласно хадису, какое качество должно иметь самое любимое Аллахом дело?",
-        "fr": "Selon le hadith, quelle qualité doit avoir l'acte le plus aimé d'Allah ?"
+        "fr": "Selon le hadith, quelle qualité doit avoir l'acte le plus aimé d'Allah ?",
+        "id": "Menurut hadits, sifat apa yang harus dimiliki oleh amal yang paling dicintai Allah?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "گەورە و نیشاندراو بوون",
           "ar": "أن يكون كبيراً ومُبهِراً",
           "ru": "Быть большим и эффектным",
-          "fr": "Être grand et voyant"
+          "fr": "Être grand et voyant",
+          "id": "Menjadi besar dan mencolok"
         },
         {
           "tr": "Devamlılık (az da olsa süreklilik)",
@@ -281,7 +300,8 @@
           "ckb": "بەردەوامی (تەنانەت ئەگەر کەم بێت)",
           "ar": "الدوام (والاستمرار وإن قل)",
           "ru": "Последовательность (непрерывность, даже если она небольшая)",
-          "fr": "Cohérence (continuité même si petite)"
+          "fr": "Cohérence (continuité même si petite)",
+          "id": "Konsistensi (kontinuitas walaupun kecil)"
         },
         {
           "tr": "Sadece cuma günü yapılması",
@@ -294,7 +314,8 @@
           "ckb": "تەنها لە ڕۆژی هەینی ئەنجام بدرێت",
           "ar": "أن يكون يوم الجمعة فقط",
           "ru": "Делаем только в пятницу",
-          "fr": "Se faisant uniquement le vendredi"
+          "fr": "Se faisant uniquement le vendredi",
+          "id": "Hanya dilakukan pada hari Jumat"
         },
         {
           "tr": "Başkalarının önünde yapılması",
@@ -307,7 +328,8 @@
           "ckb": "لەبەردەم کەسانی تر ئەنجام بدرێت",
           "ar": "أن يكون علانيةً",
           "ru": "Делается на глазах у других",
-          "fr": "Se faire devant les autres"
+          "fr": "Se faire devant les autres",
+          "id": "Dilakukan di depan orang lain"
         }
       ],
       "correct": 1
@@ -325,7 +347,8 @@
         "ckb": "جیاوازی لە نێوان تێکۆشان و تەواوکاریی چییە؟",
         "ar": "ما الفرقُ بين بذل الجهد والمثالية المُرهِقة؟",
         "ru": "В чем разница между усилием и перфекционизмом?",
-        "fr": "Quelle est la différence entre effort et perfectionnisme ?"
+        "fr": "Quelle est la différence entre effort et perfectionnisme ?",
+        "id": "Apa perbedaan antara usaha dan perfeksionisme?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "تێکۆشان پێش دەبات؛ تەواوکاریی زۆر مرۆڤ دەتووشێت",
           "ar": "الجهدُ يدفعُ للأمام، والتعمُّقُ المُفرِط في الكمال قد يُعطِّل",
           "ru": "Усилие продвигается вперед; чрезмерный перфекционизм может остановить человека",
-          "fr": "L’effort avance ; un perfectionnisme excessif peut arrêter une personne"
+          "fr": "L’effort avance ; un perfectionnisme excessif peut arrêter une personne",
+          "id": "Upaya bergerak maju; perfeksionisme yang berlebihan dapat menghentikan seseorang"
         },
         {
           "tr": "İkisi de aynı şeydir",
@@ -352,7 +376,8 @@
           "ckb": "هەردووکیان یەک شتن",
           "ar": "هما سواء",
           "ru": "Они такие же",
-          "fr": "Ce sont les mêmes"
+          "fr": "Ce sont les mêmes",
+          "id": "Mereka sama"
         },
         {
           "tr": "Gayret yalnızca dünyevi işler içindir",
@@ -365,7 +390,8 @@
           "ckb": "تێکۆشان تەنها بۆ کارە دنیاییەکانە",
           "ar": "الجهد للدنيا فقط",
           "ru": "Усилия предназначены только для мирских дел",
-          "fr": "L'effort est uniquement pour les affaires du monde"
+          "fr": "L'effort est uniquement pour les affaires du monde",
+          "id": "Usahanya hanya untuk urusan duniawi"
         },
         {
           "tr": "Mükemmeliyetçilik İslam'da teşvik edilmez",
@@ -378,7 +404,8 @@
           "ckb": "تەواوکاریی لە ئیسلامدا پاڵنەر ناکرێت",
           "ar": "لا يُشجَّع التمامُ المُفرِط في الإسلام",
           "ru": "В Исламе не поощряется перфекционизм.",
-          "fr": "Le perfectionnisme n'est pas encouragé en Islam"
+          "fr": "Le perfectionnisme n'est pas encouragé en Islam",
+          "id": "Perfeksionisme tidak dianjurkan dalam Islam"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ «یەک هەنگاو» هەڵبژێرە: خوێندنەوە، دعاکردن، یارمەتی کەسێک، ڕاستکردنەوەی شتێک لە کاردا... بچووک بێت؛ بەردەوام بێت. «خۆشترین کردەوەکان بۆ اللە ئەوەیە کە بەردەوامترە، تەنانەت ئەگەر کەم بێت.» ئەم حەدیسە ناچارت دەکات تەواو بیت — بانگت دەکات واز نەهێنیت.",
     "ar": "اختر اليوم «خطوةً»: قراءةٌ أو دعاءٌ أو إغاثةُ أحدٍ أو إصلاحُ شيءٍ في عملك... لتكن صغيرةً؛ ولتكن دائمةً. «أَحَبُّ الأَعْمَالِ أَدْوَمُهَا وَإِنْ قَلَّ» — هذا الحديثُ لا يُكرِّسك للكمال؛ بل يدعوك إلى ألَّا تيأس.",
     "ru": "Сегодня выберите «один шаг»: чтение, совершение дуа, помощь кому-то, починка чего-то на работе... Пусть он будет небольшим; пусть это будет последовательно. «Самые любимые дела перед Аллахом — это те, которые наиболее последовательны, даже если они малы». Этот хадис не заставляет вас быть совершенными — он призывает вас не сдаваться.",
-    "fr": "Aujourd'hui, choisissez « une étape » : lire, faire du'a, aider quelqu'un, réparer quelque chose au travail... Que ce soit petit ; que ce soit cohérent. «Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites.» Ce hadith ne vous oblige pas à être parfait – il vous appelle à ne pas abandonner."
+    "fr": "Aujourd'hui, choisissez « une étape » : lire, faire du'a, aider quelqu'un, réparer quelque chose au travail... Que ce soit petit ; que ce soit cohérent. «Les actions les plus appréciées d'Allah sont celles qui sont les plus cohérentes, même si elles sont petites.» Ce hadith ne vous oblige pas à être parfait – il vous appelle à ne pas abandonner.",
+    "id": "Hari ini pilihlah «satu langkah»: membaca, berdoa, membantu seseorang, memperbaiki sesuatu di tempat kerja... Biarlah kecil; biarlah konsisten. “Amalan yang paling dicintai Allah adalah yang paling konsisten, meskipun kecil.” Hadits ini tidak memaksa Anda untuk menjadi sempurna, namun mengajak Anda untuk tidak menyerah."
   }
 }

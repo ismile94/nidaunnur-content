@@ -12,7 +12,8 @@
     "ckb": "فێربوون لە هەڵەکان",
     "ar": "التعلُّم من الأخطاء",
     "ru": "Учимся на ошибках",
-    "fr": "Apprendre de ses erreurs"
+    "fr": "Apprendre de ses erreurs",
+    "id": "Belajar dari Kesalahan"
   },
   "content": {
     "tr": "Hata yapmak insanın ayrılmaz bir parçasıdır. İslam bunu bilir ve bu yüzden tövbeyi, affı ve yeniden başlamayı kapsamlı bir şekilde ele alır. Asıl mesele hata yapmak değil — hatanın karşısında nasıl durulduğudur.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n**«Onlar ki bir kötülük yaptıklarında ya da nefislerine zulmettiklerinde Allah'ı zikreder, günahları için bağışlanma dilerler. Günahları Allah'tan başka kim bağışlayabilir ki? Ve bile bile yaptıklarında ısrar etmezler.»**\n*(Al-i İmrân 3:135)*\n\nPeygamberimiz ﷺ de şöyle buyurmuştur:\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**«Her Âdemoğlu hata yapar; hata yapanların en hayırlısı ise tövbe edenlerdir.»**\n*(Tirmizî, İbn Mâce — Enes b. Mâlik r.a. rivayetiyle)*\n\nİslam, hatayı bir utanç değil; bir öğrenme fırsatı ve tövbe kapısı olarak görür. Hata yaptığında yapılacak olan: Allah'ı zikretmek, istiğfar etmek, hatanın sebebini anlamak ve aynı hatayı tekrar yapmamaya çalışmak. Bugün geçmişindeki bir hatayı düşün — ve ondan ne öğrendiğini sor kendine.",
@@ -25,7 +26,8 @@
     "ckb": "هەڵەکردن بەشێکی جودانەناپێچی مرۆڤبوونە. ئیسلام ئەمەی دەزانێت و بۆیە تۆبە، بەخشین و دەستپێکردنی دووبارە بە شێوەیەکی فراوان دەیکۆڵێتەوە. مەسەلەی ڕاستەقینە هەڵەکردن نییە — ئەوەیە کەسێک چۆن لەبەردەم هەڵەکەیدا دەوەستێت.\n\nاللەی بەرز دەفەرموێت:\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n**«ئەوانەی کە کاتێک کردەیەکی ناشیرینیان دەکات یان لە خۆیاندا زوڵمیان دەکات، اللەیان بیر دەکاتەوە و داوای بەخشینی گوناهەکانیان دەکەن — و جگە لە اللە کێ دەتوانێت گوناهان ببەخشێت؟ — و لەسەر ئەوەی کردووییانن ئیسرار ناکەن لەکاتێکدا دەیزانن.»**\n*(ئال عیمران: ١٣٥)*\n\nپێغەمبەرمان ﷺ ئەمەشی فەرموویەتی:\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**«هەر کوڕی ئادەم هەڵە دەکات؛ باشترین ئەوانەی هەڵە دەکەن ئەوانەیە کە تۆبە دەکەن.»**\n*(تیرمیزی، ئیبن ماجە — بە ڕێوایەتی ئەنەس بن مالیک خ.ل.ر)*\n\nئیسلام هەڵە بە سەرچاوەی شەرم نابینێت — بە دەرفەتی فێربوون و دەروازەی تۆبە دەیبینێت. کاتێک هەڵەت دەکات ئەوەی دەبێت بکرێت: اللەت بیردەکاتەوە، ئیستیغفار بکە، هۆی هەڵەکە بناسە و هەوڵ بدە هەمان هەڵەیە دووبارە نەکەیتەوە. ئەمڕۆ بیرکردنەوە لە هەڵەیەک لە ڕابردووتدا بکە — و لە خۆت بپرسە چیت فێربوو.",
     "ar": "ارتكابُ الأخطاء جزءٌ لا ينفصل عن الإنسان. يعلم الإسلامُ هذا، ولذلك يتناول التوبةَ والمغفرةَ والبدءَ من جديدٍ بصورةٍ شاملة. المسألة الحقيقية ليست في ارتكاب الخطأ — بل في كيفية الوقوف أمامه.\n\nيقول الله تعالى:\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n*(آل عمران: ١٣٥)*\n\nوقال النبيُّ ﷺ:\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n*(رواه الترمذي وابن ماجه — عن أنس بن مالك رضي الله عنه)*\n\nلا يرى الإسلامُ الخطأَ مصدرَ خجلٍ — بل يراه فرصةً للتعلُّم وباباً للتوبة. حين ترتكب خطأً فالواجب: ذكرُ الله، والاستغفار، وفهمُ سبب الخطأ، والحرصُ على عدم تكراره. اليوم فكِّر في خطأٍ من ماضيك — واسأل نفسَك ما الذي تعلَّمتَه منه.",
     "ru": "Совершение ошибок – неотъемлемая часть человеческого бытия. Ислам знает это, и именно поэтому он комплексно рассматривает покаяние, прощение и начало нового пути. Настоящая проблема не в том, чтобы совершить ошибку, а в том, как человек стоит перед ее лицом.\n\nАллах Всевышний говорит:\n\n** ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ Он сказал: يَعْلَمُونَ**\n**\"И те, кто, когда сами совершают безнравственные или дурные поступки, помнят Аллаха и ищут прощения за свои грехи - и кто может прощать грехи, кроме Аллаха? - и которые не упорствуют в том, что они сделали, пока знают.\"**\n*(Аль-Имран 3:135)*\n\nНаш Пророк ﷺ также сказал:\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**\"Каждый сын Адама совершает ошибки, и лучшие из тех, кто совершает ошибки, — те, кто раскаивается\".**\n*(Тирмизи, Ибн Маджа — передал Анас ибн Малик r.a.)*\n\nИслам рассматривает ошибку не как источник стыда, а как возможность для обучения и врата покаяния. Когда вы совершаете ошибку, что нужно делать: помнить Аллаха, искать истигфар, понимать причину ошибки и стараться не повторять ту же ошибку. Сегодня подумайте об ошибке из своего прошлого и спросите себя, чему вы из нее научились.",
-    "fr": "Faire des erreurs est une partie indissociable de l’être humain. L’Islam le sait, et c’est pourquoi il aborde la repentance, le pardon et le recommencement de manière globale. Le véritable problème n’est pas de commettre une erreur, mais plutôt de savoir comment s’y prendre.\n\nAllah le Très-Haut dit :\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n**\"Et ceux qui, lorsqu'ils commettent une immoralité ou se font du mal, se souviennent d'Allah et demandent pardon pour leurs péchés - et qui peut pardonner les péchés sinon Allah ? - et qui ne persistent pas dans ce qu'ils ont fait alors qu'ils le savent. \"**\n*(Al-Imran 3:135)*\n\nNotre Prophète ﷺ a également dit :\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**\"Chaque fils d'Adam fait des erreurs, et les meilleurs de ceux qui commettent des erreurs sont ceux qui se repentent.\"**\n*(Tirmidhi, Ibn Majah — rapporté par Anas ibn Malik r.a.)*\n\nL’Islam considère l’erreur non pas comme une source de honte mais comme une opportunité d’apprentissage et une porte de repentance. Lorsque vous faites une erreur, ce qu'il faut faire est : souvenez-vous d'Allah, recherchez l'istighfar, comprenez la raison de l'erreur et essayez de ne pas répéter la même erreur. Aujourd’hui, pensez à une erreur de votre passé et demandez-vous ce que vous en avez appris."
+    "fr": "Faire des erreurs est une partie indissociable de l’être humain. L’Islam le sait, et c’est pourquoi il aborde la repentance, le pardon et le recommencement de manière globale. Le véritable problème n’est pas de commettre une erreur, mais plutôt de savoir comment s’y prendre.\n\nAllah le Très-Haut dit :\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n**\"Et ceux qui, lorsqu'ils commettent une immoralité ou se font du mal, se souviennent d'Allah et demandent pardon pour leurs péchés - et qui peut pardonner les péchés sinon Allah ? - et qui ne persistent pas dans ce qu'ils ont fait alors qu'ils le savent. \"**\n*(Al-Imran 3:135)*\n\nNotre Prophète ﷺ a également dit :\n\n**«كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**\"Chaque fils d'Adam fait des erreurs, et les meilleurs de ceux qui commettent des erreurs sont ceux qui se repentent.\"**\n*(Tirmidhi, Ibn Majah — rapporté par Anas ibn Malik r.a.)*\n\nL’Islam considère l’erreur non pas comme une source de honte mais comme une opportunité d’apprentissage et une porte de repentance. Lorsque vous faites une erreur, ce qu'il faut faire est : souvenez-vous d'Allah, recherchez l'istighfar, comprenez la raison de l'erreur et essayez de ne pas répéter la même erreur. Aujourd’hui, pensez à une erreur de votre passé et demandez-vous ce que vous en avez appris.",
+    "id": "Melakukan kesalahan merupakan bagian yang tidak bisa dipisahkan dari manusia. Islam mengetahui hal ini, dan itulah sebabnya Islam membahas pertobatan, pengampunan, dan memulai kembali dengan cara yang komprehensif. Persoalan sebenarnya bukanlah membuat kesalahan, melainkan bagaimana kita menghadapinya.\n\nAllah SWT berfirman:\n\n**﴿وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ﴾**\n**\"Dan orang-orang yang apabila berbuat maksiat atau menganiaya dirinya sendiri, mengingat Allah dan memohon ampun atas dosa-dosanya -- dan siapakah yang dapat mengampuni dosanya selain Allah? -- dan siapakah yang tidak bertahan pada apa yang telah mereka kerjakan selagi mereka mengetahui.\"**\n*(Al-Imran 3:135)*\n\nNabi kita ﷺ juga bersabda:\n\n**كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ»**\n**\"Setiap anak Adam berbuat salah, dan sebaik-baik orang yang berbuat salah adalah orang yang bertaubat.\"**\n*(Tirmidzi, Ibnu Majah — riwayat Anas bin Malik r.a.)*\n\nIslam memandang suatu kesalahan bukan sebagai sumber rasa malu tetapi sebagai kesempatan untuk belajar dan pintu taubat. Ketika melakukan kesalahan, yang harus dilakukan adalah: mengingat Allah, beristighfar, memahami alasan kesalahan tersebut, dan berusaha untuk tidak mengulangi kesalahan yang sama. Hari ini, pikirkan kesalahan dari masa lalu Anda – dan tanyakan pada diri Anda apa yang Anda pelajari dari kesalahan tersebut."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "بەپێی حەدیسی «هەر کوڕی ئادەم هەڵە دەکات»، باشترین ئەوانەی هەڵە دەکەن کێن؟",
         "ar": "مَن خيرُ المخطئين وفق حديث «كل ابن آدم خطَّاء»؟",
         "ru": "Согласно хадису «Каждый сын Адама совершает ошибки», кто лучший из тех, кто ошибается?",
-        "fr": "D'après le hadith « Chaque fils d'Adam fait des erreurs », qui est le meilleur de ceux qui commettent des erreurs ?"
+        "fr": "D'après le hadith « Chaque fils d'Adam fait des erreurs », qui est le meilleur de ceux qui commettent des erreurs ?",
+        "id": "Menurut hadits “Setiap Anak Adam berbuat salah”, siapakah yang paling baik berbuat salah?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەوانەی هیچ جار هەڵە ناکەن",
           "ar": "الذين لا يخطئون أبداً",
           "ru": "Те, кто никогда не ошибается",
-          "fr": "Ceux qui ne font jamais d'erreurs"
+          "fr": "Ceux qui ne font jamais d'erreurs",
+          "id": "Mereka yang tidak pernah melakukan kesalahan"
         },
         {
           "tr": "Hatalarını saklayanlardı",
@@ -68,7 +72,8 @@
           "ckb": "ئەوانەی هەڵەکانیان دەشارنەوە",
           "ar": "الذين يخفون أخطاءهم",
           "ru": "Те, кто скрывают свои ошибки",
-          "fr": "Ceux qui cachent leurs erreurs"
+          "fr": "Ceux qui cachent leurs erreurs",
+          "id": "Mereka yang menyembunyikan kesalahannya"
         },
         {
           "tr": "Tövbe edenler",
@@ -81,7 +86,8 @@
           "ckb": "ئەوانەی تۆبە دەکەن",
           "ar": "التوَّابون",
           "ru": "Те, кто раскаивается",
-          "fr": "Ceux qui se repentent"
+          "fr": "Ceux qui se repentent",
+          "id": "Mereka yang bertobat"
         },
         {
           "tr": "Az hata yapanlar",
@@ -94,7 +100,8 @@
           "ckb": "ئەوانەی کەم هەڵە دەکەن",
           "ar": "الذين يُخطئون قليلاً",
           "ru": "Те, кто делает мало ошибок",
-          "fr": "Ceux qui font peu d'erreurs"
+          "fr": "Ceux qui font peu d'erreurs",
+          "id": "Mereka yang melakukan sedikit kesalahan"
         }
       ],
       "correct": 2
@@ -112,7 +119,8 @@
         "ckb": "بەپێی ئال عیمران ٣:١٣٥، یەکەمین شتی باوەڕدار دواتر لە هەڵەکردن دەبێت چی بکات؟",
         "ar": "ما أوَّل ما يجب على المؤمن بعد ارتكاب الخطأ وفق آل عمران الآية ١٣٥؟",
         "ru": "Согласно Аль-Имрану 3:135, что в первую очередь должен сделать верующий после совершения ошибки?",
-        "fr": "Selon Al-Imran 3 : 135, quelle est la première chose qu’un croyant devrait faire après avoir commis une erreur ?"
+        "fr": "Selon Al-Imran 3 : 135, quelle est la première chose qu’un croyant devrait faire après avoir commis une erreur ?",
+        "id": "Menurut Al-Imran 3:135, apa hal pertama yang harus dilakukan orang mukmin setelah melakukan kesalahan?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "کەسانی تر تاوانبار کردن",
           "ar": "إلقاء اللوم على الآخرين",
           "ru": "Обвинение других",
-          "fr": "Blâmer les autres"
+          "fr": "Blâmer les autres",
+          "id": "Menyalahkan orang lain"
         },
         {
           "tr": "Allah'ı zikretmek ve bağışlanma dilemek",
@@ -139,7 +148,8 @@
           "ckb": "اللە بیردەکاتەوە و داوای بەخشین دەکات",
           "ar": "ذكر الله والاستغفار",
           "ru": "Помня Аллаха и ища прощения",
-          "fr": "Se souvenir d'Allah et demander pardon"
+          "fr": "Se souvenir d'Allah et demander pardon",
+          "id": "Mengingat Allah dan memohon ampun"
         },
         {
           "tr": "Hatadan kaçmak ve kimseye söylememek",
@@ -152,7 +162,8 @@
           "ckb": "هەڵەکە بگوێجیرێت و بە کەس نەگوترێت",
           "ar": "الهروب من الخطأ وعدم إخبار أحد",
           "ru": "Бежать от ошибки и никому не рассказывать",
-          "fr": "Fuir l'erreur et ne le dire à personne"
+          "fr": "Fuir l'erreur et ne le dire à personne",
+          "id": "Lari dari kesalahan dan tidak memberitahu siapapun"
         },
         {
           "tr": "Uzun süre üzüntü içinde kalmak",
@@ -165,7 +176,8 @@
           "ckb": "کاتێکی درێژ لە خەمدا مان",
           "ar": "البقاء في الحزن مدةً طويلة",
           "ru": "Пребывание в печали в течение длительного времени",
-          "fr": "Rester longtemps dans le deuil"
+          "fr": "Rester longtemps dans le deuil",
+          "id": "Tinggal dalam kesedihan untuk waktu yang lama"
         }
       ],
       "correct": 1
@@ -183,7 +195,8 @@
         "ckb": "کێ حەدیسی «هەر کوڕی ئادەم هەڵە دەکات» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «كل ابن آدم خطَّاء»؟",
         "ru": "Кто передал хадис «Каждый сын Адама совершает ошибки»?",
-        "fr": "Qui a rapporté le hadith « Chaque fils d'Adam fait des erreurs » ?"
+        "fr": "Qui a rapporté le hadith « Chaque fils d'Adam fait des erreurs » ?",
+        "id": "Siapa yang meriwayatkan hadits “Setiap anak Adam berbuat kesalahan”?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "ئەبو هورەیرە خ.ل.ر",
           "ar": "أبو هريرة رضي الله عنه",
           "ru": "Абу Хурайра r.a.",
-          "fr": "Abu Hurairah r.a."
+          "fr": "Abu Hurairah r.a.",
+          "id": "Abu Hurairah r.a."
         },
         {
           "tr": "Hz. Âişe",
@@ -210,7 +224,8 @@
           "ckb": "عائیشە خ.ل.ر",
           "ar": "عائشة رضي الله عنها",
           "ru": "Аиша р.а.",
-          "fr": "Aisha r.a."
+          "fr": "Aisha r.a.",
+          "id": "Aisyah r.a."
         },
         {
           "tr": "Hz. Enes b. Mâlik",
@@ -223,7 +238,8 @@
           "ckb": "ئەنەس بن مالیک خ.ل.ر",
           "ar": "أنس بن مالك رضي الله عنه",
           "ru": "Анас ибн Малик r.a.",
-          "fr": "Anas ibn Malik r.a."
+          "fr": "Anas ibn Malik r.a.",
+          "id": "Anas bin Malik r.a."
         },
         {
           "tr": "Hz. İbn Abbâs",
@@ -236,7 +252,8 @@
           "ckb": "ئیبن عەباس خ.ل.ر",
           "ar": "ابن عباس رضي الله عنه",
           "ru": "Ибн Аббас r.a.",
-          "fr": "Ibn Abbas r.a."
+          "fr": "Ibn Abbas r.a.",
+          "id": "Ibnu Abbas r.a."
         }
       ],
       "correct": 2
@@ -254,7 +271,8 @@
         "ckb": "ئیسلام هەڵە چۆن دەبینێت؟",
         "ar": "كيف ينظر الإسلام إلى الخطأ؟",
         "ru": "Как Ислам относится к ошибке?",
-        "fr": "Comment l’Islam perçoit-il une erreur ?"
+        "fr": "Comment l’Islam perçoit-il une erreur ?",
+        "id": "Bagaimana Islam memandang suatu kesalahan?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "وەک سەرچاوەیەکی شەرمی بەردەوام",
           "ar": "مصدرَ خجلٍ دائم",
           "ru": "Как постоянный источник стыда",
-          "fr": "Comme une source permanente de honte"
+          "fr": "Comme une source permanente de honte",
+          "id": "Sebagai sumber rasa malu yang permanen"
         },
         {
           "tr": "Öğrenme fırsatı ve tövbe kapısı olarak",
@@ -281,7 +300,8 @@
           "ckb": "وەک دەرفەتی فێربوون و دەروازەی تۆبە",
           "ar": "فرصةً للتعلُّم وباباً للتوبة",
           "ru": "Как возможность обучения и врата покаяния",
-          "fr": "Comme opportunité d’apprentissage et porte de repentance"
+          "fr": "Comme opportunité d’apprentissage et porte de repentance",
+          "id": "Sebagai kesempatan belajar dan pintu taubat"
         },
         {
           "tr": "Kişinin değersizliğinin kanıtı olarak",
@@ -294,7 +314,8 @@
           "ckb": "وەک بەڵگەی بێ بەهایی کەسێک",
           "ar": "دليلاً على انعدام قيمة الشخص",
           "ru": "Как доказательство никчёмности человека",
-          "fr": "Comme preuve de l'inutilité d'une personne"
+          "fr": "Comme preuve de l'inutilité d'une personne",
+          "id": "Sebagai bukti ketidakberhargaan seseorang"
         },
         {
           "tr": "Cezayı hak etmenin göstergesi olarak",
@@ -307,7 +328,8 @@
           "ckb": "وەک نیشانەی شایستەبوونی سزا",
           "ar": "دليلاً على استحقاق العقوبة",
           "ru": "Как показатель заслуженного наказания",
-          "fr": "En tant qu'indicateur d'une punition méritée"
+          "fr": "En tant qu'indicateur d'une punition méritée",
+          "id": "Sebagai indikator pantasnya hukuman"
         }
       ],
       "correct": 1
@@ -325,7 +347,8 @@
         "ckb": "بەپێی ئال عیمران ٣:١٣٥، باوەڕدار دوای هەڵەیەک دەبێت چی نەکات؟",
         "ar": "ما الذي لا ينبغي للمؤمن فعله بعد الخطأ وفق آل عمران الآية ١٣٥؟",
         "ru": "Чего НЕ следует делать верующему после ошибки, согласно Аль-Имрану 3:135?",
-        "fr": "Que ne devrait PAS faire un croyant après une erreur, selon Al-Imran 3 : 135 ?"
+        "fr": "Que ne devrait PAS faire un croyant après une erreur, selon Al-Imran 3 : 135 ?",
+        "id": "Apa yang TIDAK boleh dilakukan oleh orang beriman setelah melakukan kesalahan, menurut Al-Imran 3:135?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "تۆبە کردن",
           "ar": "التوبة",
           "ru": "Покаяние",
-          "fr": "Se repentir"
+          "fr": "Se repentir",
+          "id": "Bertobat"
         },
         {
           "tr": "Bağışlanma dilemek",
@@ -352,7 +376,8 @@
           "ckb": "داواکردنی بەخشین",
           "ar": "الاستغفار",
           "ru": "Ищу прощения",
-          "fr": "Chercher le pardon"
+          "fr": "Chercher le pardon",
+          "id": "Mencari pengampunan"
         },
         {
           "tr": "Yaptığı hatada ısrar etmek",
@@ -365,7 +390,8 @@
           "ckb": "لەسەر هەڵەکەی ئیسرار کردن",
           "ar": "الإصرار على الخطأ",
           "ru": "Упорство в ошибке",
-          "fr": "Persister dans l'erreur"
+          "fr": "Persister dans l'erreur",
+          "id": "Bertahan dalam kesalahan"
         },
         {
           "tr": "Allah'a yönelmek",
@@ -378,7 +404,8 @@
           "ckb": "بەرەو اللە گەڕانەوە",
           "ar": "الإقبال على الله",
           "ru": "Обращение к Аллаху",
-          "fr": "Se tourner vers Allah"
+          "fr": "Se tourner vers Allah",
+          "id": "Berpaling kepada Allah"
         }
       ],
       "correct": 2
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ پرسیارێکی سەخت بۆت: هەڵەیەک لە ڕابردووتدا هەیە کە هێشتا ئازارت دەدات؟ ئەگەر شتێک کە لەگەڵ کەسێک کردت، ئەگەر دەرفەتێک لەدەستتدا چووە، ئەگەر کاتێک کە لە خۆتدا ناعادڵانەت بوو... ئیسلام دەڵێت: ئەو بار لەسەر پشتت مەگره. تۆبە بکە، فێر بە، بیهێڵە. اللە تۆبەکان قبووڵ دەکات. و ئەو هەڵە — ئەگەر لێیت فێربوویت — دیگە لاوازت ناکات؛ بەهێزت دەکات.",
     "ar": "سؤالٌ عسيرٌ لك اليوم: هل ثمَّةَ خطأٌ من ماضيك لا يزال يُقلقك؟ ربَّما شيءٌ فعلتَه مع شخصٍ ما، ربَّما فرصةٌ فاتتك، ربَّما لحظةٌ ظلمتَ فيها نفسَك... يقول الإسلام: لا تحمله على ظهرك. تُب، وتعلَّم، ودَعه. اللهُ يقبل التوبة. وذلك الخطأ — إن تعلَّمتَ منه — لن يُضعفَك بعد الآن؛ بل سيُقوِّيك.",
     "ru": "Сегодня для вас трудный вопрос: есть ли в вашем прошлом ошибка, которая все еще беспокоит вас? Возможно, что-то, что вы сделали кому-то, возможно, возможность, которую вы упустили, возможно, момент, когда вы были несправедливы к себе... Ислам говорит: Не носите это на своей спине. Покайтесь, учитесь, отпустите. Аллах принимает покаяние. И эта ошибка — если вы извлекли из нее урок — больше не ослабляет вас; это укрепляет вас.",
-    "fr": "Une question difficile pour vous aujourd’hui : y a-t-il une erreur de votre passé qui vous trouble encore ? Peut-être quelque chose que vous avez fait à quelqu'un, peut-être une opportunité que vous avez manquée, peut-être un moment où vous avez été injuste envers vous-même... L'Islam dit : Ne le portez pas sur votre dos. Repentez-vous, apprenez, lâchez prise. Allah accepte le repentir. Et cette erreur – si vous en avez tiré des leçons – ne vous affaiblit plus ; cela vous renforce."
+    "fr": "Une question difficile pour vous aujourd’hui : y a-t-il une erreur de votre passé qui vous trouble encore ? Peut-être quelque chose que vous avez fait à quelqu'un, peut-être une opportunité que vous avez manquée, peut-être un moment où vous avez été injuste envers vous-même... L'Islam dit : Ne le portez pas sur votre dos. Repentez-vous, apprenez, lâchez prise. Allah accepte le repentir. Et cette erreur – si vous en avez tiré des leçons – ne vous affaiblit plus ; cela vous renforce.",
+    "id": "Pertanyaan sulit untuk Anda hari ini: Adakah kesalahan masa lalu Anda yang masih meresahkan Anda? Mungkin sesuatu yang Anda lakukan terhadap seseorang, mungkin kesempatan yang Anda lewatkan, mungkin momen ketika Anda tidak adil terhadap diri sendiri... Islam mengatakan: Jangan membawanya di punggung Anda. Bertobat, belajar, melepaskan. Allah menerima taubat. Dan kesalahan itu – jika Anda mengambil pelajaran darinya – tidak lagi melemahkan Anda; itu menguatkanmu."
   }
 }

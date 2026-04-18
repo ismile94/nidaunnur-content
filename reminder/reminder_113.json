@@ -12,7 +12,8 @@
     "ckb": "قووڵایی تەفەکور",
     "ar": "عمق التفكّر",
     "ru": "Глубина созерцания",
-    "fr": "La profondeur de la contemplation"
+    "fr": "La profondeur de la contemplation",
+    "id": "Kedalaman Kontemplasi"
   },
   "content": {
     "tr": "Tefekkür; Allah'ın yarattıklarını derin bir dikkatle düşünmek, kâinattaki nizamı ve hikmeti okumak demektir. Bir yaprağın damarlarına bakmak, gökyüzünün renk geçişlerini seyretmek, bir karıncanın yükünü taşıyışını izlemek — bunların hepsi tefekkür kapılarıdır. Bu kapıları açan kişi, her zerrede Allah'ın sanatını görür ve kalbi haşyet ile dolup taşar.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**«Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde akıl sahipleri için elbette ibretler vardır.»**\n*(Âl-i İmrân 3:190)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n**«Bir saatlik tefekkür, altmış yıllık ibadetten hayırlıdır.»**\n*(Taberânî — Ebû Hureyre r.a. rivayetiyle)*\n\nBu söz, tefekkürün ibadetteki yerini çarpıcı biçimde ortaya koymaktadır. Çünkü tefekkür; sadece zihinsel bir faaliyet değil, kalbi Allah'a bağlayan ve O'nun büyüklüğünü idrak ettiren derin bir ibadettir. Bugün 5 dakika durun; telefonu, gürültüyü, aceleyi bir kenara bırakın. Gökyüzüne bakın, etrafınızdaki bir bitkiyi inceleyin ya da kendi nefesinizi hissedin. Bu nefesi kimin verdiğini düşünün. İşte bu düşünce, tefekkürün ilk adımıdır.",
@@ -25,7 +26,8 @@
     "ckb": "تەفەکور؛ بە سەرنجێکی قووڵ لەسەر ئەوەی الله دروستی کردووە فکرکردن، خوێندنی ڕێکوپێکی و حیکمەتی لە گەردوودا. سەیرکردنی دەمارەکانی گیایەک، تەماشاکردنی گۆڕانی ڕەنگی ئاسمان، تەماشاکردنی مێرووێک کە بارەکەی هەڵدەگرێت — هەموویان دەریچەی تەفەکوورن. ئەو کەسەی ئەم دەریچانە دەکاتەوە، لە هەر دانەیەکدا هونەری الله دەبینێت و دل پڕ لە هەیبەت دەبێت.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**«بێگومان لە دروستکردنی ئاسمانەکان و زەوی و جیاوازی شەو و ڕۆژدا، نیشانەکان هەن بۆ خاوەن تێگەیشتن.»**\n*(ئالی عیمران ٣:١٩٠)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n**«یەک کاتژمێر تەفەکور لە شەست ساڵ عیبادەت باشترە.»**\n*(تەبەرانی — بە ڕێوایەتی ئەبو هورەیرە ڕ.ع)*\n\nئەم قسەیە بە شێوەیەکی سەرنجڕاکێش شوێنی تەفەکور لە عیبادەتدا ئاشکرا دەکات. چونکە تەفەکور تەنها چالاکییەکی ذهنی نییە؛ عیبادەتێکی قووڵە کە دل بە الله پەیوەند دەکات و تێگەیشتن لە بەزەی بەرزی دەدات. ئەمڕۆ ٥ خولەک بوەستە؛ مۆبایل، دەنگوباس و پەلەکە بنێ لە کەناری. بە ئاسمان سەیر بکە، ڕووەکێکی لە دەوروبەرت خوێندنەوە، یان نەفەسی خۆت هەست پێ بکە. فکربکە کەم ئەم نەفەسەت دا. ئەم ئیشەتە، گامی یەکەمی تەفەکوورە.",
     "ar": "التأمُّلُ يعني التفكيرَ العميقَ الانتباهيَّ في خلق الله، وقراءةَ النظام والحكمة في الكون. النظرُ في عروق الورقة، ومشاهدةُ تحوُّلات ألوان السماء، وملاحظةُ النملة وهي تحمل حِملَها — كلُّها أبوابُ تأمُّل. من يفتح هذه الأبواب يرى في كلِّ ذرَّةٍ فنَّ الله فيفيض القلبُ بالهيبة.\n\nيقول الله تعالى:\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n*(آل عمران: ١٩٠)*\n\nوقال النبيُّ ﷺ:\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n*(رواه الطبراني — عن أبي هريرة رضي الله عنه)*\n\nهذا الكلامُ يكشف بشكلٍ صارخٍ مكانةَ التأمُّل في العبادة. لأنَّ التأمُّلَ ليس مجرَّد نشاطٍ ذهنيٍّ؛ بل هو عبادةٌ روحيَّةٌ عميقةٌ تربط القلبَ بالله وتُدرِك عظمته. اليوم توقَّف 5 دقائق؛ ضع جانباً الهاتفَ والضجيجَ والاندفاع. انظر إلى السماء، أو تفحَّص نباتاً قريباً منك.",
     "ru": "Созерцание означает глубокое и внимательное размышление о том, что создал Аллах, чтение порядка и мудрости во вселенной. Глядя на прожилки листа, наблюдая за цветовыми переходами неба, наблюдая за муравьем, несущим свой груз — все это двери созерцания. Человек, открывающий эти двери, видит мастерство Аллаха в каждой частице, и сердце переполняется трепетом.\n\nАллах Всевышний говорит:\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**\"Поистине, в сотворении неба и земли и в чередовании ночи и дня суть знамения для разумных.\"**\n*(Аль-Имран 3:190)*\n\nНаш Пророк ﷺ сказал:\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n**\"Час созерцания лучше шестидесяти лет поклонения.\"**\n*(Табарани — передал Абу Хурайра r.a.)*\n\nЭто утверждение поразительно раскрывает место созерцания в богослужении. Потому что созерцание — это не просто умственная деятельность; это глубокий акт поклонения, который соединяет сердце с Аллахом и заставляет человека постичь Его величие. Сегодня остановка на 5 минут; отложи телефон, шум, суету. Посмотрите на небо, рассмотрите растение рядом с вами или почувствуйте собственное дыхание. Подумайте о том, кто дал вам это дыхание. Эта мысль является первым шагом созерцания.",
-    "fr": "La contemplation signifie réfléchir profondément et attentivement à ce qu'Allah a créé, lire l'ordre et la sagesse de l'univers. Regarder les nervures d’une feuille, observer les transitions de couleurs du ciel, observer une fourmi portant sa charge, ce sont autant de portes de contemplation. La personne qui ouvre ces portes voit le talent artistique d'Allah dans chaque particule et son cœur déborde de respect.\n\nAllah le Très-Haut dit :\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**\"En effet, dans la création des cieux et de la terre et l'alternance de la nuit et du jour sont des signes pour ceux qui ont de l'intelligence.\"**\n*(Aal-Imran 3:190)*\n\nNotre Prophète ﷺ a dit :\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n**\"Une heure de contemplation vaut mieux que soixante ans d'adoration.\"**\n*(Tabarani — rapporté par Abu Hurairah r.a.)*\n\nCette affirmation révèle de manière frappante la place de la contemplation dans le culte. Parce que la contemplation n’est pas simplement une activité mentale ; c'est un acte d'adoration profond qui relie le cœur à Allah et fait comprendre Sa grandeur. Aujourd'hui, arrêtez-vous pendant 5 minutes ; mettez de côté le téléphone, le bruit, la précipitation. Regardez le ciel, examinez une plante près de chez vous ou sentez votre propre souffle. Pensez à qui vous a donné ce souffle. Cette pensée est la première étape de la contemplation."
+    "fr": "La contemplation signifie réfléchir profondément et attentivement à ce qu'Allah a créé, lire l'ordre et la sagesse de l'univers. Regarder les nervures d’une feuille, observer les transitions de couleurs du ciel, observer une fourmi portant sa charge, ce sont autant de portes de contemplation. La personne qui ouvre ces portes voit le talent artistique d'Allah dans chaque particule et son cœur déborde de respect.\n\nAllah le Très-Haut dit :\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**\"En effet, dans la création des cieux et de la terre et l'alternance de la nuit et du jour sont des signes pour ceux qui ont de l'intelligence.\"**\n*(Aal-Imran 3:190)*\n\nNotre Prophète ﷺ a dit :\n\n**«تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً»**\n**\"Une heure de contemplation vaut mieux que soixante ans d'adoration.\"**\n*(Tabarani — rapporté par Abu Hurairah r.a.)*\n\nCette affirmation révèle de manière frappante la place de la contemplation dans le culte. Parce que la contemplation n’est pas simplement une activité mentale ; c'est un acte d'adoration profond qui relie le cœur à Allah et fait comprendre Sa grandeur. Aujourd'hui, arrêtez-vous pendant 5 minutes ; mettez de côté le téléphone, le bruit, la précipitation. Regardez le ciel, examinez une plante près de chez vous ou sentez votre propre souffle. Pensez à qui vous a donné ce souffle. Cette pensée est la première étape de la contemplation.",
+    "id": "Merenung berarti memikirkan secara mendalam dan penuh perhatian terhadap apa yang diciptakan Allah, membaca keteraturan dan hikmah di alam semesta. Melihat urat-urat daun, mengamati transisi warna langit, mengamati seekor semut membawa muatannya — ini semua adalah pintu kontemplasi. Orang yang membuka pintu ini melihat karya seni Allah dalam setiap partikelnya dan hatinya dipenuhi rasa kagum.\n\nAllah SWT berfirman:\n\n**﴿إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ﴾**\n**\"Sesungguhnya dalam penciptaan langit dan bumi serta silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal.\"**\n*(Aal-Imran 3:190)*\n\nNabi kita ﷺ bersabda:\n\n**\"تَفَكُّرُ سَاعَةٍ خَيْرٌ مِنْ عِبَادَةِ سِتِّينَ سَنَةً\"**\n**\"Satu jam merenung lebih baik dari enam puluh tahun beribadah.\"**\n*(Tabarani — diriwayatkan oleh Abu Hurairah r.a.)*\n\nPernyataan ini dengan jelas mengungkapkan tempat kontemplasi dalam ibadah. Karena kontemplasi bukan sekadar aktivitas mental; itu adalah ibadah mendalam yang menghubungkan hati dengan Allah dan membuat seseorang memahami kebesaran-Nya. Hari ini berhenti selama 5 menit; kesampingkan telepon, kebisingan, kesibukan. Lihatlah ke langit, amati tanaman di dekat Anda, atau rasakan napas Anda sendiri. Pikirkan tentang siapa yang memberi Anda nafas ini. Pikiran ini adalah langkah pertama dari kontemplasi."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسی «یەک کاتژمێر تەفەکور لە شەست ساڵ عیبادەت باشترە» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «تفكر ساعة خير من عبادة ستين سنة»؟",
         "ru": "Кто передал хадис «Час созерцания лучше шестидесяти лет поклонения»?",
-        "fr": "Qui a rapporté le hadith « Une heure de contemplation vaut mieux que soixante ans d'adoration » ?"
+        "fr": "Qui a rapporté le hadith « Une heure de contemplation vaut mieux que soixante ans d'adoration » ?",
+        "id": "Siapakah yang meriwayatkan hadits “Satu jam merenung lebih baik dari enam puluh tahun beribadah”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — تەبەرانی",
           "ar": "أبو هريرة رضي الله عنه — الطبراني",
           "ru": "Абу Хурайра r.a. — Табарани",
-          "fr": "Abu Hurairah r.a. -Tabarani"
+          "fr": "Abu Hurairah r.a. -Tabarani",
+          "id": "Abu Hurairah r.a. — Tabarani"
         },
         {
           "tr": "Hz. Ömer r.a. — Buhârî",
@@ -68,7 +72,8 @@
           "ckb": "عومەر ڕ.ع — بوخاری",
           "ar": "عمر رضي الله عنه — البخاري",
           "ru": "Умар р.а. — Бухари",
-          "fr": "Umar r.a. — Boukhari"
+          "fr": "Umar r.a. — Boukhari",
+          "id": "Umar r.a. — Bukhari"
         },
         {
           "tr": "İbn Abbâs r.a. — Müslim",
@@ -81,7 +86,8 @@
           "ckb": "ئیبن عەباس ڕ.ع — موسلیم",
           "ar": "ابن عباس رضي الله عنه — مسلم",
           "ru": "Ибн Аббас r.a. — Мусульманин",
-          "fr": "Ibn Abbas r.a. -Musulman"
+          "fr": "Ibn Abbas r.a. -Musulman",
+          "id": "Ibnu Abbas r.a. — Muslim"
         },
         {
           "tr": "Hz. Âişe r.a. — Tirmizî",
@@ -94,7 +100,8 @@
           "ckb": "عائیشە ڕ.ع — تیرمیزی",
           "ar": "عائشة رضي الله عنها — الترمذي",
           "ru": "Аиша р.а. — Тирмизи",
-          "fr": "Aisha r.a. — Tirmidhi"
+          "fr": "Aisha r.a. — Tirmidhi",
+          "id": "Aisyah r.a. – Tirmidzi"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی ئالی عیمران ٣:١٩٠، لە دروستکردنی ئاسمانەکان و زەویدا بۆ کێ نیشانەکان هەن؟",
         "ar": "لمَن الآيات في خلق السموات والأرض وفق آل عمران 3:190؟",
         "ru": "Согласно Аль-Имрану 3:190, для кого существуют знамения в сотворении неба и земли?",
-        "fr": "Selon Aal-Imran 3 :190, pour qui y a-t-il des signes dans la création des cieux et de la terre ?"
+        "fr": "Selon Aal-Imran 3 :190, pour qui y a-t-il des signes dans la création des cieux et de la terre ?",
+        "id": "Menurut Aal-Imran 3:190, bagi siapakah terdapat tanda-tanda penciptaan langit dan bumi?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "بۆ خاوەن تێگەیشتن",
           "ar": "لأولي الألباب",
           "ru": "Для понимающих",
-          "fr": "Pour ceux qui comprennent"
+          "fr": "Pour ceux qui comprennent",
+          "id": "Bagi mereka yang memahami"
         },
         {
           "tr": "Yalnızca peygamberler için",
@@ -139,7 +148,8 @@
           "ckb": "تەنها بۆ پێغەمبەران",
           "ar": "للأنبياء فحسب",
           "ru": "Только для пророков",
-          "fr": "Seulement pour les prophètes"
+          "fr": "Seulement pour les prophètes",
+          "id": "Hanya untuk para nabi"
         },
         {
           "tr": "Müminler ve kâfirler için",
@@ -152,7 +162,8 @@
           "ckb": "بۆ مؤمن و کافر",
           "ar": "للمؤمنين والكافرين",
           "ru": "Для верующих и неверующих",
-          "fr": "Pour les croyants et les incroyants"
+          "fr": "Pour les croyants et les incroyants",
+          "id": "Bagi yang beriman dan kafir"
         },
         {
           "tr": "Yalnızca âlimler için",
@@ -165,7 +176,8 @@
           "ckb": "تەنها بۆ زانایان",
           "ar": "للعلماء فحسب",
           "ru": "Только для ученых",
-          "fr": "Uniquement pour les universitaires"
+          "fr": "Uniquement pour les universitaires",
+          "id": "Hanya untuk para ulama"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "پێناسەی تەفەکور چییە؟",
         "ar": "ما تعريف التفكّر؟",
         "ru": "Каково определение созерцания (тафаккур)?",
-        "fr": "Quelle est la définition de la contemplation (tafakkur) ?"
+        "fr": "Quelle est la définition de la contemplation (tafakkur) ?",
+        "id": "Apa definisi kontemplasi (tafakkur)?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "بە سەرنجێکی قووڵ لەسەر ئەوەی الله دروستی کردووە فکرکردن و خوێندنی ڕێکوپێکی لە گەردوودا",
           "ar": "التفكر العميق والمتأمل في مخلوقات الله وقراءة النظام في الكون",
           "ru": "Глубоко и внимательно размышлять о том, что создал Аллах, и читать порядок во Вселенной.",
-          "fr": "Réfléchir profondément et attentivement à ce qu'Allah a créé et lire l'ordre dans l'univers"
+          "fr": "Réfléchir profondément et attentivement à ce qu'Allah a créé et lire l'ordre dans l'univers",
+          "id": "Berpikir secara mendalam dan penuh perhatian tentang apa yang telah Allah ciptakan dan membaca keteraturan di alam semesta"
         },
         {
           "tr": "Sürekli dua okumak",
@@ -210,7 +224,8 @@
           "ckb": "بەبەردەوامی دوعا خوێندنەوە",
           "ar": "قراءة الأدعية باستمرار",
           "ru": "Постоянное чтение мольб",
-          "fr": "Réciter continuellement des supplications"
+          "fr": "Réciter continuellement des supplications",
+          "id": "Membaca doa secara terus menerus"
         },
         {
           "tr": "Yalnızca Kuran okumak",
@@ -223,7 +238,8 @@
           "ckb": "تەنها قورئان خوێندنەوە",
           "ar": "قراءة القرآن فحسب",
           "ru": "Только чтение Корана",
-          "fr": "Ne réciter que le Coran"
+          "fr": "Ne réciter que le Coran",
+          "id": "Hanya membaca Al Quran"
         },
         {
           "tr": "Uzun süre meditasyon yapmak",
@@ -236,7 +252,8 @@
           "ckb": "کاتێکی درێژ مێدیتەیشن کردن",
           "ar": "ممارسة التأمل لفترات طويلة",
           "ru": "Длительные периоды медитации",
-          "fr": "Faire de longues périodes de méditation"
+          "fr": "Faire de longues périodes de méditation",
+          "id": "Melakukan meditasi jangka panjang"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بۆچی تەفەکور تەنها چالاکییەکی ذهنی نییە؟",
         "ar": "لماذا التفكّر ليس مجرد نشاط ذهني؟",
         "ru": "Почему созерцание — это не просто умственная деятельность?",
-        "fr": "Pourquoi la contemplation n’est-elle pas simplement une activité mentale ?"
+        "fr": "Pourquoi la contemplation n’est-elle pas simplement une activité mentale ?",
+        "id": "Mengapa kontemplasi bukan sekadar aktivitas mental?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "چونکە دل بە الله پەیوەند دەکات و تێگەیشتن لە بەزەی بەرزی دەدات — لەبەر ئەوە عیبادەتێکی قووڵە",
           "ar": "لأنه يربط القلب بالله ويُدرك عظمته فهو بذلك عبادة عميقة",
           "ru": "Поскольку оно соединяет сердце с Аллахом и позволяет постичь Его величие, следовательно, это глубокий акт поклонения.",
-          "fr": "Parce que cela relie le cœur à Allah et fait comprendre Sa grandeur – c’est donc un acte d’adoration profond."
+          "fr": "Parce que cela relie le cœur à Allah et fait comprendre Sa grandeur – c’est donc un acte d’adoration profond.",
+          "id": "Karena menghubungkan hati dengan Allah dan membuat seseorang memahami keagungan-Nya — oleh karena itu, ini merupakan ibadah yang mendalam"
         },
         {
           "tr": "Çünkü fiziksel egzersiz gerektirir",
@@ -281,7 +300,8 @@
           "ckb": "چونکە وەرزشی جەستەیی پێویست دەکات",
           "ar": "لأنه يستلزم نشاطاً بدنياً",
           "ru": "Потому что это требует физических упражнений.",
-          "fr": "Parce que cela nécessite de l'exercice physique"
+          "fr": "Parce que cela nécessite de l'exercice physique",
+          "id": "Karena itu memerlukan latihan fisik"
         },
         {
           "tr": "Çünkü dil hareketini zorunlu kılar",
@@ -294,7 +314,8 @@
           "ckb": "چونکە جووڵەی زمان پێویست دەکات",
           "ar": "لأنه يستوجب تحريك اللسان",
           "ru": "Потому что это требует движения языка.",
-          "fr": "Parce que cela nécessite un mouvement de la langue"
+          "fr": "Parce que cela nécessite un mouvement de la langue",
+          "id": "Karena itu memerlukan gerakan lidah"
         },
         {
           "tr": "Çünkü abdest almayı şart koşar",
@@ -307,7 +328,8 @@
           "ckb": "چونکە مەزووبوون پێویست دەکات",
           "ar": "لأنه يشترط الوضوء",
           "ru": "Потому что это требует омовения",
-          "fr": "Parce que cela nécessite des ablutions"
+          "fr": "Parce que cela nécessite des ablutions",
+          "id": "Karena itu memerlukan wudhu"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "ئەمڕۆ وەک گامی یەکەمی تەفەکور چی پێشنیار دەکرێت؟",
         "ar": "ما المقترح اليوم كخطوة أولى للتفكّر؟",
         "ru": "Что предлагается сегодня в качестве первого шага созерцания?",
-        "fr": "Quelle est la première étape de la contemplation proposée aujourd’hui ?"
+        "fr": "Quelle est la première étape de la contemplation proposée aujourd’hui ?",
+        "id": "Apa yang disarankan saat ini sebagai langkah kontemplasi pertama?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "٥ خولەک وەستان، بە ئاسمان سەیرکردن، ڕووەکێک تەماشاکردن یان نەفەسی خۆی هەست پێکردن و فکرکردن لەسەر ئەوەی کێ ئەم نەفەسەی داوە",
           "ar": "التوقف خمس دقائق والنظر إلى السماء أو فحص نبتة أو الإحساس بالنفَس والتفكر في مَن أعطاه",
           "ru": "Остановиться на 5 минут, посмотреть на небо, рассмотреть растение или почувствовать собственное дыхание и подумать о том, кто дал это дыхание.",
-          "fr": "S'arrêter 5 minutes, regarder le ciel, examiner une plante ou sentir sa propre respiration et penser à qui a donné cette respiration"
+          "fr": "S'arrêter 5 minutes, regarder le ciel, examiner une plante ou sentir sa propre respiration et penser à qui a donné cette respiration",
+          "id": "Berhenti selama 5 menit, memandang ke langit, mengamati tanaman, atau merasakan napas sendiri dan memikirkan siapa yang memberikan napas tersebut"
         },
         {
           "tr": "100 kez Sübhânallah demek",
@@ -352,7 +376,8 @@
           "ckb": "١٠٠ جار سوبحانەللاه بڵێ",
           "ar": "قول سبحان الله مئة مرة",
           "ru": "Сказать СубханАллах 100 раз.",
-          "fr": "Dire SubhanAllah 100 fois"
+          "fr": "Dire SubhanAllah 100 fois",
+          "id": "Mengucapkan SubhanAllah 100 kali"
         },
         {
           "tr": "Uzun bir Kuran suresi ezberlemek",
@@ -365,7 +390,8 @@
           "ckb": "سورەیەکی درێژی قورئان لەبەرکردن",
           "ar": "حفظ سورة قرآنية طويلة",
           "ru": "Запоминание длинной суры Корана",
-          "fr": "Mémoriser une longue sourate du Coran"
+          "fr": "Mémoriser une longue sourate du Coran",
+          "id": "Menghafal surah Alquran yang panjang"
         },
         {
           "tr": "Sabah namazından önce 1 saat uyanık kalmak",
@@ -378,7 +404,8 @@
           "ckb": "پێش نوێژی بەیانی ١ کاتژمێر بەیدار بمێنی",
           "ar": "الاستيقاظ ساعة قبل صلاة الفجر",
           "ru": "Бодрствование в течение 1 часа перед утренней молитвой",
-          "fr": "Rester éveillé 1 heure avant la prière du matin"
+          "fr": "Rester éveillé 1 heure avant la prière du matin",
+          "id": "Tetap terjaga selama 1 jam sebelum sholat subuh"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ بە چاوی قووڵ و تەفەکوورانە بە شتێکی ئاسایی لە دەوروبەرت سەیر بکە: هەورێک، گوڵێک، ئاوی دەڕوات، دەستی منداڵەکەت یان ڕووی خۆت لە ئاوێنەدا. و بپرسە: کێ ئەمەی دروست کرد؟ بۆچی ئاواش دروستی کرد؟ چ حیکمەتێک لە پشت ئەم دروستکردنەدایە؟ لەو کاتەیدا کە دەستت دەکات بەم پرسیارانە، دلت دەریچەیەک بۆ بەزەی اللهی دەکاتەوە. تەفەکور؛ قووڵترین دیالۆگەکە، لە دەرەوەی زانست، کە تیادا دل بە الله قسە دەکات.",
     "ar": "اليوم انظر بعينٍ متأمِّلةٍ إلى شيءٍ عادي حولك: سحابة، وردة، ماءٍ يجري، يدَي طفلك، أو وجهَك في المرآة. واسأل: مَن خلق هذا؟ لماذا خلقه هكذا؟ أيُّ حكمةٍ تكمن خلف هذا الخلق؟ حين تبدأ بطرح هذه الأسئلة يفتح قلبُك باباً لعظمة الله. التأمُّلُ أعمقُ حوار، بعيداً عن المعرفة، تتكلَّم فيه الروحُ مع الله.",
     "ru": "Сегодня внимательно посмотрите созерцательными глазами на обычную вещь вокруг себя: облако, цветок, текущую воду, руку вашего ребенка или собственное лицо в зеркале. И спросите: Кто это создал? Почему они создали его таким? Какая мудрость скрывается за этим творением? В тот момент, когда вы начнете задавать эти вопросы, ваше сердце откроет дверь к величию Аллаха. Созерцание – это глубочайший диалог, выходящий за рамки знания, в котором сердце обращается к Аллаху.",
-    "fr": "Aujourd'hui, regardez profondément avec des yeux contemplatifs une chose ordinaire autour de vous : un nuage, une fleur, de l'eau qui coule, la main de votre enfant ou votre propre visage dans le miroir. Et demandez : Qui a créé cela ? Pourquoi l’ont-ils créé ainsi ? Quel genre de sagesse se cache derrière cette création ? Dès que vous commencez à poser ces questions, votre cœur ouvre une porte à la grandeur d'Allah. La contemplation est le dialogue le plus profond, au-delà de la connaissance, dans lequel le cœur parle à Allah."
+    "fr": "Aujourd'hui, regardez profondément avec des yeux contemplatifs une chose ordinaire autour de vous : un nuage, une fleur, de l'eau qui coule, la main de votre enfant ou votre propre visage dans le miroir. Et demandez : Qui a créé cela ? Pourquoi l’ont-ils créé ainsi ? Quel genre de sagesse se cache derrière cette création ? Dès que vous commencez à poser ces questions, votre cœur ouvre une porte à la grandeur d'Allah. La contemplation est le dialogue le plus profond, au-delà de la connaissance, dans lequel le cœur parle à Allah.",
+    "id": "Hari ini lihatlah secara mendalam dengan mata kontemplatif pada hal biasa di sekitar Anda: awan, bunga, air mengalir, tangan anak Anda, atau wajah Anda sendiri di cermin. Dan tanyakan: Siapa yang menciptakan ini? Mengapa mereka menciptakannya seperti ini? Hikmah apa yang ada dibalik penciptaan ini? Saat Anda mulai menanyakan pertanyaan-pertanyaan ini, hati Anda membuka pintu menuju kebesaran Allah. Kontemplasi adalah dialog terdalam, melampaui pengetahuan, di mana hati berbicara kepada Allah."
   }
 }

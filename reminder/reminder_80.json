@@ -12,7 +12,8 @@
     "ckb": "ڕۆحی ئاڵوگۆڕ",
     "ar": "روح البذل والعطاء",
     "ru": "Дух обмена",
-    "fr": "Esprit de partage"
+    "fr": "Esprit de partage",
+    "id": "Semangat Berbagi"
   },
   "content": {
     "tr": "İslam'da paylaşmak; bir fazlalığı elden çıkarmak değil, kalpten gelen bir cömertlik eylemidir. Sahabe-i kiram, bazen kendileri aç iken misafirlerine yedirmiş; ellerindeki en son lokmayı dahi paylaşmışlardır. Bu cömertlik ruhu Kur'an'da şöyle övülür:\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**«Kendileri muhtaç olsalar bile başkalarını kendilerine tercih ederler.»**\n*(Haşr 59:9)*\n\nPeygamberimiz ﷺ de şöyle buyurmuştur:\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n**«İki kişiye yeten yemek üç kişiye de yeter; üç kişiye yeten dört kişiye de yeter.»**\n*(Müslim — Câbir r.a. rivayetiyle)*\n\nPaylaşmak serveti azaltmaz, bilakis bereketlendirir. Cömert bir el her zaman dolu kalır; çünkü veren el alan elden üstündür. Küçük bir lokma, bir bardak su, bir söz — bunların tümü paylaşılabilir. Ve Allah katında en küçük paylaşım bile sevaba dönüşür. Bugün elinizde ne varsa, biraz fazlasını biriyle paylaşın.",
@@ -25,7 +26,8 @@
     "ckb": "لە ئیسلامدا بەشداری کردن؛ نەک تەنها دەرکردنی زیاتر، بەڵکو کردەوەیەکی کەرەمییە کە لە دڵ دێت. یاران، ئەوکاتێش کە خۆیان برسی بوون، میوانەکانیان دەخواردن؛ تەنانەت دوایین لووپیانیشی دابەش دەکرد. ئەم ڕۆحی کەرەمییە لە قورئاندا ئاوا ستایش دەکرێت:\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**«کەسانی تریان بەسەر خۆیانەوە پەسەند دەکەن، تەنانەت ئەگەر خۆیان هەژار بن.»**\n*(حەشر ٥٩:٩)*\n\nپێغەمبەرمان ﷺ هەروەها فەرموویەتی:\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n**«خواردنی کە بۆ دووان بەسە، بۆ سێ کەسیش بەسە؛ خواردنی کە بۆ سێ کەسان بەسە، بۆ چوار کەسیش بەسە.»**\n*(موسلیم — بە ڕێوایەتی جابر ڕ.ع)*\n\nبەشداری کردن دەوڵەمەندی کەم ناکات؛ پێچەوانەی، بەرەکەتی دەدات. دەستێکی کەرەم هەمیشە پڕ دەمێنێتەوە؛ چونکە دەستی داناک لە دەستی ستانەکە باشترە. لووپێکی بچووک، گلاسێکی ئاو، قسەیەک — هەمووی دەتوانرێت بەشداری بکرێت. و لەلای اللەدا تەنانەت بچووکترین بەشداریکردنیش دەبێتە ثەواب. ئەمڕۆ کەمێک زیاتر لەوەی هەیتت لەگەڵ کەسێکدا بەشداری بکە.",
     "ar": "البذلُ في الإسلام ليس مجرد التخلص من الفائض، بل هو فعلُ كرمٍ نابعٌ من القلب. كان الصحابةُ رضي الله عنهم يُؤثرون ضيوفهم على أنفسهم حتى وهم جياع، ويشاركون حتى آخر لقمة. وهذه الروح يُثني عليها القرآن الكريم:\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n*(الحشر: ٩)*\n\nوقال النبي ﷺ:\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n*(رواه مسلم — عن جابر رضي الله عنه)*\n\nالعطاءُ لا يُنقص المال بل يُبارك فيه. اليدُ المعطية تظل ممتلئة دائمًا؛ لأن اليد العليا خيرٌ من اليد السفلى. لقمةٌ صغيرة، كوبُ ماء، كلمةٌ طيبة — كل ذلك يمكن مشاركته. وعند الله، حتى أصغر مشاركة تُكتب أجرًا.",
     "ru": "В Исламе делиться – это не просто избавляться от излишеств, это акт щедрости, идущий от сердца. Сподвижники, даже когда сами были голодны, кормили своих гостей; они поделятся даже последним куском. Этот дух щедрости восхваляется в Коране:\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**\"И они отдают предпочтение самим себе, хотя и находятся в лишениях.\"**\n*(Аль-Хашр 59:9)*\n\nНаш Пророк ﷺ также сказал:\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n**\"Еды, которой хватит на двоих, хватит и на троих; еды, которой хватит на троих, хватит и на четверых\".**\n*(Муслим — передал Джабир r.a.)*\n\nСовместное использование не уменьшает богатство; напротив, это приносит благословение. Щедрая рука всегда остается полной; ибо рука дающая лучше руки принимающей. Маленький кусочек, стакан воды, слово — всем этим можно поделиться. И перед Аллахом даже самый маленький пожертвование становится наградой. Сегодня поделитесь с кем-нибудь еще немного тем, что у вас есть.",
-    "fr": "En Islam, partager n’est pas seulement se débarrasser d’un excès, mais un acte de générosité qui vient du cœur. Les Compagnons, même lorsqu'ils avaient eux-mêmes faim, nourrissaient leurs invités ; ils partageraient même leur dernier morceau. Cet esprit de générosité est loué dans le Coran :\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**\"Et ils donnent la préférence à eux-mêmes, même s'ils sont dans la privation.\"**\n*(Al-Hashr 59 : 9)*\n\nNotre Prophète ﷺ a également dit :\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n** \"Une nourriture suffisante pour deux suffit pour trois ; une nourriture suffisante pour trois suffit pour quatre.\"**\n*(Musulman — rapporté par Jabir r.a.)*\n\nLe partage ne diminue pas la richesse ; au contraire, cela apporte une bénédiction. Une main généreuse reste toujours pleine ; car celui qui donne vaut mieux que celui qui reçoit. Un petit morceau, un verre d'eau, un mot, tout cela peut être partagé. Et devant Allah, même le plus petit acte de partage devient une récompense. Aujourd’hui, partagez un peu plus de ce que vous avez avec quelqu’un."
+    "fr": "En Islam, partager n’est pas seulement se débarrasser d’un excès, mais un acte de générosité qui vient du cœur. Les Compagnons, même lorsqu'ils avaient eux-mêmes faim, nourrissaient leurs invités ; ils partageraient même leur dernier morceau. Cet esprit de générosité est loué dans le Coran :\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**\"Et ils donnent la préférence à eux-mêmes, même s'ils sont dans la privation.\"**\n*(Al-Hashr 59 : 9)*\n\nNotre Prophète ﷺ a également dit :\n\n**«الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n** \"Une nourriture suffisante pour deux suffit pour trois ; une nourriture suffisante pour trois suffit pour quatre.\"**\n*(Musulman — rapporté par Jabir r.a.)*\n\nLe partage ne diminue pas la richesse ; au contraire, cela apporte une bénédiction. Une main généreuse reste toujours pleine ; car celui qui donne vaut mieux que celui qui reçoit. Un petit morceau, un verre d'eau, un mot, tout cela peut être partagé. Et devant Allah, même le plus petit acte de partage devient une récompense. Aujourd’hui, partagez un peu plus de ce que vous avez avec quelqu’un.",
+    "id": "Dalam Islam, berbagi bukan sekedar membuang kelebihan, melainkan sebuah kedermawanan yang datang dari hati. Para sahabat, bahkan ketika mereka sendiri lapar, akan memberi makan tamu-tamu mereka; mereka akan berbagi bahkan potongan terakhir mereka. Semangat kemurahan hati ini dipuji dalam Al-Qur'an:\n\n**﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾**\n**\"Dan mereka lebih mengutamakan diri mereka sendiri, padahal mereka berada dalam kekurangan.\"**\n*(Al-Hashr 59:9)*\n\nNabi kita ﷺ juga bersabda:\n\n**\"الطَّعَامُ الَّذِي يَكْفِي الْاِثْنَيْنِ يَكْفِي الثَّلَاثَةَ، وَالطَّعَامُ الَّذِي يَكْفِي الثَّلَاثَةِ يَكْفِي الْأَرْبَعَةَ»**\n**\"Makanan yang cukup untuk dua orang, cukup untuk tiga orang; makanan yang cukup untuk tiga orang, cukup untuk empat orang.\"**\n*(Muslim — meriwayatkan Jabir r.a.)*\n\nBerbagi tidak mengurangi kekayaan; sebaliknya justru membawa berkah. Tangan yang murah hati selalu penuh; karena tangan yang memberi lebih baik dari pada tangan yang menerima. Sepotong kecil, segelas air, sepatah kata – semua ini dapat dibagikan. Dan di hadapan Allah, berbagi sekecil apa pun akan menjadi pahala. Hari ini, bagikan lebih banyak lagi apa yang Anda miliki dengan seseorang."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «کەسانی تریان بەسەر خۆیانەوە پەسەند دەکەن، تەنانەت ئەگەر خۆیان هەژار بن» لە کام سووڕەتدا دەردەکەوێت؟",
         "ar": "في أي سورة وردت آية ﴿وَيُؤْثِرُونَ عَلَى أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ﴾؟",
         "ru": "В какой суре есть аят «Они отдают предпочтение самим себе, хотя находятся в лишениях»?",
-        "fr": "Dans quelle sourate se trouve le verset « Ils donnent la préférence à eux-mêmes, même s'ils sont dans la privation » ?"
+        "fr": "Dans quelle sourate se trouve le verset « Ils donnent la préférence à eux-mêmes, même s'ils sont dans la privation » ?",
+        "id": "Di dalam surah manakah ayat “Mereka mendahulukan diri mereka sendiri, padahal mereka dalam kekurangan”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "حەشر ٥٩:٩",
           "ar": "الحشر: ٩",
           "ru": "Аль-Хашр 59:9",
-          "fr": "Al-Hashr 59:9"
+          "fr": "Al-Hashr 59:9",
+          "id": "Al-Hashr 59:9"
         },
         {
           "tr": "Bakara 2:177",
@@ -68,7 +72,8 @@
           "ckb": "بەقەرە ٢:١٧٧",
           "ar": "البقرة: ١٧٧",
           "ru": "Аль-Бакара 2:177",
-          "fr": "Al-Baqarah 2:177"
+          "fr": "Al-Baqarah 2:177",
+          "id": "Al-Baqarah 2:177"
         },
         {
           "tr": "Âl-i İmrân 3:92",
@@ -81,7 +86,8 @@
           "ckb": "ئالی عیمران ٣:٩٢",
           "ar": "آل عمران: ٩٢",
           "ru": "Али Имран 3:92",
-          "fr": "Ali Imran 3:92"
+          "fr": "Ali Imran 3:92",
+          "id": "Ali Imran 3:92"
         },
         {
           "tr": "Nisa 4:36",
@@ -94,7 +100,8 @@
           "ckb": "نیساء ٤:٣٦",
           "ar": "النساء: ٣٦",
           "ru": "Ан-Ниса 4:36",
-          "fr": "An-Nisa 4:36"
+          "fr": "An-Nisa 4:36",
+          "id": "An-Nisa 4:36"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "کێ حەدیسی «خواردنی کە بۆ دووان بەسە، بۆ سێ کەسیش بەسە» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «الطعام الذي يكفي الاثنين يكفي الثلاثة»؟",
         "ru": "Кто передал хадис «Еды, которой хватит на двоих, хватит и на троих»?",
-        "fr": "Qui a rapporté le hadith « Une nourriture suffisante pour deux suffit pour trois » ?"
+        "fr": "Qui a rapporté le hadith « Une nourriture suffisante pour deux suffit pour trois » ?",
+        "id": "Siapa yang meriwayatkan hadits “Makanan yang cukup untuk dua orang, cukup untuk tiga orang”?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "جابر ڕ.ع — موسلیم",
           "ar": "جابر رضي الله عنه — مسلم",
           "ru": "Джабир Р.А. — Мусульманин",
-          "fr": "Jabir r.a. -Musulman"
+          "fr": "Jabir r.a. -Musulman",
+          "id": "Jabir r.a. — Muslim"
         },
         {
           "tr": "Ebû Hureyre r.a. — Buhârî",
@@ -139,7 +148,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — بوخاری",
           "ar": "أبو هريرة رضي الله عنه — البخاري",
           "ru": "Абу Хурайра r.a. — Бухари",
-          "fr": "Abu Hurairah r.a. — Boukhari"
+          "fr": "Abu Hurairah r.a. — Boukhari",
+          "id": "Abu Hurairah r.a. — Bukhari"
         },
         {
           "tr": "İbn Ömer r.a. — Tirmizî",
@@ -152,7 +162,8 @@
           "ckb": "ئیبن عومەر ڕ.ع — تیرمیزی",
           "ar": "ابن عمر رضي الله عنه — الترمذي",
           "ru": "Ибн Умар r.a. — Тирмизи",
-          "fr": "Ibn Umar r.a. — Tirmidhi"
+          "fr": "Ibn Umar r.a. — Tirmidhi",
+          "id": "Ibnu Umar r.a. – Tirmidzi"
         },
         {
           "tr": "Hz. Âişe r.anha — Nesâî",
@@ -165,7 +176,8 @@
           "ckb": "عائیشە ڕ.ع — نەسائی",
           "ar": "عائشة رضي الله عنها — النسائي",
           "ru": "Аиша Ранха — Насаи",
-          "fr": "Aisha r.anha — Nasai"
+          "fr": "Aisha r.anha — Nasai",
+          "id": "Aisha r.anha — Nasai"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "بەگوێرەی ئیسلام، بەشداریکردن چی بە دەوڵەمەندیدا دەکات؟",
         "ar": "ماذا يفعل البذل بالمال وفق الإسلام؟",
         "ru": "Согласно исламу, какое значение имеет обмен к богатству?",
-        "fr": "Selon l’Islam, quel est l’effet du partage sur la richesse ?"
+        "fr": "Selon l’Islam, quel est l’effet du partage sur la richesse ?",
+        "id": "Menurut Islam, apa pengaruh berbagi terhadap kekayaan?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "بەرەکەتی دەدات، کەمی ناکات",
           "ar": "يبارك فيه ولا يُنقصه",
           "ru": "Это благословляет его, а не умаляет.",
-          "fr": "Cela le bénit, ne le diminue pas"
+          "fr": "Cela le bénit, ne le diminue pas",
+          "id": "Itu memberkatinya, bukan menguranginya"
         },
         {
           "tr": "Serveti hızla tüketir",
@@ -210,7 +224,8 @@
           "ckb": "دەوڵەمەندی بەخێرایی تەواو دەکات",
           "ar": "ينفد المال بسرعة",
           "ru": "Это быстро истощает богатство",
-          "fr": "Cela épuise rapidement la richesse"
+          "fr": "Cela épuise rapidement la richesse",
+          "id": "Ini dengan cepat menghabiskan kekayaan"
         },
         {
           "tr": "Servete hiçbir etkisi yoktur",
@@ -223,7 +238,8 @@
           "ckb": "هیچ کاریگەریەکی لەسەر دەوڵەمەندی نییە",
           "ar": "لا تأثير له على المال",
           "ru": "Это не влияет на богатство",
-          "fr": "Cela n'a aucun effet sur la richesse"
+          "fr": "Cela n'a aucun effet sur la richesse",
+          "id": "Itu tidak berpengaruh pada kekayaan"
         },
         {
           "tr": "Başkalarının seni sevmesini sağlar ama serveti eritir",
@@ -236,7 +252,8 @@
           "ckb": "دەیکات کەسانی تر خۆشت بگرن بەڵام دەوڵەمەندی دەخوات",
           "ar": "يجعل الناس يحبونك لكنه يذيب المال",
           "ru": "Это заставляет других любить вас, но разрушает богатство",
-          "fr": "Cela fait que les autres vous aiment mais érode la richesse"
+          "fr": "Cela fait que les autres vous aiment mais érode la richesse",
+          "id": "Itu membuat orang lain mencintaimu tetapi mengikis kekayaan"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "نموونەی یارانی کە ئایەتی حەشر ٥٩:٩ژیانیان چییە؟",
         "ar": "ما مثال الصحابة الذين عاشوا آية الحشر ٥٩:٩؟",
         "ru": "Каков пример сподвижников, живших согласно аяту Аль-Хашр 59:9?",
-        "fr": "Quel est l’exemple des Compagnons qui ont vécu le verset d’Al-Hashr 59 : 9 ?"
+        "fr": "Quel est l’exemple des Compagnons qui ont vécu le verset d’Al-Hashr 59 : 9 ?",
+        "id": "Bagaimana contoh para sahabat yang mengamalkan ayat Al-Hashr 59:9?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ئەوکاتێ خۆیان برسی بوون میوانەکانیان خواردن",
           "ar": "إطعام ضيوفهم وهم أنفسهم جياع",
           "ru": "Кормление гостей, пока они сами голодны.",
-          "fr": "Nourrir leurs invités alors qu’eux-mêmes avaient faim"
+          "fr": "Nourrir leurs invités alors qu’eux-mêmes avaient faim",
+          "id": "Memberi makan tamunya sementara mereka sendiri lapar"
         },
         {
           "tr": "Tüm mallarını Allah yolunda infak etmeleri",
@@ -281,7 +300,8 @@
           "ckb": "هەموو دەوڵەمەندییەکانیان لە ڕێگەی اللەدا بەخشین",
           "ar": "إنفاق جميع أموالهم في سبيل الله",
           "ru": "Расходование всего своего богатства на пути Аллаха",
-          "fr": "Dépenser toutes leurs richesses dans le chemin d'Allah"
+          "fr": "Dépenser toutes leurs richesses dans le chemin d'Allah",
+          "id": "Menghabiskan seluruh hartanya di jalan Allah"
         },
         {
           "tr": "Yalnızca zekât vermekle yetinmeleri",
@@ -294,7 +314,8 @@
           "ckb": "تەنها دانی زەکات بەسیان هەستا",
           "ar": "الاكتفاء بإعطاء الزكاة فقط",
           "ru": "Довольствоваться лишь выплатой закята",
-          "fr": "Se contenter de donner seulement la zakat"
+          "fr": "Se contenter de donner seulement la zakat",
+          "id": "Puaslah hanya dengan mengeluarkan zakat"
         },
         {
           "tr": "Mallarını birbirleriyle yarı yarıya paylaşmaları",
@@ -307,7 +328,8 @@
           "ckb": "دەوڵەمەندییەکانیان نیوەبەنیوە لەنێوانیان دابەش کرد",
           "ar": "تقسيم أموالهم بالتساوي فيما بينهم",
           "ru": "Делить свое богатство поровну друг с другом",
-          "fr": "Partager leur richesse à parts égales entre eux"
+          "fr": "Partager leur richesse à parts égales entre eux",
+          "id": "Berbagi kekayaan mereka secara merata satu sama lain"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەگوێرەی حەدیسی پێغەمبەرمان ﷺ کە «دەستی داناک لە دەستی ستانەکە باشترە»، بەرزترین شێوازی بەشداریکردن چییە؟",
         "ar": "وفق حديث النبي ﷺ «اليد العليا خير من اليد السفلى»، ما أرقى صور العطاء؟",
         "ru": "Согласно хадису нашего Пророка ﷺ о том, что «дающая рука лучше принимающей», какова высшая форма дарения?",
-        "fr": "D'après le hadith de notre Prophète ﷺ selon lequel \"la main qui donne vaut mieux que la main qui reçoit\", quelle est la forme de partage la plus élevée ?"
+        "fr": "D'après le hadith de notre Prophète ﷺ selon lequel \"la main qui donne vaut mieux que la main qui reçoit\", quelle est la forme de partage la plus élevée ?",
+        "id": "Menurut hadis Nabi kita ﷺ bahwa “tangan memberi lebih baik dari pada tangan menerima”, apakah bentuk berbagi yang paling tinggi?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "بە خوازراوی و کەرەمانە دان",
           "ar": "العطاء طوعًا وبسخاء",
           "ru": "Дарить добровольно и щедро",
-          "fr": "Donner volontairement et généreusement"
+          "fr": "Donner volontairement et généreusement",
+          "id": "Memberi dengan sukarela dan murah hati"
         },
         {
           "tr": "Yalnızca dini yükümlülükleri yerine getirmek",
@@ -352,7 +376,8 @@
           "ckb": "تەنها جێبەجێکردنی بەرپرسیارەتییە ئایینییەکان",
           "ar": "الاقتصار على أداء الواجبات الدينية",
           "ru": "Только выполнение религиозных обязанностей",
-          "fr": "Ne remplir que ses obligations religieuses"
+          "fr": "Ne remplir que ses obligations religieuses",
+          "id": "Hanya memenuhi kewajiban agama"
         },
         {
           "tr": "Başkalarından yardım istemek",
@@ -365,7 +390,8 @@
           "ckb": "داواکاری یارمەتی لە کەسانی تر کردن",
           "ar": "طلب المساعدة من الآخرين",
           "ru": "Просить других о помощи",
-          "fr": "Demander de l'aide aux autres"
+          "fr": "Demander de l'aide aux autres",
+          "id": "Meminta bantuan orang lain"
         },
         {
           "tr": "Almak için vermek",
@@ -378,7 +404,8 @@
           "ckb": "دان بۆ ستانەوە",
           "ar": "العطاء لأجل الأخذ",
           "ru": "Отдавать, чтобы получить",
-          "fr": "Donner pour recevoir"
+          "fr": "Donner pour recevoir",
+          "id": "Memberi untuk menerima"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ لە دەستانتدا چی هەیت؟ زانست، خواردن، کات، پێکەنین... هەمووی دەتوانرێت بەشداری بکرێت. یاران، تەنانەت لە کاتەکانی کەمترین خۆیانداش، لە بەشداریکردن دەست ناکێشان. ئەمڕۆ چی دەتوانیت بەشداری بکەیت؟ زانستێک بۆ هاوڕێیەک بگوێڕێ، یارمەتی کەسێکی پێویستمەند بدە یان تەنها قسەیەکی باش بۆ کەسێک بڵێ. بیرت بێت: دەستی داناک هەمیشە پڕە. و لەلای اللەدا، ئەم بەشداریکردنەت، بەلکو لە کاتێکدا کە هیچ چاوەڕووانت نەبوو، دەگەڕێتەوە.",
     "ar": "ماذا يوجد في يدك اليوم؟ علمٌ، طعام، وقت، ابتسامة... كلُّ هذه يمكن مشاركتها. الصحابةُ لم يتوقَّفوا عن المشاركة حتى في أقلِّ لحظاتهم يُسراً. ما الذي تستطيع مشاركته اليوم؟ انقل علماً لصديق، أعِن محتاجاً، أو قُل لأحدٍ كلمةً طيِّبة فحسب. تذكَّر: اليدُ المعطاءةُ دائماً ممتلئة. وأمام الله، هذه المشاركةُ قد تعود إليك في لحظةٍ لم تتوقَّعها.",
     "ru": "Что у тебя сегодня в руках? Знания, еда, время, улыбка... Всем этим можно поделиться. Соратники никогда не переставали делиться, даже в те моменты, когда у них было меньше всего. Чем вы можете поделиться сегодня? Передайте знания другу, помогите нуждающемуся или просто скажите кому-нибудь доброе слово. Помните: дающая рука всегда полна. И перед Аллахом, эта ваша доля может вернуться к вам в момент, которого вы никогда не ожидали.",
-    "fr": "Qu’avez-vous entre les mains aujourd’hui ? Des connaissances, de la nourriture, du temps, un sourire... Tout cela peut être partagé. Les Compagnons n'ont jamais cessé de partager, même dans les moments où ils en avaient le moins. Que pouvez-vous partager aujourd’hui ? Transmettez vos connaissances à un ami, aidez quelqu'un dans le besoin ou dites simplement un mot gentil à quelqu'un. N'oubliez pas : la main qui donne est toujours pleine. Et devant Allah, ce partage peut vous revenir à un moment auquel vous ne vous attendiez pas."
+    "fr": "Qu’avez-vous entre les mains aujourd’hui ? Des connaissances, de la nourriture, du temps, un sourire... Tout cela peut être partagé. Les Compagnons n'ont jamais cessé de partager, même dans les moments où ils en avaient le moins. Que pouvez-vous partager aujourd’hui ? Transmettez vos connaissances à un ami, aidez quelqu'un dans le besoin ou dites simplement un mot gentil à quelqu'un. N'oubliez pas : la main qui donne est toujours pleine. Et devant Allah, ce partage peut vous revenir à un moment auquel vous ne vous attendiez pas.",
+    "id": "Apa yang ada di tanganmu hari ini? Pengetahuan, makanan, waktu, senyuman... Semua ini bisa dibagikan. Para sahabat tak henti-hentinya berbagi meski di saat-saat mereka serba kekurangan. Apa yang bisa Anda bagikan hari ini? Sampaikan ilmu kepada teman, bantulah orang yang membutuhkan, atau sekedar mengucapkan kata-kata baik kepada seseorang. Ingat: uluran tangan selalu penuh. Dan di hadapan Allah, pembagian Anda ini mungkin akan kembali kepada Anda pada saat yang tidak pernah Anda duga."
   }
 }

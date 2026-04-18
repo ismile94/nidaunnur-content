@@ -12,7 +12,8 @@
     "ckb": "عیبادەت بە دیل",
     "ar": "العبادة بالقلب",
     "ru": "Поклонение сердцем",
-    "fr": "Culte avec le coeur"
+    "fr": "Culte avec le coeur",
+    "id": "Beribadah dengan Hati"
   },
   "content": {
     "tr": "İbadet; yalnızca bedenin hareketleri değil, kalbin Allah'a yönelişidir. Bir kişi namaz kılabilir, oruç tutabilir, hac yapabilir; ancak kalbi gaflet içindeyse bu ibadetlerin ruhu eksik demektir. Kalbin ibadetleri arasında Allah'a muhabbet, O'na korku ve ümitle yönelmek, tevekkül, tevazu ve ihlas sayılır.\n\nAllah Teâlâ şöyle buyurur:\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**«Gerçekten mü'minler kurtuluşa ermiştir — onlar ki namazlarında derin bir huşu içindedirler.»**\n*(Mü'minûn 23:1-2)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**«Şüphesiz Allah sizin suretlerinize ve mallarınıza bakmaz; fakat kalplerinize ve amellerinize bakar.»**\n*(Müslim — Ebû Hureyre r.a. rivayetiyle)*\n\nKalp ile ibadet; ibadetin dışını değil, içini beslemektir. Allah'ı sever gibi namaz kılmak, korkuyla değil sevgiyle oruç tutmak, minnetle dua etmek — bunlar kalbin ibadetidir. Kalp; imanın evidir. O ev temiz tutulduğunda, bütün ibadetler anlam kazanır. Bugün bir ibadeti kalben yapın: Namazda en az bir rekâtı tamamen kalp huzuruyla kılmaya çalışın.",
@@ -25,7 +26,8 @@
     "ckb": "عیبادەت؛ تەنها جووڵانەکانی جەستە نییە، بەڵکو ئاراستەکردنی دیل بۆ اللهەیە. مرۆڤ دەتوانێت نوێژ بکات، ڕۆژوو بگرێت، حەج بکات؛ بەڵام ئەگەر دیلەکەی لە حالەتی غەفڵەتدا بێت، ڕووحی ئەم عیبادەتانە کەمییە. لە نێوان عیبادەتەکانی دیلدا مووحەبەتی بۆ الله، ئاراستەبوون بۆی بە ترس و ئومێد، تەوەکوڵ، فرووتنی و ئیخلاس دادەنرێن.\n\nاللەی بەرز دەفەرمووێت:\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**«بەڕاستی مومنەکان سەرکەوتوون — ئەوانەی کە لە نوێژەکانیاندا خووشوعیان هەیە.»**\n*(مومنون ٢٣:١-٢)*\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**«بێگومان الله سەیری شێوەکانتان و مالەکانتان ناکات؛ بەڵکو سەیری دیلەکانتان و کردارەکانتان دەکات.»**\n*(موسلیم — بە ڕێوایەتی ئەبو هورەیرە ڕ.ع)*\n\nعیبادەت بە دیل؛ نە دەرەوەی عیبادەت، بەڵکو ناوەوەی تەوخوردنەوەیە. نوێژکردن وەک ئەوەی خۆشت دێت الله، ڕۆژووگرتن نە بە ترس بەڵکو بە خۆشەویستی، بە سوپاسەوە دوعاکردن — ئەمانە عیبادەتی دیلن. دیل؛ ماڵی ئیمانەکەیە. کاتێک ئەو ماڵە پاک دەمێنێتەوە، هەموو عیبادەتەکان مانا دەستدەکەن. ئەمڕۆ عیبادەتێک بە دیل ئەنجام بدە: هەوڵبدە لانیکەم یەک رەکئەت بە تەواوی بە ئارامی دیل نوێژ بکەیت.",
     "ar": "العبادةُ ليست حركاتِ الجسد فحسب بل توجُّهُ القلب نحو الله. قد يُصلِّي الإنسانُ ويصوم ويحجُّ؛ لكن إن كان قلبُه في غفلة فروحُ هذه العبادات ناقصة. ومن عبادات القلب: المحبَّةُ لله، والتوجُّهُ إليه بالخوف والرجاء، والتوكُّل، والتواضع، والإخلاص.\n\nيقول الله تعالى:\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ۝ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n*(المؤمنون: ١-٢)*\n\nوقال النبيُّ ﷺ:\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n*(رواه مسلم — عن أبي هريرة رضي الله عنه)*\n\nالعبادةُ بالقلب تعني تغذيةَ داخل العبادة لا خارجها. الصلاةُ كأنَّك تُحبُّ الله، والصومُ بالمحبَّة لا بالخوف، والدعاءُ بالشكر — هذه عبادات القلب. القلبُ بيتُ الإيمان. حين يُبقى ذلك البيتُ نظيفاً اكتسبت كلُّ العبادات معنىً.",
     "ru": "Поклонение – это не только движения тела, но и обращение сердца к Аллаху. Человек может молиться, поститься и совершать паломничество; но если их сердце находится в состоянии беспечности, то духа этих актов поклонения недостает. К актам сердечного поклонения относятся любовь к Аллаху, обращение к Нему со страхом и надеждой, уверенность, смирение и искренность.\n\nАллах Всевышний говорит:\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**\"Конечно, преуспеют верующие — те, кто смирен в своих молитвах\".**\n*(Аль-Муминун 23:1-2)*\n\nНаш Пророк ﷺ сказал:\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**\"Воистину, Аллах не смотрит на ваши облики и ваше богатство, а смотрит на ваши сердца и ваши деяния\".**\n*(Муслим — передал Абу Хурайра r.a.)*\n\nПоклонение сердцем означает питание внутри поклонения, а не снаружи. Молиться так, как будто вы любите Аллаха, поститься не со страхом, а с любовью, молиться с благодарностью — это поклонение сердца. Сердце – дом веры. Когда этот дом содержится в чистоте, все акты поклонения обретают смысл. Сегодня совершите один акт поклонения сердцем: постарайтесь совершить хотя бы один ракаат полностью со спокойствием сердца.",
-    "fr": "L'adoration n'est pas seulement les mouvements du corps mais aussi le fait que le cœur se tourne vers Allah. Une personne peut prier, jeûner et effectuer un pèlerinage ; mais si leur cœur est dans un état d’insouciance, l’esprit de ces actes d’adoration fait défaut. Parmi les actes d’adoration du cœur figurent l’amour d’Allah, le fait de se tourner vers Lui avec crainte et espoir, la confiance, l’humilité et la sincérité.\n\nAllah le Très-Haut dit :\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**\"Certainement, les croyants auront réussi, ceux qui sont humbles dans leurs prières.\"**\n*(Al-Mu'minun 23 : 1-2)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**\"En effet, Allah ne regarde pas vos formes et vos richesses, mais Il regarde vos cœurs et vos actes.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nL’adoration avec le cœur signifie nourrir l’intérieur de l’adoration, pas l’extérieur. Prier comme si vous aimiez Allah, jeûner non avec crainte mais avec amour, invoquer avec gratitude, voilà l'adoration du cœur. Le cœur est la maison de la foi. Lorsque cette maison reste propre, tous les actes d’adoration prennent un sens. Aujourd'hui, accomplissez un acte d'adoration avec le cœur : Essayez de prier au moins une rak'a complètement avec la tranquillité du cœur."
+    "fr": "L'adoration n'est pas seulement les mouvements du corps mais aussi le fait que le cœur se tourne vers Allah. Une personne peut prier, jeûner et effectuer un pèlerinage ; mais si leur cœur est dans un état d’insouciance, l’esprit de ces actes d’adoration fait défaut. Parmi les actes d’adoration du cœur figurent l’amour d’Allah, le fait de se tourner vers Lui avec crainte et espoir, la confiance, l’humilité et la sincérité.\n\nAllah le Très-Haut dit :\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**\"Certainement, les croyants auront réussi, ceux qui sont humbles dans leurs prières.\"**\n*(Al-Mu'minun 23 : 1-2)*\n\nNotre Prophète ﷺ a dit :\n\n**«إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**\"En effet, Allah ne regarde pas vos formes et vos richesses, mais Il regarde vos cœurs et vos actes.\"**\n*(Musulman – rapporté par Abu Hurairah r.a.)*\n\nL’adoration avec le cœur signifie nourrir l’intérieur de l’adoration, pas l’extérieur. Prier comme si vous aimiez Allah, jeûner non avec crainte mais avec amour, invoquer avec gratitude, voilà l'adoration du cœur. Le cœur est la maison de la foi. Lorsque cette maison reste propre, tous les actes d’adoration prennent un sens. Aujourd'hui, accomplissez un acte d'adoration avec le cœur : Essayez de prier au moins une rak'a complètement avec la tranquillité du cœur.",
+    "id": "Ibadah bukan hanya gerak tubuh saja, namun sikap hati menghadap Allah. Seseorang boleh salat, berpuasa, dan menunaikan ibadah haji; tetapi jika hati mereka lalai, maka kuranglah ruh ibadah tersebut. Di antara amalan ibadah hati adalah cinta kepada Allah, berpaling kepada-Nya dengan rasa takut dan harapan, bertawakal, rendah hati, dan ikhlas.\n\nAllah SWT berfirman:\n\n**﴿قَدْ أَفْلَحَ الْمُؤْمِنُونَ ٭ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ﴾**\n**\"Sesungguhnya orang-orang mukmin akan beruntung, yaitu orang-orang yang khusyuk dalam shalatnya.\"**\n*(Al-Mu'minun 23:1-2)*\n\nNabi kita ﷺ bersabda:\n\n**إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ»**\n**\"Sesungguhnya Allah tidak melihat bentukmu dan hartamu, tetapi Dia melihat hatimu dan amalmu.\"**\n*(Muslim — meriwayatkan Abu Hurairah r.a.)*\n\nIbadah dengan hati berarti memberi nutrisi pada bagian dalam ibadah, bukan bagian luarnya. Berdoa seolah-olah kamu mencintai Allah, berpuasa bukan dengan rasa takut tetapi dengan cinta, berdoa dengan rasa syukur - itulah ibadah hati. Hati adalah rumah iman. Ketika rumah itu tetap bersih, semua ibadah menjadi bermakna. Hari ini laksanakan satu ibadah dengan hati: Usahakan shalat minimal satu rakaat secara lengkap dengan ketenangan hati."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ حەدیسی «الله سەیری شێوەکانتان ناکات بەڵکو سەیری دیلەکانتان دەکات» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «إن الله لا ينظر إلى صوركم... ولكن ينظر إلى قلوبكم»؟",
         "ru": "Кто передал хадис «Аллах смотрит не на ваши формы, а на ваши сердца»?",
-        "fr": "Qui a rapporté le hadith « Allah ne regarde pas vos formes mais vos cœurs » ?"
+        "fr": "Qui a rapporté le hadith « Allah ne regarde pas vos formes mais vos cœurs » ?",
+        "id": "Siapa yang meriwayatkan hadits “Allah tidak melihat wujudmu, melainkan hatimu”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەبو هورەیرە ڕ.ع — موسلیم",
           "ar": "أبو هريرة رضي الله عنه — مسلم",
           "ru": "Абу Хурайра r.a. — Мусульманин",
-          "fr": "Abu Hurairah r.a. -Musulman"
+          "fr": "Abu Hurairah r.a. -Musulman",
+          "id": "Abu Hurairah r.a. — Muslim"
         },
         {
           "tr": "İbn Abbâs r.a. — Buhârî",
@@ -68,7 +72,8 @@
           "ckb": "ئیبن عەباس ڕ.ع — بوخاری",
           "ar": "ابن عباس رضي الله عنه — البخاري",
           "ru": "Ибн Аббас r.a. — Бухари",
-          "fr": "Ibn Abbas r.a. — Boukhari"
+          "fr": "Ibn Abbas r.a. — Boukhari",
+          "id": "Ibnu Abbas r.a. — Bukhari"
         },
         {
           "tr": "Hz. Ömer r.a. — Tirmizî",
@@ -81,7 +86,8 @@
           "ckb": "عومەر ڕ.ع — تیرمیزی",
           "ar": "عمر رضي الله عنه — الترمذي",
           "ru": "Умар р.а. — Тирмизи",
-          "fr": "Umar r.a. — Tirmidhi"
+          "fr": "Umar r.a. — Tirmidhi",
+          "id": "Umar r.a. – Tirmidzi"
         },
         {
           "tr": "Hz. Âişe r.a. — Nesâî",
@@ -94,7 +100,8 @@
           "ckb": "عائیشە ڕ.ع — نەسائی",
           "ar": "عائشة رضي الله عنها — النسائي",
           "ru": "Аиша р.а. — Насаи",
-          "fr": "Aisha r.a. — Nasaï"
+          "fr": "Aisha r.a. — Nasaï",
+          "id": "Aisyah r.a. —Nasai"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "بەگوێرەی مومنون ٢٣:١-٢، تایبەتمەندی مومنە سەرکەوتووەکان لە نوێژەکانیاندا چییە؟",
         "ar": "ما صفة المؤمنين المفلحين في صلاتهم وفق الآية المؤمنون 23:1-2؟",
         "ru": "Согласно Аль-Муминун 23:1-2, какова характеристика успешных верующих в их молитве?",
-        "fr": "Selon Al-Mu'minun 23 :1-2, quelle est la caractéristique des croyants qui réussissent dans leur prière ?"
+        "fr": "Selon Al-Mu'minun 23 :1-2, quelle est la caractéristique des croyants qui réussissent dans leur prière ?",
+        "id": "Menurut Al-Mu'minun 23:1-2, apa ciri-ciri orang mukmin yang berhasil shalatnya?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "لە نوێژەکانیاندا خووشوعیان هەبێت",
           "ar": "الخشوع في الصلاة",
           "ru": "Быть смиренными в своих молитвах",
-          "fr": "Être humble dans leurs prières"
+          "fr": "Être humble dans leurs prières",
+          "id": "Rendah hati dalam berdoa"
         },
         {
           "tr": "Namazlarını çok uzun kılmak",
@@ -139,7 +148,8 @@
           "ckb": "نوێژەکانیان زۆر درێژ بکەن",
           "ar": "إطالة الصلاة",
           "ru": "Молюсь очень долго",
-          "fr": "Prier très longtemps"
+          "fr": "Prier très longtemps",
+          "id": "Berdoa untuk waktu yang sangat lama"
         },
         {
           "tr": "Namazı yüksek sesle kılmak",
@@ -152,7 +162,8 @@
           "ckb": "نوێژ بە دەنگی بەرز کردن",
           "ar": "الجهر في الصلاة",
           "ru": "Молиться вслух",
-          "fr": "Prier à haute voix"
+          "fr": "Prier à haute voix",
+          "id": "Berdoa dengan suara keras"
         },
         {
           "tr": "Namazı camide kılmak",
@@ -165,7 +176,8 @@
           "ckb": "نوێژ لە مزگەوتدا کردن",
           "ar": "الصلاة في المسجد",
           "ru": "Молиться в мечети",
-          "fr": "Prier à la mosquée"
+          "fr": "Prier à la mosquée",
+          "id": "Sholat di masjid"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "کامان لە نێوان عیبادەتەکانی دیلدا دادەنرێن؟",
         "ar": "ما الذي يُعدّ من عبادات القلب؟",
         "ru": "Какие действия относятся к поклонению сердца?",
-        "fr": "Quels sont les actes d’adoration du cœur ?"
+        "fr": "Quels sont les actes d’adoration du cœur ?",
+        "id": "Manakah yang termasuk ibadah hati?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "مووحەبەت، ترس، ئومێد، تەوەکوڵ، فرووتنی و ئیخلاس",
           "ar": "المحبة والخوف والرجاء والتوكل والتواضع والإخلاص",
           "ru": "Любовь, страх, надежда, уверенность, смирение и искренность",
-          "fr": "Amour, peur, espoir, confiance, humilité et sincérité"
+          "fr": "Amour, peur, espoir, confiance, humilité et sincérité",
+          "id": "Cinta, ketakutan, harapan, ketergantungan, kerendahan hati dan ketulusan"
         },
         {
           "tr": "Yalnızca namaz ve oruç",
@@ -210,7 +224,8 @@
           "ckb": "تەنها نوێژ و ڕۆژوو",
           "ar": "الصلاة والصوم فحسب",
           "ru": "Только молитва и пост",
-          "fr": "Seulement la prière et le jeûne"
+          "fr": "Seulement la prière et le jeûne",
+          "id": "Hanya doa dan puasa"
         },
         {
           "tr": "Yalnızca hac ve zekat",
@@ -223,7 +238,8 @@
           "ckb": "تەنها حەج و زەکات",
           "ar": "الحج والزكاة فحسب",
           "ru": "Только паломничество и закят",
-          "fr": "Uniquement pèlerinage et zakat"
+          "fr": "Uniquement pèlerinage et zakat",
+          "id": "Hanya haji dan zakat"
         },
         {
           "tr": "Yalnızca Kur'an okumak",
@@ -236,7 +252,8 @@
           "ckb": "تەنها قورئان خوێندنەوە",
           "ar": "تلاوة القرآن فحسب",
           "ru": "Только чтение Корана",
-          "fr": "Ne réciter que le Coran"
+          "fr": "Ne réciter que le Coran",
+          "id": "Hanya membaca Al Quran"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "دیل ماڵی چییە؟",
         "ar": "القلب بيت ماذا؟",
         "ru": "Что является домом сердца?",
-        "fr": "De quoi le cœur abrite-t-il ?"
+        "fr": "De quoi le cœur abrite-t-il ?",
+        "id": "Apa yang dimaksud dengan hati?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "ماڵی ئیمان",
           "ar": "بيت الإيمان",
           "ru": "Дом веры",
-          "fr": "La maison de la foi"
+          "fr": "La maison de la foi",
+          "id": "Rumah iman"
         },
         {
           "tr": "Dünya malının evi",
@@ -281,7 +300,8 @@
           "ckb": "ماڵی مالی دونیا",
           "ar": "بيت متاع الدنيا",
           "ru": "Дом мирского богатства",
-          "fr": "La maison de la richesse du monde"
+          "fr": "La maison de la richesse du monde",
+          "id": "Rumah kekayaan duniawi"
         },
         {
           "tr": "Aklın evi",
@@ -294,7 +314,8 @@
           "ckb": "ماڵی مێشک",
           "ar": "بيت العقل",
           "ru": "Дом интеллекта",
-          "fr": "La maison de l'intellect"
+          "fr": "La maison de l'intellect",
+          "id": "Rumah bagi kecerdasan"
         },
         {
           "tr": "Nefsin evi",
@@ -307,7 +328,8 @@
           "ckb": "ماڵی نەفس",
           "ar": "بيت النفس",
           "ru": "Дом себя",
-          "fr": "La maison de soi"
+          "fr": "La maison de soi",
+          "id": "Rumah bagi diri sendiri"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "مانای عیبادەت بە دیل کردن چییە؟",
         "ar": "ما معنى العبادة بالقلب؟",
         "ru": "Что значит поклонение сердцем?",
-        "fr": "Que signifie adorer avec le cœur ?"
+        "fr": "Que signifie adorer avec le cœur ?",
+        "id": "Apa yang dimaksud dengan beribadah dengan hati?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "نە دەرەوە بەڵکو ناوەوەی عیبادەت تەوخوردن; بە خۆشەویستی، دڵسۆزی و خووشوع ئەنجامدان",
           "ar": "تغذية باطن العبادة لا ظاهرها وأداؤها بالمحبة والإخلاص والخشوع",
           "ru": "Питание внутри, а не снаружи поклонения; делать это с любовью, искренностью и смирением",
-          "fr": "Nourrir l’intérieur et non l’extérieur du culte ; le faire avec amour, sincérité et humilité"
+          "fr": "Nourrir l’intérieur et non l’extérieur du culte ; le faire avec amour, sincérité et humilité",
+          "id": "Memelihara bagian dalam bukan bagian luar ibadah; melakukannya dengan cinta, ketulusan dan kerendahan hati"
         },
         {
           "tr": "Bedenin hareketlerine odaklanmak",
@@ -352,7 +376,8 @@
           "ckb": "سەرنجدان بە جووڵانەکانی جەستە",
           "ar": "التركيز على حركات الجسد",
           "ru": "Сосредоточение внимания на движениях тела",
-          "fr": "Se concentrer sur les mouvements du corps"
+          "fr": "Se concentrer sur les mouvements du corps",
+          "id": "Berfokus pada gerakan tubuh"
         },
         {
           "tr": "Yalnızca gözlerin kapalı tutulması",
@@ -365,7 +390,8 @@
           "ckb": "تەنها چاوەکان داخستن",
           "ar": "مجرد إغماض العينين",
           "ru": "Только держать глаза закрытыми",
-          "fr": "Seulement en gardant les yeux fermés"
+          "fr": "Seulement en gardant les yeux fermés",
+          "id": "Hanya menutup mata"
         },
         {
           "tr": "İbadeti çok hızlı bitirmek",
@@ -378,7 +404,8 @@
           "ckb": "عیبادەت زۆر خێرا تەواوکردن",
           "ar": "إنهاء العبادة بسرعة كبيرة",
           "ru": "Очень быстро заканчиваем поклонение",
-          "fr": "Terminer le culte très rapidement"
+          "fr": "Terminer le culte très rapidement",
+          "id": "Menyelesaikan ibadah dengan sangat cepat"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ کاتێک نوێژ دەکەیت ئەمەی تاقی بکەرەوە: پێش دەستپێکردن بە نوێژ دە چرکە وەستە. چاوەکانت داخە و لە ناوەوەت بڵێ: 'خودایەکەم، ئێستا ڕووبەڕووت ئەستم. دیلەکەم بۆ ئەم نوێژە ئامادەبکە.' پاشان تەکبیری دەستپێکردن بڵێ. ئەم ئامادەکارییە بچووکە دەتوانێت کوالیتی نوێژ بە تەواوی بگۆڕێت. الله سەیری شێوەکەت ناکات، بەڵکو سەیری ئەوە دەکات کە دیل چەندی بۆی ئاڕاستە دەکرێت. ئەمڕۆ ئامانج بکە لانیکەم یەک نوێژ بە ئارامی دیل بکەیت.",
     "ar": "اليوم حين تُصلِّي جرِّب هذا: قبل بدء الصلاة توقَّف عشرَ ثوانٍ. أغمِض عينيك وقُل في نفسك: «اللهمَّ إنِّي الآن في مواجهتك. هيِّئ قلبي لهذه الصلاة.» ثمَّ كبِّر. هذا التحضيرُ الصغير يستطيع أن يُغيِّر جودة الصلاة كلِّياً. اللهُ لا ينظر إلى شكلك بل إلى مدى توجُّه القلب إليه. اليوم اهدِف إلى صلاة ركعةٍ واحدةٍ على الأقل بطمأنينة القلب.",
     "ru": "Сегодня, молясь, попробуйте следующее: прежде чем начать молитву, сделайте паузу на десять секунд. Закройте глаза и скажите про себя: «О Аллах, теперь я стою перед Тобой лицом к лицу. Приготовь мое сердце к этой молитве». Затем произнесите вступительный такбир. Эта небольшая подготовка может полностью изменить качество молитвы. Аллах смотрит не на ваш облик, а на то, насколько сердце обращено к Нему. Сегодня постарайтесь помолиться хотя бы одной молитвой со спокойствием сердца.",
-    "fr": "Aujourd'hui, lorsque vous priez, essayez ceci : Avant de commencer la prière, faites une pause de dix secondes. Ferme les yeux et dis intérieurement : « Ô Allah, je suis maintenant face à face avec Toi. Préparez mon cœur à cette prière. Puis dites le takbir d’ouverture. Cette petite préparation peut complètement changer la qualité de la prière. Allah ne regarde pas votre forme mais à quel point votre cœur se tourne vers Lui. Aujourd’hui, essayez de faire au moins une prière avec la tranquillité du cœur."
+    "fr": "Aujourd'hui, lorsque vous priez, essayez ceci : Avant de commencer la prière, faites une pause de dix secondes. Ferme les yeux et dis intérieurement : « Ô Allah, je suis maintenant face à face avec Toi. Préparez mon cœur à cette prière. Puis dites le takbir d’ouverture. Cette petite préparation peut complètement changer la qualité de la prière. Allah ne regarde pas votre forme mais à quel point votre cœur se tourne vers Lui. Aujourd’hui, essayez de faire au moins une prière avec la tranquillité du cœur.",
+    "id": "Hari ini ketika berdoa, cobalah ini: Sebelum memulai doa, jedalah selama sepuluh detik. Pejamkan matamu dan ucapkan dalam hati: 'Ya Allah, kini aku berhadapan denganMu. Persiapkan hatiku untuk doa ini.' Lalu mengucapkan takbir pembuka. Persiapan kecil ini benar-benar dapat mengubah kualitas doa. Allah tidak melihat wujudmu, tapi seberapa besar hati tertuju kepada-Nya. Hari ini bertujuan untuk berdoa minimal satu doa dengan ketenangan hati."
   }
 }

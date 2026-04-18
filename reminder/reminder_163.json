@@ -12,7 +12,8 @@
     "ckb": "هاوبەشکردنی قازانج",
     "ar": "مشاركة الكسب",
     "ru": "Делитесь тем, что вы зарабатываете",
-    "fr": "Partager ce que vous gagnez"
+    "fr": "Partager ce que vous gagnez",
+    "id": "Berbagi Apa yang Anda Hasilkan"
   },
   "content": {
     "tr": "Kazanç yalnızca hesaptaki rakam değildir; emek, zaman ve helâl yolla elde ettiğin her şey bir «emanet»tir. Paylaşmak ise bu emaneti Allah'ın rızası için akıtmaktır: akrabaya, yetime, düşküne, yolda kalmışa — O'nun sınırları içinde.\n\nAllah Teâlâ müminlere şöyle seslenir:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**«Ey iman edenler! Kazandıklarınızın temizlerinden ve sizin için yerden çıkardıklarımızdan infak edin. Kendinizin ancak göz yumarak alacağınız kötü şeyi vermeye kalkışmayın...»**\n*(Bakara 2:267)*\n\nYine O, infak edenlerin mükâfatını şöyle misal verir:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n**«Mallarını Allah yolunda harcayanların durumu, yedi başak bitiren, her başakta yüz tane bulunan bir tohum gibidir. Allah dilediğine kat kat verir. Allah geniş olandır, bilendir.»**\n*(Bakara 2:261)*\n\nPeygamberimiz ﷺ şöyle buyurmuştur:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**«Yarım hurma ile de olsa ateşten korunun.»**\n*(Buhârî, Müslim — Adî b. Hâtim r.a. rivayetiyle)*\n\nBugün kazancının küçük bir parçasını — bir ekmek, bir dua, bir sadaka — paylaşmak, emaneti yerinde tutmaktır.",
@@ -25,7 +26,8 @@
     "ckb": "قازانج تەنها ژمارەی لە هەژماردا نییە؛ کار، کات و هەر شتێک بە شێوەی حەڵاڵ بەدەست هاتوو «ئەمانەت»ێکە کە دەبێت بڕوات. هاوبەشکردن واتە ئەم متمانەیە بە ڕەزایەتی اللە بڕوات: خزمەکان، هەتیو، پێویست، لە ڕێدا ماوەکان — لە سنوورەکانی ئەوەوە.\n\nاللە باوەڕداران ئاوە دەنگ دەهێنێت:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**«ئەی ئەوانەی باوەڕتان هێناوە! لە باشی قازانجەکانتان و لەوەی لە زەوییەوە بۆتان دەرهێنراوە بەخشە بکەن. بەرەو خراپەکە مەڕۆن بۆ بەخشین...»**\n*(بەقەرە: ٢٦٧)*\n\nدووبارە پاداشتی خەرجکاران بە نموونە دەخاتە ڕوو:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n**«نموونەی ئەوانەی ماڵەکانیان لە ڕێگای اللەدا خەرج دەکەن وەک تۆوێکە کە حەوت سەر دەردەهێنێت، لە هەر سەرێکدا سەد تۆو. اللە بۆ ئەوەی دەیەوێت فراوان دەکاتەوە.»**\n*(بەقەرە: ٢٦١)*\n\nپێغەمبەرمان ﷺ فەرمووی:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**«لە ئاگر بپارێزن، تەنانەت بە نیوەی خورمایەکیش.»**\n*(بۆخاری، موسلیم — بە ڕێوایەتی عەدی کوڕی حاتم)*\n\nئەمڕۆ هاوبەشکردنی پارچەیەکی بچووک لە قازانج — نان، دعا، خێر — ئەمانەت لە شوێنی خۆیدا دەهێڵێتەوە.",
     "ar": "الكسبُ ليس رقماً في الحسابِ فقط؛ العملُ والزمانُ وكلُّ ما اُكتُسب بطريقٍ حلالٍ أمانةٌ ينبغي أن تَصُدَّ. والمشاركةُ إخراجُ تلك الأمانةِ لرضا الله: للأقارب واليتامى والمساكين وابن السبيل — في حدودِه تعالى.\n\nيقول الله تعالى:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n*(البقرة: ٢٦٧)*\n\nومثَلُ ثوابِ المنفقين:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n*(البقرة: ٢٦١)*\n\nوقال النبيُّ ﷺ:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n*(رواه البخاري ومسلم — عن عدي بن حاتم رضي الله عنه)*\n\nمشاركةُ جزءٍ يسيرٍ من كسبك اليوم — رغيفٌ، أو دعاءٌ، أو صدقةٌ — حفظٌ للأمانةِ في موضعها.",
     "ru": "Заработок – это не только цифра на вашем счете; труд, время и все, что получено законным путем, является «аманой» для обращения. Делиться – значит позволять этому доверию течь ради довольства Аллаха: родственникам, сиротам, нуждающимся, оказавшимся в затруднительном положении – в Его пределах.\n\nАллах призывает верующих:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**\"О вы, верующие, тратьте из тех благ, которые вы заработали, и из того, что Мы произвели для вас из земли. И не стремитесь к недостатку из нее, тратя из этого, пока вы сами не взяли бы это, кроме как с закрытыми глазами...\"**\n*(Аль-Бакара 2:267)*\n\nОн иллюстрирует вознаграждение тратящих:\n\n*** Кэтрин Сэнсэй Сэнсэй Сэнсэй и Кейси Сэнсэй مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n**\"Пример тех, кто тратит свое имущество на пути Аллаха, подобен семени, из которого вырастают семь колосьев; в каждом колосе сто зерен. И Аллах умножает, кому пожелает. И Аллах Всеобъемлющий и Знающий.\"**\n*(Аль-Бакара 2:261)*\n\nНаш Пророк ﷺ сказал:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**\"Защитите себя от адского огня, даже отдав половину финика на благотворительность\".**\n*(Бухари, Муслим — передал Ади ибн Хатим r.a.)*\n\nСегодня, если вы поделитесь небольшой частью своих доходов — хлебом, молитвой, благотворительностью — доверие сохранится.",
-    "fr": "Les gains ne sont pas seulement le chiffre de votre compte ; le travail, le temps et tout ce qui est gagné de manière licite est une « amanah » à circuler. Partager, c'est laisser cette confiance couler pour le plaisir d'Allah : vers les proches, les orphelins, les nécessiteux, les bloqués – dans Ses limites.\n\nAllah appelle les croyants :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**\"Ô vous qui croyez, dépensez des bonnes choses que vous avez gagnées et de ce que Nous avons produit pour vous de la terre. Et ne visez pas les déficients, en dépensant de cela alors que vous ne le prendriez vous-mêmes que les yeux fermés...\"**\n*(Al-Baqarah 2:267)*\n\nIl illustre la récompense des dépensiers :\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n** \"L'exemple de ceux qui dépensent leurs biens dans le sentier d'Allah est comme une graine qui produit sept épis; dans chaque épi il y a cent grains. Et Allah multiplie pour qui Il veut. Et Allah est Omniscient et Omniscient. \"**\n*(Al-Baqarah 2:261)*\n\nNotre Prophète ﷺ a dit :\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**\"Protégez-vous du feu de l'enfer même en donnant un demi-rendez-vous par charité.\"**\n*(Bukhari, Muslim — rapporté par Adi ibn Hatim r.a.)*\n\nAujourd’hui, partager une petite partie de ses gains – du pain, une prière, la charité – c’est garder la confiance à sa place."
+    "fr": "Les gains ne sont pas seulement le chiffre de votre compte ; le travail, le temps et tout ce qui est gagné de manière licite est une « amanah » à circuler. Partager, c'est laisser cette confiance couler pour le plaisir d'Allah : vers les proches, les orphelins, les nécessiteux, les bloqués – dans Ses limites.\n\nAllah appelle les croyants :\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**\"Ô vous qui croyez, dépensez des bonnes choses que vous avez gagnées et de ce que Nous avons produit pour vous de la terre. Et ne visez pas les déficients, en dépensant de cela alors que vous ne le prendriez vous-mêmes que les yeux fermés...\"**\n*(Al-Baqarah 2:267)*\n\nIl illustre la récompense des dépensiers :\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n** \"L'exemple de ceux qui dépensent leurs biens dans le sentier d'Allah est comme une graine qui produit sept épis; dans chaque épi il y a cent grains. Et Allah multiplie pour qui Il veut. Et Allah est Omniscient et Omniscient. \"**\n*(Al-Baqarah 2:261)*\n\nNotre Prophète ﷺ a dit :\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**\"Protégez-vous du feu de l'enfer même en donnant un demi-rendez-vous par charité.\"**\n*(Bukhari, Muslim — rapporté par Adi ibn Hatim r.a.)*\n\nAujourd’hui, partager une petite partie de ses gains – du pain, une prière, la charité – c’est garder la confiance à sa place.",
+    "id": "Penghasilan bukan hanya angka di akun Anda; tenaga, waktu, dan segala sesuatu yang diperoleh dengan cara yang halal merupakan “amanah” untuk diedarkan. Berbagi adalah membiarkan amanah itu mengalir demi keridhaan Allah: kepada sanak saudara, anak yatim, yang membutuhkan, yang terlantar – dalam batasan-batasan-Nya.\n\nAllah memanggil orang-orang yang beriman:\n\n**﴿يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُم مِّنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ﴾**\n**\"Hai orang-orang yang beriman, belanjakanlah sebagian dari kebaikan yang telah kamu usahakan dan dari apa yang telah Kami hasilkan untuk kamu dari bumi. Dan janganlah kamu mengincar keburukan darinya, menafkahkan sebagian itu padahal kamu sendiri tidak mengambilnya kecuali dengan mata tertutup...\"**\n*(Al-Baqarah 2:267)*\n\nDia mengilustrasikan pahala bagi orang yang membelanjakan uang:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ Perlindungan Lingkungan dan Perlindungan Lingkungan مِّائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضَاعِفُ لِمَن يَشَاءُ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ﴾**\n**\"Perumpamaan orang-orang yang menafkahkan hartanya di jalan Allah ibarat sebutir benih yang menumbuhkan tujuh bulir, yang pada setiap bulirnya ada seratus butir. Dan Allah melipatgandakan bagi siapa yang Dia Kehendaki. Dan Allah Maha Luas lagi Maha Mengetahui.\"**\n*(Al-Baqarah 2:261)*\n\nNabi kita ﷺ bersabda:\n\n**\"اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ\"**\n**\"Jagalah dirimu dari api neraka meskipun dengan sedekah setengah kurma.\"**\n*(Bukhari, Muslim — riwayat Adi bin Hatim r.a.)*\n\nSaat ini, berbagi sebagian kecil dari penghasilan Anda – roti, doa, sedekah – berarti menjaga kepercayaan pada tempatnya."
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "ئایەتی «لە باشی قازانجەکانتان بەخشە بکەن» لە کام سورەتدایە؟",
         "ar": "في أيِّ سورةٍ ﴿أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾؟",
         "ru": "В какой суре есть аят «Тратите из того, что заработали»?",
-        "fr": "Dans quelle sourate se trouve le verset « Dépensez des bonnes choses que vous avez gagnées » ?"
+        "fr": "Dans quelle sourate se trouve le verset « Dépensez des bonnes choses que vous avez gagnées » ?",
+        "id": "Di surah manakah ayat “Belanjakanlah sebagian dari kebaikan yang kamu peroleh”?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "بەقەرە",
           "ar": "البقرة",
           "ru": "Аль-Бакара",
-          "fr": "Al-Baqarah"
+          "fr": "Al-Baqarah",
+          "id": "Al-Baqarah"
         },
         {
           "tr": "Âl-i İmrân",
@@ -68,7 +72,8 @@
           "ckb": "ئالی عمران",
           "ar": "آل عمران",
           "ru": "Аль Имран",
-          "fr": "Al-Imran"
+          "fr": "Al-Imran",
+          "id": "Al Imran"
         },
         {
           "tr": "Nisâ",
@@ -81,7 +86,8 @@
           "ckb": "نسا",
           "ar": "النساء",
           "ru": "Ан-Ниса",
-          "fr": "An-Nisa"
+          "fr": "An-Nisa",
+          "id": "An-Nisa"
         },
         {
           "tr": "Tevbe",
@@ -94,7 +100,8 @@
           "ckb": "تەوبە",
           "ar": "التوبة",
           "ru": "Ат-Тауба",
-          "fr": "At-Tawbah"
+          "fr": "At-Tawbah",
+          "id": "At-Taubah"
         }
       ],
       "correct": 0
@@ -112,7 +119,8 @@
         "ckb": "نموونەی حەوت سەر لە بەقەرە ٢:٢٦١دا چی ڕوون دەکاتەوە؟",
         "ar": "ماذا يبيِّن مثلُ السبع سنابل في البقرة ٢٦١؟",
         "ru": "Что иллюстрирует притча о семи колосьях в Коране 2:261?",
-        "fr": "Qu’illustre la parabole des sept pointes dans Al-Baqarah 2 : 261 ?"
+        "fr": "Qu’illustre la parabole des sept pointes dans Al-Baqarah 2 : 261 ?",
+        "id": "Apa yang diilustrasikan oleh perumpamaan tujuh paku dalam surat Al-Baqarah 2:261?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "پاداشتی فراوانبووی ئەوانەی لە ڕێگای اللەدا خەرج دەکەن",
           "ar": "ثوابَ المنفقين في سبيل الله وتضاعُفَه",
           "ru": "Умноженная награда тем, кто тратит на пути Аллаха",
-          "fr": "La récompense multipliée de ceux qui dépensent dans le sentier d'Allah"
+          "fr": "La récompense multipliée de ceux qui dépensent dans le sentier d'Allah",
+          "id": "Pahala yang berlipat ganda bagi orang-orang yang menafkahkan di jalan Allah"
         },
         {
           "tr": "Ziraatın haram olduğunu",
@@ -139,7 +148,8 @@
           "ckb": "کە کشتوکاڵ حەرامە",
           "ar": "تحريمَ الزراعة",
           "ru": "Это сельское хозяйство запрещено",
-          "fr": "Que l'agriculture est interdite"
+          "fr": "Que l'agriculture est interdite",
+          "id": "Pertanian itu dilarang"
         },
         {
           "tr": "Sadece zenginlerin infak etmesini",
@@ -152,7 +162,8 @@
           "ckb": "تەنها دەوڵەمەندان خەرج دەکەن",
           "ar": "أن الإنفاقَ للأغنياء فقط",
           "ru": "Что только богатые могут тратить",
-          "fr": "Que seuls les riches peuvent dépenser"
+          "fr": "Que seuls les riches peuvent dépenser",
+          "id": "Hanya orang-orang kaya saja yang boleh membelanjakan uangnya"
         },
         {
           "tr": "Buğdayın yedi çeşidini",
@@ -165,7 +176,8 @@
           "ckb": "حەوت جۆر گەنم",
           "ar": "سبعةَ أصنافٍ من الحنطة",
           "ru": "Семь видов пшеницы",
-          "fr": "Sept types de blé"
+          "fr": "Sept types de blé",
+          "id": "Tujuh jenis gandum"
         }
       ],
       "correct": 0
@@ -183,7 +195,8 @@
         "ckb": "حەدیسەکە «لە ئاگر بپارێزن تەنانەت بە نیوەی خورمایەکیش» چی هاندەرە؟",
         "ar": "ماذا يحثُّ حديث «اتقوا النار ولو بشق تمرة»؟",
         "ru": "К чему призывает хадис «Защитите себя от адского огня даже с половиной финика»?",
-        "fr": "Qu'encourage le hadith « Protégez-vous du feu de l'enfer même avec un demi-rendez-vous » ?"
+        "fr": "Qu'encourage le hadith « Protégez-vous du feu de l'enfer même avec un demi-rendez-vous » ?",
+        "id": "Apa yang dianjurkan dalam hadis “Lindungi dirimu dari api neraka meski hanya dengan setengah kurma”?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "لە بەرپرسیارێتی نەهەڵگرتن: تەنانەت خێرێکی بچووکیش گرنگە",
           "ar": "عدمَ التهاون بالصدقة ولو قلَّت",
           "ru": "Не уклоняться от долга: даже небольшая благотворительность имеет значение",
-          "fr": "Ne pas éluder le devoir : même la petite charité compte"
+          "fr": "Ne pas éluder le devoir : même la petite charité compte",
+          "id": "Tidak menghindari tugas: bahkan amal kecil pun diperhitungkan"
         },
         {
           "tr": "Hurmanın haram olduğunu",
@@ -210,7 +224,8 @@
           "ckb": "خورما حەرامە",
           "ar": "تحريمَ التمر",
           "ru": "Эти свидания запрещены",
-          "fr": "Que les dates sont interdites"
+          "fr": "Que les dates sont interdites",
+          "id": "Tanggal tersebut dilarang"
         },
         {
           "tr": "Sadece hurma ile sadaka verilebileceğini",
@@ -223,7 +238,8 @@
           "ckb": "تەنها بە خورما خێر دەدرێت",
           "ar": "أن الصدقةَ بالتمر فقط",
           "ru": "Эту милостыню можно давать только в виде фиников.",
-          "fr": "Cette charité ne peut être donnée que sous forme de dates"
+          "fr": "Cette charité ne peut être donnée que sous forme de dates",
+          "id": "Sedekah itu hanya boleh diberikan dalam bentuk kurma"
         },
         {
           "tr": "Cehennemi inkâr etmeyi",
@@ -236,7 +252,8 @@
           "ckb": "ئینکارکردنی ئاگر",
           "ar": "إنكارَ النار",
           "ru": "Отрицание ада",
-          "fr": "Nier l'enfer"
+          "fr": "Nier l'enfer",
+          "id": "Menyangkal Neraka"
         }
       ],
       "correct": 0
@@ -254,7 +271,8 @@
         "ckb": "بەپێی بەقەرە ٢:٢٦٧ لە خێردا نابێت بەرەو چی بڕوات؟",
         "ar": "ماذا نُهِيَ عن التَّيَمُّمِ به في الإنفاق في ﴿البقرة: ٢٦٧﴾؟",
         "ru": "К чему не следует стремиться в благотворительности согласно Аль-Бакара 2:267?",
-        "fr": "Selon Al-Baqarah 2 : 267, qu’est-ce qui ne devrait pas être visé par la charité ?"
+        "fr": "Selon Al-Baqarah 2 : 267, qu’est-ce qui ne devrait pas être visé par la charité ?",
+        "id": "Menurut Al-Baqarah 2:267, Apa yang tidak boleh dituju dalam bersedekah?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "خراپەکە بەخشین کە خۆتان وەری ناگرن",
           "ar": "الخبيثَ الذي لا تأخذونه لأنفسكم",
           "ru": "Дарить дефектное, что не взял бы и себе, кроме как не по своей воле.",
-          "fr": "Donner le défectueux qu'on ne prendrait soi-même qu'à contrecœur"
+          "fr": "Donner le défectueux qu'on ne prendrait soi-même qu'à contrecœur",
+          "id": "Memberikan cacat yang tidak akan kamu ambil sendiri kecuali dengan terpaksa"
         },
         {
           "tr": "Temiz kazançtan vermek",
@@ -281,7 +300,8 @@
           "ckb": "خەرجکردن لە قازانجی پاک",
           "ar": "الإنفاقَ من الطيبات",
           "ru": "Расходы из чистых доходов",
-          "fr": "Dépenses provenant de revenus propres"
+          "fr": "Dépenses provenant de revenus propres",
+          "id": "Pengeluaran dari pendapatan bersih"
         },
         {
           "tr": "Yerden çıkan ürünlerden vermek",
@@ -294,7 +314,8 @@
           "ckb": "خەرجکردن لە بەرهەمی زەوی",
           "ar": "الإنفاقَ مما أخرجنا من الأرض",
           "ru": "Расходы из того, что производит земля",
-          "fr": "Dépenser avec ce que la terre produit"
+          "fr": "Dépenser avec ce que la terre produit",
+          "id": "Pengeluaran dari apa yang dihasilkan bumi"
         },
         {
           "tr": "İnfak etmeyi tamamen yasaklamak",
@@ -307,7 +328,8 @@
           "ckb": "قەدەغەکردنی تەواوی بەخشین",
           "ar": "تحريمَ الإنفاق كلِّه",
           "ru": "Полный запрет на траты",
-          "fr": "Interdire complètement les dépenses"
+          "fr": "Interdire complètement les dépenses",
+          "id": "Melarang pengeluaran sama sekali"
         }
       ],
       "correct": 0
@@ -325,7 +347,8 @@
         "ckb": "بەپێی دەقەکە کام لە خوارەوە هەڵەیە؟",
         "ar": "أيُّ الآتي باطلٌ وفقَ النص؟",
         "ru": "Согласно тексту, что из перечисленного НЕВЕРНО?",
-        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?"
+        "fr": "D’après le texte, lequel des énoncés suivants est FAUX ?",
+        "id": "Berdasarkan teks tersebut, pernyataan berikut manakah yang SALAH?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "هاوبەشکردن تەنها ئەرکی زۆر دەوڵەمەندانە",
           "ar": "المشاركةُ واجبُ الأثرياء فقط",
           "ru": "Делиться – обязанность только очень богатых",
-          "fr": "Le partage n'est que le devoir des très riches"
+          "fr": "Le partage n'est que le devoir des très riches",
+          "id": "Berbagi hanyalah tugas orang yang sangat kaya"
         },
         {
           "tr": "Kazanç helâl yolla elde edilen emanettir",
@@ -352,7 +376,8 @@
           "ckb": "قازانجی حەڵاڵ ئەمانەتە",
           "ar": "الكسبُ الحلالُ أمانةٌ",
           "ru": "Доходы, полученные законным путем, являются доверием",
-          "fr": "Les revenus gagnés légalement sont une fiducie"
+          "fr": "Les revenus gagnés légalement sont une fiducie",
+          "id": "Penghasilan yang diperoleh secara halal merupakan amanah"
         },
         {
           "tr": "Bakara 2:261 infak edenlere bol mükâfat misali verir",
@@ -365,7 +390,8 @@
           "ckb": "بەقەرە ٢:٢٦١ نموونەی پاداشتی زۆر دەدات",
           "ar": "البقرة ٢٦١ تمثلُ ثوابَ المنفقين",
           "ru": "Аль-Бакара 2:261 приводит притчу о великой награде транжирам.",
-          "fr": "Al-Baqarah 2 : 261 donne une parabole de grande récompense pour les dépensiers"
+          "fr": "Al-Baqarah 2 : 261 donne une parabole de grande récompense pour les dépensiers",
+          "id": "Al-Baqarah 2:261 memberikan perumpamaan pahala yang besar bagi orang yang membelanjakan uangnya"
         },
         {
           "tr": "Yarım hurma ile bile sadaka mümkündür",
@@ -378,7 +404,8 @@
           "ckb": "تەنانەت نیوەی خورمایەکیش خێر دەبێت",
           "ar": "يُمكِن أن تكون نصفُ تمرةٍ صدقةً",
           "ru": "Даже половина свидания может быть благотворительностью",
-          "fr": "Même un demi-rendez-vous peut être une œuvre de charité"
+          "fr": "Même un demi-rendez-vous peut être une œuvre de charité",
+          "id": "Setengah kurma pun bisa menjadi sedekah"
         }
       ],
       "correct": 0
@@ -395,6 +422,7 @@
     "ckb": "ئەمڕۆ بیر لە هاوبەشکردنی پارچەیەک لەوەی بەدەستت هێناوە بکەرەوە — پارە یان هەوڵ. بەقەرە ٢:٢٦٧ بیرت دەخاتەوە: ئەوەی خۆت وەری ناگریت مەبەخشە؛ هاوبەشکردن بەردەوامی قازانجی پاکە.",
     "ar": "فكِّر اليوم في مشاركةِ جزءٍ مما كسبت — مالاً كان أو جُهداً. يذكِّرُك ﴿أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ﴾: لا تُنفِقُوا الخبيثَ؛ فالمشاركةُ استمرارُ الكسبِ الطيب.",
     "ru": "Подумайте о том, чтобы поделиться частью того, что вы заработали сегодня — деньгами или усилиями. Аль-Бакара 2:267 напоминает вам: не давайте милостыни того, чего вы не приняли бы сами; обмен – это продолжение чистого заработка.",
-    "fr": "Pensez à partager une partie de ce que vous avez gagné aujourd’hui – de l’argent ou des efforts. Al-Baqarah 2 :267 vous rappelle : ne donnez pas en aumône ce que vous n'accepteriez pas vous-même ; le partage est la continuation de gains propres."
+    "fr": "Pensez à partager une partie de ce que vous avez gagné aujourd’hui – de l’argent ou des efforts. Al-Baqarah 2 :267 vous rappelle : ne donnez pas en aumône ce que vous n'accepteriez pas vous-même ; le partage est la continuation de gains propres.",
+    "id": "Pikirkan untuk membagikan sebagian dari penghasilan Anda hari ini — uang atau usaha. Al-Baqarah 2:267 mengingatkan anda: janganlah anda menyedekahkan apa yang anda sendiri tidak mau menerimanya; berbagi adalah kelanjutan dari pendapatan bersih."
   }
 }
