@@ -12,7 +12,8 @@
     "ckb": "ئاگاداری سەدەقە",
     "ar": "وعي الصدقة",
     "ru": "Осознание благотворительности (садака)",
-    "id": "Kesadaran Beramal (Sadaqah)"
+    "id": "Kesadaran Beramal (Sadaqah)",
+    "hi": "दान के प्रति जागरूकता (सदक़ा)"
   },
   "content": {
     "tr": "Sadaka, yalnızca maddi bir yardım değil; kalbin Allah'a yönelişinin bir yansımasıdır. Az ya da çok, her verdiğin şey — bir gülümseme, bir söz, bir ekmek parçası — Allah katında değer taşır.\n\nPeygamberimiz ﷺ şöyle buyurdu:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**«Cehennem ateşinden korunun; bir hurma yarısıyla bile olsa.»**\n*(Buhârî, Müslim — Hz. Adiy b. Hâtim rivayetiyle)*\n\nAllah Teâlâ da şöyle buyurur:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**«Mallarını Allah yolunda harcayanların durumu, her başağında yüz tane olmak üzere yedi başak veren bir tanenin durumu gibidir.»**\n*(Bakara 2:261)*\n\nSadaka verirken iki şeyi hatırla: Niyet ve süreklilik. Allah, az ama devamlı yapılan iyiliği sever. Bugün küçük bir adım at — belki bir ihtiyaç sahibine yardım et, belki birine güzel bir söz söyle.",
@@ -25,7 +26,8 @@
     "ckb": "سەدەقە تەنها کارێکی مادی نییە — ئەو ئەینەی ئاراستەی دڵ بەرەو اللەیە. گەورە بێت یان بچووک، هەر ئەوەی دەیبەخشیت — پێکەنینێک، وشەیەکی جوان، پارچەیەکی نان — لەلای اللە بەهایەکی هەیە.\n\nپێغەمبەرمان ﷺ فەرموویەتی:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**«خۆتان لە ئاگری دووزەخ بپارێزن، ئەگەرچی بە نیوەی مێوەیەکیش بێت.»**\n*(بوخاری، موسلیم — بە ڕێوایەتی عەدی بن حاتیم)*\n\nاللەی بەرز فەرموویەتی:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**«نموونەی ئەوانەی کە مالیانیان لە ڕێگای اللەدا خەرج دەکەن، وەکو دانەیەکە کە حەوت خووشەی هەڵدەستێت، لە هەر خووشەیەک سەد دانە هەیە.»**\n*(بەقەرە: ٢٦١)*\n\nکاتێک سەدەقە دەدەیت، دوو شت لەبیر مەبە: نیەت و بەردەوامی. اللە چالاکییە باشەکانی بچووک بەڵام بەردەوامەکانی خۆشەویست دەکات. ئەمڕۆ هەنگاوێکی بچووک بنێ — ئەگەر کۆمەڵێکی پێویستمەندت هەیە یارمەتیدەیت، یان وشەیەکی جوان بە کەسێکی دەوروبەرتدا بگێرە.",
     "ar": "الصدقةُ ليست مجرد فعلٍ مادي — إنها انعكاسٌ لتوجُّه القلب نحو الله. سواءٌ كانت كثيرةً أو قليلة، كلُّ ما تُعطيه — ابتسامةٌ، كلمةٌ طيبة، كِسرةُ خبز — لها قيمةٌ عند الله.\n\nقال النبي ﷺ:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n*(رواه البخاري ومسلم — عن عدي بن حاتم رضي الله عنه)*\n\nويقول الله تعالى:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ﴾**\n*(البقرة: ٢٦١)*\n\nحين تتصدَّق، تذكَّر أمرين: النيةَ والاستمرارية. يُحبُّ الله العمل الصالح الصغير الدائم. اخطُ اليوم خطوةً صغيرة — ربما أعِن محتاجاً، أو قُل لمن حولك كلمةً طيبة.",
     "ru": "Благотворительность (садака) – это не просто материальный поступок, это отражение ориентации сердца на Аллаха. Будь то большое или маленькое, все, что вы даете – улыбка, доброе слово, кусок хлеба – имеет ценность в глазах Аллаха.\n\nПророк ﷺ сказал:\n\n**«اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»**\n**\"Защитите себя от Огня, даже с половиной финика.\"**\n*(Бухари, Муслим — передал Адий ибн Хатим)*\n\nАллах Всевышний говорит:\n\n*** كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**«Пример тех, кто тратит свое имущество на пути Аллаха, подобен зерну, из которого выросло семь колосьев, в каждом из которых по сто зерен».**\n*(Аль-Бакара 2:261)*\n\nДавая милостыню, помните две вещи: намерение и последовательность. Аллах любит добрые дела, небольшие, но постоянные. Сделайте сегодня небольшой шаг — возможно, помогите нуждающемуся или скажите доброе слово кому-то из окружающих.",
-    "id": "Sedekah (sadaqah) bukan sekedar tindakan material – ia merupakan cerminan orientasi hati terhadap Allah. Baik besar atau kecil, segala sesuatu yang Anda berikan – senyuman, perkataan yang baik, sepotong roti – memiliki nilai di sisi Allah.\n\nNabi ﷺ bersabda:\n\n**\"اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ\"**\n**\"Lindungi dirimu dari api neraka, walaupun hanya setengah kurma.\"**\n*(Bukhari, Muslim — meriwayatkan Adiy bin Hatim)*\n\nAllah SWT berfirman:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**Perumpamaan orang-orang yang menafkahkan hartanya di jalan Allah ibarat sebutir biji yang menumbuhkan tujuh bulir yang masing-masing menghasilkan seratus butir.”**\n*(Al-Baqarah 2:261)*\n\nSaat bersedekah, ingatlah dua hal: niat dan konsistensi. Allah menyukai perbuatan baik yang kecil namun terus menerus. Ambillah langkah kecil hari ini — mungkin membantu seseorang yang membutuhkan, atau memberikan kata-kata baik kepada seseorang di sekitar Anda."
+    "id": "Sedekah (sadaqah) bukan sekedar tindakan material – ia merupakan cerminan orientasi hati terhadap Allah. Baik besar atau kecil, segala sesuatu yang Anda berikan – senyuman, perkataan yang baik, sepotong roti – memiliki nilai di sisi Allah.\n\nNabi ﷺ bersabda:\n\n**\"اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ\"**\n**\"Lindungi dirimu dari api neraka, walaupun hanya setengah kurma.\"**\n*(Bukhari, Muslim — meriwayatkan Adiy bin Hatim)*\n\nAllah SWT berfirman:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**Perumpamaan orang-orang yang menafkahkan hartanya di jalan Allah ibarat sebutir biji yang menumbuhkan tujuh bulir yang masing-masing menghasilkan seratus butir.”**\n*(Al-Baqarah 2:261)*\n\nSaat bersedekah, ingatlah dua hal: niat dan konsistensi. Allah menyukai perbuatan baik yang kecil namun terus menerus. Ambillah langkah kecil hari ini — mungkin membantu seseorang yang membutuhkan, atau memberikan kata-kata baik kepada seseorang di sekitar Anda.",
+    "hi": "दान (सदक़ा) केवल एक भौतिक कार्य नहीं है - यह अल्लाह के प्रति हृदय के उन्मुखीकरण का प्रतिबिंब है। चाहे बड़ा हो या छोटा, आप जो कुछ भी देते हैं - एक मुस्कान, एक दयालु शब्द, रोटी का एक टुकड़ा - अल्लाह की दृष्टि में मूल्य रखता है।\n\nपैगंबर ﷺ ने कहा:\n\n**\"اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ\"**\n**'आधे खजूर से भी अपने आप को आग से बचा लो।'**\n*(बुखारी, मुस्लिम - आदि इब्न हातिम द्वारा सुनाई गई)*\n\nअल्लाह सर्वशक्तिमान कहता है:\n\n**﴿مَّثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ﴾**\n**\"उन लोगों का उदाहरण जो अल्लाह की राह में अपना माल खर्च करते हैं, उस दाने के समान है जिसमें सात बालें निकलती हैं, जिनमें से प्रत्येक में सौ दाने आते हैं।\"**\n*(अल-बकराह 2:261)*\n\nदान देते समय दो बातें याद रखें: इरादा और निरंतरता। अल्लाह को अच्छे काम पसंद हैं जो छोटे लेकिन निरंतर होते हैं। आज एक छोटा सा कदम उठाएँ - शायद किसी जरूरतमंद की मदद करें, या अपने आस-पास के किसी व्यक्ति को दयालु शब्द कहें।"
   },
   "quiz": [
     {
@@ -41,7 +43,8 @@
         "ckb": "کێ ئەم حەدیسەی «خۆتان لە ئاگری دووزەخ بپارێزن، ئەگەرچی بە نیوەی مێوەیەکیش بێت» ڕێوایەت کردووە؟",
         "ar": "مَن روى حديث «اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ»؟",
         "ru": "Кто передал хадис «Защитите себя от огня, даже с половиной финика»?",
-        "id": "Siapakah yang meriwayatkan hadits “Jauhilah dirimu dari api neraka walaupun hanya setengah kurma”?"
+        "id": "Siapakah yang meriwayatkan hadits “Jauhilah dirimu dari api neraka walaupun hanya setengah kurma”?",
+        "hi": "Who narrated the hadith \"Protect yourselves from the Fire, even with half a date\"?"
       },
       "options": [
         {
@@ -55,7 +58,8 @@
           "ckb": "ئەبو هورەیرە",
           "ar": "أبو هريرة",
           "ru": "Абу Хурайра",
-          "id": "Abu Hurairah"
+          "id": "Abu Hurairah",
+          "hi": "अबू हुरैरा"
         },
         {
           "tr": "Hz. Adiy b. Hâtim",
@@ -68,7 +72,8 @@
           "ckb": "عەدی بن حاتیم",
           "ar": "عدي بن حاتم",
           "ru": "Адий ибн Хатим",
-          "id": "Adiy bin Hatim"
+          "id": "Adiy bin Hatim",
+          "hi": "आदि इब्न हातिम"
         },
         {
           "tr": "Hz. Ömer b. el-Hattâb",
@@ -81,7 +86,8 @@
           "ckb": "عومەر بن خەتاب",
           "ar": "عمر بن الخطاب",
           "ru": "Умар ибн аль-Хаттаб",
-          "id": "Umar bin al-Khattab"
+          "id": "Umar bin al-Khattab",
+          "hi": "Umar ibn al-Khattab"
         },
         {
           "tr": "Hz. Âişe",
@@ -94,7 +100,8 @@
           "ckb": "عائیشە",
           "ar": "عائشة",
           "ru": "Аиша",
-          "id": "Aisyah"
+          "id": "Aisyah",
+          "hi": "आयशा"
         }
       ],
       "correct": 1
@@ -112,7 +119,8 @@
         "ckb": "بەپێی بەقەرە ٢٦١، دانەیەک کە لە ڕێگای اللەدا خەرج دەکرێت چەند قات زیاد دەبێت؟",
         "ar": "وفقاً للبقرة 261، بكم تتضاعف الحبة التي تُنفق في سبيل الله؟",
         "ru": "Согласно Аль-Бакара 2:261, во сколько раз умножается зерно, потраченное на пути Аллаха?",
-        "id": "Menurut Al-Baqarah 2:261, berapa kali lipat biji gandum jika dibelanjakan di jalan Allah?"
+        "id": "Menurut Al-Baqarah 2:261, berapa kali lipat biji gandum jika dibelanjakan di jalan Allah?",
+        "hi": "अल-बकरा 2:261 के अनुसार, अल्लाह की राह में खर्च किया गया अनाज कितने गुना बढ़ जाता है?"
       },
       "options": [
         {
@@ -126,7 +134,8 @@
           "ckb": "١٠ قات",
           "ar": "10 أضعاف",
           "ru": "10 раз",
-          "id": "10 kali"
+          "id": "10 kali",
+          "hi": "10 बार"
         },
         {
           "tr": "70 kat",
@@ -139,7 +148,8 @@
           "ckb": "٧٠ قات",
           "ar": "70 ضعفاً",
           "ru": "70 раз",
-          "id": "70 kali"
+          "id": "70 kali",
+          "hi": "70 बार"
         },
         {
           "tr": "700 kat",
@@ -152,7 +162,8 @@
           "ckb": "٧٠٠ قات",
           "ar": "700 ضعف",
           "ru": "700 раз",
-          "id": "700 kali"
+          "id": "700 kali",
+          "hi": "700 बार"
         },
         {
           "tr": "1000 kat",
@@ -165,7 +176,8 @@
           "ckb": "١٠٠٠ قات",
           "ar": "1000 ضعف",
           "ru": "1000 раз",
-          "id": "1000 kali"
+          "id": "1000 kali",
+          "hi": "1000 बार"
         }
       ],
       "correct": 2
@@ -183,7 +195,8 @@
         "ckb": "ئایا سەدەقە لە ئیسلامدا تەنها دراوی دراوە؟",
         "ar": "هل الصدقة في الإسلام تقتصر على إعطاء المال فحسب؟",
         "ru": "Садака в Исламе заключается только в даянии денег?",
-        "id": "Apakah sedekah dalam Islam hanya sebatas memberi uang?"
+        "id": "Apakah sedekah dalam Islam hanya sebatas memberi uang?",
+        "hi": "क्या इस्लाम में सदका सिर्फ पैसे देने के बारे में है?"
       },
       "options": [
         {
@@ -197,7 +210,8 @@
           "ckb": "بەڵێ، تەنها یارمەتی مادی حیساب دەکرێت",
           "ar": "نعم، تقتصر على المساعدة المادية فحسب",
           "ru": "Да, учитывается только материальная помощь.",
-          "id": "Ya, hanya bantuan materi yang diperhitungkan"
+          "id": "Ya, hanya bantuan materi yang diperhitungkan",
+          "hi": "Yes, only material help counts"
         },
         {
           "tr": "Hayır; gülümseme, güzel söz ve her iyilik de sadakadır",
@@ -210,7 +224,8 @@
           "ckb": "نەخێر؛ پێکەنین، وشەی جوان و هەر چالاکییەکی باشیش سەدەقەیە",
           "ar": "لا؛ الابتسامة والكلمة الطيبة وكل عمل خير صدقةٌ أيضاً",
           "ru": "Нет; улыбка, доброе слово и любое доброе дело тоже садака",
-          "id": "TIDAK; senyuman, perkataan yang baik, dan perbuatan baik apa pun juga merupakan sedekah"
+          "id": "TIDAK; senyuman, perkataan yang baik, dan perbuatan baik apa pun juga merupakan sedekah",
+          "hi": "नहीं; एक मुस्कान, एक दयालु शब्द और कोई भी अच्छा काम भी सदक़ा है"
         },
         {
           "tr": "Yalnızca zekat sadaka sayılır",
@@ -223,7 +238,8 @@
           "ckb": "تەنها زەکات بە سەدەقە حیساب دەکرێت",
           "ar": "الزكاة وحدها هي الصدقة",
           "ru": "Садакой считается только закят.",
-          "id": "Hanya zakat yang dihitung sebagai sedekah"
+          "id": "Hanya zakat yang dihitung sebagai sedekah",
+          "hi": "केवल जकात ही सदका मानी जाती है"
         },
         {
           "tr": "Yalnızca Ramazan'da verilen yardım sadakadır",
@@ -236,7 +252,8 @@
           "ckb": "تەنها یارمەتیێک کە لە مانگی ڕەمەزاندا دەدرێت سەدەقەیە",
           "ar": "المساعدة في رمضان فحسب هي الصدقة",
           "ru": "Только помощь, оказанная во время Рамадана, является садакой.",
-          "id": "Bantuan yang diberikan selama Ramadhan hanyalah sedekah"
+          "id": "Bantuan yang diberikan selama Ramadhan hanyalah sedekah",
+          "hi": "रमजान के दौरान की गई मदद ही सदका है"
         }
       ],
       "correct": 1
@@ -254,7 +271,8 @@
         "ckb": "اللە کام جۆرە چالاکییەک زیاتر خۆشەویست دەکات؟",
         "ar": "أيُّ نوع من الأعمال أحبُّ إلى الله؟",
         "ru": "Какие дела Аллах любит больше всего?",
-        "id": "Amalan apa yang paling disukai Allah?"
+        "id": "Amalan apa yang paling disukai Allah?",
+        "hi": "What type of deed does Allah love the most?"
       },
       "options": [
         {
@@ -268,7 +286,8 @@
           "ckb": "چالاکییەکی باشی زۆر کە یەک جار دەکرێت",
           "ar": "عملٌ كثير يُؤدَّى دفعةً واحدة",
           "ru": "Огромное количество добра, сделанного сразу",
-          "id": "Banyak sekali kebaikan yang dilakukan sekaligus"
+          "id": "Banyak sekali kebaikan yang dilakukan sekaligus",
+          "hi": "एक ही बार में बहुत सारा अच्छा काम किया गया"
         },
         {
           "tr": "Yalnızca maddi yardım",
@@ -281,7 +300,8 @@
           "ckb": "تەنها یارمەتی دراوی",
           "ar": "المساعدة المالية وحدها",
           "ru": "Только финансовая помощь",
-          "id": "Hanya bantuan keuangan"
+          "id": "Hanya bantuan keuangan",
+          "hi": "सिर्फ आर्थिक मदद"
         },
         {
           "tr": "Az ama devamlı yapılan iyilik",
@@ -294,7 +314,8 @@
           "ckb": "چالاکییەکی باشی بچووک بەڵام بەردەوام",
           "ar": "العمل الصالح القليل الدائم",
           "ru": "Маленькое, но постоянное доброе дело",
-          "id": "Perbuatan baik yang kecil namun berkesinambungan"
+          "id": "Perbuatan baik yang kecil namun berkesinambungan",
+          "hi": "एक छोटा लेकिन निरंतर अच्छा कार्य"
         },
         {
           "tr": "Başkalarının bildiği iyilikler",
@@ -307,7 +328,8 @@
           "ckb": "چالاکییە باشەکانی کە کەسانی تر ئاگاداری دەبن",
           "ar": "الأعمال الصالحة التي يعلمها الناس",
           "ru": "Добрые дела, о которых знают другие",
-          "id": "Perbuatan baik yang diketahui orang lain"
+          "id": "Perbuatan baik yang diketahui orang lain",
+          "hi": "अच्छे कर्म जिनके बारे में दूसरे लोग जानते हैं"
         }
       ],
       "correct": 2
@@ -325,7 +347,8 @@
         "ckb": "کاتێک سەدەقە دەدرێت دوو هێمانە گرنگەکان چین؟",
         "ar": "ما أهم عنصرين عند إعطاء الصدقة؟",
         "ru": "Каковы два наиболее важных элемента при даче садака?",
-        "id": "Apa dua unsur terpenting dalam bersedekah?"
+        "id": "Apa dua unsur terpenting dalam bersedekah?",
+        "hi": "What are the two most important elements when giving sadaqah?"
       },
       "options": [
         {
@@ -339,7 +362,8 @@
           "ckb": "بڕ و خێرایی",
           "ar": "الكمية والسرعة",
           "ru": "Количество и скорость",
-          "id": "Jumlah dan kecepatan"
+          "id": "Jumlah dan kecepatan",
+          "hi": "मात्रा और गति"
         },
         {
           "tr": "Niyet ve süreklilik",
@@ -352,7 +376,8 @@
           "ckb": "نیەت و بەردەوامی",
           "ar": "النية والاستمرارية",
           "ru": "Намерение и последовательность",
-          "id": "Niat dan konsistensi"
+          "id": "Niat dan konsistensi",
+          "hi": "इरादा और निरंतरता"
         },
         {
           "tr": "Alıcının kimliği ve şükrü",
@@ -365,7 +390,8 @@
           "ckb": "ناسنامەی وەرگر و سوپاسی",
           "ar": "هوية المتلقي وشكره",
           "ru": "Личность получателя и благодарность",
-          "id": "Identitas penerima dan ucapan terima kasih"
+          "id": "Identitas penerima dan ucapan terima kasih",
+          "hi": "प्राप्तकर्ता की पहचान और कृतज्ञता"
         },
         {
           "tr": "Tanınmak ve övülmek",
@@ -378,7 +404,8 @@
           "ckb": "ناسراو بوون و ستایش",
           "ar": "الاعتراف والمديح",
           "ru": "Быть признанным и восхваленным",
-          "id": "Diakui dan dipuji"
+          "id": "Diakui dan dipuji",
+          "hi": "पहचाना और सराहा जा रहा है"
         }
       ],
       "correct": 1
@@ -395,6 +422,7 @@
     "ckb": "پێویست ناکات دەوڵەمەند بیت تاکو سەدەقە بدەیت. بچووکترین شتی دەستت پێشکەش بکە — پێکەنینێک، دوعاێک، دەستێکی یارمەتی — بە نیەتێکی ڕاستەقینە بەس دەکات. لەلای اللە هیچ چالاکییەکی باش وێنابێتەوە. ئەمڕۆ تۆوێک بچێنە؛ کێ دەزانێت، شایەد ئەو تۆوە حەوت سەد قات میوە بدات.",
     "ar": "لستَ بحاجة إلى أن تكون غنياً لتتصدَّق. تقديمُ أصغر ما في يدك — ابتسامةٌ، دعاءٌ، يدٌ مُعينة — بنيةٍ صادقة يكفي. لا يضيع عند الله خيرٌ قط. ازرع بذرةً اليوم؛ ومن يدري، ربما تُعطي تلك البذرة سبعمائة ضعف.",
     "ru": "Не обязательно быть богатым, чтобы заниматься благотворительностью. Достаточно предложить самую маленькую вещь в вашей руке — улыбку, молитву, руку помощи — с искренним намерением. Ни одно доброе дело не потеряно перед Аллахом. Посадите семя сегодня; кто знает, быть может, это семя принесет семисоткратный плод.",
-    "id": "Anda tidak perlu menjadi kaya untuk bersedekah. Mempersembahkan hal terkecil di tangan Anda — senyuman, doa, uluran tangan — dengan niat yang tulus sudah cukup. Tidak ada amal baik yang hilang di hadapan Allah. Tanam benih hari ini; siapa tahu, mungkin benih itu akan menghasilkan tujuh ratus buah."
+    "id": "Anda tidak perlu menjadi kaya untuk bersedekah. Mempersembahkan hal terkecil di tangan Anda — senyuman, doa, uluran tangan — dengan niat yang tulus sudah cukup. Tidak ada amal baik yang hilang di hadapan Allah. Tanam benih hari ini; siapa tahu, mungkin benih itu akan menghasilkan tujuh ratus buah.",
+    "hi": "You don't need to be wealthy to give charity. Offering the smallest thing in your hand — a smile, a prayer, a helping hand — with a sincere intention is enough. No good deed is ever lost before Allah. Plant a seed today; who knows, perhaps that seed will bear seven hundredfold fruit."
   }
 }
