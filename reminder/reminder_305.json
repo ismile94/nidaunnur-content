@@ -47,7 +47,7 @@
         "ru": "Кто рассказал хадис о посте в Рамадан и шести днях Шавваля?",
         "fr": "Qui a rapporté le hadith sur le jeûne du Ramadan puis des six jours de Shawwal ?",
         "id": "Siapa yang meriwayatkan hadits tentang puasa Ramadhan lalu enam hari bulan Syawal?",
-        "hi": "Who narrated the hadith about fasting Ramadan then six days of Shawwal?"
+        "hi": "रमज़ान और शव्वाल के छह दिनों के रोज़े के बारे में हदीस किसने सुनाई?"
       },
       "options": [
         {
@@ -290,7 +290,7 @@
         "ru": "Какова общая точка зрения ученых относительно фразы о награде «ка-сийами ад-дар»?",
         "fr": "Quel est un point commun des chercheurs à propos de l’expression de récompense « ka-siyami ad-dahr » ?",
         "id": "Apa pendapat ilmiah yang umum tentang ungkapan pahala \"ka-siyami ad-dahr\"?",
-        "hi": "What is a common scholarly point about the reward phrase \"ka-siyami ad-dahr\"?"
+        "hi": "इनाम वाक्यांश \"का-सियामी विज्ञापन-दहर\" के बारे में एक सामान्य विद्वान बिंदु क्या है?"
       },
       "options": [
         {
@@ -402,7 +402,7 @@
           "ru": "В тексте отмечается, что многие ученые не требуют, чтобы шесть дней были последовательными.",
           "fr": "Le texte note que de nombreux chercheurs n'exigent pas que les six jours soient consécutifs.",
           "id": "Teks tersebut mencatat banyak ulama tidak mensyaratkan enam hari berturut-turut",
-          "hi": "The text notes many scholars do not require the six days to be consecutive"
+          "hi": "पाठ में कहा गया है कि कई विद्वान लगातार छह दिनों की आवश्यकता नहीं रखते हैं"
         },
         {
           "tr": "Metin, Ramazan orucunu hiç tutmadan yalnızca Şevvalden altı gün tutmanın aynı mükâfata sahip olduğunu kesin bildirir",
@@ -417,7 +417,7 @@
           "ru": "В тексте говорится, что вы получите ту же награду без поста в Рамадан, только в шесть шаввалей.",
           "fr": "Le texte indique que vous obtenez la même récompense sans jeûner le Ramadan, seulement six mois de Shawwal.",
           "id": "Teks tersebut menyatakan Anda mendapatkan pahala yang sama tanpa puasa Ramadhan, hanya enam Syawal",
-          "hi": "The text states you get the same reward without fasting Ramadan, only Shawwal six"
+          "hi": "पाठ में कहा गया है कि आपको रमज़ान के उपवास के बिना भी वही इनाम मिलता है, केवल शव्वाल छह"
         },
         {
           "tr": "Metin, niyet tazelemenin ve düzenin Ramazan bitince de sürebileceğini hatırlatır",
