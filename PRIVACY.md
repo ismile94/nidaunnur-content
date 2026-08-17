@@ -7,9 +7,36 @@ This document describes how the **Nida** mobile application (“**App**”) and 
 
 **Languages:** English, Turkish, Arabic, Portuguese, Spanish, German, Dutch, Kurdish (Kurmanji), Kurdish (Sorani) — the substantive sections below repeat the same policy in each language.
 
-**Controller / contact:** Ismail Aram — **ismailaram94@gmail.com**
+**Controller / contact:** Ismail Aram — **ismailaram94@gmail.com** · **support@nidaadhan.com**
 
-**Last updated:** April 2026
+**Last updated:** 17 August 2026
+
+---
+
+## Data deletion — how to request deletion of your data
+
+**There is a data deletion process.** You may request deletion of your personal data at any time.
+
+**How to submit a request**
+
+1. Send an email to **ismailaram94@gmail.com** or **support@nidaadhan.com**.
+2. Use the subject line: **Data deletion request**.
+3. Include the email address of your optional Nida account (if you created one) and whether you use Google Play or the App Store.
+
+**What we delete**
+
+- Your optional Nida account (email sign-in)
+- Cloud-synced app preferences linked to that account
+- Forum profile data and related community data we control
+- Support messages that we still hold
+
+**On-device data**
+
+Settings, caches, and downloads stored only on your phone are removed when you **clear the app’s data** in Android/iOS settings or **uninstall** the App. If you never created an account, this is sufficient: we do not keep a personal account for you on our servers.
+
+**Timeline**
+
+We complete verifiable deletion requests within **30 days**.
 
 ---
 
@@ -21,7 +48,7 @@ This policy applies to the Nida App (iOS, Android, and similar builds) and to **
 
 ### 2. Accounts
 
-The App is designed to work **without creating a user account**. We do not operate a traditional “sign up / log in” profile inside the App for general use.
+A Nida account is **optional**. Core features (prayer times, Quran, Qibla, dhikr, reminders) work **without** signing in. If you choose to create an account (email and password), it is used for optional **cloud sync** of preferences and for the **community forum**.
 
 ### 3. Categories of data and purposes
 
@@ -63,6 +90,10 @@ Those providers process data under their own terms and privacy policies.
 
 You can **withdraw permissions** in your device settings (location, notifications, etc.), use **manual location** where supported, **limit ad tracking / analytics** options the platform offers, or **uninstall** the App.
 
+### 7.1 Data deletion
+
+To request deletion of your personal data, email **ismailaram94@gmail.com** or **support@nidaadhan.com** with the subject **Data deletion request** and the email of your Nida account (if any). We delete the account, cloud-synced settings, forum profile data we control, and support messages we still hold, within **30 days**. On-device data is removed by clearing app data or uninstalling. See the **Data deletion** section at the top of this page for the full process.
+
 ### 8. Children
 
 The App is not directed at children to collect data from them beyond what is reasonably needed to provide general utility features. Parents or guardians should supervise device permissions.
@@ -77,7 +108,7 @@ We may update this policy. The “Last updated” date will change; material cha
 
 ### 11. Contact
 
-Questions or requests (including access/deletion where applicable): **ismailaram94@gmail.com**
+Questions, access requests, or **data deletion requests**: **ismailaram94@gmail.com** or **support@nidaadhan.com**. For deletion, follow the **Data deletion** section at the top of this page.
 
 ---
 
@@ -89,7 +120,7 @@ Bu metin **Nida** mobil uygulaması (“**Uygulama**”) ile bu depoda barındı
 
 ### 2. Hesaplar
 
-Uygulama, genel kullanımda **kullanıcı hesabı oluşturmadan** çalışacak şekilde tasarlanmıştır.
+Nida hesabı **isteğe bağlıdır**. Namaz vakitleri, Kur’an, kıble ve diğer temel özellikler **giriş yapmadan** çalışır. Hesap oluşturursanız (e-posta ve şifre), isteğe bağlı **bulut senkronizasyonu** ve **topluluk forumu** için kullanılır.
 
 ### 3. Veri türleri ve amaçlar
 
@@ -123,6 +154,18 @@ Cihaz verisi, silme / uygulamayı kaldırma veya üzerine yazma ile değişir. S
 
 Cihaz ayarlarından izinleri kaldırabilir, destekleniyorsa manuel konum kullanabilir, platformun sunduğu analitik / izleme sınırlarını kullanabilir veya uygulamayı kaldırabilirsiniz.
 
+### 7.1 Veri silme (data deletion)
+
+Kişisel verilerinizin silinmesini **istediğiniz zaman** talep edebilirsiniz.
+
+**Nasıl talep edilir**
+
+1. **ismailaram94@gmail.com** veya **support@nidaadhan.com** adresine e-posta gönderin.
+2. Konu satırı: **Veri silme talebi** (veya **Data deletion request**).
+3. Varsa Nida hesabınızın e-postasını ve Google Play / App Store bilgisini yazın.
+
+**Neyi sileriz:** isteğe bağlı Nida hesabı, hesaba bağlı bulut tercihleri, kontrolümüzdeki forum profili verileri ve elimizde kalan destek iletileri. İşlem **30 gün** içinde tamamlanır. Cihazda kalan veriler için uygulamayı kaldırın veya uygulama verisini silin. Bu sayfanın başındaki **Data deletion** bölümü aynı sürecin tam metnidir.
+
 ### 8. Çocuklar
 
 Uygulama çocuklardan özel olarak veri toplamak üzere yönlendirilmemiştir; ebeveynler izinleri denetlemelidir.
@@ -137,7 +180,7 @@ Bu metin güncellenebilir; “Last updated” tarihi değişir.
 
 ### 11. İletişim
 
-**ismailaram94@gmail.com**
+Sorular, erişim talepleri veya **veri silme talepleri**: **ismailaram94@gmail.com** veya **support@nidaadhan.com**. Silme için bu sayfanın başındaki **Data deletion** bölümünü izleyin.
 
 ---
 
@@ -149,7 +192,7 @@ Bu metin güncellenebilir; “Last updated” tarihi değişir.
 
 ### 2. الحسابات
 
-التطبيق مصمم للعمل **دون إنشاء حساب مستخدم** تقليدي.
+حساب نيدا **اختياري**. أوقات الصلاة والقرآن والقبلة وغيرها من الميزات الأساسية تعمل **دون تسجيل الدخول**. إذا أنشأت حساباً (بريد وكلمة مرور) يُستخدم للمزامنة السحابية الاختيارية ومنتدى المجتمع.
 
 ### 3. أنواع البيانات والأغراض
 
@@ -183,6 +226,10 @@ Bu metin güncellenebilir; “Last updated” tarihi değişir.
 
 إدارة الأذونات في إعدادات النظام، الموقع اليدوي حيث يتوفر، أو إلغاء التثبيت.
 
+### 7.1 حذف البيانات
+
+يمكنك طلب حذف بياناتك الشخصية في أي وقت. أرسل بريداً إلى **ismailaram94@gmail.com** أو **support@nidaadhan.com** بعنوان **Data deletion request**، مع بريد حساب نيدا إن وُجد. نحذف الحساب والإعدادات السحابية وبيانات الملف الشخصي في المنتدى التي نتحكم بها ورسائل الدعم المتبقية خلال **30 يوماً**. بيانات الجهاز تُحذف بإزالة التطبيق أو مسح بيانات التطبيق.
+
 ### 8. الأطفال
 
 التطبيق غير موجه لجمع بيانات الأطفال بشكل خاص؛ يُنصح بإشراف الوالدين.
@@ -197,7 +244,7 @@ Bu metin güncellenebilir; “Last updated” tarihi değişir.
 
 ### 11. التواصل
 
-**ismailaram94@gmail.com**
+للأسئلة أو **طلب حذف البيانات**: **ismailaram94@gmail.com** أو **support@nidaadhan.com**. انظر قسم **Data deletion** أعلى هذه الصفحة.
 
 ---
 
@@ -209,7 +256,7 @@ Esta política aplica-se à app **Nida** e a conteúdos **públicos** deste repo
 
 ### 2. Contas
 
-A app funciona **sem criação obrigatória de conta** de utilizador.
+Uma conta Nida é **opcional**. As funções principais funcionam **sem iniciar sessão**. Se criar uma conta (e-mail e palavra-passe), ela serve para a **sincronização na nuvem** opcional e para o **fórum**.
 
 ### 3. Dados e finalidades
 
@@ -231,6 +278,10 @@ Dados locais até apagar dados da app / desinstalar; servidores conforme políti
 
 Gerir permissões, usar localização manual quando disponível, opções do sistema para analíticas, ou desinstalar.
 
+### 7.1 Eliminação de dados
+
+Pode pedir a eliminação dos seus dados pessoais a qualquer momento. Envie um e-mail para **ismailaram94@gmail.com** ou **support@nidaadhan.com** com o assunto **Data deletion request** e o e-mail da conta Nida (se existir). Eliminamos a conta, as preferências na nuvem, os dados de perfil do fórum que controlamos e as mensagens de suporte que ainda guardamos, no prazo de **30 dias**. Dados só no dispositivo: limpe os dados da app ou desinstale.
+
 ### 8. Crianças
 
 A app não se destina a recolher dados de crianças para além do necessário às funções gerais.
@@ -245,7 +296,7 @@ Podemos atualizar esta política; a data “Last updated” muda.
 
 ### 11. Contacto
 
-**ismailaram94@gmail.com**
+Perguntas ou **pedidos de eliminação de dados**: **ismailaram94@gmail.com** ou **support@nidaadhan.com**. Siga a secção **Data deletion** no topo desta página.
 
 ---
 
@@ -257,7 +308,7 @@ Esta política se aplica a la app **Nida** y al contenido **público** de este r
 
 ### 2. Cuentas
 
-La app está pensada para usarse **sin crear una cuenta de usuario** obligatoria.
+Una cuenta Nida es **opcional**. Las funciones principales funcionan **sin iniciar sesión**. Si creas una cuenta (correo y contraseña), se usa para la **sincronización en la nube** opcional y para el **foro**.
 
 ### 3. Datos y fines
 
@@ -279,6 +330,10 @@ Datos locales hasta borrar datos de la app / desinstalar; servidores según pol�
 
 Permisos en ajustes del sistema, ubicación manual si existe, opciones de analíticas del sistema o desinstalar.
 
+### 7.1 Eliminación de datos
+
+Puedes solicitar la eliminación de tus datos personales en cualquier momento. Envía un correo a **ismailaram94@gmail.com** o **support@nidaadhan.com** con el asunto **Data deletion request** y el correo de tu cuenta Nida (si tienes una). Eliminamos la cuenta, las preferencias en la nube, los datos de perfil del foro que controlamos y los mensajes de soporte que aún conservamos, en un plazo de **30 días**. Datos solo en el dispositivo: borra los datos de la app o desinstálala.
+
 ### 8. Menores
 
 La app no está dirigida a recopilar datos de menores más allá de lo necesario para sus funciones.
@@ -293,7 +348,7 @@ Podemos actualizar esta política; cambia la fecha “Last updated”.
 
 ### 11. Contacto
 
-**ismailaram94@gmail.com**
+Preguntas o **solicitudes de eliminación de datos**: **ismailaram94@gmail.com** o **support@nidaadhan.com**. Sigue la sección **Data deletion** al inicio de esta página.
 
 ---
 
@@ -305,7 +360,7 @@ Diese Richtlinie gilt für die **Nida**-App und **öffentliche** Inhalte in dies
 
 ### 2. Konten
 
-Die App ist darauf ausgelegt, **ohne verpflichtendes Nutzerkonto** genutzt zu werden.
+Ein Nida-Konto ist **optional**. Die Kernfunktionen laufen **ohne Anmeldung**. Wenn Sie ein Konto erstellen (E-Mail und Passwort), dient es der optionalen **Cloud-Synchronisierung** und dem **Community-Forum**.
 
 ### 3. Daten und Zwecke
 
@@ -327,6 +382,10 @@ Lokale Daten bis App-Daten löschen / deinstallieren; Server gemäß Anbieterpol
 
 Berechtigungen in den Systemeinstellungen, manueller Standort falls verfügbar, Systemoptionen zur Analytik oder Deinstallation.
 
+### 7.1 Datenlöschung
+
+Sie können jederzeit die Löschung Ihrer personenbezogenen Daten beantragen. Senden Sie eine E-Mail an **ismailaram94@gmail.com** oder **support@nidaadhan.com** mit dem Betreff **Data deletion request** und der E-Mail Ihres Nida-Kontos (falls vorhanden). Wir löschen das Konto, cloudbasierte Einstellungen, von uns kontrollierte Forum-Profildaten und noch vorhandene Support-Nachrichten innerhalb von **30 Tagen**. Daten nur auf dem Gerät: App-Daten löschen oder die App deinstallieren.
+
 ### 8. Kinder
 
 Die App richtet sich nicht darauf, gezielt Daten von Kindern zu erheben.
@@ -341,7 +400,7 @@ Wir können diese Richtlinie aktualisieren; das Datum „Last updated“ ändert
 
 ### 11. Kontakt
 
-**ismailaram94@gmail.com**
+Fragen oder **Löschanträge**: **ismailaram94@gmail.com** oder **support@nidaadhan.com**. Siehe den Abschnitt **Data deletion** oben auf dieser Seite.
 
 ---
 
@@ -353,7 +412,7 @@ Dit beleid geldt voor de **Nida**-app en **openbare** inhoud in deze repository 
 
 ### 2. Accounts
 
-De app is bedoeld om te werken **zonder verplicht gebruikersaccount**.
+Een Nida-account is **optioneel**. De kernfuncties werken **zonder inloggen**. Als u een account aanmaakt (e-mail en wachtwoord), wordt het gebruikt voor optionele **cloudsynchronisatie** en het **communityforum**.
 
 ### 3. Gegevens en doeleinden
 
@@ -375,6 +434,10 @@ Lokale gegevens tot wis app-gegevens / deïnstallatie; serverbewaring volgens le
 
 Machtigingen beheren, handmatige locatie indien beschikbaar, systeemopties voor analytics, of deïnstalleren.
 
+### 7.1 Gegevens verwijderen
+
+U kunt op elk moment verzoeken uw persoonsgegevens te laten verwijderen. Stuur een e-mail naar **ismailaram94@gmail.com** of **support@nidaadhan.com** met als onderwerp **Data deletion request** en het e-mailadres van uw Nida-account (indien aanwezig). Wij verwijderen het account, cloudvoorkeuren, forumprofielgegevens die wij beheren en nog bewaarde supportberichten binnen **30 dagen**. Gegevens alleen op het apparaat: wis app-gegevens of deïnstalleer de app.
+
 ### 8. Kinderen
 
 De app is niet gericht op het verzamelen van gegevens van kinderen.
@@ -389,7 +452,7 @@ We kunnen dit beleid bijwerken; de datum “Last updated” wijzigt.
 
 ### 11. Contact
 
-**ismailaram94@gmail.com**
+Vragen of **verzoeken tot gegevensverwijdering**: **ismailaram94@gmail.com** of **support@nidaadhan.com**. Volg de sectie **Data deletion** bovenaan deze pagina.
 
 ---
 
@@ -401,7 +464,7 @@ Ev polîtîka ji bo sepanê **Nida** û naveroka **giştî** ya vê repoyê derb
 
 ### 2. Hesab
 
-Sepan bêyî **hesabê bikarhênerê ne pêwîst** hatiye çêkirin.
+Hesabê Nida **bijarte ye**. Taybetmendiyên bingehîn **bê têketin** dixebitin. Heke hûn hesab çêkin (e-name û şîfre), ji bo **hevhengiya ewrê** ya bijarte û **foruma civakê** tê bikaranîn.
 
 ### 3. Daney û armanc
 
@@ -423,6 +486,10 @@ Daneyên herêmî heta jêbirin an rakeirin; server li gorî polîtîkayên pê�
 
 Rêveberiya destûran, cihê destî heke hebe, vebijarkên analîtîkê ya pergalê, an rakeirin.
 
+### 7.1 Jêbirina daneyan
+
+Hûn dikarin her dem daxwaza jêbirina daneyên xwe yên şexsî bikin. E-nameyekê ji **ismailaram94@gmail.com** an **support@nidaadhan.com** re bi mijara **Data deletion request** û e-nameya hesabê Nida (heke hebe) bişînin. Em hesab, mîhengên ewrê, daneyên profîla forumê yên di bin kontrola me de û peyamên piştgiriyê yên mayî di nav **30 rojan** de jê dibin. Daneyên tenê li ser cihazê: daneyên sepanê paqij bikin an sepanê rakin.
+
 ### 8. Zarok
 
 Sepan ne ji bo komkirina daneyên zarokan hatiye armanc kirin.
@@ -437,7 +504,7 @@ Em dikarin vê polîtîkayê nûve bikin; dîroka “Last updated” diguhere.
 
 ### 11. Têkilî
 
-**ismailaram94@gmail.com**
+Pirs an **daxwazên jêbirina daneyan**: **ismailaram94@gmail.com** an **support@nidaadhan.com**. Beşa **Data deletion** a serê rûpelê bişopînin.
 
 ---
 
@@ -449,7 +516,7 @@ Em dikarin vê polîtîkayê nûve bikin; dîroka “Last updated” diguhere.
 
 ### 2. هەژمار
 
-ئەپەکە بەبێ **دروستکردنی هەژماری بەکارهێنەر** کاردەکات.
+هەژماری نیدا **ئارەزوومەندانەیە**. تایبەتمەندییە سەرەکییەکان **بەبێ چوونەژوورەوە** کاردەکەن. ئەگەر هەژمار دروست بکەیت (ئیمەیڵ و وشەی نهێنی)، بۆ **هاوکاتکردن لە هەور** و **مەکۆی کۆمەڵگە** بەکاردێت.
 
 ### 3. داتا و مەبەست
 
@@ -471,6 +538,10 @@ Em dikarin vê polîtîkayê nûve bikin; dîroka “Last updated” diguhere.
 
 ڕێکخستنی مۆڵەتەکان، شوێنی دەستی ئەگەر هەبێت، هەڵبژاردەکانی analîtîk ی سیستەم، یان سڕینەوەی ئەپ.
 
+### 7.1 سڕینەوەی داتا
+
+دەتوانیت هەر کات داوای سڕینەوەی داتای کەسی بکەیت. ئیمەیڵ بنێرە بۆ **ismailaram94@gmail.com** یان **support@nidaadhan.com** بە بابەتی **Data deletion request** و ئیمەیڵی هەژماری نیدا (ئەگەر هەبێت). هەژمار، ڕێکخستنەکانی هەور، داتای پرۆفایلی مەکۆ کە لە ژێر کۆنترۆڵماندایە و نامەکانی پشتگیریی ماوە لە ماوەی **30 ڕۆژ**دا دەسڕینەوە. داتای تەنها لەسەر ئامێر: داتای ئەپ بسڕەوە یان ئەپ بسڕەوە.
+
 ### 8. منداڵان
 
 ئەپەکە بۆ کۆکردنەوەی داتای تایبەت بە منداڵان نییە.
@@ -485,7 +556,7 @@ Em dikarin vê polîtîkayê nûve bikin; dîroka “Last updated” diguhere.
 
 ### 11. پەیوەندی
 
-**ismailaram94@gmail.com**
+پرسیار یان **داوای سڕینەوەی داتا**: **ismailaram94@gmail.com** یان **support@nidaadhan.com**. بەشی **Data deletion** لە سەرەوەی ئەم پەیجە ببینە.
 
 ---
 
