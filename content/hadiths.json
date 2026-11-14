@@ -1,0 +1,5070 @@
+{
+  "tr": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Ameller niyetlere göredir. Herkes yalnızca niyet ettiği şeyin karşılığını alır.",
+        "source": "Buhârî, Bed'ü'l-vahy 1; Müslim, İmâre 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Kolaylaştırın, zorlaştırmayın. Müjdeleyin, nefret ettirmeyin.",
+        "source": "Buhârî, İlim 11; Müslim, Cihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Mümin, insanların canları ve malları konusunda kendisine güvendiği kimsedir.",
+        "source": "Tirmizî, Îmân 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Allah'ın en sevdiği amel, az da olsa devamlı yapılanıdır.",
+        "source": "Buhârî, Rikâk 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "İman yetmiş küsur şubedir. En üstünü 'Lâ ilâhe illallah' demek, en alt derecesi ise yoldaki rahatsız edici bir şeyi kaldırmaktır.",
+        "source": "Müslim, Îmân 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Sizden biri, kendisi için istediğini kardeşi için de istemedikçe gerçek anlamda iman etmiş olmaz.",
+        "source": "Buhârî, Îmân 7; Müslim, Îmân 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Müslüman, Müslümanın kardeşidir. Ona zulmetmez, onu düşmanın eline bırakmaz.",
+        "source": "Buhârî, Mezâlim 3; Müslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "İnsanların en hayırlısı, insanlara en faydalı olanıdır.",
+        "source": "Taberânî, el-Mu'cemü'l-Kebîr"
+      },
+      {
+        "id": "gen_010",
+        "text": "Allah'ı anmak, O'nu unutmaktan hayırlıdır.",
+        "source": "Tirmizî, Deavât 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Kul, kardeşinin ihtiyacını gidermeye çalıştığı sürece Allah da onun ihtiyacını giderir.",
+        "source": "Buhârî, Müslim (özet); İslam davetinde yardımlaşma"
+      },
+      {
+        "id": "gen_012",
+        "text": "İki yüzlülükten sakının; çünkü o gerçekten çok kötü bir davranıştır.",
+        "source": "Buhârî, Edeb 45; Müslim, Îmân 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Kim bir Müslümanın dünyadaki sıkıntılarından birini giderirse, Allah da kıyamet günü onun sıkıntılarından birini giderir.",
+        "source": "Müslim, Birr 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Müslüman, Müslümanın kardeşidir. Ona zulmetmez, onu düşmana bırakmaz, ihtiyacı olduğunda onu yalnız bırakmaz.",
+        "source": "Buhârî, Merdâ 2; Müslim, Birr 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Kıyamet günü Allah'ın gölgesinde gölgelenecek yedi kişi vardır; bunlardan biri de kalbi camilere bağlı olan kimsedir.",
+        "source": "Buhârî, Müsâfirîn 2; Müslim, Zühd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Kim Allah için sever, Allah için buğzeder ve Allah için verirse, imanını tamamlamış olur.",
+        "source": "Ebû Dâvûd, Sünnet 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Mümin aynı delikten iki kez ısırılmaz; yani aynı hataya ikinci kez düşmez.",
+        "source": "Buhârî, Edeb 85; Müslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "İnsanların en hayırlısı, insanlara faydası en çok dokunandır.",
+        "source": "Taberânî, el-Mu'cemü'l-Evsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah sizin bedenlerinize ve yüzlerinize bakmaz; O, kalplerinize bakar.",
+        "source": "Müslim, Birr 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Kardeşine gülümsemen sadakadır.",
+        "source": "Tirmizî, Birr 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Kim bir Müslümanın kusurunu örterse, Allah da kıyamet günü onun kusurunu örter.",
+        "source": "Müslim, Birr 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Dünya mümin için bir zindan, kâfir için ise bir cennettir.",
+        "source": "Müslim, Zühd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Kim Allah'a ve Resûlü'ne itaat ederse, büyük bir başarıya ulaşmıştır.",
+        "source": "Ahzâb 33/71 (ayet hatırlatması); tefsir geleneğiyle birlikte kullanım"
+      },
+      {
+        "id": "gen_025",
+        "text": "İlim öğrenmek her Müslümana farzdır.",
+        "source": "İbn Mâce, Mukaddime 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Mümine dokunan her yorgunluk, hastalık, tasa ve üzüntü, onun günahlarına kefaret olur.",
+          "source": "Buhârî, Merdâ 1",
+          "explanation": "Sıkıntının boşa olmadığını hatırlatır."
+        },
+        {
+          "id": "sad_002",
+          "text": "Allah bir kuluna hayır dilerse, onu sıkıntılarla dener.",
+          "source": "Buhârî, Merdâ 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Asıl sabır, musibetin ilk anında gösterilen sabırdır.",
+          "source": "Buhârî, Cenâiz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Müminin hâli ne güzeldir! Her hâli onun için hayırdır ve bu yalnızca mümine özgüdür. Sevindirici bir şey olursa şükreder, bu onun için hayır olur. Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.",
+          "source": "Müslim, Zühd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Allah bir kulu sevdiğinde onu dener. Kim buna razı olursa Allah'ın rızasını kazanır; kim de öfkelenirse Allah'ın öfkesini hak eder.",
+          "source": "Tirmizî, Zühd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Sıkıntı ne kadar büyükse, karşılığı da o kadar büyüktür.",
+          "source": "Tirmizî, Zühd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Akıllı kişi, kendini hesaba çeken ve ölümden sonrası için çalışandır.",
+          "source": "Tirmizî, Kıyâmet 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Dünya, ahiretin tarlasıdır.",
+          "source": "Beyhakî, Şuabu'l-Îman"
+        },
+        {
+          "id": "neu_003",
+          "text": "İnsanlar altın ve gümüş madenleri gibidir. Cahiliye döneminde hayırlı olanlar, dini anladıklarında Müslümanlıkta da hayırlıdırlar.",
+          "source": "Buhârî, Menâkıb 1; Müslim, Fezâil 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "İnsanların en hayırlısı, ömrü uzun ve ameli güzel olandır.",
+          "source": "Tirmizî, Kıyâmet 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "İnsanlara teşekkür etmeyen, Allah'a da şükretmiş olmaz.",
+          "source": "Tirmizî, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Şükreden kul ne güzeldir.",
+          "source": "Ahmed b. Hanbel, Müsned"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah, kuluna verdiği nimetin izini onun üzerinde görmeyi sever.",
+          "source": "Tirmizî, Edeb 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "İnsanların çoğunun kıymetini bilmediği iki nimet vardır: sağlık ve boş vakit.",
+          "source": "Buhârî, Rikâk 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Müminin her hâli hayırdır: Bir nimete kavuşunca şükreder, bu onun için hayır olur. Başına bir sıkıntı gelince sabreder, bu da onun için hayır olur.",
+          "source": "Müslim, Zühd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah, kulunun tövbesine, çölde devesini kaybedip sonra bulan kişinin sevincinden daha çok sevinir.",
+          "source": "Buhârî, Tevbe 1; Müslim, Tevbe 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Sabah namazını kılan kişi Allah'ın koruması altındadır.",
+          "source": "Müslim, Mesâcid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Sabah namazının iki rekât sünneti, dünyadan ve dünyadaki her şeyden daha hayırlıdır.",
+          "source": "Müslim, Salât 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Sabah namazını cemaatle kılan kişi, bütün geceyi ibadetle geçirmiş gibidir.",
+          "source": "Müslim, Mesâcid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Sabah namazını kılan kişi Allah'ın himayesindedir.",
+          "source": "Müslim, Mesâcid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Her öğle vaktinde ameller Allah'a sunulur.",
+          "source": "Taberânî, el-Mu'cem"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Öğle namazını vaktinin başında kılmak faziletlidir.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Öğle namazını vaktinde kılan kişi Allah'ın rızasını kazanır.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "İkindi namazını terk eden kişi, ailesini ve malını kaybetmiş gibidir.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "İkindi namazını kaçıran kişi, ailesini ve malını kaybetmiş gibidir.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "İkindi namazını vaktinde kılan kişi Allah'ın koruması altındadır.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Akşam vakti girdiğinde Allah'ı anın.",
+          "source": "Ebû Dâvûd, Edeb 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Akşam namazını vaktinde kılan kişi, günün sevabını kazanır.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Akşam namazını kaçırmamaya dikkat edin; çünkü bu namaz çok önemlidir.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Gece namazı, iyi insanların yoludur.",
+          "source": "Tirmizî, Deavât 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Yatsı namazını cemaatle kılan kişi, gecenin yarısını ibadetle geçirmiş gibidir.",
+          "source": "Müslim, Mesâcid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Yatsı namazını vaktinde kılan kişi, geceyi ibadetle geçirmiş gibidir.",
+          "source": "Buhârî, Teheccüd 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Kim inanarak ve karşılığını Allah'tan bekleyerek Ramazan orucunu tutarsa, geçmiş günahları bağışlanır.",
+          "source": "Buhârî, Savm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Ramazan ayı gelince cennetin kapıları açılır.",
+          "source": "Müslim, Sıyâm 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Oruç bir kalkandır.",
+          "source": "Buhârî, Savm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Ramazan ayında oruç tutmak, geçmiş ve gelecek günahlara kefarettir.",
+          "source": "Müslim, Sıyâm 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Ramazan'da oruçluya iftar ettirene, oruç tutanın sevabı kadar sevap vardır.",
+          "source": "İbn Mâce, Sıyâm 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Ramazan ayında Kur'an okumak, diğer aylarda okumaktan daha faziletlidir.",
+          "source": "Buhârî, Fezâilü'l-Kur'an 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Allah her gece, gecenin son üçte birinde dünya semasına iner.",
+          "source": "Buhârî, Teheccüd 14",
+          "explanation": "Mübarek gecelerde dua ve istiğfarın önemini vurgular."
+        },
+        {
+          "id": "kan_002",
+          "text": "Duaların en faziletlisi, seher vaktinde yapılan duadır.",
+          "source": "Tirmizî, Deavât 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Mübarek gecelerde dua edenin duası kabul olunur.",
+          "source": "Tirmizî, Deavât 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Kim Kadir gecesini inanarak ve sevabını Allah'tan umarak ibadetle geçirirse, geçmiş günahları bağışlanır.",
+          "source": "Buhârî, Kadr 1; Müslim, Müsâfirîn 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Mübarek gecelerde ibadet etmek, diğer gecelerde ibadet etmekten daha faziletlidir.",
+          "source": "Tirmizî, Deavât 79"
+        }
+      ]
+    }
+  },
+  "en": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Actions are judged by their intentions, and everyone will get only what they intended.",
+        "source": "Bukhari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Make things easy, not hard. Bring good news, and do not drive people away.",
+        "source": "Bukhari, Ilm 11; Muslim, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "A believer is someone people trust with their lives and their property.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "The deeds Allah loves most are those done regularly, even if they are small.",
+        "source": "Bukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Faith has seventy-odd branches. The highest is saying 'There is no god but Allah', and the lowest is removing something harmful from the road.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "None of you truly believes until you want for your brother what you want for yourself.",
+        "source": "Bukhari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "A Muslim is a brother to every Muslim. He does not wrong him or abandon him to an enemy.",
+        "source": "Bukhari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "The best people are those who are most useful to others.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Remembering Allah is better than forgetting Him.",
+        "source": "Tirmidhi, Da'awat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "As long as a servant helps his brother, Allah will help him.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Beware of being two-faced, for it is truly a bad trait.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Whoever relieves a believer of one of the hardships of this world, Allah will relieve him of one of the hardships of the Day of Resurrection.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "A Muslim is a brother to every Muslim. He does not wrong him, does not hand him over to an enemy and does not leave him alone when he is in need.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "On the Day of Resurrection, seven kinds of people will be in Allah's shade, among them a person whose heart is attached to the mosques.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Whoever loves for Allah's sake, dislikes for Allah's sake and gives for Allah's sake has made their faith complete.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "A believer is not stung twice from the same hole; that is, he does not make the same mistake twice.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "The best people are those who bring the most benefit to others.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah does not look at your bodies or your faces; He looks at your hearts.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Smiling at your brother is an act of charity.",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Whoever covers up a Muslim's fault, Allah will cover up their faults on the Day of Resurrection.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "This world is a prison for the believer and a paradise for the unbeliever.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Whoever obeys Allah and His Messenger has truly achieved a great success.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Seeking knowledge is a duty for every Muslim.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Every tiredness, illness, worry and sadness that touches a believer wipes away some of their sins.",
+          "source": "Bukhari, Marda 1",
+          "explanation": "Reminds that hardship is not in vain."
+        },
+        {
+          "id": "sad_002",
+          "text": "When Allah wants good for someone, He tests them with hardship.",
+          "source": "Bukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "True patience is the patience shown at the first moment of hardship.",
+          "source": "Bukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "How wonderful is the believer's situation! Everything that happens to them is good, and this is true only for the believer. If something good happens, they are grateful, and that is good for them. If something bad happens, they are patient, and that too is good for them.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "When Allah loves someone, He tests them. Whoever accepts it wins Allah's pleasure, and whoever is resentful earns His displeasure.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "The greater the hardship, the greater the reward.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "The wise person is one who holds themselves to account and works for what comes after death.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "This world is the farmland of the Hereafter.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "People are like mines of gold and silver. Those who were best before Islam are the best in Islam, once they understand the religion.",
+          "source": "Bukhari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "The best of people are those who live long and do good deeds.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Whoever does not thank people has not thanked Allah.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "How wonderful is a grateful servant.",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah loves to see the signs of His blessings on His servant.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "There are two blessings that most people fail to value: health and free time.",
+          "source": "Bukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Everything is good for the believer: when blessed, they are grateful, and that is good for them; when afflicted, they are patient, and that too is good for them.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah is happier with His servant's repentance than a person who loses their camel in the desert and then finds it again.",
+          "source": "Bukhari, Tawba 1; Muslim, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Whoever prays the Fajr prayer is under Allah's protection.",
+          "source": "Muslim, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "The two units of prayer before Fajr are better than this world and everything in it.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Whoever prays Fajr in congregation is as if they had spent the whole night in prayer.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Whoever prays the Fajr prayer is in Allah's care.",
+          "source": "Muslim, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Every midday, deeds are presented to Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "It is virtuous to pray Dhuhr at the start of its time.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Whoever prays Dhuhr on time earns Allah's pleasure.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Whoever abandons the Asr prayer is like someone who has lost their family and wealth.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Whoever misses the Asr prayer is like someone who has lost their family and wealth.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Whoever prays Asr on time is under Allah's protection.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "When evening comes, remember Allah.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Whoever prays Maghrib on time earns the reward of the day.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Take care not to miss the Maghrib prayer, for it is very important.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Praying at night is the way of the righteous.",
+          "source": "Tirmidhi, Da'awat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Whoever prays Isha in congregation is as if they had spent half the night in prayer.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Whoever prays Isha on time is as if they had spent the night in prayer.",
+          "source": "Bukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Whoever fasts Ramadan out of faith and hoping for Allah's reward will have their past sins forgiven.",
+          "source": "Bukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "When Ramadan comes, the gates of Paradise are opened.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Fasting is a shield.",
+          "source": "Bukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Fasting in Ramadan wipes out past and future sins.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Whoever gives a fasting person food to break their fast will receive the same reward as the one who fasted.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Reading the Qur'an in Ramadan is more virtuous than reading it in other months.",
+          "source": "Bukhari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Every night, in the last third of the night, Allah descends to the lowest heaven.",
+          "source": "Bukhari, Tahajjud 14",
+          "explanation": "Emphasizes the importance of supplication and seeking forgiveness on blessed nights."
+        },
+        {
+          "id": "kan_002",
+          "text": "The most virtuous prayer is the one made in the hours before dawn.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "The prayer of one who prays on blessed nights is accepted.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Whoever spends the Night of Decree in worship, out of faith and hoping for Allah's reward, will have their past sins forgiven.",
+          "source": "Bukhari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Worship on blessed nights is more virtuous than worship on other nights.",
+          "source": "Tirmidhi, Da'awat 79"
+        }
+      ]
+    }
+  },
+  "ar": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى",
+        "source": "البخاري، بدء الوحي 1؛ مسلم، الإمارة 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "يسروا ولا تعسروا، وبشروا ولا تنفروا",
+        "source": "البخاري، العلم 11؛ مسلم، الجهاد 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "المؤمن من أمنه الناس على دمائهم وأموالهم",
+        "source": "الترمذي، الإيمان 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "أحب الأعمال إلى الله أدومها وإن قل",
+        "source": "البخاري، الرقاق 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "الإيمان بضع وسبعون شعبة، فأفضلها قول لا إله إلا الله، وأدناها إماطة الأذى عن الطريق",
+        "source": "مسلم، الإيمان 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه",
+        "source": "البخاري، الإيمان 7؛ مسلم، الإيمان 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "المسلم أخو المسلم، لا يظلمه ولا يسلمه",
+        "source": "البخاري، المظالم 3؛ مسلم، البر 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "خير الناس أنفعهم للناس",
+        "source": "الطبراني، المعجم الكبير"
+      },
+      {
+        "id": "gen_010",
+        "text": "ذكر الله خير من نسيانه",
+        "source": "الترمذي، الدعوات 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "من فرج عن مسلم كربة من كرب الدنيا فرج الله عنه كربة من كرب يوم القيامة.",
+        "source": "البخاري ومسلم (ملخص)"
+      },
+      {
+        "id": "gen_012",
+        "text": "إياكم والنفاق والشِّقاق؛ فإنه من أسوأ الخلق.",
+        "source": "البخاري، الأدب 45؛ مسلم، الإيمان 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "من نفس عن مسلم كربة من كرب الدنيا نفس الله عنه كربة من كرب يوم القيامة.",
+        "source": "مسلم، البر والصلة 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "المسلم أخو المسلم لا يظلمه ولا يسلمه.",
+        "source": "البخاري، المظالم 2؛ مسلم، البر 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "سبعة يظلهم الله في ظله يوم لا ظل إلا ظله… وشاب نشأ في طاعة الله.",
+        "source": "البخاري، المسافرين 2؛ مسلم، الزهد 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "من أحب لله وأبغض لله وأعطى لله فقد استكمل الإيمان.",
+        "source": "أبو داود، السنة 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "المؤمن لا يلدغ من جحر مرتين.",
+        "source": "البخاري، الأدب 85؛ مسلم، الزهد 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "خير الناس أنفعهم للناس.",
+        "source": "الطبراني، المعجم الأوسط"
+      },
+      {
+        "id": "gen_020",
+        "text": "إن الله لا ينظر إلى أجسادكم ولا إلى صوركم ولكن ينظر إلى قلوبكم.",
+        "source": "مسلم، البر 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "تبسمك في وجه أخيك صدقة.",
+        "source": "الترمذي، البر 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "من ستر مسلما ستره الله يوم القيامة.",
+        "source": "مسلم، البر 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "الدنيا سجن المؤمن وجنة الكافر.",
+        "source": "مسلم، الزهد 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "ومن يطع الله ورسوله فقد فاز فوزا عظيما.",
+        "source": "الأحزاب 71"
+      },
+      {
+        "id": "gen_025",
+        "text": "طلب العلم فريضة على كل مسلم.",
+        "source": "ابن ماجه، المقدمة 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "ما يصيب المؤمن من نصب ولا وصب ولا هم ولا حزن حتى الشوكة يشاكها إلا كفر الله بها من خطاياه",
+          "source": "البخاري، المرضى 1",
+          "explanation": "يذكر أن المشقة ليست عبثاً"
+        },
+        {
+          "id": "sad_002",
+          "text": "إذا أراد الله بعبده خيراً عجل له العقوبة في الدنيا",
+          "source": "البخاري، المرضى 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "الصبر عند الصدمة الأولى",
+          "source": "البخاري، الجنائز 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "عجباً لأمر المؤمن! إن أمره كله خير، وليس ذلك لأحد إلا للمؤمن: إن أصابته سراء شكر فكان خيراً له، وإن أصابته ضراء صبر فكان خيراً له",
+          "source": "مسلم، الزهد 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "إذا أحب الله عبداً ابتلاه، فمن صبر رضي الله عنه، ومن سخط سخط الله عليه",
+          "source": "الترمذي، الزهد 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "كلما زاد البلاء والمصيبة، زاد الأجر",
+          "source": "الترمذي، الزهد 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "الكيس من دان نفسه وعمل لما بعد الموت",
+          "source": "الترمذي، القيامة 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "الدنيا مزرعة الآخرة",
+          "source": "البيهقي، شعب الإيمان"
+        },
+        {
+          "id": "neu_003",
+          "text": "الناس معادن كمعادن الفضة والذهب، خيارهم في الجاهلية خيارهم في الإسلام إذا فقهوا",
+          "source": "البخاري، المناقب 1؛ مسلم، الفضائل 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "خير الناس من طال عمره وحسن عمله",
+          "source": "الترمذي، القيامة 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "من لا يشكر الناس لا يشكر الله",
+          "source": "الترمذي، البر 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "نعم العبد الصالح",
+          "source": "أحمد بن حنبل، المسند"
+        },
+        {
+          "id": "hap_003",
+          "text": "إن الله يحب أن يرى أثر نعمته على عبده",
+          "source": "الترمذي، الأدب 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "نعمتان مغبون فيهما كثير من الناس: الصحة والفراغ",
+          "source": "البخاري، الرقاق 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "المؤمن يتردد بين حالتين: إن أصابته مصيبة شكر فكان خيراً له، وإن أصابته نعمة شكر فكان خيراً له",
+          "source": "مسلم، الزهد 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "الله أفرح بتوبة عبده من أحدكم يجد ضالته في الفلاة",
+          "source": "البخاري، التوبة 1؛ مسلم، التوبة 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "من صلى الصبح فهو في ذمة الله",
+          "source": "مسلم، المساجد 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "ركعتا الفجر خير من الدنيا وما فيها",
+          "source": "مسلم، الصلاة 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "من صلى الصبح في جماعة فكأنما صلى الليل كله",
+          "source": "مسلم، المساجد 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "من صلى الصبح فهو في ذمة الله",
+          "source": "مسلم، المساجد 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "تعرض الأعمال على الله في كل ظهيرة",
+          "source": "الطبراني، المعجم"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "من فضل صلاة الظهر أن تصلى في أول وقتها",
+          "source": "البخاري، المواقيت 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "من صلى الظهر في وقتها نال رضا الله",
+          "source": "مسلم، المساجد 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "من فاتته صلاة العصر فكأنما وتر أهله وماله.",
+          "source": "البخاري، مواقيت الصلاة 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "من فاتته صلاة العصر فكأنما وتر أهله وماله",
+          "source": "البخاري، المواقيت 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "من صلى العصر في وقتها فهو في ذمة الله",
+          "source": "مسلم، المساجد 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "إذا أمسيتم فاذكروا الله",
+          "source": "أبو داود، الأدب 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "من صلى المغرب في وقتها نال أجر اليوم",
+          "source": "البخاري، المواقيت 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "احرصوا على عدم تفويت صلاة المغرب، فإنها مهمة جداً",
+          "source": "مسلم، المساجد 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "صلاة الليل طريق الصالحين",
+          "source": "الترمذي، الدعوات 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "من صلى العشاء في جماعة فكأنما صلى نصف الليل",
+          "source": "مسلم، المساجد 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "من صلى العشاء في وقتها فكأنما صلى الليل كله",
+          "source": "البخاري، التهجد 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "من صام رمضان إيماناً واحتساباً غفر له ما تقدم من ذنبه",
+          "source": "البخاري، الصوم 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "إذا جاء رمضان فتحت أبواب الجنة",
+          "source": "مسلم، الصيام 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "الصوم جنة",
+          "source": "البخاري، الصوم 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "صوم شهر رمضان كفارة لما قبله وما بعده",
+          "source": "مسلم، الصيام 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "من فطر صائماً فله أجر، ومن صام فله أجر",
+          "source": "ابن ماجة، الصيام 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "قراءة القرآن في شهر رمضان أفضل من قراءته في الشهور الأخرى",
+          "source": "البخاري، فضائل القرآن 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "ينزل ربنا تبارك وتعالى كل ليلة إلى السماء الدنيا حين يبقى ثلث الليل الآخر",
+          "source": "البخاري، التهجد 14",
+          "explanation": "يؤكد أهمية الدعاء والاستغفار في الليالي المباركة"
+        },
+        {
+          "id": "kan_002",
+          "text": "أفضل الدعاء دعاء السحر",
+          "source": "الترمذي، الدعوات 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "دعاء من يصلي في الليالي المباركة مستجاب",
+          "source": "الترمذي، الدعوات 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "من أحيى ليلة القدر غفر له ما تقدم من ذنبه",
+          "source": "البخاري، القدر 1؛ مسلم، المسافرين 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "العبادة في الليالي المباركة أفضل من العبادة في الليالي الأخرى",
+          "source": "الترمذي، الدعوات 79"
+        }
+      ]
+    }
+  },
+  "pt": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "As ações são julgadas pelas intenções, e cada um receberá apenas aquilo que pretendeu.",
+        "source": "Bukhari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Facilitem, não dificultem. Deem boas notícias e não afastem as pessoas.",
+        "source": "Bukhari, Ilm 11; Muslim, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "O crente é aquele a quem as pessoas confiam a própria vida e os seus bens.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "As obras mais amadas por Allah são as feitas com constância, mesmo que sejam pequenas.",
+        "source": "Bukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "A fé tem mais de setenta ramos. O mais elevado é dizer “Não há deus além de Allah”, e o mais simples é tirar do caminho algo que possa ferir alguém.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Nenhum de vocês crê de verdade até desejar para o seu irmão o que deseja para si mesmo.",
+        "source": "Bukhari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "O muçulmano é irmão do muçulmano. Não o oprime nem o entrega ao inimigo.",
+        "source": "Bukhari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "As melhores pessoas são as que mais beneficiam os outros.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Lembrar-se de Allah é melhor do que esquecê-Lo.",
+        "source": "Tirmidhi, Da'awat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Enquanto alguém ajuda o seu irmão, Allah o ajuda.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Cuidado com a falsidade de ter duas caras, pois é, sem dúvida, uma característica ruim.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Quem livrar um crente de uma das aflições deste mundo, Allah o livrará de uma das aflições do Dia da Ressurreição.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "O muçulmano é irmão do muçulmano. Não o oprime, não o entrega ao inimigo e não o abandona quando ele precisa.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "No Dia da Ressurreição, sete tipos de pessoas estarão à sombra de Allah, entre eles alguém cujo coração está ligado às mesquitas.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Quem ama por Allah, rejeita por Allah e dá por Allah completou a sua fé.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "O crente não é picado duas vezes pelo mesmo buraco; ou seja, não comete o mesmo erro duas vezes.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "As melhores pessoas são as que trazem mais benefício aos outros.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah não olha para os seus corpos nem para os seus rostos, mas para os seus corações.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Sorrir para o seu irmão é uma caridade.",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Quem encobrir a falta de um muçulmano, Allah encobrirá as suas faltas no Dia da Ressurreição.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Este mundo é uma prisão para o crente e um paraíso para o descrente.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Quem obedece a Allah e ao Seu Mensageiro alcançou, sem dúvida, um grande sucesso.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Buscar o conhecimento é um dever de todo muçulmano.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Todo cansaço, doença, preocupação e tristeza que atinge o crente apaga parte dos seus pecados.",
+          "source": "Bukhari, Marda 1",
+          "explanation": "Lembra que o sofrimento não é em vão."
+        },
+        {
+          "id": "sad_002",
+          "text": "Quando Allah deseja o bem para alguém, Ele o põe à prova com dificuldades.",
+          "source": "Bukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "A verdadeira paciência é a que se mostra no primeiro momento da desgraça.",
+          "source": "Bukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Como é admirável a situação do crente! Tudo o que lhe acontece é um bem para ele, e isso só acontece com o crente. Se algo bom lhe acontece, ele agradece, e isso é um bem para ele. Se algo ruim lhe acontece, ele tem paciência, e isso também é um bem para ele.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Quando Allah ama alguém, Ele o põe à prova. Quem aceita obtém a satisfação de Allah, e quem se revolta atrai a Sua ira.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Quanto maior a provação, maior a recompensa.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "A pessoa sensata é aquela que presta contas a si mesma e trabalha para o que vem depois da morte.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Este mundo é a lavoura da Outra Vida.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "As pessoas são como minas de ouro e prata. Os melhores antes do Islã são os melhores no Islã, quando compreendem a religião.",
+          "source": "Bukhari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "As melhores pessoas são as que vivem muito e praticam o bem.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Quem não agradece às pessoas não agradeceu a Allah.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Como é bom o servo agradecido!",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah gosta de ver no Seu servo as marcas das Suas bênçãos.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Há duas bênçãos que a maioria das pessoas não valoriza: a saúde e o tempo livre.",
+          "source": "Bukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Para o crente tudo é um bem: se recebe algo bom, agradece, e isso é um bem para ele; se sofre uma desgraça, tem paciência, e isso também é um bem para ele.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah se alegra mais com o arrependimento do Seu servo do que alguém que perde o seu camelo no deserto e depois o encontra.",
+          "source": "Bukhari, Tawba 1; Muslim, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Quem faz a oração da alvorada está sob a proteção de Allah.",
+          "source": "Muslim, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "As duas unidades de oração antes da alvorada são melhores do que este mundo e tudo o que nele existe.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Quem faz a oração da alvorada em congregação é como se tivesse passado a noite inteira em oração.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Quem faz a oração da alvorada está sob os cuidados de Allah.",
+          "source": "Muslim, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Todo meio-dia, as obras são apresentadas a Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "É meritório fazer a oração do meio-dia no início do seu horário.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Quem faz a oração do meio-dia no horário obtém a satisfação de Allah.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Quem abandona a oração da tarde é como quem perdeu a família e os bens.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Quem perde a oração da tarde é como quem perdeu a família e os bens.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Quem faz a oração da tarde no horário está sob a proteção de Allah.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Quando chegar o entardecer, lembrem-se de Allah.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Quem faz a oração do pôr do sol no horário recebe a recompensa do dia.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Tenham cuidado para não perder a oração do pôr do sol, pois ela é muito importante.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Rezar à noite é o caminho dos virtuosos.",
+          "source": "Tirmidhi, Da'awat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Quem faz a oração da noite (Isha) em congregação é como se tivesse passado metade da noite em oração.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Quem faz a oração da noite (Isha) no horário é como se tivesse passado a noite em oração.",
+          "source": "Bukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Quem jejua o Ramadã com fé e esperando a recompensa de Allah terá os seus pecados passados perdoados.",
+          "source": "Bukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Quando chega o Ramadã, as portas do Paraíso se abrem.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "O jejum é um escudo.",
+          "source": "Bukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Jejuar no Ramadã apaga os pecados passados e futuros.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Quem oferece comida a quem está jejuando para quebrar o jejum recebe a mesma recompensa que ele.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Ler o Alcorão no Ramadã é mais meritório do que lê-lo em outros meses.",
+          "source": "Bukhari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Toda noite, no último terço da noite, Allah desce ao céu mais próximo.",
+          "source": "Bukhari, Tahajjud 14",
+          "explanation": "Enfatiza a importância da súplica e do pedido de perdão nas noites abençoadas."
+        },
+        {
+          "id": "kan_002",
+          "text": "A súplica mais meritória é a feita nas horas antes do amanhecer.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "A súplica de quem suplica nas noites abençoadas é aceita.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Quem passar a Noite do Decreto em adoração, com fé e esperando a recompensa de Allah, terá os seus pecados passados perdoados.",
+          "source": "Bukhari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Adorar nas noites abençoadas é mais meritório do que adorar em outras noites.",
+          "source": "Tirmidhi, Da'awat 79"
+        }
+      ]
+    }
+  },
+  "es": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Las acciones se juzgan por las intenciones, y cada uno obtendrá solo lo que haya tenido intención de hacer.",
+        "source": "Bujari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Faciliten las cosas, no las dificulten. Den buenas noticias y no alejen a la gente.",
+        "source": "Bujari, Ilm 11; Muslim, Yihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "El creyente es aquel a quien la gente confía su vida y sus bienes.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Las obras más amadas por Allah son las que se hacen con constancia, aunque sean pequeñas.",
+        "source": "Bujari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "La fe tiene más de setenta ramas. La más alta es decir «No hay más dios que Allah», y la más baja es quitar del camino algo que pueda hacer daño.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Ninguno de ustedes cree de verdad hasta que desee para su hermano lo que desea para sí mismo.",
+        "source": "Bujari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "El musulmán es hermano del musulmán. No lo oprime ni lo entrega a su enemigo.",
+        "source": "Bujari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Las mejores personas son las que más benefician a los demás.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Recordar a Allah es mejor que olvidarlo.",
+        "source": "Tirmidhi, Da'awat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Mientras una persona ayuda a su hermano, Allah la ayuda a ella.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Cuídense de tener dos caras, porque es, sin duda, un mal rasgo.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Quien alivie a un creyente de una de las angustias de este mundo, Allah lo aliviará de una de las angustias del Día de la Resurrección.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "El musulmán es hermano del musulmán. No lo oprime, no lo entrega a su enemigo y no lo abandona cuando lo necesita.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "El Día de la Resurrección, siete tipos de personas estarán a la sombra de Allah; entre ellos, alguien cuyo corazón está apegado a las mezquitas.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Quien ama por Allah, rechaza por Allah y da por Allah ha completado su fe.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "El creyente no es picado dos veces desde el mismo agujero; es decir, no comete dos veces el mismo error.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Las mejores personas son las que más provecho dan a los demás.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah no mira sus cuerpos ni sus rostros, sino sus corazones.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Sonreírle a tu hermano es una caridad.",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Quien cubra la falta de un musulmán, Allah cubrirá sus faltas el Día de la Resurrección.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Este mundo es una prisión para el creyente y un paraíso para el incrédulo.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Quien obedece a Allah y a Su Mensajero ha logrado, sin duda, un gran triunfo.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Buscar el conocimiento es una obligación para todo musulmán.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Todo cansancio, enfermedad, preocupación y tristeza que alcanza al creyente borra parte de sus pecados.",
+          "source": "Bujari, Marda 1",
+          "explanation": "Recuerda que el sufrimiento no es en vano."
+        },
+        {
+          "id": "sad_002",
+          "text": "Cuando Allah quiere el bien para alguien, lo pone a prueba con dificultades.",
+          "source": "Bujari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "La verdadera paciencia es la que se muestra en el primer momento de la desgracia.",
+          "source": "Bujari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "¡Qué admirable es la situación del creyente! Todo lo que le sucede es un bien para él, y esto solo ocurre con el creyente. Si le pasa algo bueno, agradece, y eso es un bien para él. Si le pasa algo malo, tiene paciencia, y eso también es un bien para él.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Cuando Allah ama a alguien, lo pone a prueba. Quien lo acepta obtiene la complacencia de Allah, y quien se indigna se gana Su enojo.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Cuanto mayor es la prueba, mayor es la recompensa.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "La persona sensata es la que se pide cuentas a sí misma y trabaja para lo que viene después de la muerte.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Este mundo es el campo de cultivo de la otra vida.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Las personas son como minas de oro y plata. Los mejores antes del islam son los mejores en el islam, si comprenden la religión.",
+          "source": "Bujari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Las mejores personas son las que viven mucho y hacen el bien.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Quien no agradece a la gente no ha agradecido a Allah.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "¡Qué bueno es el siervo agradecido!",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "A Allah le gusta ver en Su siervo las huellas de Sus bendiciones.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Hay dos bendiciones que la mayoría de la gente no sabe valorar: la salud y el tiempo libre.",
+          "source": "Bujari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Para el creyente todo es un bien: si recibe algo bueno, agradece, y eso es un bien para él; si sufre una desgracia, tiene paciencia, y eso también es un bien para él.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah se alegra más por el arrepentimiento de Su siervo que alguien que pierde su camello en el desierto y luego lo encuentra.",
+          "source": "Bujari, Tawba 1; Muslim, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Quien reza la oración del alba está bajo la protección de Allah.",
+          "source": "Muslim, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Las dos unidades de oración antes del alba son mejores que este mundo y todo lo que contiene.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Quien reza la oración del alba en congregación es como si hubiera pasado toda la noche en oración.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Quien reza la oración del alba está bajo el cuidado de Allah.",
+          "source": "Muslim, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Cada mediodía, las obras se presentan ante Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Es meritorio rezar la oración del mediodía al comienzo de su tiempo.",
+          "source": "Bujari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Quien reza la oración del mediodía a tiempo obtiene la complacencia de Allah.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Quien abandona la oración de la tarde es como quien ha perdido a su familia y sus bienes.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Quien se pierde la oración de la tarde es como quien ha perdido a su familia y sus bienes.",
+          "source": "Bujari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Quien reza la oración de la tarde a tiempo está bajo la protección de Allah.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Cuando llegue el atardecer, recuerden a Allah.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Quien reza la oración del ocaso a tiempo obtiene la recompensa del día.",
+          "source": "Bujari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Procuren no perderse la oración del ocaso, porque es muy importante.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Rezar por la noche es el camino de los justos.",
+          "source": "Tirmidhi, Da'awat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Quien reza la oración de la noche (Isha) en congregación es como si hubiera pasado la mitad de la noche en oración.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Quien reza la oración de la noche (Isha) a tiempo es como si hubiera pasado la noche en oración.",
+          "source": "Bujari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Quien ayuna Ramadán con fe y esperando la recompensa de Allah, le serán perdonados sus pecados pasados.",
+          "source": "Bujari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Cuando llega Ramadán, se abren las puertas del Paraíso.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "El ayuno es un escudo.",
+          "source": "Bujari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Ayunar en Ramadán borra los pecados pasados y futuros.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Quien da de comer a un ayunante para que rompa su ayuno recibe la misma recompensa que él.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Leer el Corán en Ramadán es más meritorio que leerlo en otros meses.",
+          "source": "Bujari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Cada noche, en el último tercio de la noche, Allah desciende al cielo más cercano.",
+          "source": "Bujari, Tahayyud 14",
+          "explanation": "Enfatiza la importancia de la súplica y la búsqueda de perdón en las noches benditas."
+        },
+        {
+          "id": "kan_002",
+          "text": "La súplica más meritoria es la que se hace en las horas antes del amanecer.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "La súplica de quien suplica en las noches benditas es aceptada.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Quien pase la Noche del Decreto en adoración, con fe y esperando la recompensa de Allah, le serán perdonados sus pecados pasados.",
+          "source": "Bujari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Adorar en las noches benditas es más meritorio que adorar en otras noches.",
+          "source": "Tirmidhi, Da'awat 79"
+        }
+      ]
+    }
+  },
+  "de": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Die Taten werden nach den Absichten beurteilt, und jeder bekommt nur das, was er beabsichtigt hat.",
+        "source": "Bukhari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Macht es leicht und nicht schwer. Verkündet Gutes und schreckt die Menschen nicht ab.",
+        "source": "Bukhari, Ilm 11; Muslim, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Ein Gläubiger ist jemand, dem die Menschen ihr Leben und ihr Eigentum anvertrauen können.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Die liebsten Taten bei Allah sind die, die regelmäßig getan werden, auch wenn sie klein sind.",
+        "source": "Bukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Der Glaube hat über siebzig Zweige. Der höchste ist zu sagen: „Es gibt keinen Gott außer Allah“, und der geringste ist, etwas Schädliches vom Weg zu entfernen.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Keiner von euch glaubt wirklich, bis er seinem Bruder wünscht, was er sich selbst wünscht.",
+        "source": "Bukhari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Ein Muslim ist der Bruder jedes Muslims. Er tut ihm kein Unrecht und liefert ihn keinem Feind aus.",
+        "source": "Bukhari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Die besten Menschen sind die, die anderen am meisten nützen.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Allahs zu gedenken ist besser, als Ihn zu vergessen.",
+        "source": "Tirmidhi, Da'awat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Solange ein Mensch seinem Bruder hilft, hilft Allah ihm.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Hütet euch davor, zwei Gesichter zu haben, denn das ist wahrlich eine schlechte Eigenschaft.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Wer einem Gläubigen eine Not dieser Welt nimmt, dem nimmt Allah eine Not am Tag der Auferstehung.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Ein Muslim ist der Bruder jedes Muslims. Er tut ihm kein Unrecht, liefert ihn keinem Feind aus und lässt ihn nicht im Stich, wenn er Hilfe braucht.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Am Tag der Auferstehung werden sieben Arten von Menschen im Schatten Allahs sein, darunter jemand, dessen Herz an den Moscheen hängt.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Wer um Allahs willen liebt, um Allahs willen ablehnt und um Allahs willen gibt, hat seinen Glauben vollendet.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Ein Gläubiger wird nicht zweimal aus demselben Loch gestochen; das heißt, er macht denselben Fehler nicht zweimal.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Die besten Menschen sind die, die anderen den größten Nutzen bringen.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah schaut nicht auf eure Körper und eure Gesichter, sondern auf eure Herzen.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Dein Lächeln für deinen Bruder ist eine gute Gabe (Sadaqa).",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Wer den Fehler eines Muslims verdeckt, dessen Fehler wird Allah am Tag der Auferstehung verdecken.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Diese Welt ist für den Gläubigen ein Gefängnis und für den Ungläubigen ein Paradies.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Wer Allah und Seinem Gesandten gehorcht, hat wahrlich einen großen Erfolg errungen.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Wissen zu erwerben ist eine Pflicht für jeden Muslim.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Jede Müdigkeit, Krankheit, Sorge und Traurigkeit, die einen Gläubigen trifft, wischt einen Teil seiner Sünden weg.",
+          "source": "Bukhari, Marda 1",
+          "explanation": "Erinnert daran, dass Leid nicht umsonst ist."
+        },
+        {
+          "id": "sad_002",
+          "text": "Wenn Allah für jemanden Gutes will, prüft Er ihn mit Schwierigkeiten.",
+          "source": "Bukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Wahre Geduld zeigt sich im ersten Moment des Unglücks.",
+          "source": "Bukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Wie wunderbar ist die Lage des Gläubigen! Alles, was ihm widerfährt, ist gut für ihn – und das gilt nur für den Gläubigen. Geschieht ihm etwas Gutes, ist er dankbar, und das ist gut für ihn. Trifft ihn etwas Schlimmes, ist er geduldig, und auch das ist gut für ihn.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Wenn Allah jemanden liebt, prüft Er ihn. Wer es annimmt, erlangt Allahs Wohlgefallen; wer sich darüber empört, zieht Seinen Unmut auf sich.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Je größer die Prüfung, desto größer der Lohn.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Klug ist, wer mit sich selbst ins Gericht geht und für das Leben nach dem Tod arbeitet.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Diese Welt ist das Ackerfeld des Jenseits.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Die Menschen sind wie Gold- und Silberminen. Die Besten vor dem Islam sind auch die Besten im Islam, wenn sie die Religion verstehen.",
+          "source": "Bukhari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Die besten Menschen sind die, die lange leben und Gutes tun.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Wer den Menschen nicht dankt, hat auch Allah nicht gedankt.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Wie wunderbar ist ein dankbarer Diener.",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah liebt es, die Spuren Seiner Gaben an Seinem Diener zu sehen.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Es gibt zwei Gaben, deren Wert die meisten Menschen nicht erkennen: Gesundheit und freie Zeit.",
+          "source": "Bukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Für den Gläubigen ist alles gut: Erhält er etwas Gutes, ist er dankbar, und das ist gut für ihn. Trifft ihn ein Unglück, ist er geduldig, und auch das ist gut für ihn.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah freut sich über die Reue Seines Dieners mehr als jemand, der in der Wüste sein Kamel verliert und es dann wiederfindet.",
+          "source": "Bukhari, Tawba 1; Muslim, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Wer das Morgengebet verrichtet, steht unter Allahs Schutz.",
+          "source": "Muslim, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Die zwei Gebetseinheiten vor dem Morgengebet sind besser als die Welt und alles, was in ihr ist.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Wer das Morgengebet in der Gemeinschaft verrichtet, ist wie jemand, der die ganze Nacht im Gebet verbracht hat.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Wer das Morgengebet verrichtet, ist in Allahs Obhut.",
+          "source": "Muslim, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Jeden Mittag werden die Taten Allah vorgelegt.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Es ist verdienstvoll, das Mittagsgebet zu Beginn seiner Zeit zu verrichten.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Wer das Mittagsgebet pünktlich verrichtet, erlangt Allahs Wohlgefallen.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Wer das Nachmittagsgebet unterlässt, ist wie jemand, der seine Familie und sein Vermögen verloren hat.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Wer das Nachmittagsgebet versäumt, ist wie jemand, der seine Familie und sein Vermögen verloren hat.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Wer das Nachmittagsgebet pünktlich verrichtet, steht unter Allahs Schutz.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Wenn der Abend anbricht, gedenkt Allahs.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Wer das Abendgebet pünktlich verrichtet, erhält den Lohn des Tages.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Achtet darauf, das Abendgebet nicht zu versäumen, denn es ist sehr wichtig.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Das Gebet in der Nacht ist der Weg der Rechtschaffenen.",
+          "source": "Tirmidhi, Da'awat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Wer das Nachtgebet (Isha) in der Gemeinschaft verrichtet, ist wie jemand, der die halbe Nacht im Gebet verbracht hat.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Wer das Nachtgebet (Isha) pünktlich verrichtet, ist wie jemand, der die Nacht im Gebet verbracht hat.",
+          "source": "Bukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Wer den Ramadan im Glauben und in der Hoffnung auf Allahs Lohn fastet, dem werden seine früheren Sünden vergeben.",
+          "source": "Bukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Wenn der Ramadan kommt, werden die Tore des Paradieses geöffnet.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Das Fasten ist ein Schutzschild.",
+          "source": "Bukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Das Fasten im Ramadan tilgt vergangene und künftige Sünden.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Wer einem Fastenden etwas zum Fastenbrechen gibt, erhält denselben Lohn wie der Fastende.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Den Koran im Ramadan zu lesen ist verdienstvoller als in anderen Monaten.",
+          "source": "Bukhari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Jede Nacht, im letzten Drittel der Nacht, steigt Allah zum untersten Himmel herab.",
+          "source": "Bukhari, Tahajjud 14",
+          "explanation": "Beton die Bedeutung des Bittgebets und der Vergebung in gesegneten Nächten."
+        },
+        {
+          "id": "kan_002",
+          "text": "Das verdienstvollste Bittgebet ist das in den Stunden vor der Morgendämmerung.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Das Bittgebet dessen, der in gesegneten Nächten betet, wird angenommen.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Wer die Nacht der Bestimmung im Glauben und in der Hoffnung auf Allahs Lohn im Gebet verbringt, dem werden seine früheren Sünden vergeben.",
+          "source": "Bukhari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Gottesdienst in gesegneten Nächten ist verdienstvoller als in anderen Nächten.",
+          "source": "Tirmidhi, Da'awat 79"
+        }
+      ]
+    }
+  },
+  "nl": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Daden worden beoordeeld naar de bedoelingen, en ieder krijgt alleen waar hij op uit was.",
+        "source": "Bukhari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Maak het makkelijk en niet moeilijk. Breng goed nieuws en jaag de mensen niet weg.",
+        "source": "Bukhari, Ilm 11; Muslim, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Een gelovige is iemand aan wie de mensen hun leven en bezit kunnen toevertrouwen.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "De daden die Allah het meest liefheeft, zijn de daden die regelmatig worden gedaan, ook al zijn ze klein.",
+        "source": "Bukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Het geloof heeft ruim zeventig takken. De hoogste is zeggen: 'Er is geen god dan Allah', en de laagste is iets schadelijks van de weg halen.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Niemand van jullie gelooft werkelijk totdat hij voor zijn broeder wenst wat hij voor zichzelf wenst.",
+        "source": "Bukhari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Een moslim is de broeder van een moslim. Hij doet hem geen onrecht en levert hem niet uit aan de vijand.",
+        "source": "Bukhari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "De beste mensen zijn zij die anderen het meest van nut zijn.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Allah gedenken is beter dan Hem vergeten.",
+        "source": "Tirmidhi, Da'awat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Zolang iemand zijn broeder helpt, helpt Allah hem.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Pas op voor tweeslachtigheid, want dat is werkelijk een slechte eigenschap.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Wie een gelovige van een van de zorgen van deze wereld verlost, die verlost Allah van een van de zorgen van de Dag der Opstanding.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Een moslim is de broeder van een moslim. Hij doet hem geen onrecht, levert hem niet uit aan de vijand en laat hem niet in de steek als hij hulp nodig heeft.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Op de Dag der Opstanding zullen zeven soorten mensen in de schaduw van Allah zijn, onder wie iemand wiens hart aan de moskeeën gehecht is.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Wie liefheeft omwille van Allah, afwijst omwille van Allah en geeft omwille van Allah, heeft zijn geloof vervolmaakt.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Een gelovige wordt geen twee keer gestoken vanuit hetzelfde gat; hij maakt dus niet twee keer dezelfde fout.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "De beste mensen zijn zij die anderen het meeste goed doen.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah kijkt niet naar jullie lichamen of gezichten, maar naar jullie harten.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Glimlachen naar je broeder is een liefdadigheid.",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Wie de fout van een moslim bedekt, diens fouten zal Allah bedekken op de Dag der Opstanding.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Deze wereld is een gevangenis voor de gelovige en een paradijs voor de ongelovige.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Wie Allah en Zijn Boodschapper gehoorzaamt, heeft werkelijk een groot succes behaald.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Kennis zoeken is een plicht voor iedere moslim.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Elke vermoeidheid, ziekte, zorg en verdriet die een gelovige treft, wist een deel van zijn zonden uit.",
+          "source": "Bukhari, Marda 1",
+          "explanation": "Herinnert eraan dat lijden niet tevergeefs is."
+        },
+        {
+          "id": "sad_002",
+          "text": "Als Allah het goede wil voor iemand, beproeft Hij hem met moeilijkheden.",
+          "source": "Bukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Echt geduld is het geduld op het eerste moment van tegenspoed.",
+          "source": "Bukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Hoe wonderlijk is de situatie van de gelovige! Alles wat hem overkomt is goed voor hem, en dat geldt alleen voor de gelovige. Overkomt hem iets goeds, dan is hij dankbaar, en dat is goed voor hem. Treft hem iets ergs, dan is hij geduldig, en ook dat is goed voor hem.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Als Allah iemand liefheeft, beproeft Hij hem. Wie het aanvaardt, verkrijgt Allahs welbehagen; wie zich ertegen verzet, haalt Zijn ongenoegen op zich.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Hoe groter de beproeving, hoe groter de beloning.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Verstandig is wie zichzelf ter verantwoording roept en werkt voor wat na de dood komt.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Deze wereld is de akker van het Hiernamaals.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Mensen zijn als goud- en zilvermijnen. Wie vóór de islam de besten waren, zijn ook in de islam de besten, als zij de godsdienst begrijpen.",
+          "source": "Bukhari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "De beste mensen zijn zij die lang leven en goede daden doen.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Wie de mensen niet bedankt, heeft Allah niet bedankt.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Hoe mooi is een dankbare dienaar.",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah ziet graag de sporen van Zijn zegeningen bij Zijn dienaar.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Er zijn twee zegeningen waarvan de meeste mensen de waarde niet beseffen: gezondheid en vrije tijd.",
+          "source": "Bukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Voor de gelovige is alles goed: krijgt hij iets goeds, dan is hij dankbaar, en dat is goed voor hem; treft hem tegenspoed, dan is hij geduldig, en ook dat is goed voor hem.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah is blijer met het berouw van Zijn dienaar dan iemand die in de woestijn zijn kameel verliest en hem daarna terugvindt.",
+          "source": "Bukhari, Tawba 1; Muslim, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Wie het ochtendgebed verricht, staat onder de bescherming van Allah.",
+          "source": "Muslim, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "De twee gebedseenheden vóór het ochtendgebed zijn beter dan de wereld en alles wat erin is.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Wie het ochtendgebed in gemeenschap verricht, is als iemand die de hele nacht in gebed heeft doorgebracht.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Wie het ochtendgebed verricht, is in de hoede van Allah.",
+          "source": "Muslim, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Elke middag worden de daden aan Allah voorgelegd.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Het is verdienstelijk om het middaggebed aan het begin van de gebedstijd te verrichten.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Wie het middaggebed op tijd verricht, verkrijgt Allahs welbehagen.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Wie het namiddaggebed nalaat, is als iemand die zijn familie en bezit heeft verloren.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Wie het namiddaggebed mist, is als iemand die zijn familie en bezit heeft verloren.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Wie het namiddaggebed op tijd verricht, staat onder de bescherming van Allah.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Als de avond valt, gedenk dan Allah.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Wie het avondgebed op tijd verricht, krijgt de beloning van de dag.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Zorg dat je het avondgebed niet mist, want het is heel belangrijk.",
+          "source": "Muslim, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Bidden in de nacht is de weg van de rechtschapenen.",
+          "source": "Tirmidhi, Da'awat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Wie het nachtgebed (Isha) in gemeenschap verricht, is als iemand die de halve nacht in gebed heeft doorgebracht.",
+          "source": "Muslim, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Wie het nachtgebed (Isha) op tijd verricht, is als iemand die de nacht in gebed heeft doorgebracht.",
+          "source": "Bukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Wie de Ramadan vast uit geloof en in de hoop op Allahs beloning, krijgt vergeving voor zijn eerdere zonden.",
+          "source": "Bukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Als de Ramadan begint, gaan de poorten van het Paradijs open.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Vasten is een schild.",
+          "source": "Bukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Vasten in de Ramadan wist vroegere en toekomstige zonden uit.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Wie een vastende iets geeft om zijn vasten mee te verbreken, krijgt dezelfde beloning als de vastende.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "De Koran lezen in de Ramadan is verdienstelijker dan in andere maanden.",
+          "source": "Bukhari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Elke nacht, in het laatste derde deel van de nacht, daalt Allah af naar de laagste hemel.",
+          "source": "Bukhari, Tahajjud 14",
+          "explanation": "Benadrukt het belang van smeekbede en vergeving zoeken in gezegende nachten."
+        },
+        {
+          "id": "kan_002",
+          "text": "De meest verdienstelijke smeekbede is die in de uren vóór de dageraad.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "De smeekbede van wie in gezegende nachten bidt, wordt verhoord.",
+          "source": "Tirmidhi, Da'awat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Wie de Nacht van de Beschikking in aanbidding doorbrengt, uit geloof en in de hoop op Allahs beloning, krijgt vergeving voor zijn eerdere zonden.",
+          "source": "Bukhari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Aanbidding in gezegende nachten is verdienstelijker dan in andere nachten.",
+          "source": "Tirmidhi, Da'awat 79"
+        }
+      ]
+    }
+  },
+  "ku": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Kar li gorî niyetan in, û her kes tenê tiştê ku niyeta wî bûye distîne.",
+        "source": "Buxarî, Bed'ü'l-vahy 1; Muslim, Îmara 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Hêsan bikin, zehmet nekin. Mizgîniyê bidin, mirovan ji xwe dûr nexin.",
+        "source": "Buxarî, Zanyarî 11; Muslim, Cîhad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Bawermend ew e ku mirov li ser can û malê xwe ewle ne jê.",
+        "source": "Tirmizî, Îman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Karên ku Xwedê herî zêde jê hez dike, ew in ku bi berdewamî tên kirin, her çend hindik bin jî.",
+        "source": "Buxarî, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Bawerî ji heftê û çend şaxan pêk tê. Ya herî bilind gotina 'La ilahe illallah' e, ya herî nizm jî rakirina tiştekî ku zirarê dide ji ser rê ye.",
+        "source": "Muslim, Îman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Yek ji we bi rastî bawermend nabe, heta ku ji bo birayê xwe tiştê ku ji bo xwe dixwaze nexwaze.",
+        "source": "Buxarî, Îman 7; Muslim, Îman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Misilman birayê misilman e. Zulmê lê nake û wî nade destê dijmin.",
+        "source": "Buxarî, Mezâlim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Mirovên herî baş ew in ku herî zêde feyda wan digihîje kesên din.",
+        "source": "Taberanî, el-Mu'cemü'l-Kebîr"
+      },
+      {
+        "id": "gen_010",
+        "text": "Bîranîna Xwedê ji jibîrkirina Wî çêtir e.",
+        "source": "Tirmidhi, Deavât 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Heta ku bende alîkariya birayê xwe dike, Xwedê jî alîkariya wî dike.",
+        "source": "Bukhari & Muslim (summarized)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Xwe ji durûtiyê biparêzin, ji ber ku ew bi rastî exlaqekî pir xirab e.",
+        "source": "Bukhari, Manners 45; Muslim, Faith 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Kî tengasiyeke dinyayê ji ser bawermendekî rake, Xwedê jî di Roja Qiyametê de tengasiyekê ji ser wî radike.",
+        "source": "Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Misilman birayê misilman e. Zulmê lê nake, wî nade destê dijmin û dema hewcedar be wî bi tenê nahêle.",
+        "source": "Bukhari, Expiation 2; Muslim, Virtues 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Di Roja Qiyametê de heft cure mirov wê di bin siya Xwedê de bin; yek ji wan ew e ku dilê wî bi mizgeftan ve girêdayî ye.",
+        "source": "Bukhari, Travelers 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Kî ji bo Xwedê hez bike, ji bo Xwedê nefret bike û ji bo Xwedê bide, bawerîya xwe temam kiriye.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Bawermend du caran ji heman qulê nayê gezkirin; yanî heman xeletiyê du caran nake.",
+        "source": "Bukhari, Manners 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Mirovên herî baş ew in ku herî zêde kêrî kesên din tên.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Xwedê li bedenên we û rûyên we nanêre, lê li dilên we dinêre.",
+        "source": "Muslim, Virtues 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Bişirîna te ji birayê xwe re sedeqe ye.",
+        "source": "Tirmidhi, Virtues 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Kî kêmasiya misilmanekî veşêre, Xwedê jî di Roja Qiyametê de kêmasiyên wî vedişêre.",
+        "source": "Muslim, Virtues 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Dinya ji bo bawermend zindan e, ji bo kafir jî bihuşt e.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Kî guhdariya Xwedê û Pêxemberê Wî bike, bi rastî serkeftineke mezin bi dest xistiye.",
+        "source": "Qur'an 33:71 (meaning echoed in khutbah and reminders)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Fêrbûna zanînê li ser her misilmanî ferz e.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Her westandin, nexweşî, xem û kedera ku tê serê bawermend, hin gunehên wî paqij dike.",
+          "source": "Buxarî, Merda 1",
+          "explanation": "Ew tîne bîra me ku tengahî ne vala ye."
+        },
+        {
+          "id": "sad_002",
+          "text": "Dema Xwedê ji bo kesekî xêrê bixwaze, wî bi zehmetiyan diceribîne.",
+          "source": "Buxarî, Merda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Sebra rastîn ew e ku di kêliya pêşîn a musîbetê de tê kirin.",
+          "source": "Buxarî, Cenaiz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Rewşa bawermend çiqas ecêb e! Her tiştê ku tê serê wî ji bo wî xêr e, û ev tenê ji bo bawermend wisa ye. Dema tiştekî xweş bê serê wî, şikir dike û ev ji bo wî xêr e. Dema tengasiyek bê serê wî, sebir dike û ev jî ji bo wî xêr e.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Dema Xwedê ji kesekî hez bike, wî diceribîne. Kî pê razî be, razîbûna Xwedê bi dest dixe; kî jî xeyidî be, xezeba Wî dikişîne ser xwe.",
+          "source": "Tirmizî, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Ceribandin çiqas mezin be, xelat jî ewqas mezin e.",
+          "source": "Tirmizî, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Mirovê aqilmend ew e ku hesabê xwe ji xwe dipirse û ji bo piştî mirinê dixebite.",
+          "source": "Tirmizî, Qiyamet 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Dinya zeviya axretê ye.",
+          "source": "Beyhakî, Şuabu'l-Îman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Mirov wek kanên zêr û zîv in. Yên ku berî Îslamê baştirîn bûn, di Îslamê de jî baştirîn in, heke dînê fam bikin.",
+          "source": "Buxarî, Menâkıb 1; Muslim, Fezâil 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Mirovên herî baş ew in ku temenê wan dirêj û karên wan baş in.",
+          "source": "Tirmizî, Qiyamet 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Kî spasiya mirovan neke, şikra Xwedê jî nekiriye.",
+          "source": "Tirmizî, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Bendeyê şikirdar çiqas xweş e.",
+          "source": "Ehmed b. Henbel, Musned"
+        },
+        {
+          "id": "hap_003",
+          "text": "Xwedê hez dike ku şopa nîmetên xwe li ser bendeyê xwe bibîne.",
+          "source": "Tirmizî, Edeb 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Du nîmet hene ku piraniya mirovan qedrê wan nizanin: saxlemî û wextê vala.",
+          "source": "Buxarî, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Ji bo bawermend her tişt xêr e: dema nîmetek bigihîje wî şikir dike, ev ji bo wî xêr e; dema musîbetek bê serê wî sebir dike, ev jî ji bo wî xêr e.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Xwedê bi tobeya bendeyê xwe ji wî kesî bêtir kêfxweş dibe ku deveya wî li çolê winda bûye û paşê dîtiye.",
+          "source": "Buxarî, Tevbe 1; Muslim, Tewbe 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Kî nimêja sibê bike, di bin parastina Xwedê de ye.",
+          "source": "Muslim, Mesâcid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Du rekatên beriya nimêja sibê ji dinyayê û her tiştê tê de çêtir in.",
+          "source": "Muslim, nimêja 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Kî nimêja sibê bi cemaetê bike, wek ku tevahiya şevê bi îbadetê derbas kiribe.",
+          "source": "Muslim, Mesâcid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Kî nimêja sibê bike, di bin parastina Xwedê de ye.",
+          "source": "Muslim, Mesâcid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Her nîvro kar tên pêşkêşkirin ji Xwedê re.",
+          "source": "Taberanî, el-Mu'cem"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Kirina nimêja nîvroyê di destpêka wextê wê de xwedî fezîlet e.",
+          "source": "Buxarî, Mevâkît 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Kî nimêja nîvroyê di wextê wê de bike, razîbûna Xwedê bi dest dixe.",
+          "source": "Muslim, Mesâcid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Kî nimêja esrê berde, wek kesê ku malbat û malê xwe winda kiribe.",
+          "source": "Bukhari, Times of Prayer 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Kî nimêja esrê ji dest bide, wek kesê ku malbat û malê xwe winda kiribe.",
+          "source": "Buxarî, Mevâkît 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Kî nimêja esrê di wextê wê de bike, di bin parastina Xwedê de ye.",
+          "source": "Muslim, Mesâcid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Dema êvar tê, Xwedê bi bîr bînin.",
+          "source": "Ebû Dawûd, Edeb 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Kî nimêja êvarê di wextê wê de bike, xelata rojê distîne.",
+          "source": "Buxarî, Mevâkît 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Hay ji xwe hebin ku nimêja êvarê ji dest nedin, ji ber ku ew pir girîng e.",
+          "source": "Muslim, Mesâcid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Nimêja şevê rêya salihan e.",
+          "source": "Tirmidhi, Deavât 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Kî nimêja eşayê bi cemaetê bike, wek ku nîvê şevê bi îbadetê derbas kiribe.",
+          "source": "Muslim, Mesâcid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Kî nimêja eşayê di wextê wê de bike, wek ku şevê bi îbadetê derbas kiribe.",
+          "source": "Buxarî, Tehecûd 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Kî bi bawerî û bi hêviya xelata Xwedê rojiya Remezanê bigire, gunehên wî yên berê tên bexşandin.",
+          "source": "Buxarî, Sevm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Dema Remezan tê, deriyên bihuştê vedibin.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Rojî mertal e.",
+          "source": "Buxarî, Sewm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Rojiya Remezanê kefareta gunehên berê û yên pêşerojê ye.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Kî fitareke bide rojîgirekî, bi qasî rojîgir xelatê distîne.",
+          "source": "Îbnî Mace, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Xwendina Qur'anê di meha Remezanê de ji mehên din bi fezîlettir e.",
+          "source": "Buxarî, Fezâilü'l-Kur'an 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Her şev, di sêyeka dawî ya şevê de, Xwedê tê ezmanê dinyayê.",
+          "source": "Buxarî, Tehecûd 14",
+          "explanation": "Di şevên pîroz de girîngiya dua û lêborînê dide."
+        },
+        {
+          "id": "kan_002",
+          "text": "Duaya herî bi fezîlet ew e ku di wextê seherê de tê kirin.",
+          "source": "Tirmidhi, Deavât 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Duaya kesê ku di şevên pîroz de dua dike tê qebûlkirin.",
+          "source": "Tirmidhi, Deavât 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Kî bi bawerî û bi hêviya xelata Xwedê Şeva Qedrê bi îbadetê derbas bike, gunehên wî yên berê tên bexşandin.",
+          "source": "Buxarî, Kadr 1; Muslim, Musafirîn 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Îbadeta di şevên pîroz de ji îbadeta di şevên din de bi fezîlettir e.",
+          "source": "Tirmidhi, Deavât 79"
+        }
+      ]
+    }
+  },
+  "ckb": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "کردەوەکان بە نیەتەکانن، و هەر کەسێک تەنها ئەوەی دەست دەکەوێت کە نیەتی بووە.",
+        "source": "Buhârî, Bed'ü'l-vahy 1; Müslim, İmâre 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "ئاسانی بکەن و قورسی مەکەن. مژدە بدەن و خەڵک مەڕەوێننەوە.",
+        "source": "Buhârî, İlim 11; Müslim, Cihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "ئیماندار ئەو کەسەیە کە خەڵک لەسەر گیان و ماڵیان متمانەی پێ دەکەن.",
+        "source": "Tirmizî, Îmân 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "خۆشەویستترین کردەوە لای خوا ئەوەیە کە بەردەوام بکرێت، ئەگەر کەمیش بێت.",
+        "source": "Buhârî, Rikâk 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "ئیمان هەفتاو چەند لقێکە. بەرزترینیان وتنی «لا إله إلا الله»یە، و نزمترینیان لابردنی شتێکی ئازاربەخشە لە ڕێگا.",
+        "source": "Müslim, Îmân 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "هیچ کەسێکتان بە ڕاستی ئیماندار نابێت، تا ئەوەی بۆ خۆی پێی خۆشە بۆ براکەشی پێی خۆش نەبێت.",
+        "source": "Buhârî, Îmân 7; Müslim, Îmân 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "موسڵمان برای موسڵمانە. ستەمی لێ ناکات و نایداتە دەست دوژمن.",
+        "source": "Buhârî, Mezâlim 3; Müslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "باشترینی خەڵک ئەوانەن کە زۆرترین سوودیان بۆ خەڵکی تر هەیە.",
+        "source": "Taberânî, el-Mu'cemü'l-Kebîr"
+      },
+      {
+        "id": "gen_010",
+        "text": "یادکردنی خوا باشترە لە لەبیرکردنی.",
+        "source": "Tirmizî, Deavât 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "تا کاتێک بەندە یارمەتیی براکەی بدات، خوا یارمەتیی ئەو دەدات.",
+        "source": "Buhârî, Müslim (özet); İslam davetinde yardımlaşma"
+      },
+      {
+        "id": "gen_012",
+        "text": "خۆتان لە دووڕوویی بپارێزن، چونکە بەڕاستی ڕەوشتێکی زۆر خراپە.",
+        "source": "Buhârî, Edeb 45; Müslim, Îmân 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "هەر کەسێک تەنگانەیەکی دونیا لەسەر ئیماندارێک لابەرێت، خوا لە ڕۆژی قیامەتدا تەنگانەیەکی لەسەر لادەبات.",
+        "source": "Müslim, Birr 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "موسڵمان برای موسڵمانە. ستەمی لێ ناکات، نایداتە دەست دوژمن و لە کاتی پێویستیدا بە تەنها جێی ناهێڵێت.",
+        "source": "Buhârî, Merdâ 2; Müslim, Birr 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "لە ڕۆژی قیامەتدا حەوت جۆر کەس لە ژێر سێبەری خوادا دەبن، یەکێکیان ئەو کەسەیە کە دڵی بە مزگەوتەکانەوە بەستراوە.",
+        "source": "Buhârî, Müsâfirîn 2; Müslim, Zühd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "هەر کەسێک لەبەر خوا خۆشی بوێت، لەبەر خوا ڕقی لێ بێت و لەبەر خوا ببەخشێت، ئیمانەکەی تەواو کردووە.",
+        "source": "Ebû Dâvûd, Sünnet 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "ئیماندار دوو جار لە یەک کون پێوەی نادرێت؛ واتە هەمان هەڵە دوو جار ناکات.",
+        "source": "Buhârî, Edeb 85; Müslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "باشترینی خەڵک ئەوانەن کە زۆرترین سوود بە خەڵکی تر دەگەیەنن.",
+        "source": "Taberânî, el-Mu'cemü'l-Evsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "خوا سەیری جەستە و ڕووخسارتان ناکات، بەڵکو سەیری دڵەکانتان دەکات.",
+        "source": "Müslim, Birr 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "زەردەخەنەت بە ڕووی براکەتدا خێرە.",
+        "source": "Tirmizî, Birr 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "هەر کەسێک کەموکوڕیی موسڵمانێک داپۆشێت، خوا لە ڕۆژی قیامەتدا کەموکوڕییەکانی ئەو دادەپۆشێت.",
+        "source": "Müslim, Birr 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "دونیا بۆ ئیماندار زیندانە و بۆ بێباوەڕ بەهەشتە.",
+        "source": "Müslim, Zühd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "هەر کەسێک گوێڕایەڵی خوا و پێغەمبەرەکەی بێت، بەڕاستی سەرکەوتنێکی گەورەی بەدەست هێناوە.",
+        "source": "Ahzâb 33/71 (ayet hatırlatması); tefsir geleneğiyle birlikte kullanım"
+      },
+      {
+        "id": "gen_025",
+        "text": "فێربوونی زانست لەسەر هەموو موسڵمانێک فەرزە.",
+        "source": "İbn Mâce, Mukaddime 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "هەر ماندووبوون، نەخۆشی، خەم و پەژارەیەک کە تووشی ئیماندار دەبێت، بەشێک لە گوناهەکانی دەسڕێتەوە.",
+          "source": "Buhârî, Merdâ 1",
+          "explanation": "ئەوەمان بیردەخاتەوە کە ناڕەحەتی بێهودە نییە."
+        },
+        {
+          "id": "sad_002",
+          "text": "کاتێک خوا خێری بۆ کەسێک بوێت، بە ناخۆشی تاقیی دەکاتەوە.",
+          "source": "Buhârî, Merdâ 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "ئارامگرتنی ڕاستەقینە ئەوەیە کە لە یەکەم ساتی بەڵادا دەکرێت.",
+          "source": "Buhârî, Cenâiz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "باری ئیماندار چەند سەرسوڕهێنەرە! هەموو کارێکی بۆ ئەو خێرە، و ئەمە تەنها بۆ ئیماندارە. ئەگەر خۆشییەکی بەسەردا بێت سوپاس دەکات و ئەوە خێرە بۆی. ئەگەر ناخۆشییەکی بەسەردا بێت ئارام دەگرێت و ئەوەش خێرە بۆی.",
+          "source": "Müslim, Zühd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "کاتێک خوا کەسێکی خۆش بوێت، تاقیی دەکاتەوە. ئەوەی ڕازی بێت، ڕەزامەندیی خوا بەدەست دەهێنێت؛ و ئەوەی تووڕە بێت، تووڕەیی خوا بۆ خۆی دەکڕێت.",
+          "source": "Tirmizî, Zühd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "تاقیکردنەوە چەند گەورەتر بێت، پاداشتیش ئەوەندە گەورەترە.",
+          "source": "Tirmizî, Zühd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "ژیر ئەو کەسەیە کە لێپرسینەوە لەگەڵ خۆیدا دەکات و بۆ دوای مردن کار دەکات.",
+          "source": "Tirmizî, Kıyâmet 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "دونیا کێڵگەی قیامەتە.",
+          "source": "Beyhakî, Şuabu'l-Îman"
+        },
+        {
+          "id": "neu_003",
+          "text": "خەڵک وەک کانی زێڕ و زیون. باشترینیان پێش ئیسلام، لە ئیسلامیشدا باشترینن، ئەگەر لە ئایین تێبگەن.",
+          "source": "Buhârî, Menâkıb 1; Müslim, Fezâil 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "باشترینی خەڵک ئەوانەن کە تەمەنیان درێژ و کردەوەیان چاکە.",
+          "source": "Tirmizî, Kıyâmet 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "ئەوەی سوپاسی خەڵک نەکات، سوپاسی خوای نەکردووە.",
+          "source": "Tirmizî, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "بەندەی سوپاسگوزار چەند باشە.",
+          "source": "Ahmed b. Hanbel, Müsned"
+        },
+        {
+          "id": "hap_003",
+          "text": "خوا پێی خۆشە شوێنەواری نیعمەتەکانی لەسەر بەندەکەی ببینێت.",
+          "source": "Tirmizî, Edeb 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "دوو نیعمەت هەن کە زۆربەی خەڵک قەدریان نازانن: تەندروستی و کاتی بەتاڵ.",
+          "source": "Buhârî, Rikâk 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "بۆ ئیماندار هەموو شتێک خێرە: ئەگەر نیعمەتێکی پێ بگات سوپاس دەکات و ئەوە خێرە بۆی؛ ئەگەر بەڵایەکی بەسەر بێت ئارام دەگرێت و ئەوەش خێرە بۆی.",
+          "source": "Müslim, Zühd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "خوا بە تەوبەی بەندەکەی زیاتر دڵخۆش دەبێت لە کەسێک کە وشترەکەی لە بیابان ون کردبێت و پاشان بیدۆزێتەوە.",
+          "source": "Buhârî, Tevbe 1; Müslim, Tevbe 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "هەر کەسێک نوێژی بەیانی بکات، لە پەنای خوادایە.",
+          "source": "Müslim, Mesâcid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "دوو ڕکاتی پێش نوێژی بەیانی لە دونیا و هەرچی تێیدایە باشترە.",
+          "source": "Müslim, Salât 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "هەر کەسێک نوێژی بەیانی بە جەماعەت بکات، وەک ئەوە وایە هەموو شەوەکەی بە نوێژ بردبێتە سەر.",
+          "source": "Müslim, Mesâcid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "هەر کەسێک نوێژی بەیانی بکات، لە پاراستنی خوادایە.",
+          "source": "Müslim, Mesâcid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "هەموو نیوەڕۆیەک کردەوەکان پێشکەشی خوا دەکرێن.",
+          "source": "Taberânî, el-Mu'cem"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "کردنی نوێژی نیوەڕۆ لە سەرەتای کاتەکەیدا فەزڵی هەیە.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "هەر کەسێک نوێژی نیوەڕۆ لە کاتی خۆیدا بکات، ڕەزامەندیی خوا بەدەست دەهێنێت.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "هەر کەسێک نوێژی عەسر وازلێبهێنێت، وەک ئەوە وایە خێزان و ماڵی لەدەست دابێت.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "هەر کەسێک نوێژی عەسری لەدەست بچێت، وەک ئەوە وایە خێزان و ماڵی لەدەست دابێت.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "هەر کەسێک نوێژی عەسر لە کاتی خۆیدا بکات، لە پەنای خوادایە.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "کاتێک ئێوارە دادێت، یادی خوا بکەن.",
+          "source": "Ebû Dâvûd, Edeb 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "هەر کەسێک نوێژی ئێوارە لە کاتی خۆیدا بکات، پاداشتی ڕۆژەکە وەردەگرێت.",
+          "source": "Buhârî, Mevâkît 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "ئاگاداربن نوێژی ئێوارە لەدەست نەدەن، چونکە زۆر گرنگە.",
+          "source": "Müslim, Mesâcid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "نوێژی شەو ڕێگای چاکانە.",
+          "source": "Tirmizî, Deavât 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "هەر کەسێک نوێژی خەوتنان بە جەماعەت بکات، وەک ئەوە وایە نیوەی شەوی بە نوێژ بردبێتە سەر.",
+          "source": "Müslim, Mesâcid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "هەر کەسێک نوێژی خەوتنان لە کاتی خۆیدا بکات، وەک ئەوە وایە شەوەکەی بە نوێژ بردبێتە سەر.",
+          "source": "Buhârî, Teheccüd 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "هەر کەسێک بە ئیمان و بە هیوای پاداشتی خوا ڕۆژووی ڕەمەزان بگرێت، گوناهە ڕابردووەکانی دەبەخشرێن.",
+          "source": "Buhârî, Savm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "کاتێک ڕەمەزان دێت، دەرگاکانی بەهەشت دەکرێنەوە.",
+          "source": "Müslim, Sıyâm 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "ڕۆژوو قەڵغانە.",
+          "source": "Buhârî, Savm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "ڕۆژووی ڕەمەزان کەفارەتی گوناهە ڕابردوو و داهاتووەکانە.",
+          "source": "Müslim, Sıyâm 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "هەر کەسێک بەربانگ بە ڕۆژووەوانێک بکاتەوە، هێندەی پاداشتی ئەو ڕۆژووەوانەی بۆ دەنووسرێت.",
+          "source": "İbn Mâce, Sıyâm 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "خوێندنی قورئان لە ڕەمەزاندا لە مانگەکانی تر بەفەزڵترە.",
+          "source": "Buhârî, Fezâilü'l-Kur'an 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "هەموو شەوێک، لە سێیەکی کۆتایی شەودا، خوا دادەبەزێتە ئاسمانی دونیا.",
+          "source": "Buhârî, Teheccüd 14",
+          "explanation": "جەخت لەسەر گرنگی نوێژ و لێخۆشبوون لە شەوانی پیرۆزدا دەکاتەوە."
+        },
+        {
+          "id": "kan_002",
+          "text": "بەفەزڵترین نزا ئەوەیە کە لە کاتی بەرەبەیاندا دەکرێت.",
+          "source": "Tirmizî, Deavât 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "نزای ئەو کەسەی لە شەوە پیرۆزەکاندا نزا دەکات قبووڵ دەکرێت.",
+          "source": "Tirmizî, Deavât 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "هەر کەسێک بە ئیمان و بە هیوای پاداشتی خوا شەوی قەدر بە پەرستش ببەستێتە سەر، گوناهە ڕابردووەکانی دەبەخشرێن.",
+          "source": "Buhârî, Kadr 1; Müslim, Müsâfirîn 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "پەرستش لە شەوە پیرۆزەکاندا لە شەوانی تر بەفەزڵترە.",
+          "source": "Tirmizî, Deavât 79"
+        }
+      ]
+    }
+  },
+  "fr": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Les actes ne valent que par les intentions, et chacun n'obtiendra que ce qu'il a eu l'intention de faire.",
+        "source": "Boukhari, Bad' al-Wahy 1 ; Musulman, Imara 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Facilitez, ne compliquez pas. Annoncez la bonne nouvelle, ne faites pas fuir les gens.",
+        "source": "Boukhari, Ilm 11 ; Musulman, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Le croyant est celui à qui les gens confient leur vie et leurs biens en toute sécurité.",
+        "source": "Tirmidhi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Les actes les plus aimés d'Allah sont ceux qui sont accomplis avec régularité, même s'ils sont peu nombreux.",
+        "source": "Boukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "La foi compte plus de soixante-dix branches. La plus haute est de dire « Il n'y a de dieu qu'Allah », et la plus modeste est d'enlever du chemin ce qui peut nuire.",
+        "source": "Musulman, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Aucun de vous ne croit vraiment tant qu'il ne souhaite pas pour son frère ce qu'il souhaite pour lui-même.",
+        "source": "Boukhari, Iman 7 ; Musulman, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Le musulman est le frère du musulman. Il ne lui fait pas de tort et ne le livre pas à son ennemi.",
+        "source": "Boukhari, Mazalim 3 ; Musulman, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Les meilleurs des hommes sont ceux qui sont les plus utiles aux autres.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Se souvenir d'Allah vaut mieux que L'oublier.",
+        "source": "Tirmidhi, Daawat 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Tant qu'une personne aide son frère, Allah l'aide.",
+        "source": "Boukhari et Muslim (résumé)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Méfiez-vous de l'hypocrisie à double visage, car c'est vraiment un vilain trait.",
+        "source": "Boukhari, Manières 45 ; Musulman, Foi 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Celui qui soulage un croyant d'une des difficultés de ce monde, Allah le soulagera d'une des difficultés du Jour de la Résurrection.",
+        "source": "Musulman, Vertus 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Le musulman est le frère du musulman. Il ne lui fait pas de tort, ne le livre pas à son ennemi et ne l'abandonne pas quand il est dans le besoin.",
+        "source": "Boukhari, Expiation 2 ; Musulman, Vertus 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Le Jour de la Résurrection, sept catégories de personnes seront à l'ombre d'Allah, dont celui dont le cœur est attaché aux mosquées.",
+        "source": "Boukhari, Voyageurs 2 ; Musulman, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Celui qui aime pour Allah, déteste pour Allah et donne pour Allah a parfait sa foi.",
+        "source": "Abou Dawud, Sunna 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Le croyant ne se fait pas piquer deux fois par le même trou ; autrement dit, il ne commet pas deux fois la même erreur.",
+        "source": "Boukhari, Manières 85 ; Musulman, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Les meilleurs des hommes sont ceux qui apportent le plus de bien aux autres.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah ne regarde ni vos corps ni vos visages, mais Il regarde vos cœurs.",
+        "source": "Musulman, Vertus 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Ton sourire à ton frère est une aumône.",
+        "source": "Tirmidhi, Vertus 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Celui qui couvre la faute d'un musulman, Allah couvrira ses fautes le Jour de la Résurrection.",
+        "source": "Musulman, Vertus 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Ce monde est une prison pour le croyant et un paradis pour le mécréant.",
+        "source": "Musulman, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Celui qui obéit à Allah et à Son Messager a réellement obtenu une grande réussite.",
+        "source": "Coran 33 : 71 (ce qui signifie repris dans la khutbah et les rappels)"
+      },
+      {
+        "id": "gen_025",
+        "text": "La recherche du savoir est une obligation pour chaque musulman.",
+        "source": "Ibn Majah, Introduction 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Chaque fatigue, maladie, inquiétude et tristesse qui touche le croyant efface une part de ses péchés.",
+          "source": "Boukhari, Marda 1",
+          "explanation": "Rappelle que les difficultés ne sont pas vaines."
+        },
+        {
+          "id": "sad_002",
+          "text": "Quand Allah veut du bien à quelqu'un, Il l'éprouve par des difficultés.",
+          "source": "Boukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "La vraie patience est celle dont on fait preuve au premier choc du malheur.",
+          "source": "Boukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Comme la situation du croyant est admirable ! Tout ce qui lui arrive est un bien pour lui, et cela n'appartient qu'au croyant. S'il lui arrive un bonheur, il remercie, et c'est un bien pour lui. S'il lui arrive un malheur, il patiente, et c'est aussi un bien pour lui.",
+          "source": "Musulman, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Quand Allah aime quelqu'un, Il l'éprouve. Celui qui l'accepte obtient la satisfaction d'Allah, et celui qui s'en indigne s'attire Sa colère.",
+          "source": "Tirmidhi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Plus l'épreuve est grande, plus la récompense est grande.",
+          "source": "Tirmidhi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "L'homme sensé est celui qui se demande des comptes et œuvre pour ce qui vient après la mort.",
+          "source": "Tirmidhi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Ce monde est le champ de l'au-delà.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Les gens sont comme des mines d'or et d'argent. Les meilleurs d'entre eux avant l'islam sont les meilleurs dans l'islam, s'ils comprennent la religion.",
+          "source": "Boukhari, Manaqib 1 ; Musulman, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Les meilleurs des hommes sont ceux qui vivent longtemps et font le bien.",
+          "source": "Tirmidhi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Celui qui ne remercie pas les gens ne remercie pas Allah.",
+          "source": "Tirmidhi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Qu'il est bon, le serviteur reconnaissant !",
+          "source": "Ahmad ibn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah aime voir sur Son serviteur la trace de Ses bienfaits.",
+          "source": "Tirmidhi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Il y a deux bienfaits dont la plupart des gens ne mesurent pas la valeur : la santé et le temps libre.",
+          "source": "Boukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Tout est un bien pour le croyant : s'il reçoit un bienfait, il remercie, et c'est un bien pour lui ; s'il est frappé par un malheur, il patiente, et c'est aussi un bien pour lui.",
+          "source": "Musulman, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah se réjouit davantage du repentir de Son serviteur que celui qui perd son chameau dans le désert puis le retrouve.",
+          "source": "Boukhari, Tawba 1 ; Musulman, Tawba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Celui qui accomplit la prière de l'aube est sous la protection d'Allah.",
+          "source": "Musulman, Masajid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Les deux unités de prière avant l'aube valent mieux que ce monde et tout ce qu'il contient.",
+          "source": "Musulman, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Celui qui accomplit la prière de l'aube en groupe est comme s'il avait passé toute la nuit en prière.",
+          "source": "Musulman, Masajid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Celui qui accomplit la prière de l'aube est sous la garde d'Allah.",
+          "source": "Musulman, Masajid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Chaque midi, les actes sont présentés à Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Il est méritoire d'accomplir la prière de midi au début de son temps.",
+          "source": "Boukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Celui qui accomplit la prière de midi à l'heure obtient la satisfaction d'Allah.",
+          "source": "Musulman, Masajid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Celui qui délaisse la prière de l'après-midi est comme celui qui a perdu sa famille et ses biens.",
+          "source": "Boukhari, Horaires de prière 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Celui qui manque la prière de l'après-midi est comme celui qui a perdu sa famille et ses biens.",
+          "source": "Boukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Celui qui accomplit la prière de l'après-midi à l'heure est sous la protection d'Allah.",
+          "source": "Musulman, Masajid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Quand vient le soir, souvenez-vous d'Allah.",
+          "source": "Abou Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Celui qui accomplit la prière du coucher du soleil à l'heure obtient la récompense de la journée.",
+          "source": "Boukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Veillez à ne pas manquer la prière du coucher du soleil, car elle est très importante.",
+          "source": "Musulman, Masajid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Prier la nuit est la voie des vertueux.",
+          "source": "Tirmidhi, Daawat 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Celui qui accomplit la prière de la nuit (Isha) en groupe est comme s'il avait passé la moitié de la nuit en prière.",
+          "source": "Musulman, Masajid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Celui qui accomplit la prière de la nuit (Isha) à l'heure est comme s'il avait passé la nuit en prière.",
+          "source": "Boukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Celui qui jeûne le Ramadan avec foi et en espérant la récompense d'Allah verra ses péchés passés pardonnés.",
+          "source": "Boukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Quand vient le Ramadan, les portes du Paradis s'ouvrent.",
+          "source": "Musulman, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Le jeûne est un bouclier.",
+          "source": "Boukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Jeûner pendant le Ramadan efface les péchés passés et à venir.",
+          "source": "Musulman, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Celui qui donne à manger à un jeûneur pour rompre son jeûne reçoit la même récompense que lui.",
+          "source": "Ibn Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Lire le Coran pendant le Ramadan est plus méritoire que pendant les autres mois.",
+          "source": "Bukhari, Fada'il al-Coran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Chaque nuit, au dernier tiers de la nuit, Allah descend jusqu'au ciel le plus proche.",
+          "source": "Boukhari, Tahajjud 14",
+          "explanation": "Souligne l'importance de la supplication et de la recherche du pardon lors des nuits bénies."
+        },
+        {
+          "id": "kan_002",
+          "text": "La meilleure invocation est celle que l'on fait dans les heures qui précèdent l'aube.",
+          "source": "Tirmidhi, Daawat 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "L'invocation de celui qui prie durant les nuits bénies est exaucée.",
+          "source": "Tirmidhi, Daawat 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Celui qui passe la Nuit du Destin en adoration, avec foi et en espérant la récompense d'Allah, verra ses péchés passés pardonnés.",
+          "source": "Boukhari, Qadr 1 ; Musulman, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "L'adoration durant les nuits bénies est plus méritoire que durant les autres nuits.",
+          "source": "Tirmidhi, Daawat 79"
+        }
+      ]
+    }
+  },
+  "ru": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Дела оцениваются по намерениям, и каждому достанется лишь то, что он намеревался.",
+        "source": "Бухари, Бад аль-Вахи 1; Мусульманин, Имара 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Облегчайте, а не усложняйте. Радуйте добрыми вестями, а не отталкивайте людей.",
+        "source": "Бухари, Ильм 11; Мусульманин, Джихад 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Верующий — это тот, кому люди доверяют свою жизнь и своё имущество.",
+        "source": "Тирмизи, Иман 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Самые любимые Аллахом дела — те, что совершаются постоянно, пусть даже их немного.",
+        "source": "Бухари, Рикак 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Вера состоит из семидесяти с лишним ветвей. Высшая из них — слова «Нет бога, кроме Аллаха», а низшая — убрать с дороги то, что может навредить.",
+        "source": "Мусульманин, Иман 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Никто из вас не уверует по-настоящему, пока не пожелает своему брату того же, чего желает себе.",
+        "source": "Бухари, Иман 7; Мусульманин, Иман 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Мусульманин — брат мусульманину. Он не притесняет его и не выдаёт врагу.",
+        "source": "Бухари, Мазалим 3; Муслим, Бирр 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Лучшие из людей — те, кто приносит больше всего пользы другим.",
+        "source": "Табарани, аль-Муджам аль-Кабир"
+      },
+      {
+        "id": "gen_010",
+        "text": "Поминать Аллаха лучше, чем забывать о Нём.",
+        "source": "Тирмизи, Даават 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Пока человек помогает своему брату, Аллах помогает ему.",
+        "source": "Бухари и Муслим (краткое изложение)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Остерегайтесь двуличия, ведь это поистине дурное качество.",
+        "source": "Бухари, Манеры 45; Мусульманин, Вера 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Кто избавит верующего от одной из тягот этого мира, того Аллах избавит от одной из тягот Дня воскресения.",
+        "source": "Мусульманин, Добродетели 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Мусульманин — брат мусульманину. Он не притесняет его, не выдаёт врагу и не оставляет без помощи, когда тот нуждается.",
+        "source": "Бухари, Искупление 2; Мусульманин, Добродетели 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "В День воскресения семь категорий людей будут под сенью Аллаха, и среди них — тот, чьё сердце привязано к мечетям.",
+        "source": "Бухари, Путешественники 2; Муслим, Зухд 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Кто любит ради Аллаха, отвергает ради Аллаха и даёт ради Аллаха, тот сделал свою веру совершенной.",
+        "source": "Абу Дауд, Сунна 9."
+      },
+      {
+        "id": "gen_018",
+        "text": "Верующего не жалят дважды из одной и той же норы, то есть он не повторяет одну и ту же ошибку.",
+        "source": "Бухари, Манеры 85; Муслим, Зухд 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Лучшие из людей — те, от кого другим больше всего пользы.",
+        "source": "Табарани, аль-Муджам аль-Аусат"
+      },
+      {
+        "id": "gen_020",
+        "text": "Аллах не смотрит на ваши тела и лица, Он смотрит на ваши сердца.",
+        "source": "Мусульманин, Добродетели 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Твоя улыбка брату — это милостыня.",
+        "source": "Тирмизи, Добродетели 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Кто скроет недостаток мусульманина, тому Аллах скроет его недостатки в День воскресения.",
+        "source": "Мусульманин, Добродетели 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Этот мир — темница для верующего и рай для неверующего.",
+        "source": "Муслим, Зухд 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Кто повинуется Аллаху и Его Посланнику, тот поистине достиг великого успеха.",
+        "source": "Коран 33:71 (значение повторяется в хутбе и напоминаниях)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Стремление к знаниям — обязанность каждого мусульманина.",
+        "source": "Ибн Маджа, Введение 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Любая усталость, болезнь, тревога и печаль, постигающие верующего, стирают часть его грехов.",
+          "source": "Бухари, Марда 1",
+          "explanation": "Напоминает, что трудности не напрасны."
+        },
+        {
+          "id": "sad_002",
+          "text": "Когда Аллах желает человеку блага, Он испытывает его трудностями.",
+          "source": "Бухари, Марда 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Настоящее терпение — это терпение в первый момент беды.",
+          "source": "Бухари, Джанаиз 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Удивительно положение верующего! Всё, что с ним происходит, — благо для него, и так бывает только с верующим. Если его постигает радость, он благодарит, и это благо для него. Если его постигает беда, он терпит, и это тоже благо для него.",
+          "source": "Муслим, Зухд 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Когда Аллах любит человека, Он испытывает его. Кто принимает это, тот обретает довольство Аллаха, а кто негодует, навлекает на себя Его гнев.",
+          "source": "Тирмизи, Зухд 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Чем больше испытание, тем больше награда.",
+          "source": "Тирмизи, Зухд 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Разумный — тот, кто держит себя в отчёте и трудится ради того, что будет после смерти.",
+          "source": "Тирмизи, Кияма 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Этот мир — нива для мира вечного.",
+          "source": "Байхаки, Шуаб аль-Иман"
+        },
+        {
+          "id": "neu_003",
+          "text": "Люди подобны залежам золота и серебра. Лучшие из них до ислама — лучшие и в исламе, если они постигнут религию.",
+          "source": "Бухари, Манакиб 1; Мусульманин, Фадаил 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Лучшие из людей — те, кто живёт долго и творит добро.",
+          "source": "Тирмизи, Кияма 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Кто не благодарит людей, тот не благодарит и Аллаха.",
+          "source": "Тирмизи, Бирр 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Как прекрасен благодарный раб!",
+          "source": "Ахмад ибн Ханбал, Муснад"
+        },
+        {
+          "id": "hap_003",
+          "text": "Аллах любит видеть на Своём рабе следы Своих милостей.",
+          "source": "Тирмизи, Адаб 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Есть два блага, цену которых большинство людей не осознаёт: здоровье и свободное время.",
+          "source": "Бухари, Рикак 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Для верующего всё — благо: получив добро, он благодарит, и это благо для него; постигнутый бедой, он терпит, и это тоже благо для него.",
+          "source": "Муслим, Зухд 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Аллах радуется покаянию Своего раба больше, чем человек, который потерял своего верблюда в пустыне, а затем нашёл его.",
+          "source": "Бухари, Тауба 1; Мусульманин, Тауба 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Кто совершил утреннюю молитву, тот под защитой Аллаха.",
+          "source": "Мусульманин, Масаджид 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Два ракаата перед утренней молитвой лучше этого мира и всего, что в нём.",
+          "source": "Мусульманин, Салах 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Кто совершил утреннюю молитву в общине, тот словно провёл в молитве всю ночь.",
+          "source": "Мусульманин, Масаджид 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Кто совершил утреннюю молитву, тот под покровительством Аллаха.",
+          "source": "Мусульманин, Масаджид 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Каждый полдень дела представляются Аллаху.",
+          "source": "Табарани, аль-Муджам"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Совершать полуденную молитву в начале её времени — достойное дело.",
+          "source": "Бухари, Мавакит 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Кто совершает полуденную молитву вовремя, тот обретает довольство Аллаха.",
+          "source": "Мусульманин, Масаджид 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Кто оставил предвечернюю молитву, тот словно лишился семьи и имущества.",
+          "source": "Бухари, Время молитвы 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Кто пропустил предвечернюю молитву, тот словно лишился семьи и имущества.",
+          "source": "Бухари, Мавакит 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Кто совершает предвечернюю молитву вовремя, тот под защитой Аллаха.",
+          "source": "Мусульманин, Масаджид 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Когда наступает вечер, поминайте Аллаха.",
+          "source": "Абу Дауд, Адаб 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Кто совершает вечернюю молитву вовремя, тот получает награду за весь день.",
+          "source": "Бухари, Мавакит 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Старайтесь не пропускать вечернюю молитву, ведь она очень важна.",
+          "source": "Мусульманин, Масаджид 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Молитва ночью — путь праведников.",
+          "source": "Тирмизи, Даават 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Кто совершил ночную молитву (иша) в общине, тот словно провёл в молитве половину ночи.",
+          "source": "Мусульманин, Масаджид 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Кто совершает ночную молитву (иша) вовремя, тот словно провёл ночь в молитве.",
+          "source": "Бухари, Тахаджуд 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Тому, кто постится в Рамадан с верой и надеждой на награду Аллаха, прощаются прежние грехи.",
+          "source": "Бухари, Саум 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Когда наступает Рамадан, врата Рая открываются.",
+          "source": "Мусульманин, Сиям 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Пост — это щит.",
+          "source": "Бухари, Саум 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Пост в Рамадан искупает прошлые и будущие грехи.",
+          "source": "Мусульманин, Сиям 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Кто накормит постящегося для разговения, получит такую же награду, как и он.",
+          "source": "Ибн Маджа, Сиям 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Чтение Корана в Рамадан достойнее, чем в другие месяцы.",
+          "source": "Бухари, Фадаиль аль-Коран 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Каждую ночь, в последнюю её треть, Аллах нисходит к ближнему небу.",
+          "source": "Бухари, Тахаджуд 14",
+          "explanation": "Подчеркивает важность мольбы и поиска прощения в благословенные ночи."
+        },
+        {
+          "id": "kan_002",
+          "text": "Самая достойная мольба — та, что совершается в предрассветные часы.",
+          "source": "Тирмизи, Даават 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Мольба того, кто молится в благословенные ночи, принимается.",
+          "source": "Тирмизи, Даават 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Тому, кто проведёт Ночь предопределения в поклонении, с верой и надеждой на награду Аллаха, прощаются прежние грехи.",
+          "source": "Бухари, Кадр 1; Муслим, Мусафирин 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Поклонение в благословенные ночи достойнее, чем в другие ночи.",
+          "source": "Тирмизи, Даават 79"
+        }
+      ]
+    }
+  },
+  "id": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Setiap amal tergantung pada niatnya, dan setiap orang hanya mendapatkan apa yang ia niatkan.",
+        "source": "Bukhari, Bad' al-Wahy 1; Muslim, Imarah 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Permudahlah, jangan mempersulit. Berilah kabar gembira, jangan membuat orang lari.",
+        "source": "Bukhari, Ilm 11; Muslim, Jihad 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Orang mukmin adalah orang yang membuat manusia merasa aman atas nyawa dan harta mereka.",
+        "source": "Tirmidzi, Iman 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Amal yang paling dicintai Allah adalah yang dikerjakan terus-menerus, meskipun sedikit.",
+        "source": "Bukhari, Riqaq 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Iman itu lebih dari tujuh puluh cabang. Yang paling tinggi adalah ucapan 'Tidak ada tuhan selain Allah', dan yang paling rendah adalah menyingkirkan gangguan dari jalan.",
+        "source": "Muslim, Iman 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Tidak sempurna iman seseorang di antara kalian sampai ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri.",
+        "source": "Bukhari, Iman 7; Muslim, Iman 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Seorang muslim adalah saudara bagi muslim lainnya. Ia tidak menzaliminya dan tidak menyerahkannya kepada musuh.",
+        "source": "Bukhari, Mazalim 3; Muslim, Birr 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Sebaik-baik manusia adalah yang paling bermanfaat bagi orang lain.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Mengingat Allah lebih baik daripada melupakan-Nya.",
+        "source": "Tirmidzi, Dakwah 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Selama seseorang menolong saudaranya, Allah akan menolongnya.",
+        "source": "Bukhari & Muslim (diringkas)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Jauhilah sifat bermuka dua, karena itu benar-benar sifat yang buruk.",
+        "source": "Bukhari, Tata Krama 45; Muslim, Iman 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Siapa yang melepaskan satu kesusahan dunia dari seorang mukmin, Allah akan melepaskan darinya satu kesusahan pada hari kiamat.",
+        "source": "Muslim, Keutamaan 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Seorang muslim adalah saudara bagi muslim lainnya. Ia tidak menzaliminya, tidak menyerahkannya kepada musuh, dan tidak membiarkannya sendirian saat ia membutuhkan.",
+        "source": "Bukhari, Penebusan 2; Muslim, Keutamaan 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "Pada hari kiamat ada tujuh golongan yang akan dinaungi Allah, di antaranya orang yang hatinya terpaut dengan masjid.",
+        "source": "Bukhari, Wisatawan 2; Muslim, Zuhd 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Siapa yang mencintai karena Allah, membenci karena Allah, dan memberi karena Allah, sungguh telah sempurna imannya.",
+        "source": "Abu Dawud, Sunnah 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Seorang mukmin tidak akan tersengat dua kali dari lubang yang sama; artinya, ia tidak mengulangi kesalahan yang sama.",
+        "source": "Bukhari, Tata Krama 85; Muslim, Zuhd 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Sebaik-baik manusia adalah yang paling banyak memberi manfaat kepada orang lain.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah tidak melihat tubuh dan rupa kalian, tetapi Dia melihat hati kalian.",
+        "source": "Muslim, Kebajikan 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Senyummu kepada saudaramu adalah sedekah.",
+        "source": "Tirmidzi, Kebajikan 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Siapa yang menutupi aib seorang muslim, Allah akan menutupi aibnya pada hari kiamat.",
+        "source": "Muslim, Kebajikan 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Dunia adalah penjara bagi orang mukmin dan surga bagi orang kafir.",
+        "source": "Muslim, Zuhd 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Siapa yang menaati Allah dan Rasul-Nya, sungguh ia telah meraih kemenangan yang besar.",
+        "source": "Al-Qur'an 33:71 (artinya dikumandangkan dalam khutbah dan pengingat)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Menuntut ilmu itu wajib bagi setiap muslim.",
+        "source": "Ibnu Majah, Pendahuluan 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Setiap lelah, sakit, cemas, dan sedih yang menimpa seorang mukmin akan menghapus sebagian dosanya.",
+          "source": "Bukhari, Marda 1",
+          "explanation": "Mengingatkan bahwa kesulitan tidak sia-sia."
+        },
+        {
+          "id": "sad_002",
+          "text": "Jika Allah menghendaki kebaikan bagi seseorang, Dia mengujinya dengan kesulitan.",
+          "source": "Bukhari, Marda 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Kesabaran yang sejati adalah kesabaran pada saat pertama musibah datang.",
+          "source": "Bukhari, Jana'iz 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Sungguh menakjubkan keadaan seorang mukmin! Seluruh urusannya baik baginya, dan itu hanya ada pada orang mukmin. Jika mendapat kesenangan, ia bersyukur, dan itu baik baginya. Jika ditimpa kesusahan, ia bersabar, dan itu pun baik baginya.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Jika Allah mencintai seseorang, Dia akan mengujinya. Siapa yang rida, ia mendapat rida Allah; dan siapa yang marah, ia mendapat murka-Nya.",
+          "source": "Tirmidzi, Zuhd 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Semakin besar ujian, semakin besar pula pahalanya.",
+          "source": "Tirmidzi, Zuhd 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Orang yang cerdas adalah orang yang mengevaluasi dirinya dan beramal untuk kehidupan setelah mati.",
+          "source": "Tirmidzi, Qiyamah 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Dunia adalah ladang untuk akhirat.",
+          "source": "Bayhaqi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Manusia itu seperti tambang emas dan perak. Yang terbaik di antara mereka sebelum Islam adalah yang terbaik pula dalam Islam, jika mereka memahami agama.",
+          "source": "Bukhari, Manaqib 1; Muslim, Fada'il 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Sebaik-baik manusia adalah yang panjang umurnya dan baik amalnya.",
+          "source": "Tirmidzi, Qiyamah 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Siapa yang tidak berterima kasih kepada manusia, berarti ia tidak bersyukur kepada Allah.",
+          "source": "Tirmidzi, Birr 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Alangkah baiknya hamba yang pandai bersyukur.",
+          "source": "Ahmad bin Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah senang melihat bekas nikmat-Nya pada diri hamba-Nya.",
+          "source": "Tirmidzi, Adab 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Ada dua nikmat yang sering dilalaikan oleh kebanyakan manusia: kesehatan dan waktu luang.",
+          "source": "Bukhari, Riqaq 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Bagi orang mukmin, semuanya baik: jika mendapat nikmat, ia bersyukur, dan itu baik baginya; jika ditimpa musibah, ia bersabar, dan itu pun baik baginya.",
+          "source": "Muslim, Zuhd 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah lebih gembira dengan tobat hamba-Nya daripada seseorang yang kehilangan untanya di padang pasir lalu menemukannya kembali.",
+          "source": "Bukhari, Tawba 1; Muslim, Taubat 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Siapa yang salat Subuh, ia berada dalam perlindungan Allah.",
+          "source": "Muslim, Masjid 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Dua rakaat sebelum Subuh lebih baik daripada dunia dan seisinya.",
+          "source": "Muslim, Salah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Siapa yang salat Subuh berjamaah, seakan-akan ia telah salat sepanjang malam.",
+          "source": "Muslim, Masjid 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Siapa yang salat Subuh, ia berada dalam jaminan Allah.",
+          "source": "Muslim, Masjid 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Setiap tengah hari, amal-amal diperlihatkan kepada Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Salat Zuhur di awal waktu adalah keutamaan.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Siapa yang salat Zuhur tepat waktu, ia meraih rida Allah.",
+          "source": "Muslim, Masjid 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Siapa yang meninggalkan salat Asar, seakan-akan ia kehilangan keluarga dan hartanya.",
+          "source": "Bukhari, Waktu Sholat 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Siapa yang terlewat salat Asar, seakan-akan ia kehilangan keluarga dan hartanya.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Siapa yang salat Asar tepat waktu, ia berada dalam perlindungan Allah.",
+          "source": "Muslim, Masjid 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Ketika waktu sore tiba, ingatlah Allah.",
+          "source": "Abu Dawud, Adab 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Siapa yang salat Magrib tepat waktu, ia mendapat pahala hari itu.",
+          "source": "Bukhari, Mawaqit 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Jagalah agar tidak terlewat salat Magrib, karena salat ini sangat penting.",
+          "source": "Muslim, Masjid 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Salat malam adalah jalan orang-orang saleh.",
+          "source": "Tirmidzi, Dakwah 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Siapa yang salat Isya berjamaah, seakan-akan ia telah salat separuh malam.",
+          "source": "Muslim, Masjid 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Siapa yang salat Isya tepat waktu, seakan-akan ia telah salat sepanjang malam.",
+          "source": "Bukhari, Tahajjud 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Siapa yang berpuasa Ramadan karena iman dan mengharap pahala dari Allah, dosa-dosanya yang telah lalu akan diampuni.",
+          "source": "Bukhari, Sawm 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Ketika Ramadan tiba, pintu-pintu surga dibuka.",
+          "source": "Muslim, Siyam 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Puasa adalah perisai.",
+          "source": "Bukhari, Sawm 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Puasa Ramadan menghapus dosa-dosa yang telah lalu dan yang akan datang.",
+          "source": "Muslim, Siyam 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Siapa yang memberi makanan berbuka kepada orang yang berpuasa, ia mendapat pahala seperti orang yang berpuasa itu.",
+          "source": "Ibnu Majah, Siyam 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Membaca Al-Qur'an di bulan Ramadan lebih utama daripada di bulan-bulan lainnya.",
+          "source": "Bukhari, Fada'il al-Quran 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Setiap malam, pada sepertiga malam terakhir, Allah turun ke langit dunia.",
+          "source": "Bukhari, Tahajjud 14",
+          "explanation": "Menekankan pentingnya permohonan dan mencari pengampunan pada malam yang diberkati."
+        },
+        {
+          "id": "kan_002",
+          "text": "Doa yang paling utama adalah doa di waktu sahur menjelang fajar.",
+          "source": "Tirmidzi, Dakwah 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Doa orang yang berdoa pada malam-malam mulia akan dikabulkan.",
+          "source": "Tirmidzi, Dakwah 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Siapa yang menghidupkan malam Lailatul Qadar karena iman dan mengharap pahala dari Allah, dosa-dosanya yang telah lalu akan diampuni.",
+          "source": "Bukhari, Qadr 1; Muslim, Musafirin 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Beribadah pada malam-malam mulia lebih utama daripada beribadah pada malam-malam lainnya.",
+          "source": "Tirmidzi, Dakwah 79"
+        }
+      ]
+    }
+  },
+  "hi": {
+    "general": [
+      {
+        "id": "gen_००१",
+        "text": "आमाल (कर्मों) का दारोमदार नीयतों पर है, और हर इंसान को वही मिलेगा जिसकी उसने नीयत की।",
+        "source": "बुखारी, बद अल-वाह्य १; मुस्लिम, इमरा १५५"
+      },
+      {
+        "id": "gen_००२",
+        "text": "आसानी पैदा करो, मुश्किल मत बनाओ। ख़ुशख़बरी दो, लोगों को दूर मत भगाओ।",
+        "source": "बुखारी, इल्म ११; मुस्लिम, जिहाद ६"
+      },
+      {
+        "id": "gen_००३",
+        "text": "मोमिन वह है जिस पर लोग अपनी जान और माल के मामले में भरोसा करें।",
+        "source": "तिर्मिज़ी, ईमान १२"
+      },
+      {
+        "id": "gen_००४",
+        "text": "अल्लाह को सबसे प्यारे वे अमल हैं जो लगातार किए जाएँ, चाहे थोड़े ही हों।",
+        "source": "बुखारी, रिकाक १८"
+      },
+      {
+        "id": "gen_००५",
+        "text": "ईमान की सत्तर से ज़्यादा शाखाएँ हैं। सबसे ऊँची 'ला इलाहा इल्लल्लाह' कहना है, और सबसे छोटी रास्ते से तकलीफ़ देने वाली चीज़ हटाना है।",
+        "source": "मुस्लिम, ईमान ५८"
+      },
+      {
+        "id": "gen_००६",
+        "text": "तुममें से कोई तब तक सच्चा ईमान वाला नहीं हो सकता, जब तक अपने भाई के लिए वही पसंद न करे जो अपने लिए पसंद करता है।",
+        "source": "बुखारी, ईमान ७; मुस्लिम, ईमान ७१"
+      },
+      {
+        "id": "gen_००७",
+        "text": "मुसलमान मुसलमान का भाई है। वह उस पर ज़ुल्म नहीं करता और उसे दुश्मन के हवाले नहीं करता।",
+        "source": "बुखारी, मजालिम ३; मुस्लिम, बीर ५८"
+      },
+      {
+        "id": "gen_००९",
+        "text": "सबसे अच्छे लोग वे हैं जो दूसरों के लिए सबसे ज़्यादा फ़ायदेमंद हों।",
+        "source": "तबरानी, ​​​​अल-मुजम अल-कबीर"
+      },
+      {
+        "id": "gen_०१०",
+        "text": "अल्लाह को याद करना उसे भूल जाने से बेहतर है।",
+        "source": "तिर्मिज़ी, दावत ६"
+      },
+      {
+        "id": "gen_०११",
+        "text": "जब तक बंदा अपने भाई की मदद करता रहता है, अल्लाह उसकी मदद करता रहता है।",
+        "source": "बुखारी और मुस्लिम (संक्षेप में)"
+      },
+      {
+        "id": "gen_०१२",
+        "text": "दोग़लेपन से बचो, क्योंकि यह सचमुच बहुत बुरी आदत है।",
+        "source": "बुखारी, शिष्टाचार ४५; मुस्लिम, आस्था १०१"
+      },
+      {
+        "id": "gen_०१३",
+        "text": "जो किसी मोमिन की दुनिया की कोई परेशानी दूर करेगा, अल्लाह क़यामत के दिन उसकी कोई परेशानी दूर करेगा।",
+        "source": "मुस्लिम, गुण ५८"
+      },
+      {
+        "id": "gen_०१४",
+        "text": "मुसलमान मुसलमान का भाई है। वह उस पर ज़ुल्म नहीं करता, उसे दुश्मन के हवाले नहीं करता और ज़रूरत के वक़्त उसे अकेला नहीं छोड़ता।",
+        "source": "बुखारी, प्रायश्चित २; मुस्लिम, गुण ५८"
+      },
+      {
+        "id": "Gen_०१५",
+        "text": "क़यामत के दिन सात तरह के लोग अल्लाह के साये में होंगे, उनमें से एक वह है जिसका दिल मस्जिदों से लगा रहता है।",
+        "source": "बुखारी, यात्री २; मुस्लिम, ज़ुहद १९"
+      },
+      {
+        "id": "gen_०१६",
+        "text": "जिसने अल्लाह के लिए मोहब्बत की, अल्लाह के लिए नापसंद किया और अल्लाह के लिए दिया, उसने अपना ईमान मुकम्मल कर लिया।",
+        "source": "अबू दाऊद, सुन्नत ९"
+      },
+      {
+        "id": "gen_०१८",
+        "text": "मोमिन एक ही बिल से दो बार नहीं डसा जाता; यानी वह एक ही ग़लती दोबारा नहीं करता।",
+        "source": "बुखारी, शिष्टाचार ८५; मुस्लिम, ज़ुहद ६४"
+      },
+      {
+        "id": "gen_०१९",
+        "text": "सबसे अच्छे लोग वे हैं जिनसे दूसरों को सबसे ज़्यादा फ़ायदा पहुँचे।",
+        "source": "तबरानी, ​​​​अल-मुजम अल-अवसत"
+      },
+      {
+        "id": "gen_०२०",
+        "text": "अल्लाह तुम्हारे जिस्मों और चेहरों को नहीं देखता, बल्कि तुम्हारे दिलों को देखता है।",
+        "source": "मुस्लिम, गुण १६७"
+      },
+      {
+        "id": "gen_०२१",
+        "text": "अपने भाई को देखकर मुस्कुराना भी सदक़ा है।",
+        "source": "तिर्मिज़ी, गुण ३६"
+      },
+      {
+        "id": "gen_०२२",
+        "text": "जो किसी मुसलमान की कमी पर पर्दा डालेगा, अल्लाह क़यामत के दिन उसकी कमियों पर पर्दा डालेगा।",
+        "source": "मुस्लिम, गुण ६९"
+      },
+      {
+        "id": "gen_०२३",
+        "text": "दुनिया मोमिन के लिए क़ैदख़ाना है और काफ़िर के लिए जन्नत।",
+        "source": "मुस्लिम, ज़ुहद ९"
+      },
+      {
+        "id": "gen_०२४",
+        "text": "जिसने अल्लाह और उसके रसूल की बात मानी, उसने सचमुच बड़ी कामयाबी पा ली।",
+        "source": "कुरान ३३:७१ (अर्थ खुतबा और अनुस्मारक में प्रतिध्वनित)"
+      },
+      {
+        "id": "gen_०२५",
+        "text": "इल्म हासिल करना हर मुसलमान पर फ़र्ज़ है।",
+        "source": "इब्न माजा, परिचय १७"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "दुखद_००१",
+          "text": "मोमिन को जो भी थकान, बीमारी, फ़िक्र और ग़म पहुँचता है, उससे उसके कुछ गुनाह मिट जाते हैं।",
+          "source": "बुखारी, मर्दा १",
+          "explanation": "याद दिलाता है कि कठिनाई व्यर्थ नहीं है."
+        },
+        {
+          "id": "दुखद_००२",
+          "text": "अल्लाह जिसके साथ भलाई चाहता है, उसे मुश्किलों से आज़माता है।",
+          "source": "बुखारी, मर्दा १"
+        },
+        {
+          "id": "दुखद_००३",
+          "text": "असली सब्र वह है जो मुसीबत के पहले झटके पर किया जाए।",
+          "source": "बुखारी, जनाईज़ ३२"
+        },
+        {
+          "id": "दुखद_००४",
+          "text": "मोमिन का मामला भी क्या ख़ूब है! उसके हर हाल में उसके लिए भलाई है, और यह सिर्फ़ मोमिन को नसीब है। अगर उसे ख़ुशी मिले तो शुक्र करता है, यह उसके लिए भलाई है; और अगर उस पर तकलीफ़ आए तो सब्र करता है, यह भी उसके लिए भलाई है।",
+          "source": "मुस्लिम, ज़ुहद ६४"
+        },
+        {
+          "id": "दुखद_००५",
+          "text": "जब अल्लाह किसी बंदे से मोहब्बत करता है तो उसे आज़माता है। जो इस पर राज़ी रहे, उसे अल्लाह की रज़ा मिलती है; और जो नाराज़ हो, उस पर अल्लाह की नाराज़गी होती है।",
+          "source": "तिर्मिज़ी, ज़ुहद ५७"
+        },
+        {
+          "id": "दुखद_००६",
+          "text": "आज़माइश जितनी बड़ी होती है, सवाब भी उतना ही बड़ा होता है।",
+          "source": "तिर्मिज़ी, ज़ुहद ५७"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_००१",
+          "text": "समझदार वह है जो अपना हिसाब ख़ुद करे और मौत के बाद की ज़िंदगी के लिए काम करे।",
+          "source": "तिर्मिज़ी, क़ियामा २५"
+        },
+        {
+          "id": "neu_००२",
+          "text": "दुनिया आख़िरत की खेती है।",
+          "source": "बहाकी, शुआब अल-ईमान"
+        },
+        {
+          "id": "neu_००३",
+          "text": "लोग सोने और चाँदी की खानों की तरह हैं। जो इस्लाम से पहले बेहतर थे, वे इस्लाम में भी बेहतर हैं, अगर वे दीन की समझ हासिल कर लें।",
+          "source": "बुखारी, मनाक़िब १; मुस्लिम, फ़दा'इल १६८"
+        },
+        {
+          "id": "neu_००४",
+          "text": "सबसे अच्छे लोग वे हैं जिनकी उम्र लंबी हो और अमल अच्छे हों।",
+          "source": "तिर्मिज़ी, क़ियामा २१"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_००१",
+          "text": "जो लोगों का शुक्रिया अदा नहीं करता, वह अल्लाह का भी शुक्र अदा नहीं करता।",
+          "source": "तिर्मिधि, बीर ३५"
+        },
+        {
+          "id": "hap_००२",
+          "text": "शुक्र करने वाला बंदा कितना अच्छा है।",
+          "source": "अहमद इब्न हनबल, मुसनद"
+        },
+        {
+          "id": "hap_००३",
+          "text": "अल्लाह को यह पसंद है कि वह अपनी नेमत का असर अपने बंदे पर देखे।",
+          "source": "तिर्मिज़ी, अदब ५४"
+        },
+        {
+          "id": "hap_००४",
+          "text": "दो नेमतें ऐसी हैं जिनकी ज़्यादातर लोग क़द्र नहीं करते: सेहत और फ़ुर्सत का वक़्त।",
+          "source": "बुखारी, रिकाक १"
+        },
+        {
+          "id": "hap_००५",
+          "text": "मोमिन के लिए हर हाल में भलाई है: नेमत मिले तो शुक्र करता है, यह उसके लिए भलाई है; मुसीबत आए तो सब्र करता है, यह भी उसके लिए भलाई है।",
+          "source": "मुस्लिम, ज़ुहद ६४"
+        },
+        {
+          "id": "hap_००६",
+          "text": "अल्लाह अपने बंदे की तौबा से उस आदमी से भी ज़्यादा ख़ुश होता है जिसका ऊँट रेगिस्तान में खो गया हो और फिर उसे मिल जाए।",
+          "source": "बुखारी, तौबा १; मुस्लिम, तौबा १"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_००१",
+          "text": "जिसने फ़ज्र की नमाज़ पढ़ी, वह अल्लाह की हिफ़ाज़त में है।",
+          "source": "मुस्लिम, मसाजिद २६१"
+        },
+        {
+          "id": "fajr_००२",
+          "text": "फ़ज्र से पहले की दो रकअतें दुनिया और उसकी हर चीज़ से बेहतर हैं।",
+          "source": "मुस्लिम, सलाह ९६"
+        },
+        {
+          "id": "fajr_००३",
+          "text": "जिसने फ़ज्र की नमाज़ जमाअत से पढ़ी, मानो उसने पूरी रात इबादत की।",
+          "source": "मुस्लिम, मसाजिद २६०"
+        },
+        {
+          "id": "fajr_००४",
+          "text": "जिसने फ़ज्र की नमाज़ पढ़ी, वह अल्लाह की ज़िम्मेदारी में है।",
+          "source": "मुस्लिम, मसाजिद २६१"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_००१",
+          "text": "हर दोपहर अमाल अल्लाह के सामने पेश किए जाते हैं।",
+          "source": "तबरानी, ​​अल-मुजम"
+        },
+        {
+          "id": "dhuhr_००२",
+          "text": "ज़ुहर की नमाज़ को उसके शुरू के वक़्त में पढ़ना फ़ज़ीलत वाला है।",
+          "source": "बुखारी, मवाक़ित १५"
+        },
+        {
+          "id": "dhuhr_००३",
+          "text": "जो ज़ुहर की नमाज़ वक़्त पर पढ़ता है, उसे अल्लाह की रज़ा मिलती है।",
+          "source": "मुस्लिम, मसाजिद ५१"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_००१",
+          "text": "जिसने अस्र की नमाज़ छोड़ दी, मानो उसका घर-बार और माल सब लुट गया।",
+          "source": "बुखारी, प्रार्थना का समय १५"
+        },
+        {
+          "id": "asr_००२",
+          "text": "जिसकी अस्र की नमाज़ छूट गई, मानो उसका घर-बार और माल सब लुट गया।",
+          "source": "बुखारी, मवाक़ित १५"
+        },
+        {
+          "id": "asr_००३",
+          "text": "जो अस्र की नमाज़ वक़्त पर पढ़ता है, वह अल्लाह की हिफ़ाज़त में है।",
+          "source": "मुस्लिम, मसाजिद ५१"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "मगरिब_००१",
+          "text": "जब शाम हो, तो अल्लाह को याद करो।",
+          "source": "अबू दाऊद, अदब १००"
+        },
+        {
+          "id": "मगरिब_००२",
+          "text": "जो मग़रिब की नमाज़ वक़्त पर पढ़ता है, उसे पूरे दिन का सवाब मिलता है।",
+          "source": "बुखारी, मवाक़ित १५"
+        },
+        {
+          "id": "मगरिब_००३",
+          "text": "मग़रिब की नमाज़ छूटने न दो, क्योंकि यह बहुत अहम नमाज़ है।",
+          "source": "मुस्लिम, मसाजिद ५१"
+        }
+      ],
+      "isha": [
+        {
+          "id": "ईशा_००१",
+          "text": "रात की नमाज़ नेक लोगों का तरीक़ा है।",
+          "source": "तिर्मिज़ी, दावत १०१"
+        },
+        {
+          "id": "ईशा_००२",
+          "text": "जिसने इशा की नमाज़ जमाअत से पढ़ी, मानो उसने आधी रात इबादत की।",
+          "source": "मुस्लिम, मसाजिद २६०"
+        },
+        {
+          "id": "ईशा_००३",
+          "text": "जो इशा की नमाज़ वक़्त पर पढ़ता है, मानो उसने रात इबादत में गुज़ारी।",
+          "source": "बुखारी, तहज्जुद १"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_००१",
+          "text": "जिसने ईमान के साथ और अल्लाह से सवाब की उम्मीद रखते हुए रमज़ान के रोज़े रखे, उसके पिछले गुनाह माफ़ कर दिए जाते हैं।",
+          "source": "बुखारी, सॉम ६"
+        },
+        {
+          "id": "ram_००२",
+          "text": "जब रमज़ान आता है तो जन्नत के दरवाज़े खोल दिए जाते हैं।",
+          "source": "मुस्लिम, सियाम १"
+        },
+        {
+          "id": "ram_००३",
+          "text": "रोज़ा एक ढाल है।",
+          "source": "बुखारी, सॉम ९"
+        },
+        {
+          "id": "ram_००४",
+          "text": "रमज़ान के रोज़े पिछले और आने वाले गुनाहों का कफ़्फ़ारा हैं।",
+          "source": "मुस्लिम, सियाम १७५"
+        },
+        {
+          "id": "राम_००५",
+          "text": "जो किसी रोज़ेदार का रोज़ा इफ़्तार कराए, उसे रोज़ेदार जितना ही सवाब मिलता है।",
+          "source": "इब्न माजाह, सियाम ४५"
+        },
+        {
+          "id": "राम_००६",
+          "text": "रमज़ान में क़ुरआन पढ़ना दूसरे महीनों में पढ़ने से ज़्यादा फ़ज़ीलत वाला है।",
+          "source": "बुखारी, फ़ादाइल अल-कुरान ७"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_००१",
+          "text": "हर रात, रात के आख़िरी तिहाई हिस्से में अल्लाह दुनिया के आसमान पर उतरता है।",
+          "source": "बुखारी, तहज्जुद १४",
+          "explanation": "धन्य रातों में प्रार्थना और क्षमा मांगने के महत्व पर जोर दिया गया है।"
+        },
+        {
+          "id": "kan_००२",
+          "text": "सबसे फ़ज़ीलत वाली दुआ वह है जो सहरी के वक़्त की जाए।",
+          "source": "तिर्मिज़ी, दावत ७९"
+        },
+        {
+          "id": "kan_००३",
+          "text": "मुबारक रातों में दुआ करने वाले की दुआ क़ुबूल होती है।",
+          "source": "तिर्मिज़ी, दावत ७९"
+        },
+        {
+          "id": "kan_००४",
+          "text": "जिसने ईमान के साथ और सवाब की उम्मीद रखते हुए शब-ए-क़द्र इबादत में गुज़ारी, उसके पिछले गुनाह माफ़ कर दिए जाते हैं।",
+          "source": "बुखारी, क़द्र १; मुस्लिम, मुसाफिरिन १७५"
+        },
+        {
+          "id": "kan_००५",
+          "text": "मुबारक रातों में इबादत करना दूसरी रातों में इबादत करने से ज़्यादा फ़ज़ीलत वाला है।",
+          "source": "तिर्मिज़ी, दावत ७९"
+        }
+      ]
+    }
+  },
+  "ha": {
+    "general": [
+      {
+        "id": "gen_001",
+        "text": "Ana auna ayyuka bisa niyya. Kowane mutum zai sami abin da ya niyyata.",
+        "source": "Bukhari, Farkon Wahayi 1; Muslim, Shugabanci 155"
+      },
+      {
+        "id": "gen_002",
+        "text": "Ku sauƙaƙa, kada ku tsananta. Ku yi bushara, kada ku kori mutane.",
+        "source": "Bukhari, Ilimi 11; Muslim, Jihadi 6"
+      },
+      {
+        "id": "gen_003",
+        "text": "Mumini shi ne wanda mutane suka amince da shi a kan rayukansu da dukiyoyinsu.",
+        "source": "Tirmizi, Imani 12"
+      },
+      {
+        "id": "gen_004",
+        "text": "Ayyukan da Allah Yake mafi so su ne waɗanda ake yi a kai a kai, ko da kaɗan ne.",
+        "source": "Bukhari, Riƙaƙ 18"
+      },
+      {
+        "id": "gen_005",
+        "text": "Imani yana da rassa fiye da saba'in. Mafi girma shi ne faɗin 'Babu abin bautawa sai Allah', mafi ƙanƙanta kuma shi ne kawar da abin cutarwa daga hanya.",
+        "source": "Muslim, Imani 58"
+      },
+      {
+        "id": "gen_006",
+        "text": "Babu wanda ya yi imani da gaskiya har sai ya so wa ɗan'uwansa abin da yake so wa kansa.",
+        "source": "Bukhari, Imani 7; Muslim, Imani 71"
+      },
+      {
+        "id": "gen_007",
+        "text": "Musulmi ɗan'uwan Musulmi ne. Ba ya zaluntarsa, ba ya kuma miƙa shi ga maƙiyi.",
+        "source": "Bukhari, Zalunci 3; Muslim, Falala 58"
+      },
+      {
+        "id": "gen_009",
+        "text": "Mafi alherin mutane su ne waɗanda suka fi amfanar wasu.",
+        "source": "Tabarani, al-Mu'jam al-Kabir"
+      },
+      {
+        "id": "gen_010",
+        "text": "Tuna Allah ya fi mantawa da Shi alheri.",
+        "source": "Tirmizi, Addu'o'i 6"
+      },
+      {
+        "id": "gen_011",
+        "text": "Allah Yana taimakon bawa matuƙar bawan yana taimakon ɗan'uwansa.",
+        "source": "Bukhari da Muslim (taƙaitacce)"
+      },
+      {
+        "id": "gen_012",
+        "text": "Ku yi hattara da munafuncin fuska biyu, domin yana daga mafi munin halaye.",
+        "source": "Bukhari, Ladabi 45; Muslim, Imani 101"
+      },
+      {
+        "id": "gen_013",
+        "text": "Duk wanda ya kawar wa mumini wata damuwa ta duniya, Allah zai kawar masa da wata damuwa a Ranar Ƙiyama.",
+        "source": "Muslim, Falala 58"
+      },
+      {
+        "id": "gen_014",
+        "text": "Musulmi ɗan'uwan Musulmi ne: ba ya zaluntarsa, ba ya yashe shi, ba ya kuma raina buƙatunsa.",
+        "source": "Bukhari, Kaffara 2; Muslim, Falala 58"
+      },
+      {
+        "id": "gen_015",
+        "text": "A Ranar Ƙiyama akwai nau'in mutane bakwai da Allah zai inuwantar da su; daga cikinsu akwai wanda zuciyarsa ke manne da masallatai.",
+        "source": "Bukhari, Matafiya 2; Muslim, Zuhudu 19"
+      },
+      {
+        "id": "gen_016",
+        "text": "Duk wanda ya so ya ƙi ya kuma bayar saboda Allah, ya cika imaninsa.",
+        "source": "Abu Dawud, Sunna 9"
+      },
+      {
+        "id": "gen_018",
+        "text": "Ba a harbin mumini sau biyu daga rami ɗaya; wato ba ya maimaita kuskure ɗaya sau biyu.",
+        "source": "Bukhari, Ladabi 85; Muslim, Zuhudu 64"
+      },
+      {
+        "id": "gen_019",
+        "text": "Mafi alherin mutane su ne waɗanda suka fi amfanar mutane.",
+        "source": "Tabarani, al-Mu'jam al-Awsat"
+      },
+      {
+        "id": "gen_020",
+        "text": "Allah ba Ya kallon jikunanku ko fuskokinku, sai dai Yana kallon zukatanku.",
+        "source": "Muslim, Falala 167"
+      },
+      {
+        "id": "gen_021",
+        "text": "Murmushinka ga ɗan'uwanka sadaka ce.",
+        "source": "Tirmizi, Falala 36"
+      },
+      {
+        "id": "gen_022",
+        "text": "Duk wanda ya rufe aibin Musulmi, Allah zai rufe masa aibinsa a Ranar Ƙiyama.",
+        "source": "Muslim, Falala 69"
+      },
+      {
+        "id": "gen_023",
+        "text": "Duniya kurkuku ce ga mumini, Aljanna kuma ga kafiri.",
+        "source": "Muslim, Zuhudu 9"
+      },
+      {
+        "id": "gen_024",
+        "text": "Duk wanda ya bi Allah da ManzonSa, hakika ya sami babbar nasara.",
+        "source": "Alkur'ani 33:71 (ma'anar da ake maimaitawa a huɗuba da tunatarwa)"
+      },
+      {
+        "id": "gen_025",
+        "text": "Neman ilimi wajibi ne a kan kowane Musulmi.",
+        "source": "Ibn Majah, Gabatarwa 17"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_001",
+          "text": "Duk gajiya, cuta, baƙin ciki, da damuwa da suka sami mumini suna zama kaffarar zunubansa.",
+          "source": "Bukhari, Marasa lafiya 1",
+          "explanation": "Yana tunatar da cewa wahala ba a banza take ba."
+        },
+        {
+          "id": "sad_002",
+          "text": "Idan Allah Ya yi nufin alheri ga bawanSa, Yakan jarrabe shi.",
+          "source": "Bukhari, Marasa lafiya 1"
+        },
+        {
+          "id": "sad_003",
+          "text": "Ana nuna haƙuri a lokacin farko na masifa.",
+          "source": "Bukhari, Jana'iza 32"
+        },
+        {
+          "id": "sad_004",
+          "text": "Abin mamaki ne al'amarin mumini! Dukkan al'amuransa alheri ne, wannan kuwa ba ya samuwa sai ga mumini: idan alheri ya same shi ya yi godiya, hakan alheri ne a gare shi. Idan kuma sharri ya same shi ya yi haƙuri, hakan ma alheri ne a gare shi.",
+          "source": "Muslim, Zuhudu 64"
+        },
+        {
+          "id": "sad_005",
+          "text": "Idan Allah Ya so bawa, Yakan jarrabe shi. Duk wanda ya yi haƙuri, Allah Ya yarda da shi, wanda kuma ya yi fushi, Allah Ya yi fushi da shi.",
+          "source": "Tirmizi, Zuhudu 57"
+        },
+        {
+          "id": "sad_006",
+          "text": "Duk sadda jarrabawa da masifa suka yi yawa, lada yana ƙaruwa.",
+          "source": "Tirmizi, Zuhudu 57"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_001",
+          "text": "Mai hikima shi ne wanda ya yi wa kansa hisabi ya kuma yi aiki domin abin da ke bayan mutuwa.",
+          "source": "Tirmizi, Ƙiyama 25"
+        },
+        {
+          "id": "neu_002",
+          "text": "Duniya gonar Lahira ce.",
+          "source": "Baihaƙi, Shu'ab al-Iman"
+        },
+        {
+          "id": "neu_003",
+          "text": "Mutane kamar ma'adanan azurfa da zinari suke. Mafi alherinsu a lokacin Jahiliyya su ne mafi alherinsu a Musulunci idan suka fahimta.",
+          "source": "Bukhari, Manaƙib 1; Muslim, Falala 168"
+        },
+        {
+          "id": "neu_004",
+          "text": "Mafi alherin mutane su ne waɗanda rayuwarsu ta yi tsawo ayyukansu kuma suka yi kyau.",
+          "source": "Tirmizi, Ƙiyama 21"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_001",
+          "text": "Wanda bai gode wa mutane ba, bai gode wa Allah ba.",
+          "source": "Tirmizi, Birri 35"
+        },
+        {
+          "id": "hap_002",
+          "text": "Madalla da bawa mai godiya.",
+          "source": "Ahmad bn Hanbal, Musnad"
+        },
+        {
+          "id": "hap_003",
+          "text": "Allah Yana son ganin tasirin ni'imominSa a kan bawanSa.",
+          "source": "Tirmizi, Adabi 54"
+        },
+        {
+          "id": "hap_004",
+          "text": "Akwai ni'imomi biyu da mutane da yawa ba sa darajanta su: lafiya da walwala.",
+          "source": "Bukhari, Riƙaƙ 1"
+        },
+        {
+          "id": "hap_005",
+          "text": "Mumini yana tsakanin hali biyu: idan jarrabawa ta zo ya yi haƙuri, hakan alheri ne a gare shi. Idan ni'ima ta zo ya yi godiya, hakan ma alheri ne a gare shi.",
+          "source": "Muslim, Zuhudu 64"
+        },
+        {
+          "id": "hap_006",
+          "text": "Allah Yana farin ciki da tuban bawanSa fiye da farin cikin ɗayanku da ya sami raƙuminsa da ya ɓace a jeji.",
+          "source": "Bukhari, Tuba 1; Muslim, Tuba 1"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_001",
+          "text": "Duk wanda ya yi sallar Asuba yana ƙarƙashin tsarin Allah.",
+          "source": "Muslim, Masallatai 261"
+        },
+        {
+          "id": "fajr_002",
+          "text": "Raka'o'i biyu kafin sallar Asuba sun fi duniya da abin da ke cikinta.",
+          "source": "Muslim, Sallah 96"
+        },
+        {
+          "id": "fajr_003",
+          "text": "Duk wanda ya yi sallar Asuba a jama'a kamar ya kwana yana ibada ne.",
+          "source": "Muslim, Masallatai 260"
+        },
+        {
+          "id": "fajr_004",
+          "text": "Duk wanda ya yi sallar Asuba yana ƙarƙashin tsarin Allah.",
+          "source": "Muslim, Masallatai 261"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_001",
+          "text": "Kowace rana da tsakar rana ana gabatar da ayyuka ga Allah.",
+          "source": "Tabarani, al-Mu'jam"
+        },
+        {
+          "id": "dhuhr_002",
+          "text": "Yin sallar Azahar a farkon lokacinta yana da falala.",
+          "source": "Bukhari, Lokutan sallah 15"
+        },
+        {
+          "id": "dhuhr_003",
+          "text": "Duk wanda ya yi sallar Azahar a kan lokaci yana samun yardar Allah.",
+          "source": "Muslim, Masallatai 51"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_001",
+          "text": "Duk wanda ya rasa sallar La'asar kamar ya rasa iyalinsa da dukiyarsa ne.",
+          "source": "Bukhari, Lokutan sallah 15"
+        },
+        {
+          "id": "asr_002",
+          "text": "Duk wanda ya rasa sallar La'asar kamar ya rasa iyalinsa da dukiyarsa ne.",
+          "source": "Bukhari, Lokuta 15"
+        },
+        {
+          "id": "asr_003",
+          "text": "Duk wanda ya yi sallar La'asar a kan lokaci yana ƙarƙashin tsarin Allah.",
+          "source": "Muslim, Masallatai 51"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_001",
+          "text": "Idan kun shiga yamma, ku ambaci Allah.",
+          "source": "Abu Dawud, Ladabi 100"
+        },
+        {
+          "id": "maghrib_002",
+          "text": "Duk wanda ya yi sallar Magariba a kan lokaci yana samun ladar ranar.",
+          "source": "Bukhari, Lokuta 15"
+        },
+        {
+          "id": "maghrib_003",
+          "text": "Ku yi hattara kada ku rasa sallar Magariba, domin tana da matuƙar muhimmanci.",
+          "source": "Muslim, Masallatai 51"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_001",
+          "text": "Sallar dare hanyar salihai ce.",
+          "source": "Tirmizi, Addu'o'i 101"
+        },
+        {
+          "id": "isha_002",
+          "text": "Duk wanda ya yi sallar Isha'i a jama'a kamar ya tsaya rabin dare yana ibada ne.",
+          "source": "Muslim, Masallatai 260"
+        },
+        {
+          "id": "isha_003",
+          "text": "Duk wanda ya yi sallar Isha'i a kan lokaci kamar ya kwana yana ibada ne.",
+          "source": "Bukhari, Tahajjudi 1"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_001",
+          "text": "Duk wanda ya azumci Ramadan da imani da neman lada, za a gafarta masa zunubansa da suka gabata.",
+          "source": "Bukhari, Azumi 6"
+        },
+        {
+          "id": "ram_002",
+          "text": "Idan Ramadan ya zo, ana buɗe ƙofofin Aljanna.",
+          "source": "Muslim, Azumi 1"
+        },
+        {
+          "id": "ram_003",
+          "text": "Azumi garkuwa ne.",
+          "source": "Bukhari, Azumi 9"
+        },
+        {
+          "id": "ram_004",
+          "text": "Azumin watan Ramadan kaffara ce ga zunuban da suka gabata da masu zuwa.",
+          "source": "Muslim, Azumi 175"
+        },
+        {
+          "id": "ram_005",
+          "text": "Duk wanda ya ba mai azumi abin buɗa baki, zai sami lada kamar ladar mai azumin.",
+          "source": "Ibn Majah, Azumi 45"
+        },
+        {
+          "id": "ram_006",
+          "text": "Karatun Alkur'ani a watan Ramadan ya fi falala a kan karatunsa a wasu watanni.",
+          "source": "Bukhari, Falalar Alkur'ani 7"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_001",
+          "text": "Allah Yana sauka zuwa sama ta duniya a kashi na ƙarshe na dare.",
+          "source": "Bukhari, Tahajjudi 14",
+          "explanation": "Yana nuna muhimmancin addu'a da neman gafara a darare masu albarka."
+        },
+        {
+          "id": "kan_002",
+          "text": "Addu'a mafi falala ita ce wadda ake yi a lokacin alfijir.",
+          "source": "Tirmizi, Addu'o'i 79"
+        },
+        {
+          "id": "kan_003",
+          "text": "Ana karɓar addu'ar wanda ya yi sallah a darare masu albarka.",
+          "source": "Tirmizi, Addu'o'i 79"
+        },
+        {
+          "id": "kan_004",
+          "text": "Duk wanda ya tsaya Daren Ƙadari yana ibada, za a gafarta masa zunubansa da suka gabata.",
+          "source": "Bukhari, Ƙadari 1; Muslim, Matafiya 175"
+        },
+        {
+          "id": "kan_005",
+          "text": "Ibada a darare masu albarka ta fi falala a kan ibada a wasu darare.",
+          "source": "Tirmizi, Addu'o'i 79"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4622 @@
+{
+  "tr": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Allah'ım, kalbimi Sana yaklaştır ve beni doğru yoldan ayırma."
+      },
+      {
+        "id": "gen_02",
+        "text": "Rabbim, bana hayırlı olanı nasip et ve beni ondan hoşnut kıl."
+      },
+      {
+        "id": "gen_03",
+        "text": "Allah'ım, bana hikmet ver ve beni iyi kullarından eyle."
+      },
+      {
+        "id": "gen_04",
+        "text": "Rabbim, ilmimi artır ve kalbimi nurunla aydınlat."
+      },
+      {
+        "id": "gen_05",
+        "text": "Allah'ım, bana sabır ver ve işlerimi kolaylaştır."
+      },
+      {
+        "id": "gen_06",
+        "text": "Rabbim, bana güzel ahlak ver ve beni kötü huylardan koru."
+      },
+      {
+        "id": "gen_07",
+        "text": "Allah'ım, bana bol ve bereketli rızık ver."
+      },
+      {
+        "id": "gen_08",
+        "text": "Rabbim, bana sağlık ver ve beni hastalıklardan koru."
+      },
+      {
+        "id": "gen_09",
+        "text": "Allah'ım, beni doğru yola ilet ve o yolda sebat ettir."
+      },
+      {
+        "id": "gen_10",
+        "text": "Rabbim, dualarımı kabul et ve beni affet."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Seyyidü'l-istiğfar (bağışlanma dualarının en güzeli): “Allah'ım! Sen benim Rabbimsin; Senden başka ilah yoktur. Beni Sen yarattın, ben de Senin kulunum. Sana verdiğim söze ve ahde gücüm yettiğince bağlıyım. Yaptıklarımın kötülüğünden Sana sığınırım. Bana verdiğin nimetleri de, günahımı da kabul ediyorum. Beni bağışla; çünkü günahları Senden başka bağışlayan yoktur.” Resûlullah ﷺ, bu duayı inanarak gündüz okuyup akşam olmadan ölenin ya da gece okuyup sabah olmadan ölenin cennete gireceğini haber vermiştir.",
+        "source": "Buhârî, Daavât 2; Müslim, Zikir 73"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Yunus peygamberin (a.s.) balığın karnındayken yaptığı dua: “Senden başka ilah yoktur. Seni her türlü eksiklikten tenzih ederim. Ben gerçekten kendine zulmedenlerden oldum.” Sıkıntıya düşen bir Müslüman bu sözlerle dua ederse, Allah onun duasını kabul eder. Daraldığında bu duayı içtenlikle ve tekrar tekrar okuyabilirsin.",
+        "source": "Tirmizî, Daavât 82; Ahmed, Müsned (rivayetlerin özeti)"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Yatarken: “Allah'ım! Senin adınla ölür, Senin adınla dirilirim.” Uykudan önce bu duayı okumak, günü Allah'ı anarak kapatmak ve kendini O'na emanet etmektir.",
+        "source": "Buhârî, Daavât 20; Müslim, Zikir 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Uyanınca: “Bizi öldürdükten sonra yeniden dirilten Allah'a hamd olsun. Dönüş yalnızca O'nadır.” Peygamberimiz ﷺ uyanınca dişlerini misvakla temizlerdi. Güne şükürle başlamak sünnettir.",
+        "source": "Buhârî, Vedû 2; Müslim, Hayız 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Eve girerken: “Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimiz Allah'a dayandık.” Ardından ev halkına selam verilir. Eve girerken ve yemekte Allah anılırsa, şeytan o evde ne kalacak yer ne de yiyecek bulur.",
+        "source": "Müslim, Selâm 15; Ebû Dâvûd, Edeb 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Evden çıkarken: “Allah'ın adıyla çıkıyorum, Allah'a dayanıyorum. Güç ve kuvvet yalnızca Allah'tandır.” Bu dua, işe ve yola Allah'a güvenerek çıkmayı hatırlatır.",
+        "source": "Tirmizî, Daavât 43; Ebû Dâvûd, Edeb 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Camiye girerken: “Allah'ım! Bana rahmet kapılarını aç.” Çıkarken: “Allah'ım! Senden lütfunu ve ikramını isterim.” Bu dualar, dünya işlerini bir kenara bırakıp Rabbe yönelmeyi kalpte de pekiştirir.",
+        "source": "Müslim, Mesâcid 21; İbn Mâce, Mesâcid 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Yemekten sonra: “Bizi yediren, içiren ve Müslüman kılan Allah'a hamd olsun. Rabbimiz, canımızı Müslüman olarak al ve bizi iyilerin arasına kat.” Bu dua, sofradaki nimetin Allah'tan geldiğini hatırlatır.",
+        "source": "Tirmizî, Daavât 69; Tirmizî, Yemek 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Abdestten sonra: “Şahitlik ederim ki Allah'tan başka ilah yoktur; O tektir, ortağı yoktur. Yine şahitlik ederim ki Muhammed O'nun kulu ve elçisidir. Allah'ım! Beni çok tövbe edenlerden ve temizlenenlerden eyle.” Böylece abdest, bedenle birlikte kalbi de arındırır.",
+        "source": "Müslim, Tahâret 17; Nesâî, Tahâret 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Araca ya da bineğe binince: “Bunu bizim hizmetimize veren Allah'ı tesbih ederiz; yoksa biz buna güç yetiremezdik. Şüphesiz biz Rabbimize döneceğiz.” Bu dua, yolculuğa şükür ve tevekkülle başlamayı sağlar.",
+        "source": "Müslim, Hac 20; Ebû Dâvûd, Edâhî 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Yağmur yağınca: “Allah'ım! Faydalı bir yağmur yağdır.” Yağmurun bol, bereketli ve zararsız olması için dua etmek; kuraklık zamanlarında da topluca yağmur duasına çıkmak sünnettir.",
+        "source": "Buhârî, İstiskâ 1; Müslim, Salât 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Ağrıyan yere elini koyup yedi kez: “Hissettiğim ve endişe ettiğim şeyin kötülüğünden Allah'ın izzetine ve kudretine sığınırım.”",
+        "source": "Müslim, Selâm 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Gök gürlediğinde: “Gök gürültüsünün hamd ile, meleklerin de O'nun korkusuyla tesbih ettiği Allah'ı tesbih ederim.” Tabiat olaylarında Allah'ın büyüklüğünü hatırlayıp O'nu anmak sünnettir.",
+        "source": "Müslim, Salât 11; Muvatta', Kur'an 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Zor bir iş karşısında: “Allah'ım! Senin kolaylaştırdığından başka kolay yoktur. Sen dilersen zoru da kolaylaştırırsın.” Sınav, iş ya da ağır bir sorumluluk öncesinde kalbe huzur ve tevekkül verir.",
+        "source": "İbn Hibbân (sahih); Ahmed (özet)"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Namazda son oturuşta, selam vermeden önce: “Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.” (Bakara 201) Peygamberimizin ﷺ en sık yaptığı dualardandır; insana dünya ile ahiret arasındaki dengeyi hatırlatır.",
+        "source": "Buhârî, Daavât 56; Müslim, Salât 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Allah'ım, içimdeki sıkıntıyı Sen gider. Gücümün bittiği yerde bana Sen yetersin.",
+          "source": "Manevî teselli duası"
+        },
+        {
+          "id": "sad_02",
+          "text": "Rabbim, kalbimin taşıyamadığını Sana bırakıyorum."
+        },
+        {
+          "id": "sad_03",
+          "text": "Allah'ım, tasamı ve kederimi gider, içime ferahlık ver."
+        },
+        {
+          "id": "sad_04",
+          "text": "Rabbim, üzüntümü sevince, kederimi huzura çevir."
+        },
+        {
+          "id": "sad_05",
+          "text": "Allah'ım, bana sabır ver ve beni sabredenlerden eyle."
+        },
+        {
+          "id": "sad_06",
+          "text": "Rabbim, sıkıntılarımı hafiflet ve bana yardım et."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Allah'ım, beni doğruluktan ayırma."
+        },
+        {
+          "id": "neu_02",
+          "text": "Rabbim, iç dengemi koru ve beni doğru yolda tut."
+        },
+        {
+          "id": "neu_03",
+          "text": "Allah'ım, bana hikmet ver ve doğru kararlar vermeyi nasip et."
+        },
+        {
+          "id": "neu_04",
+          "text": "Rabbim, kalbimi temiz tut ve beni kötülüklerden koru."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Allah'ım, bana verdiğin nimetler için Sana hamd olsun."
+        },
+        {
+          "id": "hap_02",
+          "text": "Rabbim, sevincimi Sana yaklaşmaya vesile kıl."
+        },
+        {
+          "id": "hap_03",
+          "text": "Allah'ım, mutluluğumu şükre dönüştür; beni nankörlerden eyleme."
+        },
+        {
+          "id": "hap_04",
+          "text": "Rabbim, sevincimi paylaşmayı nasip et ve beni cömert kıl."
+        },
+        {
+          "id": "hap_05",
+          "text": "Allah'ım, verdiğin nimetlerin kıymetini bilmeyi nasip et."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Allah'ım, bu yeni güne Senin rızanı kazanarak başlamayı nasip et."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Rabbim, bugünü hayırlı kıl ve beni günahlardan koru."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Allah'ım, sabahımı bereketli kıl ve işlerimi kolaylaştır."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Rabbim, bugün bana yardım et ve yaptığım işlerde başarı ver."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Rabbim, yüklerimi Sana güvenerek taşımayı nasip et."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Allah'ım, günün ortasında bana güç ver ve yorgunluğumu al."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Rabbim, işlerimi bereketli kıl ve emeğimi verimli eyle."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Allah'ım, öğle vaktinde bana huzur ver ve kalbimi sakinleştir."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Allah'ım, yorgunluğumla Sana sığınıyorum."
+        },
+        {
+          "id": "asr_02",
+          "text": "Rabbim, ikindi vaktinde bana sabır ve güç ver."
+        },
+        {
+          "id": "asr_03",
+          "text": "Allah'ım, gün bitene kadar beni koru ve bana yardım et."
+        },
+        {
+          "id": "asr_04",
+          "text": "Rabbim, yorgunluğumu al ve bana yeniden dinçlik ver."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Rabbim, bugün verdiğin her nimet için Sana şükrediyorum."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Allah'ım, günün sonunda beni affet ve günahlarımı bağışla."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Rabbim, akşamımı hayırlı, gecemi bereketli kıl."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Allah'ım, bugün yaptığım iyilikleri kabul et, kötülüklerimi affet."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Allah'ım, beni Sana teslim olmuş kullarından eyle."
+        },
+        {
+          "id": "isha_02",
+          "text": "Rabbim, gecemi huzurlu, uykumu bereketli kıl."
+        },
+        {
+          "id": "isha_03",
+          "text": "Allah'ım, gece boyunca beni koru ve sabaha sağ salim ulaştır."
+        },
+        {
+          "id": "isha_04",
+          "text": "Rabbim, yatsı vaktinde bana merhamet et ve beni affet."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Allah'ım, Ramazan'ı benim için arınmaya ve Sana yaklaşmaya vesile kıl."
+        },
+        {
+          "id": "ram_02",
+          "text": "Rabbim, tuttuğum orucu ve yaptığım ibadetleri kabul eyle."
+        },
+        {
+          "id": "ram_03",
+          "text": "Allah'ım, bu Ramazan'da beni bağışla ve cehennemden koru."
+        },
+        {
+          "id": "ram_04",
+          "text": "Rabbim, orucumu kabul et ve beni cennetine al."
+        },
+        {
+          "id": "ram_05",
+          "text": "Allah'ım, Ramazan'da Kur'an'ı anlayarak okumayı nasip et."
+        },
+        {
+          "id": "ram_06",
+          "text": "Rabbim, bu mübarek ayda dualarımı kabul et ve beni affet."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Allah'ım, bu mübarek gecede beni affınla ve rahmetinle kuşat."
+        },
+        {
+          "id": "kan_02",
+          "text": "Rabbim, kaderimi hayırla güzelleştir."
+        },
+        {
+          "id": "kan_03",
+          "text": "Allah'ım, bu mübarek gecede dualarımı kabul et ve beni bağışla."
+        },
+        {
+          "id": "kan_04",
+          "text": "Rabbim, bu mübarek gecelerde bana merhamet et ve beni cennetine al."
+        },
+        {
+          "id": "kan_05",
+          "text": "Allah'ım, bu gece hakkımda hayırlı olanı takdir et."
+        }
+      ]
+    }
+  },
+  "en": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, bring my heart closer to You and keep me on the right path."
+      },
+      {
+        "id": "gen_02",
+        "text": "My Lord, give me what is good for me and make me content with it."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, give me wisdom and make me one of Your righteous servants."
+      },
+      {
+        "id": "gen_04",
+        "text": "My Lord, increase me in knowledge and fill my heart with Your light."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, give me patience and make my affairs easy."
+      },
+      {
+        "id": "gen_06",
+        "text": "My Lord, give me good character and protect me from bad habits."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, give me plentiful and blessed provision."
+      },
+      {
+        "id": "gen_08",
+        "text": "My Lord, give me good health and protect me from illness."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, guide me and keep me firm on the right path."
+      },
+      {
+        "id": "gen_10",
+        "text": "My Lord, accept my prayers and forgive me."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "The best prayer for forgiveness (Sayyid al-Istighfar): “O Allah, You are my Lord; there is no god but You. You created me and I am Your servant. I keep my promise and covenant to You as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings upon me, and I admit my sin. So forgive me, for no one forgives sins except You.” The Prophet ﷺ said that whoever says it with conviction during the day and dies before evening, or says it at night and dies before morning, will enter Paradise.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "The prayer of Prophet Yunus (Jonah) in the belly of the whale: “There is no god but You. Glory be to You! I have truly been one of the wrongdoers.” Whenever a Muslim in distress prays with these words, Allah answers them.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Before going to sleep: “In Your name, O Allah, I die and I live.”",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "On waking up: “All praise is for Allah, who gave us life after He had caused us to die, and to Him is the return.”",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "When entering the home: “In the name of Allah we enter, in the name of Allah we leave, and in Allah, our Lord, we put our trust.”",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "When leaving the home: “In the name of Allah, I put my trust in Allah. There is no power and no strength except with Allah.”",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "When entering the mosque: “O Allah, open for me the doors of Your mercy.” When leaving: “O Allah, I ask You for Your favour.”",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "After eating: “All praise is for Allah, who fed us, gave us drink and made us Muslims. Our Lord, let us die as Muslims and join us with the righteous.”",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "After wudu: “I bear witness that there is no god but Allah, alone, without partner, and I bear witness that Muhammad is His servant and messenger. O Allah, make me one of those who often repent and keep themselves pure.”",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "When getting on a vehicle or mount: “Glory be to the One who has placed this in our service, for we could never have done it ourselves. And surely to our Lord we will return.”",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "When it rains: “O Allah, make it a beneficial rain.”",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "When you feel pain, place your hand on the painful spot and say seven times: “I seek refuge in the might and power of Allah from the evil of what I feel and what I fear.”",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "When you hear thunder: “Glory be to the One whom the thunder glorifies with His praise, and the angels too, out of awe of Him.”",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "When facing something difficult: “O Allah, nothing is easy except what You make easy, and if You will, You make the hard thing easy.”",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "In prayer, after the final tashahhud and before the salam: “Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.” (al-Baqarah 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, take away the heaviness inside me. When my strength runs out, You are enough for me.",
+          "source": "Spiritual consolation prayer"
+        },
+        {
+          "id": "sad_02",
+          "text": "My Lord, I leave with You what my heart cannot carry."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, take away my worry and sorrow, and give me relief."
+        },
+        {
+          "id": "sad_04",
+          "text": "My Lord, turn my sadness into joy and my grief into peace."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, give me patience and make me one of those who are patient."
+        },
+        {
+          "id": "sad_06",
+          "text": "My Lord, lighten my hardships and help me."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, keep me firm on what is true."
+        },
+        {
+          "id": "neu_02",
+          "text": "My Lord, keep me balanced and on the right path."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, give me wisdom and help me make the right decisions."
+        },
+        {
+          "id": "neu_04",
+          "text": "My Lord, keep my heart clean and protect me from evil."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, all praise is Yours for the blessings You have given me."
+        },
+        {
+          "id": "hap_02",
+          "text": "My Lord, let my joy bring me closer to You."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, turn my happiness into gratitude, and never let me be ungrateful."
+        },
+        {
+          "id": "hap_04",
+          "text": "My Lord, help me share my joy and make me generous."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, help me truly appreciate the blessings You have given me."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, let me begin this new day seeking Your pleasure."
+        },
+        {
+          "id": "fajr_02",
+          "text": "My Lord, make this day a good one and keep me away from sin."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, bless my morning and make my tasks easy."
+        },
+        {
+          "id": "fajr_04",
+          "text": "My Lord, help me today and grant me success in what I do."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "My Lord, help me carry my burdens while relying on You."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, give me strength in the middle of the day and take away my tiredness."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "My Lord, bless my work and make my efforts fruitful."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, give me peace at midday and calm my heart."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, I turn to You for refuge in my weariness."
+        },
+        {
+          "id": "asr_02",
+          "text": "My Lord, give me patience and strength this afternoon."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, protect me and help me until the day is done."
+        },
+        {
+          "id": "asr_04",
+          "text": "My Lord, take away my tiredness and renew my energy."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "My Lord, thank You for every blessing You gave me today."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, as this day ends, pardon me and forgive my sins."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "My Lord, make my evening good and my night blessed."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, accept the good I did today and forgive my mistakes."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, make me one of Your servants who have fully submitted to You."
+        },
+        {
+          "id": "isha_02",
+          "text": "My Lord, make my night peaceful and my sleep blessed."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, protect me through the night and let me wake safely to the morning."
+        },
+        {
+          "id": "isha_04",
+          "text": "My Lord, have mercy on me tonight and forgive me."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, let this Ramadan purify me and bring me closer to You."
+        },
+        {
+          "id": "ram_02",
+          "text": "My Lord, accept my fasting and my worship."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, forgive me this Ramadan and protect me from the Fire."
+        },
+        {
+          "id": "ram_04",
+          "text": "My Lord, accept my fast and admit me into Your Paradise."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, help me read the Qur'an with understanding this Ramadan."
+        },
+        {
+          "id": "ram_06",
+          "text": "My Lord, accept my prayers in this blessed month and forgive me."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, surround me with Your forgiveness and mercy on this blessed night."
+        },
+        {
+          "id": "kan_02",
+          "text": "My Lord, fill my destiny with good."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, accept my prayers on this blessed night and forgive me."
+        },
+        {
+          "id": "kan_04",
+          "text": "My Lord, have mercy on me on these blessed nights and admit me into Your Paradise."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, decree what is good for me on this night."
+        }
+      ]
+    }
+  },
+  "ar": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "اللَّهُمَّ قَرِّبْ قَلْبِي إِلَيْكَ، وَثَبِّتْنِي عَلَى الصِّرَاطِ الْمُسْتَقِيمِ."
+      },
+      {
+        "id": "gen_02",
+        "text": "رَبِّ اقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ، ثُمَّ أَرْضِنِي بِهِ."
+      },
+      {
+        "id": "gen_03",
+        "text": "اللَّهُمَّ ارْزُقْنِي الْحِكْمَةَ، وَاجْعَلْنِي مِنْ عِبَادِكَ الصَّالِحِينَ."
+      },
+      {
+        "id": "gen_04",
+        "text": "رَبِّ زِدْنِي عِلْمًا، وَنَوِّرْ قَلْبِي."
+      },
+      {
+        "id": "gen_05",
+        "text": "اللَّهُمَّ ارْزُقْنِي الصَّبْرَ، وَيَسِّرْ لِي أُمُورِي."
+      },
+      {
+        "id": "gen_06",
+        "text": "رَبِّ اهْدِنِي لِأَحْسَنِ الْأَخْلَاقِ، وَاصْرِفْ عَنِّي سَيِّئَهَا."
+      },
+      {
+        "id": "gen_07",
+        "text": "اللَّهُمَّ ارْزُقْنِي رِزْقًا وَاسِعًا، وَبَارِكْ لِي فِيهِ."
+      },
+      {
+        "id": "gen_08",
+        "text": "رَبِّ عَافِنِي فِي بَدَنِي، وَاحْفَظْنِي مِنَ الْأَمْرَاضِ."
+      },
+      {
+        "id": "gen_09",
+        "text": "اللَّهُمَّ اهْدِنِي، وَثَبِّتْنِي عَلَى الصِّرَاطِ الْمُسْتَقِيمِ."
+      },
+      {
+        "id": "gen_10",
+        "text": "رَبِّ تَقَبَّلْ دُعَائِي، وَاغْفِرْ لِي."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ.",
+        "source": "البخاري، الأذان 8؛ مسلم، الذكر 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ.",
+        "source": "الترمذي، الدعوات 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا.",
+        "source": "البخاري، الدعوات 20؛ مسلم، الذكر 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ.",
+        "source": "البخاري، الوضوء 2؛ مسلم، الحيض 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا.",
+        "source": "مسلم، البر 115؛ أبو داود، الأدب 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ.",
+        "source": "الترمذي، الدعوات 43"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ. — اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ.",
+        "source": "مسلم، المساجد 21؛ ابن ماجه، المساجد 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ. رَبَّنَا تَوَفَّنَا مُسْلِمِينَ وَأَلْحِقْنَا بِالصَّالِحِينَ.",
+        "source": "الترمذي، الدعوات 69"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ.",
+        "source": "مسلم، الطهارة 17"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ.",
+        "source": "مسلم، الحج 20"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "اللَّهُمَّ صَيِّبًا نَافِعًا.",
+        "source": "البخاري، الاستسقاء 1؛ مسلم، الصلاة 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.",
+        "source": "مسلم، السلام 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ.",
+        "source": "مسلم، الصلاة 11"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا.",
+        "source": "ابن حبان؛ أحمد"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.",
+        "source": "البخاري، الدعوات 56؛ مسلم، الصلاة 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "اللَّهُمَّ اكْشِفْ مَا فِي صَدْرِي مِنْ ضِيقٍ، فَإِذَا ضَعُفَتْ قُوَّتِي فَأَنْتَ حَسْبِي.",
+          "source": "دعاء التسلية الروحية"
+        },
+        {
+          "id": "sad_02",
+          "text": "رَبِّ إِلَيْكَ أُفَوِّضُ مَا لَا يَحْتَمِلُهُ قَلْبِي."
+        },
+        {
+          "id": "sad_03",
+          "text": "اللَّهُمَّ أَذْهِبْ عَنِّي الْهَمَّ وَالْحَزَنَ، وَاشْرَحْ صَدْرِي."
+        },
+        {
+          "id": "sad_04",
+          "text": "رَبِّ أَبْدِلْ حُزْنِي فَرَحًا، وَهَمِّي سَكِينَةً."
+        },
+        {
+          "id": "sad_05",
+          "text": "اللَّهُمَّ ارْزُقْنِي الصَّبْرَ، وَاجْعَلْنِي مِنَ الصَّابِرِينَ."
+        },
+        {
+          "id": "sad_06",
+          "text": "رَبِّ خَفِّفْ عَنِّي مَا أَجِدُ مِنْ شِدَّةٍ، وَأَعِنِّي."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "اللَّهُمَّ ثَبِّتْنِي عَلَى الْحَقِّ."
+        },
+        {
+          "id": "neu_02",
+          "text": "رَبِّ اجْعَلْنِي مُعْتَدِلًا فِي أَمْرِي، وَثَبِّتْنِي عَلَى الصِّرَاطِ الْمُسْتَقِيمِ."
+        },
+        {
+          "id": "neu_03",
+          "text": "اللَّهُمَّ ارْزُقْنِي الْحِكْمَةَ، وَوَفِّقْنِي إِلَى الرَّأْيِ السَّدِيدِ."
+        },
+        {
+          "id": "neu_04",
+          "text": "رَبِّ طَهِّرْ قَلْبِي، وَاحْفَظْنِي مِنَ الشُّرُورِ."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "اللَّهُمَّ لَكَ الْحَمْدُ عَلَى مَا أَنْعَمْتَ بِهِ عَلَيَّ."
+        },
+        {
+          "id": "hap_02",
+          "text": "رَبِّ اجْعَلْ فَرَحِي سَبَبًا لِقُرْبِي مِنْكَ."
+        },
+        {
+          "id": "hap_03",
+          "text": "اللَّهُمَّ اجْعَلْ فَرَحِي شُكْرًا لَكَ، وَلَا تَجْعَلْنِي مِنَ الْجَاحِدِينَ لِنِعَمِكَ."
+        },
+        {
+          "id": "hap_04",
+          "text": "رَبِّ وَفِّقْنِي أَنْ أُشْرِكَ غَيْرِي فِي فَرَحِي، وَاجْعَلْنِي كَرِيمًا."
+        },
+        {
+          "id": "hap_05",
+          "text": "اللَّهُمَّ أَعِنِّي عَلَى مَعْرِفَةِ قَدْرِ نِعَمِكَ عَلَيَّ."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "اللَّهُمَّ اجْعَلْ أَوَّلَ يَوْمِي هَذَا فِيمَا يُرْضِيكَ."
+        },
+        {
+          "id": "fajr_02",
+          "text": "رَبِّ اجْعَلْ يَوْمِي هَذَا مُبَارَكًا، وَاحْفَظْنِي مِنَ الذُّنُوبِ."
+        },
+        {
+          "id": "fajr_03",
+          "text": "اللَّهُمَّ بَارِكْ لِي فِي صَبَاحِي، وَيَسِّرْ لِي أُمُورِي."
+        },
+        {
+          "id": "fajr_04",
+          "text": "رَبِّ أَعِنِّي فِي يَوْمِي هَذَا، وَوَفِّقْنِي فِيمَا أَعْمَلُ."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "رَبِّ أَعِنِّي عَلَى حَمْلِ أَعْبَائِي مُتَوَكِّلًا عَلَيْكَ."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "اللَّهُمَّ قَوِّنِي فِي وَسَطِ النَّهَارِ، وَأَذْهِبْ عَنِّي التَّعَبَ."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "رَبِّ بَارِكْ لِي فِي عَمَلِي، وَاجْعَلْ سَعْيِي مُثْمِرًا."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "اللَّهُمَّ أَنْزِلِ السَّكِينَةَ عَلَى قَلْبِي فِي وَقْتِ الظُّهْرِ."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "اللَّهُمَّ إِلَيْكَ أَلْجَأُ فِي تَعَبِي."
+        },
+        {
+          "id": "asr_02",
+          "text": "رَبِّ ارْزُقْنِي فِي وَقْتِ الْعَصْرِ صَبْرًا وَقُوَّةً."
+        },
+        {
+          "id": "asr_03",
+          "text": "اللَّهُمَّ احْفَظْنِي وَأَعِنِّي حَتَّى يَنْقَضِيَ يَوْمِي."
+        },
+        {
+          "id": "asr_04",
+          "text": "رَبِّ أَذْهِبْ عَنِّي التَّعَبَ، وَجَدِّدْ نَشَاطِي."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "رَبِّ لَكَ الشُّكْرُ عَلَى كُلِّ نِعْمَةٍ أَنْعَمْتَ بِهَا عَلَيَّ الْيَوْمَ."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "اللَّهُمَّ اعْفُ عَنِّي فِي خِتَامِ يَوْمِي، وَاغْفِرْ لِي ذُنُوبِي."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "رَبِّ اجْعَلْ مَسَائِي خَيْرًا، وَلَيْلَتِي مُبَارَكَةً."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "اللَّهُمَّ تَقَبَّلْ مَا عَمِلْتُ الْيَوْمَ مِنْ خَيْرٍ، وَاعْفُ عَنْ سَيِّئَاتِي."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "اللَّهُمَّ اجْعَلْنِي مِنْ عِبَادِكَ الْمُسْلِمِينَ لَكَ."
+        },
+        {
+          "id": "isha_02",
+          "text": "رَبِّ اجْعَلْ لَيْلَتِي هَادِئَةً، وَنَوْمِي مُبَارَكًا."
+        },
+        {
+          "id": "isha_03",
+          "text": "اللَّهُمَّ احْفَظْنِي طُوَالَ اللَّيْلِ، وَبَلِّغْنِي الصَّبَاحَ فِي عَافِيَةٍ."
+        },
+        {
+          "id": "isha_04",
+          "text": "رَبِّ ارْحَمْنِي فِي هَذِهِ اللَّيْلَةِ، وَاغْفِرْ لِي."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "اللَّهُمَّ اجْعَلْ رَمَضَانَ طُهْرَةً لِي، وَقُرْبَةً إِلَيْكَ."
+        },
+        {
+          "id": "ram_02",
+          "text": "رَبِّ تَقَبَّلْ صِيَامِي وَعِبَادَتِي."
+        },
+        {
+          "id": "ram_03",
+          "text": "اللَّهُمَّ اغْفِرْ لِي فِي هَذَا الشَّهْرِ، وَأَعْتِقْنِي مِنَ النَّارِ."
+        },
+        {
+          "id": "ram_04",
+          "text": "رَبِّ تَقَبَّلْ صَوْمِي، وَأَدْخِلْنِي جَنَّتَكَ."
+        },
+        {
+          "id": "ram_05",
+          "text": "اللَّهُمَّ ارْزُقْنِي فَهْمَ الْقُرْآنِ فِي رَمَضَانَ."
+        },
+        {
+          "id": "ram_06",
+          "text": "رَبِّ تَقَبَّلْ دُعَائِي فِي هَذَا الشَّهْرِ الْمُبَارَكِ، وَاغْفِرْ لِي."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "اللَّهُمَّ اشْمَلْنِي بِعَفْوِكَ وَرَحْمَتِكَ فِي هَذِهِ اللَّيْلَةِ الْمُبَارَكَةِ."
+        },
+        {
+          "id": "kan_02",
+          "text": "رَبِّ اجْعَلْ قَدَرِي خَيْرًا."
+        },
+        {
+          "id": "kan_03",
+          "text": "اللَّهُمَّ تَقَبَّلْ دُعَائِي فِي هَذِهِ اللَّيْلَةِ الْمُبَارَكَةِ، وَاغْفِرْ لِي."
+        },
+        {
+          "id": "kan_04",
+          "text": "رَبِّ ارْحَمْنِي فِي هَذِهِ اللَّيَالِي الْمُبَارَكَةِ، وَأَدْخِلْنِي جَنَّتَكَ."
+        },
+        {
+          "id": "kan_05",
+          "text": "اللَّهُمَّ اقْدُرْ لِيَ الْخَيْرَ فِي هَذِهِ اللَّيْلَةِ."
+        }
+      ]
+    }
+  },
+  "pt": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ó Allah, aproxima meu coração de Ti e mantém-me no caminho reto."
+      },
+      {
+        "id": "gen_02",
+        "text": "Meu Senhor, dá-me o que for bom para mim e faz-me ficar satisfeito com isso."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ó Allah, dá-me sabedoria e faz de mim um dos Teus servos virtuosos."
+      },
+      {
+        "id": "gen_04",
+        "text": "Meu Senhor, aumenta o meu conhecimento e ilumina o meu coração."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ó Allah, dá-me paciência e facilita os meus assuntos."
+      },
+      {
+        "id": "gen_06",
+        "text": "Meu Senhor, dá-me um bom caráter e protege-me dos maus hábitos."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ó Allah, dá-me um sustento farto e abençoado."
+      },
+      {
+        "id": "gen_08",
+        "text": "Meu Senhor, dá-me saúde e protege-me das doenças."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ó Allah, guia-me e mantém-me firme no caminho certo."
+      },
+      {
+        "id": "gen_10",
+        "text": "Meu Senhor, aceita as minhas súplicas e perdoa-me."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "A melhor súplica de perdão (Sayyid al-Istighfar): “Ó Allah, Tu és o meu Senhor; não há deus além de Ti. Tu me criaste e eu sou Teu servo. Mantenho meu compromisso e minha promessa contigo o quanto posso. Busco refúgio em Ti contra o mal que eu fiz. Reconheço as Tuas graças sobre mim e reconheço o meu pecado. Perdoa-me, pois ninguém perdoa os pecados além de Ti.” O Profeta ﷺ disse que quem a disser com convicção durante o dia e morrer antes do anoitecer, ou à noite e morrer antes do amanhecer, entrará no Paraíso.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "A súplica do profeta Yunus (Jonas) na barriga da baleia: “Não há deus além de Ti. Glorificado sejas! Eu realmente fui um dos injustos.” Quando um muçulmano em aflição suplica com estas palavras, Allah lhe responde.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Antes de dormir: “Em Teu nome, ó Allah, eu morro e vivo.”",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Ao acordar: “Louvado seja Allah, que nos devolveu a vida depois de nos fazer morrer, e a Ele é o retorno.”",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Ao entrar em casa: “Em nome de Allah entramos, em nome de Allah saímos, e em Allah, nosso Senhor, confiamos.”",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Ao sair de casa: “Em nome de Allah, confio em Allah. Não há força nem poder senão em Allah.”",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Ao entrar na mesquita: “Ó Allah, abre para mim as portas da Tua misericórdia.” Ao sair: “Ó Allah, peço-Te do Teu favor.”",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Depois de comer: “Louvado seja Allah, que nos deu de comer e de beber e nos fez muçulmanos. Nosso Senhor, faz-nos morrer como muçulmanos e junta-nos aos virtuosos.”",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Depois do wudu (ablução): “Testemunho que não há deus além de Allah, Único, sem parceiros, e testemunho que Muhammad é Seu servo e mensageiro. Ó Allah, faz de mim um dos que se arrependem muito e se mantêm puros.”",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Ao entrar em um veículo ou montar um animal: “Glorificado seja Aquele que colocou isto a nosso serviço, pois nós não seríamos capazes. E, certamente, ao nosso Senhor retornaremos.”",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Quando chove: “Ó Allah, que seja uma chuva benéfica.”",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Ao sentir dor, coloque a mão sobre o local dolorido e diga sete vezes: “Busco refúgio no poder e na força de Allah contra o mal do que sinto e do que temo.”",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Ao ouvir o trovão: “Glorificado seja Aquele a quem o trovão glorifica com Seu louvor, e também os anjos, por temor a Ele.”",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Diante de algo difícil: “Ó Allah, nada é fácil a não ser o que Tu tornas fácil, e, se quiseres, Tu tornas fácil o que é difícil.”",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Na oração, depois do último tashahhud e antes do salam: “Nosso Senhor, dá-nos o bem nesta vida e o bem na Outra, e protege-nos do castigo do Fogo.” (al-Baqara 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ó Allah, tira a angústia que há dentro de mim. Quando minhas forças acabam, Tu me bastas.",
+          "source": "Prece de consolo espiritual"
+        },
+        {
+          "id": "sad_02",
+          "text": "Meu Senhor, entrego a Ti o que o meu coração não consegue suportar."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ó Allah, tira minha preocupação e minha tristeza, e dá-me alívio."
+        },
+        {
+          "id": "sad_04",
+          "text": "Meu Senhor, transforma minha tristeza em alegria e meu pesar em paz."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ó Allah, dá-me paciência e faz de mim um dos pacientes."
+        },
+        {
+          "id": "sad_06",
+          "text": "Meu Senhor, alivia minhas dificuldades e ajuda-me."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ó Allah, mantém-me firme na verdade."
+        },
+        {
+          "id": "neu_02",
+          "text": "Meu Senhor, preserva o meu equilíbrio e mantém-me no caminho reto."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ó Allah, dá-me sabedoria e ajuda-me a tomar as decisões certas."
+        },
+        {
+          "id": "neu_04",
+          "text": "Meu Senhor, mantém meu coração puro e protege-me do mal."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ó Allah, louvado sejas pelas bênçãos que me deste."
+        },
+        {
+          "id": "hap_02",
+          "text": "Meu Senhor, que a minha alegria me aproxime de Ti."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ó Allah, transforma minha felicidade em gratidão e não me deixes ser ingrato."
+        },
+        {
+          "id": "hap_04",
+          "text": "Meu Senhor, ajuda-me a partilhar minha alegria e faz-me generoso."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ó Allah, ajuda-me a valorizar de verdade as bênçãos que me deste."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ó Allah, permite-me começar este novo dia buscando a Tua satisfação."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Meu Senhor, faz deste um bom dia e protege-me do pecado."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ó Allah, abençoa minha manhã e facilita minhas tarefas."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Meu Senhor, ajuda-me hoje e dá-me sucesso no que eu fizer."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Meu Senhor, ajuda-me a carregar meus fardos confiando em Ti."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ó Allah, dá-me forças no meio do dia e tira o meu cansaço."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Meu Senhor, abençoa o meu trabalho e faz o meu esforço dar frutos."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ó Allah, dá-me paz ao meio-dia e acalma o meu coração."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ó Allah, no meu cansaço, busco refúgio em Ti."
+        },
+        {
+          "id": "asr_02",
+          "text": "Meu Senhor, dá-me paciência e força nesta tarde."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ó Allah, protege-me e ajuda-me até o fim do dia."
+        },
+        {
+          "id": "asr_04",
+          "text": "Meu Senhor, tira o meu cansaço e renova as minhas forças."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Meu Senhor, obrigado por cada bênção que me deste hoje."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ó Allah, ao fim deste dia, perdoa-me e apaga os meus pecados."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Meu Senhor, faz boa a minha tarde e abençoada a minha noite."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ó Allah, aceita o bem que fiz hoje e perdoa os meus erros."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ó Allah, faz de mim um dos Teus servos que se entregaram a Ti."
+        },
+        {
+          "id": "isha_02",
+          "text": "Meu Senhor, faz minha noite tranquila e meu sono abençoado."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ó Allah, protege-me durante a noite e faz-me chegar bem à manhã."
+        },
+        {
+          "id": "isha_04",
+          "text": "Meu Senhor, tem misericórdia de mim esta noite e perdoa-me."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ó Allah, que este Ramadã me purifique e me aproxime de Ti."
+        },
+        {
+          "id": "ram_02",
+          "text": "Meu Senhor, aceita o meu jejum e as minhas adorações."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ó Allah, perdoa-me neste Ramadã e protege-me do Fogo."
+        },
+        {
+          "id": "ram_04",
+          "text": "Meu Senhor, aceita o meu jejum e faz-me entrar no Teu Paraíso."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ó Allah, ajuda-me a ler o Alcorão com compreensão neste Ramadã."
+        },
+        {
+          "id": "ram_06",
+          "text": "Meu Senhor, aceita as minhas súplicas neste mês abençoado e perdoa-me."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ó Allah, envolve-me com o Teu perdão e a Tua misericórdia nesta noite abençoada."
+        },
+        {
+          "id": "kan_02",
+          "text": "Meu Senhor, enche o meu destino de bem."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ó Allah, aceita as minhas súplicas nesta noite abençoada e perdoa-me."
+        },
+        {
+          "id": "kan_04",
+          "text": "Meu Senhor, tem misericórdia de mim nestas noites abençoadas e faz-me entrar no Teu Paraíso."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ó Allah, decreta para mim o que for bom nesta noite."
+        }
+      ]
+    }
+  },
+  "es": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Oh Allah, acerca mi corazón a Ti y mantenme en el camino recto."
+      },
+      {
+        "id": "gen_02",
+        "text": "Señor mío, dame lo que sea bueno para mí y haz que me sienta satisfecho con ello."
+      },
+      {
+        "id": "gen_03",
+        "text": "Oh Allah, dame sabiduría y hazme uno de Tus siervos rectos."
+      },
+      {
+        "id": "gen_04",
+        "text": "Señor mío, aumenta mi conocimiento e ilumina mi corazón."
+      },
+      {
+        "id": "gen_05",
+        "text": "Oh Allah, dame paciencia y facilita mis asuntos."
+      },
+      {
+        "id": "gen_06",
+        "text": "Señor mío, dame un buen carácter y protégeme de los malos hábitos."
+      },
+      {
+        "id": "gen_07",
+        "text": "Oh Allah, dame un sustento abundante y bendecido."
+      },
+      {
+        "id": "gen_08",
+        "text": "Señor mío, dame salud y protégeme de las enfermedades."
+      },
+      {
+        "id": "gen_09",
+        "text": "Oh Allah, guíame y mantenme firme en el camino correcto."
+      },
+      {
+        "id": "gen_10",
+        "text": "Señor mío, acepta mis súplicas y perdóname."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "La mejor súplica de perdón (Sayyid al-Istighfar): «Oh Allah, Tú eres mi Señor; no hay más dios que Tú. Tú me creaste y yo soy Tu siervo. Cumplo mi compromiso y mi promesa contigo en la medida de mis fuerzas. Me refugio en Ti del mal que he hecho. Reconozco Tus favores sobre mí y reconozco mi pecado. Perdóname, pues nadie perdona los pecados sino Tú». El Profeta ﷺ dijo que quien la dice con convicción durante el día y muere antes del anochecer, o la dice de noche y muere antes del amanecer, entrará en el Paraíso.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "La súplica del profeta Yunus (Jonás) en el vientre de la ballena: «No hay más dios que Tú. ¡Glorificado seas! Verdaderamente, yo he sido de los injustos». Cuando un musulmán en apuros suplica con estas palabras, Allah le responde.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Antes de dormir: «En Tu nombre, oh Allah, muero y vivo».",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Al despertar: «Alabado sea Allah, que nos devolvió la vida después de habernos hecho morir, y a Él es el regreso».",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Al entrar en casa: «En el nombre de Allah entramos, en el nombre de Allah salimos y en Allah, nuestro Señor, confiamos».",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Al salir de casa: «En el nombre de Allah, confío en Allah. No hay fuerza ni poder sino en Allah».",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Al entrar en la mezquita: «Oh Allah, ábreme las puertas de Tu misericordia». Al salir: «Oh Allah, Te pido de Tu favor».",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Después de comer: «Alabado sea Allah, que nos dio de comer y de beber y nos hizo musulmanes. Señor nuestro, haz que muramos como musulmanes y únenos a los justos».",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Después del wudu (ablución): «Atestiguo que no hay más dios que Allah, Único y sin asociados, y atestiguo que Muhammad es Su siervo y Su mensajero. Oh Allah, hazme de los que se arrepienten a menudo y se mantienen puros».",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Al subir a un vehículo o a una montura: «Glorificado sea Quien ha puesto esto a nuestro servicio, pues nosotros no habríamos podido. Y, ciertamente, a nuestro Señor regresaremos».",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Cuando llueve: «Oh Allah, que sea una lluvia beneficiosa».",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Cuando sientas dolor, pon la mano sobre la zona que duele y di siete veces: «Me refugio en el poder y la grandeza de Allah del mal de lo que siento y de lo que temo».",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Al oír el trueno: «Glorificado sea Aquel a quien el trueno glorifica con Su alabanza, y también los ángeles por temor a Él».",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Ante algo difícil: «Oh Allah, nada es fácil excepto lo que Tú haces fácil, y si Tú quieres, haces fácil lo difícil».",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "En la oración, después del último tashahhud y antes del salam: «Señor nuestro, danos el bien en esta vida y el bien en la Otra, y protégenos del castigo del Fuego». (al-Baqara 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Oh Allah, quita la angustia que hay en mí. Cuando se me acaban las fuerzas, Tú me bastas.",
+          "source": "Plegaria de consuelo espiritual"
+        },
+        {
+          "id": "sad_02",
+          "text": "Señor mío, dejo en Tus manos lo que mi corazón no puede soportar."
+        },
+        {
+          "id": "sad_03",
+          "text": "Oh Allah, quita mi preocupación y mi tristeza, y dame alivio."
+        },
+        {
+          "id": "sad_04",
+          "text": "Señor mío, convierte mi tristeza en alegría y mi pena en paz."
+        },
+        {
+          "id": "sad_05",
+          "text": "Oh Allah, dame paciencia y hazme de los pacientes."
+        },
+        {
+          "id": "sad_06",
+          "text": "Señor mío, alivia mis dificultades y ayúdame."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Oh Allah, mantenme firme en la verdad."
+        },
+        {
+          "id": "neu_02",
+          "text": "Señor mío, mantén mi equilibrio y guíame por el camino recto."
+        },
+        {
+          "id": "neu_03",
+          "text": "Oh Allah, dame sabiduría y ayúdame a tomar las decisiones correctas."
+        },
+        {
+          "id": "neu_04",
+          "text": "Señor mío, mantén limpio mi corazón y protégeme del mal."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Oh Allah, a Ti la alabanza por las bendiciones que me has dado."
+        },
+        {
+          "id": "hap_02",
+          "text": "Señor mío, que mi alegría me acerque más a Ti."
+        },
+        {
+          "id": "hap_03",
+          "text": "Oh Allah, convierte mi felicidad en gratitud y no permitas que sea ingrato."
+        },
+        {
+          "id": "hap_04",
+          "text": "Señor mío, ayúdame a compartir mi alegría y hazme generoso."
+        },
+        {
+          "id": "hap_05",
+          "text": "Oh Allah, ayúdame a valorar de verdad las bendiciones que me has dado."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Oh Allah, permíteme empezar este nuevo día buscando Tu complacencia."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Señor mío, haz que este día sea bueno y protégeme del pecado."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Oh Allah, bendice mi mañana y facilita mis tareas."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Señor mío, ayúdame hoy y dame éxito en lo que haga."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Señor mío, ayúdame a llevar mis cargas confiando en Ti."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Oh Allah, dame fuerzas a mitad del día y quítame el cansancio."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Señor mío, bendice mi trabajo y haz que mi esfuerzo dé fruto."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Oh Allah, dame paz al mediodía y calma mi corazón."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Oh Allah, en mi cansancio me refugio en Ti."
+        },
+        {
+          "id": "asr_02",
+          "text": "Señor mío, dame paciencia y fuerza esta tarde."
+        },
+        {
+          "id": "asr_03",
+          "text": "Oh Allah, protégeme y ayúdame hasta que termine el día."
+        },
+        {
+          "id": "asr_04",
+          "text": "Señor mío, quítame el cansancio y renueva mis fuerzas."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Señor mío, gracias por cada bendición que me diste hoy."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Oh Allah, al terminar el día, perdóname y borra mis pecados."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Señor mío, haz buena mi tarde y bendita mi noche."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Oh Allah, acepta el bien que hice hoy y perdona mis errores."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Oh Allah, hazme uno de Tus siervos que se han entregado a Ti."
+        },
+        {
+          "id": "isha_02",
+          "text": "Señor mío, haz que mi noche sea tranquila y mi sueño bendito."
+        },
+        {
+          "id": "isha_03",
+          "text": "Oh Allah, protégeme durante la noche y permíteme llegar sano y salvo a la mañana."
+        },
+        {
+          "id": "isha_04",
+          "text": "Señor mío, ten misericordia de mí esta noche y perdóname."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Oh Allah, que este Ramadán me purifique y me acerque a Ti."
+        },
+        {
+          "id": "ram_02",
+          "text": "Señor mío, acepta mi ayuno y mis actos de adoración."
+        },
+        {
+          "id": "ram_03",
+          "text": "Oh Allah, perdóname en este Ramadán y protégeme del Fuego."
+        },
+        {
+          "id": "ram_04",
+          "text": "Señor mío, acepta mi ayuno y hazme entrar en Tu Paraíso."
+        },
+        {
+          "id": "ram_05",
+          "text": "Oh Allah, ayúdame a leer el Corán con comprensión en este Ramadán."
+        },
+        {
+          "id": "ram_06",
+          "text": "Señor mío, acepta mis súplicas en este mes bendito y perdóname."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Oh Allah, envuélveme en Tu perdón y Tu misericordia en esta noche bendita."
+        },
+        {
+          "id": "kan_02",
+          "text": "Señor mío, llena mi destino de bien."
+        },
+        {
+          "id": "kan_03",
+          "text": "Oh Allah, acepta mis súplicas en esta noche bendita y perdóname."
+        },
+        {
+          "id": "kan_04",
+          "text": "Señor mío, ten misericordia de mí en estas noches benditas y hazme entrar en Tu Paraíso."
+        },
+        {
+          "id": "kan_05",
+          "text": "Oh Allah, decreta para mí lo que sea bueno en esta noche."
+        }
+      ]
+    }
+  },
+  "de": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, bring mein Herz näher zu Dir und halte mich auf dem rechten Weg."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mein Herr, schenke mir, was gut für mich ist, und lass mich damit zufrieden sein."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, schenke mir Weisheit und mache mich zu einem Deiner rechtschaffenen Diener."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mein Herr, mehre mein Wissen und erleuchte mein Herz."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, schenke mir Geduld und erleichtere mir meine Angelegenheiten."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mein Herr, schenke mir einen guten Charakter und bewahre mich vor schlechten Eigenschaften."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, schenke mir reichliche und gesegnete Versorgung."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mein Herr, schenke mir Gesundheit und bewahre mich vor Krankheiten."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, leite mich recht und lass mich auf dem richtigen Weg standhaft bleiben."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mein Herr, nimm meine Bittgebete an und vergib mir."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Das beste Bittgebet um Vergebung (Sayyid al-Istighfar): „O Allah, Du bist mein Herr, es gibt keinen Gott außer Dir. Du hast mich erschaffen, und ich bin Dein Diener. Ich halte an meinem Versprechen und Bund mit Dir fest, so gut ich kann. Ich suche Zuflucht bei Dir vor dem Übel meiner Taten. Ich erkenne Deine Gaben an mich an und gestehe meine Sünde ein. So vergib mir, denn niemand vergibt Sünden außer Dir.“ Der Prophet ﷺ sagte: Wer es tagsüber mit Überzeugung spricht und vor dem Abend stirbt, oder es nachts spricht und vor dem Morgen stirbt, kommt ins Paradies.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Das Bittgebet des Propheten Yunus (Jonas) im Bauch des Wals: „Es gibt keinen Gott außer Dir. Gepriesen seist Du! Ich gehörte wahrlich zu denen, die Unrecht tun.“ Wenn ein Muslim in Not mit diesen Worten betet, erhört Allah ihn.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Vor dem Schlafen: „In Deinem Namen, o Allah, sterbe ich und lebe ich.“",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Beim Aufwachen: „Alles Lob gebührt Allah, der uns wieder lebendig gemacht hat, nachdem Er uns sterben ließ, und zu Ihm ist die Rückkehr.“",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Beim Betreten des Hauses: „Im Namen Allahs treten wir ein, im Namen Allahs gehen wir hinaus, und auf Allah, unseren Herrn, vertrauen wir.“",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Beim Verlassen des Hauses: „Im Namen Allahs, ich vertraue auf Allah. Es gibt keine Kraft und keine Macht außer bei Allah.“",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Beim Betreten der Moschee: „O Allah, öffne mir die Tore Deiner Barmherzigkeit.“ Beim Verlassen: „O Allah, ich bitte Dich um Deine Huld.“",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Nach dem Essen: „Alles Lob gebührt Allah, der uns zu essen und zu trinken gab und uns zu Muslimen machte. Unser Herr, lass uns als Muslime sterben und vereine uns mit den Rechtschaffenen.“",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Nach der Gebetswaschung (Wudu): „Ich bezeuge, dass es keinen Gott gibt außer Allah, dem Einzigen ohne Partner, und ich bezeuge, dass Muhammad Sein Diener und Gesandter ist. O Allah, mache mich zu denen, die oft bereuen und sich rein halten.“",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Beim Einsteigen in ein Fahrzeug oder Aufsteigen auf ein Reittier: „Gepriesen sei Der, der uns dies dienstbar gemacht hat; wir selbst hätten es nicht vermocht. Und zu unserem Herrn kehren wir gewiss zurück.“",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Wenn es regnet: „O Allah, lass es einen nützlichen Regen sein.“",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Bei Schmerzen die Hand auf die schmerzende Stelle legen und siebenmal sagen: „Ich suche Zuflucht bei der Macht und Stärke Allahs vor dem Übel dessen, was ich fühle und befürchte.“",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Wenn man Donner hört: „Gepriesen sei Der, den der Donner lobpreist und auch die Engel aus Ehrfurcht vor Ihm.“",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Vor einer schwierigen Aufgabe: „O Allah, nichts ist leicht außer dem, was Du leicht machst. Und wenn Du willst, machst Du das Schwere leicht.“",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Im Gebet, nach dem letzten Taschahhud und vor dem Salam: „Unser Herr, gib uns Gutes im Diesseits und Gutes im Jenseits, und bewahre uns vor der Strafe des Feuers.“ (al-Baqara 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, nimm die Last von meiner Brust. Wenn meine Kraft zu Ende geht, genügst Du mir.",
+          "source": "Geistliches Trostgebet"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mein Herr, ich lege in Deine Hände, was mein Herz nicht tragen kann."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, nimm meine Sorgen und meinen Kummer und schenke mir Erleichterung."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mein Herr, verwandle meine Trauer in Freude und meinen Kummer in Frieden."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, schenke mir Geduld und mache mich zu einem der Geduldigen."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mein Herr, erleichtere meine Schwierigkeiten und hilf mir."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, lass mich standhaft auf der Wahrheit bleiben."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mein Herr, bewahre mein inneres Gleichgewicht und halte mich auf dem rechten Weg."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, schenke mir Weisheit und hilf mir, die richtigen Entscheidungen zu treffen."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mein Herr, halte mein Herz rein und schütze mich vor dem Bösen."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, Dir gebührt alles Lob für die Gaben, die Du mir geschenkt hast."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mein Herr, lass meine Freude mich Dir näherbringen."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, verwandle mein Glück in Dankbarkeit und lass mich niemals undankbar sein."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mein Herr, lass mich meine Freude mit anderen teilen und mache mich großzügig."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, lass mich den Wert Deiner Gaben wirklich schätzen."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, lass mich diesen neuen Tag mit dem beginnen, was Dir gefällt."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mein Herr, mache diesen Tag zu einem guten Tag und bewahre mich vor Sünden."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, segne meinen Morgen und erleichtere mir meine Aufgaben."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mein Herr, hilf mir heute und schenke mir Erfolg bei dem, was ich tue."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mein Herr, hilf mir, meine Lasten im Vertrauen auf Dich zu tragen."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, gib mir Kraft in der Mitte des Tages und nimm meine Müdigkeit."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mein Herr, segne meine Arbeit und lass meine Mühe Früchte tragen."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, schenke mir Ruhe zur Mittagszeit und beruhige mein Herz."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, in meiner Müdigkeit nehme ich Zuflucht bei Dir."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mein Herr, schenke mir am Nachmittag Geduld und Kraft."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, beschütze mich und hilf mir, bis der Tag zu Ende ist."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mein Herr, nimm meine Müdigkeit und erneuere meine Kraft."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mein Herr, ich danke Dir für jede Gabe, die Du mir heute geschenkt hast."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, verzeih mir am Ende dieses Tages und vergib mir meine Sünden."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mein Herr, mache meinen Abend gut und meine Nacht gesegnet."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, nimm das Gute an, das ich heute getan habe, und verzeih mir meine Fehler."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, mache mich zu einem Deiner Diener, die sich Dir ganz hingegeben haben."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mein Herr, mache meine Nacht friedlich und meinen Schlaf gesegnet."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, beschütze mich in der Nacht und lass mich wohlbehalten den Morgen erreichen."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mein Herr, erbarme Dich meiner in dieser Nacht und vergib mir."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, lass diesen Ramadan mich reinigen und mich Dir näherbringen."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mein Herr, nimm mein Fasten und meine Gottesdienste an."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, vergib mir in diesem Ramadan und bewahre mich vor dem Feuer."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mein Herr, nimm mein Fasten an und lass mich ins Paradies eintreten."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, lass mich im Ramadan den Koran mit Verständnis lesen."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mein Herr, nimm in diesem gesegneten Monat meine Bittgebete an und vergib mir."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, umfange mich in dieser gesegneten Nacht mit Deiner Vergebung und Barmherzigkeit."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mein Herr, erfülle meine Bestimmung mit Gutem."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, nimm in dieser gesegneten Nacht meine Bittgebete an und vergib mir."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mein Herr, erbarme Dich meiner in diesen gesegneten Nächten und lass mich ins Paradies eintreten."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, bestimme für mich in dieser Nacht das Gute."
+        }
+      ]
+    }
+  },
+  "nl": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, breng mijn hart dichter bij U en houd mij op het rechte pad."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mijn Heer, geef mij wat goed voor mij is en maak mij daar tevreden mee."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, geef mij wijsheid en maak mij tot een van Uw rechtschapen dienaren."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mijn Heer, vermeerder mijn kennis en verlicht mijn hart."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, geef mij geduld en maak mijn zaken gemakkelijk."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mijn Heer, geef mij een goed karakter en bescherm mij tegen slechte gewoonten."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, geef mij een ruime en gezegende levensvoorziening."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mijn Heer, geef mij gezondheid en bescherm mij tegen ziekten."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, leid mij en houd mij standvastig op het juiste pad."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mijn Heer, aanvaard mijn smeekbeden en vergeef mij."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "De beste smeekbede om vergeving (Sayyid al-Istighfar): “O Allah, U bent mijn Heer; er is geen god dan U. U hebt mij geschapen en ik ben Uw dienaar. Ik houd mij aan mijn belofte en verbond met U, zo goed als ik kan. Ik zoek bij U bescherming tegen het kwaad dat ik heb gedaan. Ik erken Uw gunsten aan mij en ik erken mijn zonde. Vergeef mij dus, want niemand vergeeft zonden behalve U.” De Profeet ﷺ zei dat wie dit overdag met overtuiging zegt en vóór de avond sterft, of het ’s nachts zegt en vóór de ochtend sterft, het Paradijs binnengaat.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "De smeekbede van de profeet Yunus (Jona) in de buik van de walvis: “Er is geen god dan U. Glorie aan U! Ik behoorde werkelijk tot de onrechtplegers.” Wanneer een moslim in nood met deze woorden bidt, verhoort Allah hem.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Voor het slapengaan: “In Uw naam, o Allah, sterf ik en leef ik.”",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Bij het wakker worden: “Alle lof is voor Allah, Die ons weer tot leven bracht nadat Hij ons had laten sterven, en tot Hem is de terugkeer.”",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Bij het binnengaan van het huis: “In de naam van Allah gaan wij naar binnen, in de naam van Allah gaan wij naar buiten, en op Allah, onze Heer, vertrouwen wij.”",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Bij het verlaten van het huis: “In de naam van Allah, ik vertrouw op Allah. Er is geen kracht en geen macht behalve bij Allah.”",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Bij het binnengaan van de moskee: “O Allah, open voor mij de poorten van Uw barmhartigheid.” Bij het weggaan: “O Allah, ik vraag U om Uw gunst.”",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Na het eten: “Alle lof is voor Allah, Die ons te eten en te drinken gaf en ons moslim maakte. Onze Heer, laat ons als moslims sterven en voeg ons bij de rechtschapenen.”",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Na de wassing (wudu): “Ik getuig dat er geen god is dan Allah, de Enige, zonder deelgenoot, en ik getuig dat Mohammed Zijn dienaar en boodschapper is. O Allah, maak mij tot een van hen die vaak berouw tonen en zich rein houden.”",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Bij het instappen in een voertuig of bestijgen van een rijdier: “Glorie aan Hem Die dit voor ons dienstbaar heeft gemaakt, want zelf hadden wij dat niet gekund. En voorzeker keren wij terug naar onze Heer.”",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Als het regent: “O Allah, laat het een nuttige regen zijn.”",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Leg bij pijn je hand op de pijnlijke plek en zeg zeven keer: “Ik zoek bescherming bij de macht en kracht van Allah tegen het kwaad van wat ik voel en vrees.”",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Bij het horen van donder: “Glorie aan Hem Die de donder verheerlijkt met Zijn lof, en ook de engelen, uit ontzag voor Hem.”",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Bij iets moeilijks: “O Allah, niets is gemakkelijk behalve wat U gemakkelijk maakt, en als U wilt, maakt U het moeilijke gemakkelijk.”",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "In het gebed, na de laatste tasjahhoed en vóór de salaam: “Onze Heer, geef ons het goede in deze wereld en het goede in het Hiernamaals, en bescherm ons tegen de bestraffing van het Vuur.” (al-Baqara 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, neem de benauwdheid in mij weg. Als mijn kracht opraakt, bent U voor mij genoeg.",
+          "source": "Geestelijk troostgebed"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mijn Heer, ik laat aan U over wat mijn hart niet kan dragen."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, neem mijn zorgen en verdriet weg en geef mij verlichting."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mijn Heer, verander mijn verdriet in vreugde en mijn zorgen in rust."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, geef mij geduld en maak mij tot een van de geduldigen."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mijn Heer, verlicht mijn moeilijkheden en help mij."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, houd mij standvastig in de waarheid."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mijn Heer, bewaar mijn evenwicht en houd mij op het rechte pad."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, geef mij wijsheid en help mij de juiste beslissingen te nemen."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mijn Heer, houd mijn hart zuiver en bescherm mij tegen het kwaad."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, alle lof is voor U om de zegeningen die U mij hebt gegeven."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mijn Heer, laat mijn vreugde mij dichter bij U brengen."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, verander mijn geluk in dankbaarheid en laat mij nooit ondankbaar zijn."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mijn Heer, help mij mijn vreugde te delen en maak mij vrijgevig."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, help mij de waarde van Uw zegeningen echt te beseffen."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, laat mij deze nieuwe dag beginnen met wat U behaagt."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mijn Heer, maak van vandaag een goede dag en bescherm mij tegen zonden."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, zegen mijn ochtend en maak mijn taken gemakkelijk."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mijn Heer, help mij vandaag en geef mij succes in wat ik doe."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mijn Heer, help mij mijn lasten te dragen in vertrouwen op U."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, geef mij kracht midden op de dag en neem mijn vermoeidheid weg."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mijn Heer, zegen mijn werk en laat mijn inspanning vrucht dragen."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, geef mij rust op het middaguur en kalmeer mijn hart."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, in mijn vermoeidheid zoek ik mijn toevlucht bij U."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mijn Heer, geef mij vanmiddag geduld en kracht."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, bescherm en help mij tot het einde van de dag."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mijn Heer, neem mijn vermoeidheid weg en geef mij nieuwe energie."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mijn Heer, dank U voor elke zegen die U mij vandaag hebt gegeven."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, vergeef mij aan het einde van deze dag en wis mijn zonden uit."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mijn Heer, maak mijn avond goed en mijn nacht gezegend."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, aanvaard het goede dat ik vandaag deed en vergeef mijn fouten."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, maak mij tot een van Uw dienaren die zich volledig aan U hebben overgegeven."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mijn Heer, maak mijn nacht rustig en mijn slaap gezegend."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, bescherm mij tijdens de nacht en laat mij veilig de ochtend bereiken."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mijn Heer, wees mij vannacht genadig en vergeef mij."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, laat deze Ramadan mij zuiveren en dichter bij U brengen."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mijn Heer, aanvaard mijn vasten en mijn aanbidding."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, vergeef mij in deze Ramadan en bescherm mij tegen het Vuur."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mijn Heer, aanvaard mijn vasten en laat mij Uw Paradijs binnengaan."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, help mij deze Ramadan de Koran met begrip te lezen."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mijn Heer, aanvaard mijn smeekbeden in deze gezegende maand en vergeef mij."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, omring mij in deze gezegende nacht met Uw vergeving en barmhartigheid."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mijn Heer, vul mijn lot met het goede."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, aanvaard mijn smeekbeden in deze gezegende nacht en vergeef mij."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mijn Heer, wees mij genadig in deze gezegende nachten en laat mij Uw Paradijs binnengaan."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, bestem voor mij het goede in deze nacht."
+        }
+      ]
+    }
+  },
+  "ku": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ya Xwedê, dilê min nêzîkî xwe bike û min li ser rêya rast bihêle."
+      },
+      {
+        "id": "gen_02",
+        "text": "Rebbê min, tiştê ku ji bo min xêr e bide min û min pê razî bike."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ya Xwedê, hîkmetê bide min û min bike yek ji bendeyên xwe yên salih."
+      },
+      {
+        "id": "gen_04",
+        "text": "Rebbê min, zanîna min zêde bike û dilê min ronî bike."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ya Xwedê, sebrê bide min û karên min hêsan bike."
+      },
+      {
+        "id": "gen_06",
+        "text": "Rebbê min, exlaqê baş bide min û min ji xûyên xirab biparêze."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ya Xwedê, rizqekî fireh û bi bereket bide min."
+      },
+      {
+        "id": "gen_08",
+        "text": "Rebbê min, saxlemiyê bide min û min ji nexweşiyan biparêze."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ya Xwedê, rêya rast nîşanî min bide û min li ser wê rêyê ragire."
+      },
+      {
+        "id": "gen_10",
+        "text": "Rebbê min, duayên min qebûl bike û li min bibore."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Duaya herî baş a lêborînê (Seyyîdul Îstixfar): “Ya Xwedê, Tu Rebbê min î; ji bilî Te tu xwedê tune. Te ez afirandim û ez bendeyê Te me. Bi qasî ku ji destê min tê, ez li ser soz û peymana xwe ya bi Te re me. Ji xirabiya tiştên ku min kirine, ez xwe dispêrim Te. Ez nîmetên Te yên li ser min û gunehê xwe jî qebûl dikim. Îcar li min bibore, ji ber ku ji bilî Te kes gunehan nabexşîne.” Pêxember ﷺ gotiye: Kî bi baweriyeke xurt bi roj vê bibêje û berî êvarê bimire, an bi şev bibêje û berî sibê bimire, dê bikeve bihuştê.",
+        "source": "Bukhari, Adhan 8; Muslim, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Duaya Pêxember Yûnis (s.x.) di zikê masiyê de: “Ji bilî Te tu xwedê tune. Tu pak î! Bi rastî ez ji yên zalim bûm.” Misilmanê ku di tengasiyê de bi van gotinan dua bike, Xwedê bersiva wî dide.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Berî razanê: “Ya Xwedê, bi navê Te ez dimirim û dijîm.”",
+        "source": "Bukhari, Invocations 20; Muslim, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Dema şiyar dibî: “Hemû pesn ji Xwedê re ye ku piştî ku em mirandin, em dîsa jiyandin; û vegera me ber bi Wî ve ye.”",
+        "source": "Bukhari, Ablution 2; Muslim, Menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Dema dikevî malê: “Bi navê Xwedê em ketin, bi navê Xwedê em derketin û me xwe spart Xwedayê xwe.”",
+        "source": "Muslim, Greetings 15; Abu Dawud, Etiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Dema ji malê derdikevî: “Bi navê Xwedê, min xwe spart Xwedê. Ji bilî Xwedê ne hêz heye ne jî qewet.”",
+        "source": "Tirmidhi, Supplications 43; Abu Dawud, Etiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Dema dikevî mizgeftê: “Ya Xwedê, deriyên rehma xwe ji min re veke.” Dema derdikevî: “Ya Xwedê, ez ji qenciya Te dixwazim.”",
+        "source": "Muslim, Mosques 21; Ibn Majah, Mosques 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Piştî xwarinê: “Hemû pesn ji Xwedê re ye ku em têr kirin, av da me û em kirin misilman. Rebbê me, me misilman bimirîne û me bigihîne salihan.”",
+        "source": "Tirmidhi, Supplications 69; Tirmidhi, Food 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Piştî destnimêjê: “Ez şahidiyê didim ku ji bilî Xwedê tu xwedê tune, Ew yek e û hevpara Wî tune; û ez şahidiyê didim ku Muhemmed bende û pêxemberê Wî ye. Ya Xwedê, min bike ji yên ku pir tobe dikin û xwe paqij digirin.”",
+        "source": "Muslim, Purification 17; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Dema li erebeyê an li sewalê siwar dibî: “Pak e Ew ê ku ev ji me re ram kir, wekî din me nikaribû. Û bê guman em ê vegerin ba Rebbê xwe.”",
+        "source": "Muslim, Hajj 20; Abu Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Dema baran dibare: “Ya Xwedê, bila ev baraneke bi feyde be.”",
+        "source": "Bukhari, Istisqa 1; Muslim, Prayer 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Dema êşek hebe, destê xwe deyne ser cihê ku diêşe û heft caran bibêje: “Ji xirabiya tiştê ku ez hîs dikim û jê ditirsim, ez xwe dispêrim hêz û qudreta Xwedê.”",
+        "source": "Muslim, Greetings 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Dema dengê birûskê dibihîzî: “Pak e Ew ê ku birûsk bi pesnê Wî tesbîha Wî dike, milyaket jî ji tirsa Wî.”",
+        "source": "Muslim, Prayer 11; Malik, Quran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Li hember karekî zehmet: “Ya Xwedê, tiştekî hêsan tune ji bilî ya ku Te hêsan kiriye; û heke Tu bixwazî, Tu zehmetiyê jî hêsan dikî.”",
+        "source": "Ibn Hibban (authenticated); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Di nimêjê de, piştî teşehuda dawî û berî silavdanê: “Rebbê me, li dinyayê jî qenciyê bide me, li axretê jî qenciyê bide me û me ji ezaba agir biparêze.” (Beqere 2:201)",
+        "source": "Bukhari, Invocations 56; Muslim, Prayer 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ya Xwedê, tengasiya di dilê min de rake. Dema hêza min diqede, Tu bes î ji min re.",
+          "source": "Nimêja teseliya giyanî"
+        },
+        {
+          "id": "sad_02",
+          "text": "Rebbê min, tiştê ku dilê min nikare hilgire, ez dispêrim Te."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ya Xwedê, xem û kedera min rake û rihetiyê bide min."
+        },
+        {
+          "id": "sad_04",
+          "text": "Rebbê min, xemgîniya min bike şahî û kedera min bike aramî."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ya Xwedê, sebrê bide min û min bike ji yên sebirdar."
+        },
+        {
+          "id": "sad_06",
+          "text": "Rebbê min, zehmetiyên min sivik bike û alîkariya min bike."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ya Xwedê, min li ser rastiyê ragire."
+        },
+        {
+          "id": "neu_02",
+          "text": "Rebbê min, hevsengiya min biparêze û min li ser rêya rast bihêle."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ya Xwedê, hîkmetê bide min û alîkariya min bike ku biryarên rast bidim."
+        },
+        {
+          "id": "neu_04",
+          "text": "Rebbê min, dilê min paqij bihêle û min ji xirabiyan biparêze."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ya Xwedê, ji bo nîmetên ku Te dane min, hemû pesn ji Te re ye."
+        },
+        {
+          "id": "hap_02",
+          "text": "Rebbê min, şahiya min bike sedemê nêzîkbûna min a ji Te re."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ya Xwedê, kêfxweşiya min bike şikir û min neke ji nankoran."
+        },
+        {
+          "id": "hap_04",
+          "text": "Rebbê min, nesîb bike ku ez şahiya xwe bi kesên din re parve bikim û min comerd bike."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ya Xwedê, nesîb bike ku ez qedrê nîmetên Te bizanibim."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ya Xwedê, nesîb bike ku ez vê roja nû bi lêgerîna razîbûna Te dest pê bikim."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Rebbê min, îro bike rojeke bi xêr û min ji gunehan biparêze."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ya Xwedê, sibeha min bi bereket bike û karên min hêsan bike."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Rebbê min, îro alîkariya min bike û di karên min de serkeftinê bide min."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Rebbê min, nesîb bike ku ez barê xwe bi baweriya bi Te hilgirim."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ya Xwedê, di nîvê rojê de hêzê bide min û westiyana min rake."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Rebbê min, karê min bi bereket bike û keda min bi ber bixe."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ya Xwedê, di wextê nîvro de aramiyê bide min û dilê min hêmin bike."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ya Xwedê, di westiyana xwe de ez xwe dispêrim Te."
+        },
+        {
+          "id": "asr_02",
+          "text": "Rebbê min, di wextê esrê de sebr û hêzê bide min."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ya Xwedê, heta dawiya rojê min biparêze û alîkariya min bike."
+        },
+        {
+          "id": "asr_04",
+          "text": "Rebbê min, westiyana min rake û hêza min nû bike."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Rebbê min, ji bo her nîmeta ku Te îro da min, şikir ji Te re."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ya Xwedê, di dawiya rojê de li min bibore û gunehên min bibexşîne."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Rebbê min, êvara min bi xêr û şeva min bi bereket bike."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ya Xwedê, qenciyên ku min îro kirin qebûl bike û li xeletiyên min bibore."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ya Xwedê, min bike yek ji wan bendeyên xwe yên ku xwe bi tevahî spartine Te."
+        },
+        {
+          "id": "isha_02",
+          "text": "Rebbê min, şeva min aram û xewa min bi bereket bike."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ya Xwedê, tevahiya şevê min biparêze û min bi selametî bigihîne sibê."
+        },
+        {
+          "id": "isha_04",
+          "text": "Rebbê min, îşev rehmê li min bike û li min bibore."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ya Xwedê, vê Remezanê ji bo min bike sedema paqijbûn û nêzîkbûna ji Te re."
+        },
+        {
+          "id": "ram_02",
+          "text": "Rebbê min, rojî û îbadetên min qebûl bike."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ya Xwedê, di vê Remezanê de li min bibore û min ji agirê dojehê biparêze."
+        },
+        {
+          "id": "ram_04",
+          "text": "Rebbê min, rojiya min qebûl bike û min bixe bihuşta xwe."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ya Xwedê, di vê Remezanê de nesîb bike ku ez Qur'anê bi têgihîştin bixwînim."
+        },
+        {
+          "id": "ram_06",
+          "text": "Rebbê min, di vê meha pîroz de duayên min qebûl bike û li min bibore."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ya Xwedê, di vê şeva pîroz de min bi lêborîn û rehma xwe dorpêç bike."
+        },
+        {
+          "id": "kan_02",
+          "text": "Rebbê min, qedera min bi xêrê bixemilîne."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ya Xwedê, di vê şeva pîroz de duayên min qebûl bike û li min bibore."
+        },
+        {
+          "id": "kan_04",
+          "text": "Rebbê min, di van şevên pîroz de rehmê li min bike û min bixe bihuşta xwe."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ya Xwedê, îşev ji bo min tiştê ku xêr e taqdîr bike."
+        }
+      ]
+    }
+  },
+  "ckb": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "خوایە، دڵم لە خۆت نزیک بکەرەوە و لەسەر ڕێگای ڕاست بمهێڵەرەوە."
+      },
+      {
+        "id": "gen_02",
+        "text": "پەروەردگارم، ئەوەی خێری منی تێدایە پێم ببەخشە و پێی ڕازیم بکە."
+      },
+      {
+        "id": "gen_03",
+        "text": "خوایە، دانایییم پێ ببەخشە و بمکە بە یەکێک لە بەندە چاکەکانت."
+      },
+      {
+        "id": "gen_04",
+        "text": "پەروەردگارم، زانستم زیاد بکە و دڵم ڕووناک بکەرەوە."
+      },
+      {
+        "id": "gen_05",
+        "text": "خوایە، ئارامگرتنم پێ ببەخشە و کارەکانم ئاسان بکە."
+      },
+      {
+        "id": "gen_06",
+        "text": "پەروەردگارم، ڕەوشتی جوانم پێ ببەخشە و لە خووی خراپ بمپارێزە."
+      },
+      {
+        "id": "gen_07",
+        "text": "خوایە، ڕزقێکی فراوان و بەپیتم پێ ببەخشە."
+      },
+      {
+        "id": "gen_08",
+        "text": "پەروەردگارم، تەندروستیم پێ ببەخشە و لە نەخۆشییەکان بمپارێزە."
+      },
+      {
+        "id": "gen_09",
+        "text": "خوایە، ڕێنموونیم بکە و لەسەر ڕێگای ڕاست چەسپاوم بکە."
+      },
+      {
+        "id": "gen_10",
+        "text": "پەروەردگارم، نزاکانم قبووڵ بکە و لێم خۆش بە."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "باشترین نزای داوای لێخۆشبوون (سەیید الاستغفار): «خوایە، تۆ پەروەردگاری منیت، هیچ پەرستراوێک نییە جگە لە تۆ. تۆ دروستت کردووم و من بەندەی تۆم. تا لە توانامدا بێت لەسەر پەیمان و بەڵێنی تۆ دەمێنمەوە. پەنات پێ دەگرم لە خراپەی ئەوەی کردوومە. دان بە نیعمەتەکانتدا دەنێم بەسەرمەوە و دان بە گوناهەکەشمدا دەنێم. کەواتە لێم خۆش بە، چونکە کەس جگە لە تۆ گوناهان نابەخشێت.» پێغەمبەر ﷺ فەرمووی: هەر کەسێک بە دڵنیاییەوە بە ڕۆژ بیڵێت و پێش ئێوارە بمرێت، یان بە شەو بیڵێت و پێش بەیانی بمرێت، دەچێتە بەهەشتەوە.",
+        "source": "Buhârî, Daavât 2; Müslim, Zikir 73"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "نزای پێغەمبەر یونس (سەلامی خوای لێ بێت) لە سکی ماسییەکەدا: «هیچ پەرستراوێک نییە جگە لە تۆ، پاک و بێگەردی بۆ تۆ، بەڕاستی من لە ستەمکاران بووم.» هەر موسڵمانێک لە کاتی تەنگانەدا بەم وشانە نزا بکات، خوا وەڵامی دەداتەوە.",
+        "source": "Tirmizî, Daavât 82; Ahmed, Müsned (rivayetlerin özeti)"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "پێش نووستن: «خوایە، بە ناوی تۆوە دەمرم و زیندوو دەبمەوە.»",
+        "source": "Buhârî, Daavât 20; Müslim, Zikir 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "لە کاتی هەستان لە خەو: «سوپاس و ستایش بۆ ئەو خوایەی دوای ئەوەی مراندینی زیندووی کردینەوە، و گەڕانەوە هەر بۆ لای ئەوە.»",
+        "source": "Buhârî, Vedû 2; Müslim, Hayız 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "لە کاتی چوونە ماڵەوە: «بە ناوی خوا هاتینە ژوورەوە، بە ناوی خوا چووینە دەرەوە، و پشتمان بە خوای پەروەردگارمان بەستووە.»",
+        "source": "Müslim, Selâm 15; Ebû Dâvûd, Edeb 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "لە کاتی دەرچوون لە ماڵ: «بە ناوی خوا، پشتم بە خوا بەستووە. هیچ هێز و توانایەک نییە جگە بە یارمەتی خوا.»",
+        "source": "Tirmizî, Daavât 43; Ebû Dâvûd, Edeb 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "لە کاتی چوونە مزگەوت: «خوایە، دەرگاکانی ڕەحمەتی خۆتم بۆ بکەرەوە.» لە کاتی دەرچوون: «خوایە، داوای بەخششی تۆ دەکەم.»",
+        "source": "Müslim, Mesâcid 21; İbn Mâce, Mesâcid 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "دوای نانخواردن: «سوپاس و ستایش بۆ ئەو خوایەی خواردن و خواردنەوەی پێداین و کردینی بە موسڵمان. پەروەردگارمان، بە موسڵمانی بمانمرێنە و بمانگەیەنە بە چاکان.»",
+        "source": "Tirmizî, Daavât 69; Tirmizî, Yemek 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "دوای دەستنوێژ: «شایەتی دەدەم کە هیچ پەرستراوێک نییە جگە لە خوا، تاک و تەنهایە و هاوبەشی نییە، و شایەتی دەدەم کە موحەممەد بەندە و پێغەمبەری ئەوە. خوایە، بمکە بە یەکێک لەوانەی زۆر تەوبە دەکەن و خۆیان پاک ڕادەگرن.»",
+        "source": "Müslim, Tahâret 17; Nesâî, Tahâret 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "لە کاتی سواربوونی ئۆتۆمبێل یان وڵاخ: «پاک و بێگەردی بۆ ئەو خوایەی ئەمەی بۆ ئێمە ڕام کرد، ئێمە خۆمان توانای ئەوەمان نەبوو. و بێگومان ئێمە دەگەڕێینەوە بۆ لای پەروەردگارمان.»",
+        "source": "Müslim, Hac 20; Ebû Dâvûd, Edâhî 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "لە کاتی بارین: «خوایە، بیکە بە بارانێکی بەسوود.»",
+        "source": "Buhârî, İstiskâ 1; Müslim, Salât 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "کاتێک ئازارت هەیە، دەستت بخەرە سەر شوێنی ئازارەکە و حەوت جار بڵێ: «پەنا دەگرم بە شکۆ و دەسەڵاتی خوا لە خراپەی ئەوەی هەستی پێ دەکەم و لێی دەترسم.»",
+        "source": "Müslim, Selâm 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "کاتێک گوێت لە دەنگی هەورەتریشقە دەبێت: «پاک و بێگەردی بۆ ئەو خوایەی هەورەتریشقە بە ستایشەوە تەسبیحاتی دەکات، فریشتەکانیش لە ترسی ئەو.»",
+        "source": "Müslim, Salât 11; Muvatta', Kur'an 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "لە بەرامبەر کارێکی سەختدا: «خوایە، هیچ شتێک ئاسان نییە جگە لەوەی تۆ ئاسانت کردبێت، و ئەگەر بتەوێت، سەختیش ئاسان دەکەیت.»",
+        "source": "İbn Hibbân (sahih); Ahmed (özet)"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "لە نوێژدا، دوای دوایین تەشەهود و پێش سەلامدانەوە: «پەروەردگارمان، لە دونیادا چاکەمان پێ ببەخشە و لە قیامەتیشدا چاکەمان پێ ببەخشە، و لە سزای ئاگر بمانپارێزە.» (بەقەرە ٢:٢٠١)",
+        "source": "Buhârî, Daavât 56; Müslim, Salât 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "خوایە، ئەو تەنگییەی لە دڵمدایە لای ببە. کاتێک هێزم تەواو دەبێت، تۆ بەسمیت.",
+          "source": "Manevî teselli duası"
+        },
+        {
+          "id": "sad_02",
+          "text": "پەروەردگارم، ئەوەی دڵم بەرگەی ناگرێت دەیسپێرم بە تۆ."
+        },
+        {
+          "id": "sad_03",
+          "text": "خوایە، خەم و پەژارەم لا ببە و ئاسوودەییم پێ ببەخشە."
+        },
+        {
+          "id": "sad_04",
+          "text": "پەروەردگارم، خەمەکەم بگۆڕە بە خۆشی و پەژارەکەم بە ئارامی."
+        },
+        {
+          "id": "sad_05",
+          "text": "خوایە، ئارامگرتنم پێ ببەخشە و بمکە بە یەکێک لە ئارامگران."
+        },
+        {
+          "id": "sad_06",
+          "text": "پەروەردگارم، ناخۆشییەکانم سووک بکە و یارمەتیم بدە."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "خوایە، لەسەر حەق چەسپاوم بکە."
+        },
+        {
+          "id": "neu_02",
+          "text": "پەروەردگارم، هاوسەنگیی ناخم بپارێزە و لەسەر ڕێگای ڕاست بمهێڵەرەوە."
+        },
+        {
+          "id": "neu_03",
+          "text": "خوایە، دانایییم پێ ببەخشە و یارمەتیم بدە بڕیاری دروست بدەم."
+        },
+        {
+          "id": "neu_04",
+          "text": "پەروەردگارم، دڵم پاک ڕابگرە و لە خراپە بمپارێزە."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "خوایە، سوپاس و ستایش بۆ تۆ بۆ ئەو نیعمەتانەی پێت بەخشیوم."
+        },
+        {
+          "id": "hap_02",
+          "text": "پەروەردگارم، خۆشییەکەم بکە بە هۆی نزیکبوونەوەم لە تۆ."
+        },
+        {
+          "id": "hap_03",
+          "text": "خوایە، خۆشحاڵییەکەم بگۆڕە بە سوپاسگوزاری و مەمکە بە یەکێک لە ناسوپاسان."
+        },
+        {
+          "id": "hap_04",
+          "text": "پەروەردگارم، یارمەتیم بدە خۆشییەکەم لەگەڵ کەسانی تر بەش بکەم و دەستبڵاوم بکە."
+        },
+        {
+          "id": "hap_05",
+          "text": "خوایە، یارمەتیم بدە بە ڕاستی قەدری نیعمەتەکانت بزانم."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "خوایە، ئەم ڕۆژە نوێیە بە گەڕان بەدوای ڕەزامەندیی تۆدا دەست پێ بکەم."
+        },
+        {
+          "id": "fajr_02",
+          "text": "پەروەردگارم، ئەمڕۆ بکە بە ڕۆژێکی پڕ خێر و لە گوناه بمپارێزە."
+        },
+        {
+          "id": "fajr_03",
+          "text": "خوایە، بەرەکەت بخەرە بەیانیمەوە و کارەکانم ئاسان بکە."
+        },
+        {
+          "id": "fajr_04",
+          "text": "پەروەردگارم، ئەمڕۆ یارمەتیم بدە و لە کارەکانمدا سەرکەوتووم بکە."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "پەروەردگارم، یارمەتیم بدە بارەکانم هەڵبگرم بە پشتبەستن بە تۆ."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "خوایە، لە ناوەڕاستی ڕۆژدا هێزم پێ ببەخشە و ماندوێتیم لا ببە."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "پەروەردگارم، بەرەکەت بخەرە کارەکەمەوە و ڕەنجەکەم بەبەرهەم بکە."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "خوایە، لە کاتی نیوەڕۆدا ئارامیم پێ ببەخشە و دڵم هێمن بکەرەوە."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "خوایە، لە ماندوێتیمدا پەنا بۆ تۆ دەهێنم."
+        },
+        {
+          "id": "asr_02",
+          "text": "پەروەردگارم، لە کاتی عەسردا ئارامگرتن و هێزم پێ ببەخشە."
+        },
+        {
+          "id": "asr_03",
+          "text": "خوایە، تا کۆتایی ڕۆژ بمپارێزە و یارمەتیم بدە."
+        },
+        {
+          "id": "asr_04",
+          "text": "پەروەردگارم، ماندوێتیم لا ببە و هێزم نوێ بکەرەوە."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "پەروەردگارم، سوپاست دەکەم بۆ هەموو ئەو نیعمەتانەی ئەمڕۆ پێت بەخشیم."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "خوایە، لە کۆتایی ئەم ڕۆژەدا لێم ببوورە و گوناهەکانم ببەخشە."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "پەروەردگارم، ئێوارەم پڕ خێر و شەوم پڕ بەرەکەت بکە."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "خوایە، ئەو چاکانەی ئەمڕۆ کردوومن قبووڵ بکە و لە هەڵەکانم ببوورە."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "خوایە، بمکە بە یەکێک لەو بەندانەت کە بە تەواوی خۆیان بە تۆ سپاردووە."
+        },
+        {
+          "id": "isha_02",
+          "text": "پەروەردگارم، شەوم ئارام و خەوەکەم بەبەرەکەت بکە."
+        },
+        {
+          "id": "isha_03",
+          "text": "خوایە، بە درێژایی شەو بمپارێزە و بە سەلامەتی بمگەیەنە بەیانی."
+        },
+        {
+          "id": "isha_04",
+          "text": "پەروەردگارم، ئەمشەو ڕەحمم پێ بکە و لێم خۆش بە."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "خوایە، ئەم ڕەمەزانە بکە بە هۆی پاکبوونەوەم و نزیکبوونەوەم لە تۆ."
+        },
+        {
+          "id": "ram_02",
+          "text": "پەروەردگارم، ڕۆژوو و پەرستشەکانم قبووڵ بکە."
+        },
+        {
+          "id": "ram_03",
+          "text": "خوایە، لەم ڕەمەزانەدا لێم خۆش بە و لە ئاگری دۆزەخ بمپارێزە."
+        },
+        {
+          "id": "ram_04",
+          "text": "پەروەردگارم، ڕۆژووەکەم قبووڵ بکە و بمخەرە بەهەشتەکەتەوە."
+        },
+        {
+          "id": "ram_05",
+          "text": "خوایە، لەم ڕەمەزانەدا یارمەتیم بدە قورئان بە تێگەیشتنەوە بخوێنم."
+        },
+        {
+          "id": "ram_06",
+          "text": "پەروەردگارم، لەم مانگە پیرۆزەدا نزاکانم قبووڵ بکە و لێم خۆش بە."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "خوایە، لەم شەوە پیرۆزەدا بە لێخۆشبوون و ڕەحمەتی خۆت دەورەم بدە."
+        },
+        {
+          "id": "kan_02",
+          "text": "پەروەردگارم، چارەنووسم بە خێر بڕازێنەرەوە."
+        },
+        {
+          "id": "kan_03",
+          "text": "خوایە، لەم شەوە پیرۆزەدا نزاکانم قبووڵ بکە و لێم خۆش بە."
+        },
+        {
+          "id": "kan_04",
+          "text": "پەروەردگارم، لەم شەوە پیرۆزانەدا ڕەحمم پێ بکە و بمخەرە بەهەشتەکەتەوە."
+        },
+        {
+          "id": "kan_05",
+          "text": "خوایە، ئەمشەو خێرم بۆ بنووسە."
+        }
+      ]
+    }
+  },
+  "fr": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ô Allah, rapproche mon cœur de Toi et garde-moi sur le droit chemin."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mon Seigneur, accorde-moi ce qui est bon pour moi et rends-moi satisfait de ce que Tu me donnes."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ô Allah, accorde-moi la sagesse et fais de moi l'un de Tes serviteurs vertueux."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mon Seigneur, accrois mon savoir et illumine mon cœur."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ô Allah, accorde-moi la patience et facilite mes affaires."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mon Seigneur, accorde-moi un bon caractère et préserve-moi des mauvais penchants."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ô Allah, accorde-moi une subsistance abondante et bénie."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mon Seigneur, accorde-moi la santé et préserve-moi des maladies."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ô Allah, guide-moi et affermis-moi sur le droit chemin."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mon Seigneur, accepte mes invocations et pardonne-moi."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "La meilleure demande de pardon (Sayyid al-Istighfar) : « Ô Allah, Tu es mon Seigneur ; il n'y a de dieu que Toi. Tu m'as créé et je suis Ton serviteur. Je reste fidèle à mon engagement et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal que j'ai commis. Je reconnais Tes bienfaits envers moi et je reconnais mon péché. Pardonne-moi, car nul ne pardonne les péchés en dehors de Toi. » Le Prophète ﷺ a dit que celui qui la prononce avec conviction le jour et meurt avant le soir, ou la nuit et meurt avant le matin, entrera au Paradis.",
+        "source": "Boukhari, Adhan 8 ; Musulman, Dhikr 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "L'invocation du prophète Yunus (Jonas) dans le ventre de la baleine : « Il n'y a de dieu que Toi. Gloire à Toi ! J'ai vraiment été parmi les injustes. » Lorsqu'un musulman dans la détresse invoque avec ces mots, Allah lui répond.",
+        "source": "Tirmidhi, Supplications 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Avant de dormir : « C'est en Ton nom, ô Allah, que je meurs et que je vis. »",
+        "source": "Boukhari, Invocations 20 ; Musulman, Dhikr 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Au réveil : « Louange à Allah qui nous a redonné la vie après nous avoir fait mourir, et c'est vers Lui que se fera le retour. »",
+        "source": "Boukhari, ablutions 2 ; Musulmane, menstruation 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "En entrant à la maison : « Au nom d'Allah nous entrons, au nom d'Allah nous sortons, et en Allah, notre Seigneur, nous plaçons notre confiance. »",
+        "source": "Musulman, salutations 15 ; Abu Dawud, Étiquette 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "En sortant de la maison : « Au nom d'Allah, je place ma confiance en Allah. Il n'y a de force ni de puissance qu'en Allah. »",
+        "source": "Tirmidhi, Supplications 43 ; Abu Dawud, Étiquette 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "En entrant dans la mosquée : « Ô Allah, ouvre-moi les portes de Ta miséricorde. » En sortant : « Ô Allah, je Te demande de Ta grâce. »",
+        "source": "Musulmans, mosquées 21 ; Ibn Majah, Mosquées 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Après le repas : « Louange à Allah qui nous a nourris, nous a abreuvés et a fait de nous des musulmans. Notre Seigneur, fais-nous mourir musulmans et réunis-nous avec les vertueux. »",
+        "source": "Tirmidhi, Supplications 69 ; Tirmidhi, Nourriture 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Après les ablutions (wudu) : « J'atteste qu'il n'y a de dieu qu'Allah, Seul, sans associé, et j'atteste que Muhammad est Son serviteur et Son messager. Ô Allah, fais de moi l'un de ceux qui se repentent souvent et qui se purifient. »",
+        "source": "Musulman, Purification 17 ; Nasa'i, Purification 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "En montant dans un véhicule ou sur une monture : « Gloire à Celui qui a mis ceci à notre service, alors que nous n'en aurions pas été capables. Et c'est vers notre Seigneur que nous retournerons. »",
+        "source": "Musulman, Hajj 20 ; Abou Dawud, Sacrifice 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Quand il pleut : « Ô Allah, fais que ce soit une pluie bénéfique. »",
+        "source": "Boukhari, Istisqa 1 ; Musulman, prière 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "En cas de douleur, posez la main sur l'endroit douloureux et dites sept fois : « Je cherche refuge auprès de la puissance et du pouvoir d'Allah contre le mal de ce que je ressens et de ce que je crains. »",
+        "source": "Musulman, salutations 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "En entendant le tonnerre : « Gloire à Celui que le tonnerre glorifie par Sa louange, ainsi que les anges, par crainte de Lui. »",
+        "source": "Musulman, prière 11 ; Malik, Coran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Face à une difficulté : « Ô Allah, rien n'est facile sauf ce que Tu rends facile, et si Tu le veux, Tu rends facile ce qui est difficile. »",
+        "source": "Ibn Hibban (authentifié) ; Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Dans la prière, après le dernier tashahhud et avant le salam : « Notre Seigneur, accorde-nous une belle part ici-bas et une belle part dans l'au-delà, et protège-nous du châtiment du Feu. » (al-Baqara 2:201)",
+        "source": "Boukhari, Invocations 56 ; Musulman, prière 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ô Allah, enlève l'angoisse qui est en moi. Quand mes forces s'épuisent, Tu me suffis.",
+          "source": "Prière de consolation spirituelle"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mon Seigneur, je Te confie ce que mon cœur ne peut pas porter."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ô Allah, dissipe mon inquiétude et ma tristesse, et accorde-moi du soulagement."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mon Seigneur, change ma tristesse en joie et mon chagrin en paix."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ô Allah, accorde-moi la patience et compte-moi parmi les patients."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mon Seigneur, allège mes difficultés et aide-moi."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ô Allah, affermis-moi dans la vérité."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mon Seigneur, préserve mon équilibre et garde-moi sur le droit chemin."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ô Allah, accorde-moi la sagesse et aide-moi à prendre les bonnes décisions."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mon Seigneur, garde mon cœur pur et protège-moi du mal."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ô Allah, louange à Toi pour les bienfaits que Tu m'as accordés."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mon Seigneur, fais que ma joie me rapproche de Toi."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ô Allah, transforme mon bonheur en gratitude et ne fais pas de moi un ingrat."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mon Seigneur, aide-moi à partager ma joie et rends-moi généreux."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ô Allah, aide-moi à apprécier vraiment la valeur de Tes bienfaits."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ô Allah, permets-moi de commencer cette nouvelle journée en recherchant Ta satisfaction."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mon Seigneur, fais de cette journée une bonne journée et préserve-moi des péchés."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ô Allah, bénis ma matinée et facilite mes tâches."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mon Seigneur, aide-moi aujourd'hui et fais réussir ce que j'entreprends."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mon Seigneur, aide-moi à porter mes fardeaux en comptant sur Toi."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ô Allah, donne-moi de la force en milieu de journée et enlève ma fatigue."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mon Seigneur, bénis mon travail et rends mes efforts fructueux."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ô Allah, accorde-moi la sérénité à midi et apaise mon cœur."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ô Allah, dans ma fatigue, c'est auprès de Toi que je cherche refuge."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mon Seigneur, accorde-moi patience et force en cet après-midi."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ô Allah, protège-moi et aide-moi jusqu'à la fin de la journée."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mon Seigneur, enlève ma fatigue et renouvelle mes forces."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mon Seigneur, merci pour chaque bienfait que Tu m'as accordé aujourd'hui."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ô Allah, en cette fin de journée, pardonne-moi et efface mes péchés."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mon Seigneur, rends ma soirée bonne et ma nuit bénie."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ô Allah, accepte le bien que j'ai fait aujourd'hui et pardonne mes fautes."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ô Allah, fais de moi l'un de Tes serviteurs qui se sont entièrement soumis à Toi."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mon Seigneur, rends ma nuit paisible et mon sommeil béni."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ô Allah, protège-moi pendant la nuit et fais-moi atteindre le matin sain et sauf."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mon Seigneur, fais-moi miséricorde cette nuit et pardonne-moi."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ô Allah, fais que ce Ramadan me purifie et me rapproche de Toi."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mon Seigneur, accepte mon jeûne et mes adorations."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ô Allah, pardonne-moi en ce Ramadan et préserve-moi du Feu."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mon Seigneur, accepte mon jeûne et fais-moi entrer dans Ton Paradis."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ô Allah, aide-moi à lire le Coran en le comprenant durant ce Ramadan."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mon Seigneur, accepte mes invocations en ce mois béni et pardonne-moi."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ô Allah, enveloppe-moi de Ton pardon et de Ta miséricorde en cette nuit bénie."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mon Seigneur, remplis mon destin de bien."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ô Allah, accepte mes invocations en cette nuit bénie et pardonne-moi."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mon Seigneur, fais-moi miséricorde en ces nuits bénies et fais-moi entrer dans Ton Paradis."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ô Allah, décrète pour moi ce qui est bon en cette nuit."
+        }
+      ]
+    }
+  },
+  "ru": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "О Аллах, приблизь моё сердце к Тебе и удержи меня на прямом пути."
+      },
+      {
+        "id": "gen_02",
+        "text": "Господи, даруй мне то, что для меня благо, и сделай меня довольным этим."
+      },
+      {
+        "id": "gen_03",
+        "text": "О Аллах, даруй мне мудрость и сделай меня одним из Твоих праведных рабов."
+      },
+      {
+        "id": "gen_04",
+        "text": "Господи, прибавь мне знания и озари моё сердце."
+      },
+      {
+        "id": "gen_05",
+        "text": "О Аллах, даруй мне терпение и облегчи мои дела."
+      },
+      {
+        "id": "gen_06",
+        "text": "Господи, даруй мне благой нрав и убереги меня от дурных привычек."
+      },
+      {
+        "id": "gen_07",
+        "text": "О Аллах, даруй мне обильный и благословенный удел."
+      },
+      {
+        "id": "gen_08",
+        "text": "Господи, даруй мне здоровье и убереги меня от болезней."
+      },
+      {
+        "id": "gen_09",
+        "text": "О Аллах, наставь меня и сделай стойким на верном пути."
+      },
+      {
+        "id": "gen_10",
+        "text": "Господи, прими мои мольбы и прости меня."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Лучшая мольба о прощении (Сайид аль-истигфар): «О Аллах, Ты — мой Господь, нет бога, кроме Тебя. Ты сотворил меня, и я — Твой раб. Я храню верность Твоему завету и обещанию, насколько могу. Прибегаю к Тебе от зла того, что я совершил. Признаю Твою милость ко мне и признаю свой грех. Прости же меня, ведь никто не прощает грехи, кроме Тебя». Пророк ﷺ сказал, что тот, кто произнесёт её днём с убеждённостью и умрёт до вечера, или ночью и умрёт до утра, войдёт в Рай.",
+        "source": "Бухари, Азан 8; Мусульманин, Зикр 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Мольба пророка Юнуса (Ионы) во чреве кита: «Нет бога, кроме Тебя. Пречист Ты! Поистине, я был из числа несправедливых». Когда мусульманин в беде молится этими словами, Аллах отвечает ему.",
+        "source": "Тирмизи, Мольбы 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Перед сном: «С Твоим именем, о Аллах, я умираю и живу».",
+        "source": "Бухари, Призывы 20; Мусульманин, Зикр 79."
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "При пробуждении: «Хвала Аллаху, Который оживил нас после того, как умертвил, и к Нему возвращение».",
+        "source": "Бухари, Омовение 2; Мусульманин, Менструация 16."
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Входя в дом: «С именем Аллаха мы входим, с именем Аллаха выходим и на Аллаха, нашего Господа, уповаем».",
+        "source": "Мусульманин, Привет 15; Абу Дауд, Этикет 101."
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Выходя из дома: «С именем Аллаха, уповаю на Аллаха. Нет силы и мощи, кроме как у Аллаха».",
+        "source": "Тирмизи, Мольбы 43; Абу Дауд, Этикет 110."
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Входя в мечеть: «О Аллах, открой мне врата Твоей милости». Выходя: «О Аллах, прошу Тебя о Твоей щедрости».",
+        "source": "Мусульманин, Мечети 21; Ибн Маджа, Мечети 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "После еды: «Хвала Аллаху, Который накормил нас, напоил и сделал мусульманами. Господь наш, упокой нас мусульманами и присоедини к праведникам».",
+        "source": "Тирмизи, Мольбы 69; Тирмизи, Еда 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "После омовения: «Свидетельствую, что нет бога, кроме Аллаха, Единого, не имеющего сотоварища, и свидетельствую, что Мухаммад — Его раб и посланник. О Аллах, сделай меня из числа часто кающихся и очищающихся».",
+        "source": "Мусульманин, очищение 17; Насаи, Очищение 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Садясь в транспорт или на верховое животное: «Пречист Тот, Кто подчинил нам это, ведь сами мы не смогли бы. И, поистине, к нашему Господу мы вернёмся».",
+        "source": "Мусульманин, хадж 20; Абу Дауд, Жертвоприношение 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Когда идёт дождь: «О Аллах, пусть это будет полезный дождь».",
+        "source": "Бухари, Истиска 1; Мусульманин, Молитва 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "При боли положи руку на больное место и скажи семь раз: «Прибегаю к могуществу и силе Аллаха от зла того, что чувствую и чего опасаюсь».",
+        "source": "Мусульманин, Привет 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Услышав гром: «Пречист Тот, Кого славит гром хвалой Ему, а также ангелы — из страха перед Ним».",
+        "source": "Мусульманин, Молитва 11; Малик, Коран 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Перед трудным делом: «О Аллах, нет лёгкого, кроме того, что Ты сделал лёгким, и если пожелаешь, Ты делаешь трудное лёгким».",
+        "source": "Ибн Хиббан (заверено); Ахмад"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "В молитве, после последнего ташаххуда и перед саламом: «Господь наш, даруй нам благо в этом мире и благо в мире вечном и защити нас от мучений Огня» (аль-Бакара 2:201).",
+        "source": "Бухари, Призывы 56; Мусульманин, Молитва 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "О Аллах, сними тяжесть с моей души. Когда мои силы иссякают, Ты — моя опора.",
+          "source": "Духовная утешительная молитва"
+        },
+        {
+          "id": "sad_02",
+          "text": "Господи, вверяю Тебе то, что не может вынести моё сердце."
+        },
+        {
+          "id": "sad_03",
+          "text": "О Аллах, избавь меня от тревоги и печали и даруй облегчение."
+        },
+        {
+          "id": "sad_04",
+          "text": "Господи, преврати мою грусть в радость, а печаль — в покой."
+        },
+        {
+          "id": "sad_05",
+          "text": "О Аллах, даруй мне терпение и сделай меня одним из терпеливых."
+        },
+        {
+          "id": "sad_06",
+          "text": "Господи, облегчи мои трудности и помоги мне."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "О Аллах, сделай меня стойким в истине."
+        },
+        {
+          "id": "neu_02",
+          "text": "Господи, сохрани моё душевное равновесие и удержи меня на прямом пути."
+        },
+        {
+          "id": "neu_03",
+          "text": "О Аллах, даруй мне мудрость и помоги принимать верные решения."
+        },
+        {
+          "id": "neu_04",
+          "text": "Господи, сохрани моё сердце чистым и защити меня от зла."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "О Аллах, хвала Тебе за блага, которые Ты мне даровал."
+        },
+        {
+          "id": "hap_02",
+          "text": "Господи, пусть моя радость приблизит меня к Тебе."
+        },
+        {
+          "id": "hap_03",
+          "text": "О Аллах, преврати моё счастье в благодарность и не дай мне стать неблагодарным."
+        },
+        {
+          "id": "hap_04",
+          "text": "Господи, помоги мне делиться радостью и сделай меня щедрым."
+        },
+        {
+          "id": "hap_05",
+          "text": "О Аллах, помоги мне по-настоящему ценить Твои блага."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "О Аллах, позволь мне начать этот новый день с того, что угодно Тебе."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Господи, сделай этот день добрым и убереги меня от грехов."
+        },
+        {
+          "id": "fajr_03",
+          "text": "О Аллах, благослови моё утро и облегчи мои дела."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Господи, помоги мне сегодня и даруй успех в том, что я делаю."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Господи, помоги мне нести мою ношу, уповая на Тебя."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "О Аллах, дай мне сил в середине дня и сними усталость."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Господи, благослови мой труд и сделай мои усилия плодотворными."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "О Аллах, даруй мне покой в полуденный час и успокой моё сердце."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "О Аллах, в своей усталости я прибегаю к Тебе."
+        },
+        {
+          "id": "asr_02",
+          "text": "Господи, даруй мне терпение и силы этим вечером."
+        },
+        {
+          "id": "asr_03",
+          "text": "О Аллах, храни меня и помогай мне до конца дня."
+        },
+        {
+          "id": "asr_04",
+          "text": "Господи, сними мою усталость и обнови мои силы."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Господи, благодарю Тебя за каждое благо, которое Ты дал мне сегодня."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "О Аллах, на исходе дня прости меня и сотри мои грехи."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Господи, сделай мой вечер добрым, а ночь — благословенной."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "О Аллах, прими добро, которое я сделал сегодня, и прости мои ошибки."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "О Аллах, сделай меня одним из Твоих рабов, полностью покорившихся Тебе."
+        },
+        {
+          "id": "isha_02",
+          "text": "Господи, сделай мою ночь спокойной, а сон — благословенным."
+        },
+        {
+          "id": "isha_03",
+          "text": "О Аллах, храни меня этой ночью и дай мне благополучно встретить утро."
+        },
+        {
+          "id": "isha_04",
+          "text": "Господи, помилуй меня этой ночью и прости меня."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "О Аллах, пусть этот Рамадан очистит меня и приблизит к Тебе."
+        },
+        {
+          "id": "ram_02",
+          "text": "Господи, прими мой пост и моё поклонение."
+        },
+        {
+          "id": "ram_03",
+          "text": "О Аллах, прости меня в этот Рамадан и защити от Огня."
+        },
+        {
+          "id": "ram_04",
+          "text": "Господи, прими мой пост и введи меня в Твой Рай."
+        },
+        {
+          "id": "ram_05",
+          "text": "О Аллах, помоги мне в этот Рамадан читать Коран с пониманием."
+        },
+        {
+          "id": "ram_06",
+          "text": "Господи, прими мои мольбы в этот благословенный месяц и прости меня."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "О Аллах, окутай меня Своим прощением и милостью в эту благословенную ночь."
+        },
+        {
+          "id": "kan_02",
+          "text": "Господи, наполни мою судьбу благом."
+        },
+        {
+          "id": "kan_03",
+          "text": "О Аллах, прими мои мольбы в эту благословенную ночь и прости меня."
+        },
+        {
+          "id": "kan_04",
+          "text": "Господи, помилуй меня в эти благословенные ночи и введи меня в Твой Рай."
+        },
+        {
+          "id": "kan_05",
+          "text": "О Аллах, предопредели мне благо в эту ночь."
+        }
+      ]
+    }
+  },
+  "id": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ya Allah, dekatkanlah hatiku kepada-Mu dan teguhkanlah aku di jalan yang lurus."
+      },
+      {
+        "id": "gen_02",
+        "text": "Ya Tuhanku, berikanlah kepadaku apa yang baik bagiku dan jadikanlah aku rida dengannya."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ya Allah, anugerahkanlah hikmah kepadaku dan jadikanlah aku termasuk hamba-hamba-Mu yang saleh."
+      },
+      {
+        "id": "gen_04",
+        "text": "Ya Tuhanku, tambahkanlah ilmuku dan terangilah hatiku."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ya Allah, berilah aku kesabaran dan mudahkanlah urusanku."
+      },
+      {
+        "id": "gen_06",
+        "text": "Ya Tuhanku, karuniakanlah akhlak yang baik kepadaku dan jauhkanlah aku dari akhlak yang buruk."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ya Allah, berilah aku rezeki yang luas dan berkah."
+      },
+      {
+        "id": "gen_08",
+        "text": "Ya Tuhanku, berilah aku kesehatan dan lindungilah aku dari penyakit."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ya Allah, berilah aku petunjuk dan teguhkanlah aku di jalan yang benar."
+      },
+      {
+        "id": "gen_10",
+        "text": "Ya Tuhanku, kabulkanlah doaku dan ampunilah aku."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Doa istigfar yang paling utama (Sayyidul Istigfar): “Ya Allah, Engkaulah Tuhanku, tidak ada tuhan selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku berpegang pada janji dan ikrarku kepada-Mu semampuku. Aku berlindung kepada-Mu dari keburukan perbuatanku. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku. Maka ampunilah aku, karena tidak ada yang dapat mengampuni dosa selain Engkau.” Nabi ﷺ bersabda bahwa siapa yang membacanya dengan yakin di siang hari lalu meninggal sebelum sore, atau membacanya di malam hari lalu meninggal sebelum pagi, ia akan masuk surga.",
+        "source": "Bukhari, Adzan 8; Muslim, Dzikir 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Doa Nabi Yunus saat berada di dalam perut ikan: “Tidak ada tuhan selain Engkau. Mahasuci Engkau, sungguh aku termasuk orang-orang yang zalim.” Setiap muslim yang sedang dalam kesulitan lalu berdoa dengan kalimat ini, Allah akan mengabulkannya.",
+        "source": "Tirmidzi, Doa 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Sebelum tidur: “Dengan nama-Mu, ya Allah, aku mati dan aku hidup.”",
+        "source": "Bukhari, Doa 20; Muslim, Dzikir 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Saat bangun tidur: “Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.”",
+        "source": "Bukhari, Wudhu 2; Muslim, Haid 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Saat masuk rumah: “Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan kepada Allah, Tuhan kami, kami bertawakal.”",
+        "source": "Muslim, Salam 15; Abu Dawud, Etiket 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Saat keluar rumah: “Dengan nama Allah, aku bertawakal kepada Allah. Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah.”",
+        "source": "Tirmidzi, Doa 43; Abu Dawud, Etika 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Saat masuk masjid: “Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu.” Saat keluar: “Ya Allah, aku memohon karunia-Mu.”",
+        "source": "Muslim, Masjid 21; Ibnu Majah, Masjid 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Setelah makan: “Segala puji bagi Allah yang telah memberi kami makan dan minum serta menjadikan kami muslim. Ya Tuhan kami, wafatkanlah kami sebagai muslim dan kumpulkanlah kami bersama orang-orang saleh.”",
+        "source": "Tirmidzi, Doa 69; Tirmidzi, Makanan 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Setelah berwudu: “Aku bersaksi bahwa tidak ada tuhan selain Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertobat dan orang-orang yang menyucikan diri.”",
+        "source": "Muslim, Pemurnian 17; Nasa'i, Penyucian 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Saat naik kendaraan: “Mahasuci Allah yang telah menundukkan ini untuk kami, padahal kami sebelumnya tidak mampu menguasainya. Dan sungguh, kepada Tuhan kamilah kami akan kembali.”",
+        "source": "Muslim, Haji 20; Abu Dawud, Qurban 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Saat turun hujan: “Ya Allah, jadikanlah hujan ini hujan yang bermanfaat.”",
+        "source": "Bukhari, Istisqa 1; Muslim, Doa 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Saat merasa sakit, letakkan tangan di bagian yang sakit lalu ucapkan tujuh kali: “Aku berlindung kepada keperkasaan dan kekuasaan Allah dari keburukan yang aku rasakan dan aku khawatirkan.”",
+        "source": "Muslim, Salam 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Saat mendengar petir: “Mahasuci Allah yang guruh bertasbih memuji-Nya, demikian pula para malaikat karena takut kepada-Nya.”",
+        "source": "Muslim, Doa 11; Malik, Alquran 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Saat menghadapi urusan yang sulit: “Ya Allah, tidak ada yang mudah kecuali yang Engkau mudahkan, dan Engkau dapat menjadikan yang sulit menjadi mudah jika Engkau menghendaki.”",
+        "source": "Ibnu Hibban (diotentikasi); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Dalam salat, setelah tasyahud akhir dan sebelum salam: “Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.” (Al-Baqarah 2:201)",
+        "source": "Bukhari, Doa 56; Muslim, Doa 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ya Allah, hilangkanlah kesesakan di dalam dadaku. Saat kekuatanku habis, cukuplah Engkau bagiku.",
+          "source": "Doa penghiburan rohani"
+        },
+        {
+          "id": "sad_02",
+          "text": "Ya Tuhanku, kuserahkan kepada-Mu apa yang tak sanggup ditanggung hatiku."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ya Allah, hilangkanlah kegelisahan dan kesedihanku, dan berilah aku kelapangan."
+        },
+        {
+          "id": "sad_04",
+          "text": "Ya Tuhanku, gantilah kesedihanku dengan kegembiraan dan dukaku dengan ketenangan."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ya Allah, berilah aku kesabaran dan jadikanlah aku termasuk orang-orang yang sabar."
+        },
+        {
+          "id": "sad_06",
+          "text": "Ya Tuhanku, ringankanlah kesulitanku dan tolonglah aku."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ya Allah, teguhkanlah aku di atas kebenaran."
+        },
+        {
+          "id": "neu_02",
+          "text": "Ya Tuhanku, jagalah keseimbangan diriku dan tetapkanlah aku di jalan yang lurus."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ya Allah, berilah aku hikmah dan bimbinglah aku untuk mengambil keputusan yang tepat."
+        },
+        {
+          "id": "neu_04",
+          "text": "Ya Tuhanku, jagalah hatiku tetap bersih dan lindungilah aku dari keburukan."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ya Allah, segala puji bagi-Mu atas nikmat yang Engkau berikan kepadaku."
+        },
+        {
+          "id": "hap_02",
+          "text": "Ya Tuhanku, jadikanlah kegembiraanku jalan untuk semakin dekat kepada-Mu."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ya Allah, jadikanlah kebahagiaanku sebagai rasa syukur dan jangan jadikan aku orang yang kufur nikmat."
+        },
+        {
+          "id": "hap_04",
+          "text": "Ya Tuhanku, mampukanlah aku berbagi kebahagiaan dan jadikanlah aku orang yang dermawan."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ya Allah, jadikanlah aku pandai menghargai nikmat yang Engkau berikan."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ya Allah, izinkanlah aku memulai hari baru ini dengan mencari rida-Mu."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Ya Tuhanku, jadikanlah hari ini hari yang baik dan jauhkanlah aku dari dosa."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ya Allah, berkahilah pagiku dan mudahkanlah urusanku."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Ya Tuhanku, tolonglah aku hari ini dan berilah aku keberhasilan dalam apa yang aku kerjakan."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Ya Tuhanku, mampukanlah aku memikul bebanku dengan bertawakal kepada-Mu."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ya Allah, berilah aku kekuatan di tengah hari dan hilangkanlah rasa lelahku."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Ya Tuhanku, berkahilah pekerjaanku dan jadikanlah usahaku membuahkan hasil."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ya Allah, berilah aku ketenangan di waktu zuhur dan tenteramkanlah hatiku."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ya Allah, dalam kelelahanku, aku berlindung kepada-Mu."
+        },
+        {
+          "id": "asr_02",
+          "text": "Ya Tuhanku, berilah aku kesabaran dan kekuatan di sore hari ini."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ya Allah, lindungilah dan tolonglah aku sampai hari ini berakhir."
+        },
+        {
+          "id": "asr_04",
+          "text": "Ya Tuhanku, hilangkanlah lelahku dan segarkanlah kembali tenagaku."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Ya Tuhanku, aku bersyukur kepada-Mu atas setiap nikmat yang Engkau berikan hari ini."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ya Allah, di penghujung hari ini maafkanlah aku dan ampunilah dosa-dosaku."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Ya Tuhanku, jadikanlah soreku baik dan malamku penuh berkah."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ya Allah, terimalah kebaikan yang aku lakukan hari ini dan maafkanlah kesalahanku."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ya Allah, jadikanlah aku termasuk hamba-hamba-Mu yang berserah diri kepada-Mu."
+        },
+        {
+          "id": "isha_02",
+          "text": "Ya Tuhanku, jadikanlah malamku tenang dan tidurku berkah."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ya Allah, lindungilah aku sepanjang malam dan sampaikanlah aku ke pagi hari dengan selamat."
+        },
+        {
+          "id": "isha_04",
+          "text": "Ya Tuhanku, rahmatilah aku malam ini dan ampunilah aku."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ya Allah, jadikanlah Ramadan ini penyuci diriku dan jalan untuk mendekat kepada-Mu."
+        },
+        {
+          "id": "ram_02",
+          "text": "Ya Tuhanku, terimalah puasaku dan ibadahku."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ya Allah, ampunilah aku di bulan Ramadan ini dan selamatkanlah aku dari neraka."
+        },
+        {
+          "id": "ram_04",
+          "text": "Ya Tuhanku, terimalah puasaku dan masukkanlah aku ke dalam surga-Mu."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ya Allah, mampukanlah aku membaca Al-Qur'an dengan memahaminya di bulan Ramadan ini."
+        },
+        {
+          "id": "ram_06",
+          "text": "Ya Tuhanku, kabulkanlah doaku di bulan yang penuh berkah ini dan ampunilah aku."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ya Allah, liputilah aku dengan ampunan dan rahmat-Mu di malam yang mulia ini."
+        },
+        {
+          "id": "kan_02",
+          "text": "Ya Tuhanku, penuhilah takdirku dengan kebaikan."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ya Allah, kabulkanlah doaku di malam yang mulia ini dan ampunilah aku."
+        },
+        {
+          "id": "kan_04",
+          "text": "Ya Tuhanku, rahmatilah aku di malam-malam yang mulia ini dan masukkanlah aku ke dalam surga-Mu."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ya Allah, takdirkanlah kebaikan bagiku di malam ini."
+        }
+      ]
+    }
+  },
+  "hi": {
+    "general": [
+      {
+        "id": "Gen_०१",
+        "text": "ऐ अल्लाह, मेरे दिल को अपने क़रीब कर दे और मुझे सीधे रास्ते पर क़ायम रख।"
+      },
+      {
+        "id": "Gen_०२",
+        "text": "ऐ मेरे रब, जो मेरे लिए बेहतर हो वह मुझे अता कर और मुझे उस पर राज़ी कर दे।"
+      },
+      {
+        "id": "Gen_०३",
+        "text": "ऐ अल्लाह, मुझे हिकमत (समझदारी) दे और मुझे अपने नेक बंदों में शामिल कर।"
+      },
+      {
+        "id": "Gen_०४",
+        "text": "ऐ मेरे रब, मेरा इल्म बढ़ा दे और मेरे दिल को रोशन कर दे।"
+      },
+      {
+        "id": "Gen_०५",
+        "text": "ऐ अल्लाह, मुझे सब्र दे और मेरे कामों को आसान कर दे।"
+      },
+      {
+        "id": "Gen_०६",
+        "text": "ऐ मेरे रब, मुझे अच्छे अख़लाक़ दे और बुरी आदतों से बचा।"
+      },
+      {
+        "id": "Gen_०७",
+        "text": "ऐ अल्लाह, मुझे भरपूर और बरकत वाली रोज़ी अता कर।"
+      },
+      {
+        "id": "Gen_०८",
+        "text": "ऐ मेरे रब, मुझे सेहत दे और बीमारियों से बचा।"
+      },
+      {
+        "id": "Gen_०९",
+        "text": "ऐ अल्लाह, मुझे हिदायत दे और सही रास्ते पर जमाए रख।"
+      },
+      {
+        "id": "पीढ़ी_१०",
+        "text": "ऐ मेरे रब, मेरी दुआएँ क़ुबूल कर और मुझे माफ़ कर दे।"
+      },
+      {
+        "id": "सुन्नत_इस्तिग़फ़ार",
+        "text": "माफ़ी की सबसे बेहतरीन दुआ (सय्यिदुल इस्तिग़फ़ार): “ऐ अल्लाह, तू ही मेरा रब है, तेरे सिवा कोई माबूद नहीं। तूने मुझे पैदा किया और मैं तेरा बंदा हूँ। जितना मुझसे हो सकता है, मैं तुझसे किए अपने वादे और अहद पर क़ायम हूँ। मैंने जो बुरा किया उसकी बुराई से तेरी पनाह माँगता हूँ। मुझ पर तेरी नेमतों का इक़रार करता हूँ और अपने गुनाह का भी इक़रार करता हूँ। तो मुझे माफ़ कर दे, क्योंकि तेरे सिवा कोई गुनाहों को माफ़ नहीं करता।” नबी ﷺ ने फ़रमाया: जो इसे पूरे यक़ीन के साथ दिन में पढ़े और शाम से पहले मर जाए, या रात में पढ़े और सुबह से पहले मर जाए, वह जन्नत में जाएगा।",
+        "source": "बुखारी, अज़ान ८; मुस्लिम, धिक्र १७"
+      },
+      {
+        "id": "सुन्नत_युनुस",
+        "text": "हज़रत यूनुस (अ.स.) की दुआ, जो उन्होंने मछली के पेट में की थी: “तेरे सिवा कोई माबूद नहीं, तू पाक है, बेशक मैं ही ज़ालिमों में से था।” जो मुसलमान परेशानी में इन शब्दों से दुआ करता है, अल्लाह उसकी दुआ क़ुबूल करता है।",
+        "source": "तिर्मिज़ी, दुआएँ ८२"
+      },
+      {
+        "id": "सुन्नत_नींद",
+        "text": "सोने से पहले: “ऐ अल्लाह, तेरे ही नाम से मैं मरता और जीता हूँ।”",
+        "source": "बुखारी, मंगलाचरण २०; मुस्लिम, धिक्र ७९"
+      },
+      {
+        "id": "सुन्नत_जागो",
+        "text": "जागने पर: “सारी तारीफ़ अल्लाह के लिए है, जिसने हमें मौत (नींद) के बाद फिर ज़िंदगी दी, और उसी की ओर लौटकर जाना है।”",
+        "source": "बुखारी, स्नान २; मुस्लिम, मासिक धर्म १६"
+      },
+      {
+        "id": "सुन्नत_घर_में_प्रवेश_करो",
+        "text": "घर में दाख़िल होते समय: “अल्लाह के नाम से हम दाख़िल हुए, अल्लाह के नाम से हम निकले, और अपने रब अल्लाह पर हमने भरोसा किया।”",
+        "source": "मुस्लिम, नमस्कार १५; अबू दाऊद, शिष्टाचार १०१"
+      },
+      {
+        "id": "सुन्नत_घर_छोड़ो",
+        "text": "घर से निकलते समय: “अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया। अल्लाह के सिवा न कोई ताक़त है न कोई क़ुव्वत।”",
+        "source": "तिर्मिज़ी, दलीलें ४३; अबू दाऊद, शिष्टाचार ११०"
+      },
+      {
+        "id": "सुन्नत_मस्जिद में प्रवेश करो",
+        "text": "मस्जिद में दाख़िल होते समय: “ऐ अल्लाह, मेरे लिए अपनी रहमत के दरवाज़े खोल दे।” निकलते समय: “ऐ अल्लाह, मैं तुझसे तेरा फ़ज़्ल माँगता हूँ।”",
+        "source": "मुस्लिम, मस्जिदें २१; इब्न माजा, मस्जिदें ५"
+      },
+      {
+        "id": "सुन्नत_बाद_खाना",
+        "text": "खाने के बाद: “सारी तारीफ़ अल्लाह के लिए है, जिसने हमें खिलाया, पिलाया और मुसलमान बनाया। ऐ हमारे रब, हमें मुसलमान की हालत में मौत दे और नेक लोगों के साथ मिला दे।”",
+        "source": "तिर्मिज़ी, दुआएँ ६९; तिर्मिज़ी, भोजन १६"
+      },
+      {
+        "id": "सुन्नत_वूडू",
+        "text": "वुज़ू के बाद: “मैं गवाही देता हूँ कि अल्लाह के सिवा कोई माबूद नहीं, वह अकेला है, उसका कोई शरीक नहीं; और मैं गवाही देता हूँ कि मुहम्मद उसके बंदे और रसूल हैं। ऐ अल्लाह, मुझे बहुत तौबा करने वालों और पाक-साफ़ रहने वालों में शामिल कर।”",
+        "source": "मुस्लिम, शुद्धिकरण १७; नसाई, शुद्धि १"
+      },
+      {
+        "id": "सुन्नत_सवारी",
+        "text": "सवारी या गाड़ी पर बैठते समय: “पाक है वह जिसने इसे हमारे क़ाबू में कर दिया, वरना हम इसे क़ाबू में नहीं कर सकते थे। और बेशक हमें अपने रब की ओर लौटना है।”",
+        "source": "मुस्लिम, हज २०; अबू दाऊद, बलिदान २४"
+      },
+      {
+        "id": "सुन्नत_बारिश",
+        "text": "बारिश होने पर: “ऐ अल्लाह, इसे फ़ायदेमंद बारिश बना।”",
+        "source": "बुखारी, इस्तिस्का १; मुस्लिम, प्रार्थना १४"
+      },
+      {
+        "id": "सुन्नत_दर्द",
+        "text": "दर्द हो तो दर्द वाली जगह पर हाथ रखकर सात बार कहें: “मैं जो महसूस करता हूँ और जिसका मुझे डर है, उसकी बुराई से अल्लाह की इज़्ज़त और क़ुदरत की पनाह माँगता हूँ।”",
+        "source": "मुस्लिम, नमस्कार ६९"
+      },
+      {
+        "id": "सुन्नत_गरज",
+        "text": "बादल की गरज सुनकर: “पाक है वह जिसकी तारीफ़ के साथ गरज उसकी तस्बीह करती है, और फ़रिश्ते भी उसके डर से।”",
+        "source": "मुस्लिम, प्रार्थना ११; मलिक, कुरान १५"
+      },
+      {
+        "id": "सुन्नत_आराम_मामले",
+        "text": "किसी मुश्किल काम के वक़्त: “ऐ अल्लाह, कोई काम आसान नहीं सिवाय उसके जिसे तू आसान कर दे, और तू चाहे तो मुश्किल को भी आसान कर देता है।”",
+        "source": "इब्न हिब्बन (प्रमाणित); अहमद"
+      },
+      {
+        "id": "सुन्नत_बीच_तशाहहुद",
+        "text": "नमाज़ में आख़िरी तशह्हुद के बाद और सलाम से पहले: “ऐ हमारे रब, हमें दुनिया में भी भलाई दे और आख़िरत में भी भलाई दे, और हमें आग के अज़ाब से बचा।” (अल-बक़रा 2:201)",
+        "source": "बुखारी, मंगलाचरण ५६; मुस्लिम, प्रार्थना ७०"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "दुखद_०१",
+          "text": "ऐ अल्लाह, मेरे दिल की घुटन दूर कर दे। जब मेरी ताक़त जवाब दे जाए, तो तू ही मेरे लिए काफ़ी है।",
+          "source": "आध्यात्मिक सांत्वना प्रार्थना"
+        },
+        {
+          "id": "दुखद_०२",
+          "text": "ऐ मेरे रब, जो बोझ मेरा दिल नहीं उठा सकता, वह मैं तुझे सौंपता हूँ।"
+        },
+        {
+          "id": "दुखद_०३",
+          "text": "ऐ अल्लाह, मेरी फ़िक्र और ग़म दूर कर दे और मुझे राहत दे।"
+        },
+        {
+          "id": "दुखद_०४",
+          "text": "ऐ मेरे रब, मेरी उदासी को ख़ुशी में और मेरे ग़म को सुकून में बदल दे।"
+        },
+        {
+          "id": "दुखद_०५",
+          "text": "ऐ अल्लाह, मुझे सब्र दे और मुझे सब्र करने वालों में शामिल कर।"
+        },
+        {
+          "id": "दुखद_०६",
+          "text": "ऐ मेरे रब, मेरी मुश्किलें आसान कर और मेरी मदद कर।"
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_०१",
+          "text": "ऐ अल्लाह, मुझे हक़ पर क़ायम रख।"
+        },
+        {
+          "id": "neu_०२",
+          "text": "ऐ मेरे रब, मेरे अंदर संतुलन बनाए रख और मुझे सीधे रास्ते पर चला।"
+        },
+        {
+          "id": "neu_०३",
+          "text": "ऐ अल्लाह, मुझे हिकमत दे और सही फ़ैसले करने की तौफ़ीक़ दे।"
+        },
+        {
+          "id": "neu_०४",
+          "text": "ऐ मेरे रब, मेरे दिल को साफ़ रख और मुझे बुराइयों से बचा।"
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_०१",
+          "text": "ऐ अल्लाह, तूने जो नेमतें दी हैं, उन पर सारी तारीफ़ तेरे ही लिए है।"
+        },
+        {
+          "id": "hap_०२",
+          "text": "ऐ मेरे रब, मेरी ख़ुशी को अपने क़रीब होने का ज़रिया बना दे।"
+        },
+        {
+          "id": "hap_०३",
+          "text": "ऐ अल्लाह, मेरी ख़ुशी को शुक्र में बदल दे और मुझे नाशुक्रों में शामिल न कर।"
+        },
+        {
+          "id": "hap_०४",
+          "text": "ऐ मेरे रब, मुझे अपनी ख़ुशी दूसरों के साथ बाँटने की तौफ़ीक़ दे और मुझे दिलदार बना।"
+        },
+        {
+          "id": "hap_०५",
+          "text": "ऐ अल्लाह, मुझे अपनी नेमतों की सच्ची क़द्र करने वाला बना।"
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_०१",
+          "text": "ऐ अल्लाह, मुझे यह नया दिन तेरी रज़ा की तलाश के साथ शुरू करने की तौफ़ीक़ दे।"
+        },
+        {
+          "id": "fajr_०२",
+          "text": "ऐ मेरे रब, आज के दिन को भलाई वाला बना और मुझे गुनाहों से बचा।"
+        },
+        {
+          "id": "fajr_०३",
+          "text": "ऐ अल्लाह, मेरी सुबह में बरकत दे और मेरे काम आसान कर।"
+        },
+        {
+          "id": "fajr_०४",
+          "text": "ऐ मेरे रब, आज मेरी मदद कर और मेरे कामों में कामयाबी दे।"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_०१",
+          "text": "ऐ मेरे रब, मुझे तुझ पर भरोसा करते हुए अपना बोझ उठाने की ताक़त दे।"
+        },
+        {
+          "id": "dhuhr_०२",
+          "text": "ऐ अल्लाह, दिन के बीच में मुझे ताक़त दे और मेरी थकान दूर कर।"
+        },
+        {
+          "id": "dhuhr_०३",
+          "text": "ऐ मेरे रब, मेरे काम में बरकत दे और मेरी मेहनत को कामयाब बना।"
+        },
+        {
+          "id": "dhuhr_०४",
+          "text": "ऐ अल्लाह, ज़ुहर के वक़्त मुझे सुकून दे और मेरे दिल को शांत कर।"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_०१",
+          "text": "ऐ अल्लाह, अपनी थकान में मैं तेरी ही पनाह लेता हूँ।"
+        },
+        {
+          "id": "asr_०२",
+          "text": "ऐ मेरे रब, अस्र के वक़्त मुझे सब्र और ताक़त दे।"
+        },
+        {
+          "id": "asr_०३",
+          "text": "ऐ अल्लाह, दिन ख़त्म होने तक मेरी हिफ़ाज़त और मदद कर।"
+        },
+        {
+          "id": "asr_०४",
+          "text": "ऐ मेरे रब, मेरी थकान दूर कर और मुझमें नई ताज़गी भर दे।"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "मगरिब_०१",
+          "text": "ऐ मेरे रब, आज तूने जो भी नेमत दी, उसके लिए तेरा शुक्र है।"
+        },
+        {
+          "id": "मगरिब_०२",
+          "text": "ऐ अल्लाह, दिन के आख़िर में मुझे माफ़ कर दे और मेरे गुनाह बख़्श दे।"
+        },
+        {
+          "id": "मगरिब_०३",
+          "text": "ऐ मेरे रब, मेरी शाम को अच्छा और मेरी रात को बरकत वाला बना।"
+        },
+        {
+          "id": "मगरिब_०४",
+          "text": "ऐ अल्लाह, आज मैंने जो भलाई की उसे क़ुबूल कर और मेरी ग़लतियों को माफ़ कर।"
+        }
+      ],
+      "isha": [
+        {
+          "id": "ईशा_०१",
+          "text": "ऐ अल्लाह, मुझे अपने उन बंदों में शामिल कर जो पूरी तरह तेरे हवाले हो चुके हैं।"
+        },
+        {
+          "id": "ईशा_०२",
+          "text": "ऐ मेरे रब, मेरी रात को सुकून वाला और मेरी नींद को बरकत वाला बना।"
+        },
+        {
+          "id": "ईशा_०३",
+          "text": "ऐ अल्लाह, पूरी रात मेरी हिफ़ाज़त कर और मुझे ख़ैरियत से सुबह तक पहुँचा।"
+        },
+        {
+          "id": "ईशा_०४",
+          "text": "ऐ मेरे रब, आज रात मुझ पर रहम कर और मुझे माफ़ कर दे।"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "राम_०१",
+          "text": "ऐ अल्लाह, इस रमज़ान को मेरे लिए पाकीज़गी और तेरे क़रीब होने का ज़रिया बना।"
+        },
+        {
+          "id": "राम_०२",
+          "text": "ऐ मेरे रब, मेरे रोज़े और मेरी इबादतें क़ुबूल कर।"
+        },
+        {
+          "id": "राम_०३",
+          "text": "ऐ अल्लाह, इस रमज़ान में मुझे बख़्श दे और जहन्नम से बचा।"
+        },
+        {
+          "id": "राम_०४",
+          "text": "ऐ मेरे रब, मेरा रोज़ा क़ुबूल कर और मुझे अपनी जन्नत में दाख़िल कर।"
+        },
+        {
+          "id": "राम_०५",
+          "text": "ऐ अल्लाह, इस रमज़ान मुझे क़ुरआन को समझकर पढ़ने की तौफ़ीक़ दे।"
+        },
+        {
+          "id": "राम_०६",
+          "text": "ऐ मेरे रब, इस मुबारक महीने में मेरी दुआएँ क़ुबूल कर और मुझे माफ़ कर दे।"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_०१",
+          "text": "ऐ अल्लाह, इस मुबारक रात में मुझे अपनी माफ़ी और रहमत में ढाँप ले।"
+        },
+        {
+          "id": "kan_०२",
+          "text": "ऐ मेरे रब, मेरी तक़दीर को भलाई से भर दे।"
+        },
+        {
+          "id": "kan_०३",
+          "text": "ऐ अल्लाह, इस मुबारक रात में मेरी दुआएँ क़ुबूल कर और मुझे बख़्श दे।"
+        },
+        {
+          "id": "kan_०४",
+          "text": "ऐ मेरे रब, इन मुबारक रातों में मुझ पर रहम कर और मुझे अपनी जन्नत में दाख़िल कर।"
+        },
+        {
+          "id": "kan_०५",
+          "text": "ऐ अल्लाह, इस रात मेरे लिए भलाई का फ़ैसला कर।"
+        }
+      ]
+    }
+  },
+  "ha": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ya Allah, Ka kusanta zuciyata gare Ka, Ka kuma tabbatar da ni a kan hanya madaidaiciya."
+      },
+      {
+        "id": "gen_02",
+        "text": "Ya Ubangijina, Ka ba ni abin da ke da alheri, Ka kuma sa in yarda da shi."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ya Allah, Ka ba ni hikima, Ka kuma sanya ni cikin bayi salihai."
+      },
+      {
+        "id": "gen_04",
+        "text": "Ya Ubangijina, Ka ƙara mini ilimi, Ka kuma haskaka zuciyata."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ya Allah, Ka ba ni haƙuri, Ka kuma sauƙaƙa mini al'amurana."
+      },
+      {
+        "id": "gen_06",
+        "text": "Ya Ubangijina, Ka ba ni kyakkyawan hali, Ka kuma tsare ni daga mummunan hali."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ya Allah, Ka azurta ni, Ka kuma sa albarka a cikinsa."
+      },
+      {
+        "id": "gen_08",
+        "text": "Ya Ubangijina, Ka ba ni lafiya, Ka kuma tsare ni daga cututtuka."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ya Allah, Ka shiryar da ni, Ka kuma tabbatar da ni a kan hanya madaidaiciya."
+      },
+      {
+        "id": "gen_10",
+        "text": "Ya Ubangijina, Ka karɓi addu'o'ina, Ka kuma gafarta mini."
+      },
+      {
+        "id": "sunnah_istighfar",
+        "text": "Manzon Allah ﷺ ya ce: Duk wanda ya faɗi wannan da safe da yaƙini ya mutu a ranar kafin yamma, ko ya faɗe shi da yamma ya mutu kafin safe, zai shiga Aljanna. Ma'ana: Ya Allah, Kai ne Ubangijina, babu abin bautawa sai Kai. Ka halicce ni ni kuma bawanKa ne. Ina kan alkawarinKa gwargwadon iyawata. Ina neman tsarinKa daga sharrin abin da na aikata. Ina amincewa da ni'imarKa a kaina ina kuma shaidar zunubina — don haka Ka gafarta mini, domin babu wanda ke gafarta zunubai sai Kai.",
+        "source": "Bukhari, Kiran sallah 8; Muslim, Zikiri 17"
+      },
+      {
+        "id": "sunnah_yunus",
+        "text": "Addu'ar Yunusa lokacin da yake cikin cikin kifi: Babu abin bautawa sai Kai; tsarki ya tabbata a gare Ka; lallai ni na kasance daga masu zalunci. Babu Musulmi da ƙunci ya same shi ya faɗi waɗannan kalmomi face Allah Ya amsa masa.",
+        "source": "Tirmizi, Addu'o'i 82"
+      },
+      {
+        "id": "sunnah_sleep",
+        "text": "Lokacin kwanciya: Da sunanKa ya Allah nake mutuwa nake kuma rayuwa (Bismika Allahumma amutu wa ahya).",
+        "source": "Bukhari, Addu'o'i 20; Muslim, Zikiri 79"
+      },
+      {
+        "id": "sunnah_wake",
+        "text": "Lokacin tashi: Dukkan godiya ta tabbata ga Allah wanda Ya rayar da mu bayan Ya matar da mu (barci), kuma zuwa gare Shi makoma take.",
+        "source": "Bukhari, Alwala 2; Muslim, Haila 16"
+      },
+      {
+        "id": "sunnah_enter_home",
+        "text": "Lokacin shiga gida: Da sunan Allah muke shiga, da sunan Allah muke fita, kuma ga Ubangijinmu muke dogara.",
+        "source": "Muslim, Gaisuwa 15; Abu Dawud, Ladabi 101"
+      },
+      {
+        "id": "sunnah_leave_home",
+        "text": "Lokacin fita daga gida: Da sunan Allah, na dogara ga Allah; babu ƙarfi babu iko sai da Allah.",
+        "source": "Tirmizi, Addu'o'i 43; Abu Dawud, Ladabi 110"
+      },
+      {
+        "id": "sunnah_enter_masjid",
+        "text": "Shiga masallaci: Ya Allah, Ka buɗe mini ƙofofin rahamarKa. Fita: Ya Allah, ina roƙonKa daga falalarKa.",
+        "source": "Muslim, Masallatai 21; Ibn Majah, Masallatai 5"
+      },
+      {
+        "id": "sunnah_after_meal",
+        "text": "Bayan cin abinci: Godiya ta tabbata ga Allah wanda Ya ciyar da mu Ya kuma shayar da mu. Ya Ubangijinmu, Ka matar da mu muna Musulmi Ka kuma haɗa mu da salihai.",
+        "source": "Tirmizi, Addu'o'i 69; Tirmizi, Abinci 16"
+      },
+      {
+        "id": "sunnah_wudu",
+        "text": "Bayan alwala, shaidawa cewa babu abin bautawa sai Allah Shi kaɗai ba Ya da abokin tarayya, kuma Muhammadu bawanSa ne kuma manzonSa; sannan: Ya Allah, Ka sanya ni cikin masu tuba da masu tsarkake kansu.",
+        "source": "Muslim, Tsarki 17; Nasa'i, Tsarki 1"
+      },
+      {
+        "id": "sunnah_riding",
+        "text": "Lokacin hawan abin hawa: Tsarki ya tabbata ga wanda Ya hore mana wannan, da ba za mu iya yi da kanmu ba; kuma lallai zuwa ga Ubangijinmu makoma take.",
+        "source": "Muslim, Hajji 20; Abu Dawud, Layya 24"
+      },
+      {
+        "id": "sunnah_rain",
+        "text": "Lokacin da ruwan sama ke sauka: “Ya Allah, Ka sa ya zama ruwa mai amfani.”",
+        "source": "Bukhari, Istisƙa'i 1; Muslim, Sallah 14"
+      },
+      {
+        "id": "sunnah_pain",
+        "text": "Idan kana jin ciwo, ka sanya hannu a wurin da yake ciwo ka faɗi sau bakwai: Ina neman tsari da ƙarfin Allah da ikonSa daga sharrin abin da nake ji nake kuma tsoro.",
+        "source": "Muslim, Gaisuwa 69"
+      },
+      {
+        "id": "sunnah_thunder",
+        "text": "Lokacin jin tsawa: Tsarki ya tabbata ga wanda tsawa ke yi masa tasbihi, da mala'iku, saboda tsoronSa.",
+        "source": "Muslim, Sallah 11; Malik, Alkur'ani 15"
+      },
+      {
+        "id": "sunnah_ease_affairs",
+        "text": "Ya Allah, babu sauƙi sai abin da Ka sauƙaƙa; idan Ka so, Kana sauƙaƙa wahala.",
+        "source": "Ibn Hibban (ingantacce); Ahmad"
+      },
+      {
+        "id": "sunnah_between_tashahhud",
+        "text": "Tsakanin tashahhudi na ƙarshe da sallama: Ya Ubangijinmu, Ka ba mu alheri a wannan duniya da alheri a Lahira, Ka kuma tsare mu daga azabar Wuta (daga Suratul Baƙara 2:201, kamar yadda aka koyar a sallah).",
+        "source": "Bukhari, Addu'o'i 56; Muslim, Sallah 70"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ya Allah, Kai ne Kake kawar da ƙuncin da ke cikina. Idan ƙarfina ya ƙare, Kai Ka ishe ni.",
+          "source": "Addu'ar kwantar da hankali"
+        },
+        {
+          "id": "sad_02",
+          "text": "Ya Ubangijina, na miƙa maKa abin da zuciyata ba ta iya ɗauka."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ya Allah, Ka kawar mini da baƙin ciki da damuwa, Ka kuma ba ni sauƙi."
+        },
+        {
+          "id": "sad_04",
+          "text": "Ya Ubangijina, Ka mai da baƙin cikina farin ciki, damuwata kuma kwanciyar hankali."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ya Allah, Ka ba ni haƙuri, Ka kuma sanya ni cikin masu haƙuri."
+        },
+        {
+          "id": "sad_06",
+          "text": "Ya Ubangijina, Ka sauƙaƙa mini wahalolina, Ka kuma taimake ni."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ya Allah, Ka tabbatar da ni a kan gaskiya."
+        },
+        {
+          "id": "neu_02",
+          "text": "Ya Ubangijina, Ka kiyaye daidaituwata, Ka kuma tabbatar da ni a kan hanya madaidaiciya."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ya Allah, Ka ba ni hikima, Ka kuma sa in yanke shawara daidai."
+        },
+        {
+          "id": "neu_04",
+          "text": "Ya Ubangijina, Ka tsarkake zuciyata, Ka kuma tsare ni daga sharri."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ya Allah, ina yabonKa saboda ni'imomin da Ka ba ni."
+        },
+        {
+          "id": "hap_02",
+          "text": "Ya Ubangijina, Ka sanya farin cikina hanyar kusanta gare Ka."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ya Allah, Ka mai da farin cikina godiya, kada Ka sanya ni cikin butulai."
+        },
+        {
+          "id": "hap_04",
+          "text": "Ya Ubangijina, Ka sa in raba farin cikina, Ka kuma sanya ni mai kyauta."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ya Allah, Ka sa in gane darajar ni'imomin da Ka ba ni."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ya Allah, Ka fara wannan sabuwar rana da yardarKa."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Ya Ubangijina, Ka sa wannan rana ta zama mai albarka, Ka kuma tsare ni daga zunubai."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ya Allah, Ka sa albarka a safiyata, Ka kuma sauƙaƙa mini al'amurana."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Ya Ubangijina, Ka taimake ni yau, Ka kuma sa in yi nasara."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Ya Ubangijina, Ka sa in ɗauki nauyina tare da Kai."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ya Allah, Ka ba ni ƙarfi da tsakar rana, Ka kuma kawar mini da gajiya."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Ya Ubangijina, Ka sa albarka a aikina, Ka kuma sa in yi amfani."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ya Allah, Ka ba ni kwanciyar hankali da rana, Ka kuma kwantar da zuciyata."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ya Allah, ina neman tsarinKa daga gajiyata."
+        },
+        {
+          "id": "asr_02",
+          "text": "Ya Ubangijina, Ka ba ni haƙuri da yamma, Ka kuma ba ni ƙarfi."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ya Allah, Ka tsare ni har ƙarshen rana, Ka kuma taimake ni."
+        },
+        {
+          "id": "asr_04",
+          "text": "Ya Ubangijina, Ka kawar mini da gajiya, Ka kuma sabunta ni."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Ya Ubangijina, ina godiya gare Ka saboda kowace ni'imar da Ka ba ni yau."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ya Allah, Ka gafarta mini a ƙarshen rana, Ka kuma gafarta zunubaina."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Ya Ubangijina, Ka sa yammata ta zama mai albarka, darena kuma mai alheri."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ya Allah, Ka karɓi ayyukan alherin da na yi yau, Ka kuma gafarta munanan ayyukana."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ya Allah, Ka sanya ni cikin bayinKa da suka miƙa wuya gare Ka."
+        },
+        {
+          "id": "isha_02",
+          "text": "Ya Ubangijina, Ka sa darena ya zama mai kwanciyar hankali, barcina kuma mai albarka."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ya Allah, Ka tsare ni cikin dare, Ka kuma sa in wayi gari."
+        },
+        {
+          "id": "isha_04",
+          "text": "Ya Ubangijina, Ka yi mini rahama da dare, Ka kuma gafarta mini."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ya Allah, Ka sanya Ramadan hanyar tsarkakewa da kusanta gare Ka a gare ni."
+        },
+        {
+          "id": "ram_02",
+          "text": "Ya Ubangijina, Ka karɓi azumina da ibadar da na yi."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ya Allah, Ka gafarta mini a watan Ramadan, Ka kuma tsare ni daga Wuta."
+        },
+        {
+          "id": "ram_04",
+          "text": "Ya Ubangijina, Ka karɓi azumina, Ka kuma shigar da ni AljannarKa."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ya Allah, Ka sa in fahimci Alkur'ani a Ramadan."
+        },
+        {
+          "id": "ram_06",
+          "text": "Ya Ubangijina, Ka karɓi addu'o'ina a wannan wata mai albarka, Ka kuma gafarta mini."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ya Allah, Ka shigar da ni cikin gafararKa da rahamarKa a wannan dare mai albarka."
+        },
+        {
+          "id": "kan_02",
+          "text": "Ya Ubangijina, Ka kyautata ƙaddarata da alheri."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ya Allah, Ka karɓi addu'o'ina a wannan dare mai albarka, Ka kuma gafarta mini."
+        },
+        {
+          "id": "kan_04",
+          "text": "Ya Ubangijina, Ka yi mini rahama a darare masu albarka, Ka kuma shigar da ni AljannarKa."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ya Allah, Ka ba ni kyakkyawar ƙaddara a wannan dare."
+        }
+      ]
+    }
+  }
+}
